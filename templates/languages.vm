@@ -1,0 +1,20 @@
+#parse("layout.vm")
+#macro(renderFamily $family)
+#if($family.name)
+<li>$family.name</li>
+#end
+
+<ul>
+#foreach($subFamily in $family.subFamilies)
+#renderFamily($subFamily)
+#end
+#foreach($language in $family.languages)
+    <li><a href="/$language.outPath">$language.name</a></li>
+#end
+</ul>
+#end
+
+#@layout("Languages")
+    <h1>Languages with Paternoster Attestations</h1>
+    #renderFamily($rootFamily)
+#end

@@ -1,0 +1,4 @@
+#foreach($book in $books)
+<a href="/$book.outPath">$book.title</a>
+<br>
+#end

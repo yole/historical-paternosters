@@ -1,0 +1,9 @@
+#macro(layout $title)
+<head>
+<meta charset="UTF-8"/>
+<title>Historical Paternoster Database: $title</title>
+</head>
+<body>
+$!bodyContent
+</body>
+#end

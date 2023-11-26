@@ -1,0 +1,13 @@
+#parse("layout.vm")
+#@layout($title)
+<h1>$title</h1>
+Full title: $full_title<br/>
+Author: <a href="$author_url">$author</a><br/>
+Year of publication: $year<br/>
+Specimens:
+<ul>
+#foreach($specimen in $specimens)
+    <li><a href="/$specimen.outPath">$specimen.language</a></li>
+#end
+</ul>
+#end

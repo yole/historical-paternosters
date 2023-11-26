@@ -1,0 +1,19 @@
+books:
+- title: Megiser
+  full_title:
+    Specimen Quinquaginta Diversarum Atque Inter Se Differentium Linguarum, & Dialectorum; 
+    videlicet Oratio Dominica, Et Quaedam Alia Ex Sacris literis, totidem linguis expressa
+  year: 1603
+  url: https://books.google.de/books?id=AZRXAAAAcAAJ
+  author: Hieronimus Megiser
+  author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
+
+- title: Pantographia
+  full_title:
+    Pantographia; containing accurate copies of all the known alphabets in the world; together with an English
+    explanation of the peculiar Force and Power of each Letter, to which are added Specimens of all well-authenticated 
+    Oral Languages, forming a Comprehensive Digest of Phonology
+  year: 1799
+  url: https://books.google.de/books?id=4OU-AAAAYAAJ
+  author: Edmund Fry
+  author_url: https://en.wikipedia.org/wiki/Edmund_Fry

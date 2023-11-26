@@ -1,0 +1,16 @@
+language: Sardinian (?)
+attestations:
+  - book_title: Pantographia
+    page: 256
+    description: Sardinian 1
+    source: Duret, p. 818
+base: romance/sardinian-megiser12
+text:
+  "Pare nostru, qui istas in sos quelos, siat sanctificadu
+  su nomen teu : vengat à nois su regnu
+  teu. Fasase sa voluntat tua, axi comen su
+  quelu, gasi en la terra. Lo pa nostru de dognia
+  die da nos hoc, I dexia à nos altres sos depitos
+  nostros, comente nos ateros dexiam als
+  deppitores nostros. Ino nos induescas in sa
+  tentatio : mas livra nos de male. Amen."

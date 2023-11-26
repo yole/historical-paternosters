@@ -1,0 +1,29 @@
+#parse("layout.vm")
+#@layout()
+<h1>Pater Noster in $language</h1>
+#if($lang)
+    <p>
+        Language: <a href="$lang.url">$lang.name</a>
+    </p>
+#end
+    $text
+    #if($baseSpecimen)
+    <p>
+        Based on <a href="/$baseSpecimen.outPath">${baseSpecimen.attestations[0].book.title}</a>
+    #end
+<p>
+    Attested in:
+<ul>
+    #foreach($attestation in $attestations)
+        <li><a href="/$attestation.book.outPath">$attestation.book.title</a>
+            #if($attestation.page)
+                p. $attestation.page
+            #end
+            #if($attestation.number)
+                n. $attestation.number
+            #end
+            <i>($attestation.description)</i>
+        </li>
+    #end
+</ul>
+#end
