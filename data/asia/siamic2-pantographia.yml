@@ -1,0 +1,22 @@
+language: Thai
+attestations:
+  - book_title: Pantographia
+    page: 272
+    description: Siamic 2
+    source: Orat. Dom. p. 32
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 32
+    description: Siamica
+    source: Legat. de Loubere
+  - book_title: Du Royaume du Siam
+    page: 94
+    description: Le Pater Noster en Siamois
+text:
+  "Po raou you savang, scheu pra hai prakot
+   touk heng kon tang tai: touai pra pon. Meuang
+   pra co hai dai ke raou. Hai leou ning tchai
+   pra meuang pen-din semo savang. Ahan
+   raou touk van co hai dai ke raou van ni. Coprot
+   bap raou, semo raou prot pou tarn bap
+   ke raou, ya hai raou tok nai kouan bap. Hai
+   poun kiac anerai tang-poang. Amen."

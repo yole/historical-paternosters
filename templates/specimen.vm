@@ -1,5 +1,5 @@
 #parse("layout.vm")
-#@layout()
+#@layout($language)
 <h1>Pater Noster in $language</h1>
 #if($lang)
     <p>

@@ -1,0 +1,20 @@
+language: Russian (?)
+attestations:
+  - book_title: Pantographia
+    page: 272
+    description: Servian 4
+    source: Orat. Dom. Amst. p. 81
+  - book_title: Chamberlayne
+    page: 81
+    description: Service
+    source: supra dictus Dominus Birndorff correxit
+base: slavic/russian2-pantographia
+text:
+  "Otse nash ishe jeszi v nabeszih, poszueti sze
+   ime tvoje, pridi kralesztvo tvoje, budi volya
+   tvoja kako v nebi tako i na zemli, hlib nash
+   ushakdanni dai nan danasz, j odpuszti nam
+   duge nashe kako i mi odpusztamo dushnikom
+   nashim, j ne vovedi nasz v napaszt, da izbavi
+   nasz odi zla; jako tvoje je kralesztvo i mocz
+   i zava na veki. Amen."

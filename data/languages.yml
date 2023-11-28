@@ -11,3 +11,8 @@ languages:
 - name: Scottish Gaelic
   family: Indo-European/Celtic
   url: https://en.wikipedia.org/wiki/Scottish_Gaelic
+- name: Thai
+  family: Kra-Dai
+  url: https://en.wikipedia.org/wiki/Thai_language
+- name: Kolyma Yukaghir
+  url: https://en.wikipedia.org/wiki/Southern_Yukaghir_language

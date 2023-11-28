@@ -3,6 +3,9 @@ package page.yole.paternosters
 import org.apache.velocity.Template
 import org.apache.velocity.VelocityContext
 import org.apache.velocity.app.Velocity
+import org.intellij.markdown.flavours.gfm.GFMFlavourDescriptor
+import org.intellij.markdown.html.HtmlGenerator
+import org.intellij.markdown.parser.MarkdownParser
 import org.yaml.snakeyaml.LoaderOptions
 import org.yaml.snakeyaml.TypeDescription
 import org.yaml.snakeyaml.Yaml
@@ -143,9 +146,16 @@ fun contextFromObject(obj: Any): VelocityContext {
     return context
 }
 
+fun markdownToHtml(text: String): String {
+    val markdownFlavourDescriptor = GFMFlavourDescriptor()
+    val tree = MarkdownParser(markdownFlavourDescriptor).buildMarkdownTreeFromString(text)
+    return HtmlGenerator(text, tree, markdownFlavourDescriptor).generateHtml()
+}
+
 fun generateSpecimen(specimen: Specimen, path: String) {
     val template = Velocity.getTemplate("specimen.vm")
     val context = contextFromObject(specimen)
+    context.put("notes", specimen.notes?.let { markdownToHtml(it) })
     generateToFile(path, template, context)
 }
 
@@ -226,7 +236,9 @@ private fun resolveReferences(
         } else {
             specimen.lang = languages.find { it.name == specimen.language }
         }
-        specimen.attestations.sortBy { it.book!!.year }
+        if (errors.isEmpty()) {
+            specimen.attestations.sortBy { it.book!!.year }
+        }
     }
     return errors
 }

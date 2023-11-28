@@ -46,3 +46,16 @@ books:
   url: https://books.google.com/books?id=4OU-AAAAYAAJ
   author: Edmund Fry
   author_url: https://en.wikipedia.org/wiki/Edmund_Fry
+
+- title: Du Royaume du Siam
+  full_title: Du Royaume du Siam, Vol. 2
+  year: 1691
+  url: https://books.google.com/books?id=F1ZbAAAAQAAJ
+  author: Simon de la Loubère
+  author_url: https://en.wikipedia.org/wiki/Simon_de_la_Loub%C3%A8re
+
+- title: Noord en Oost Tartarye
+  year: 1785
+  url: https://resources.huygens.knaw.nl/retroboeken/witsen
+  author: Nicolaas Witsen
+  author_url: https://en.wikipedia.org/wiki/Nicolaes_Witsen

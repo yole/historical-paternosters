@@ -1,0 +1,18 @@
+language: Thai
+attestations:
+  - book_title: Pantographia
+    page: 274
+    description: Siamic 3
+    source: Orat. Dom. Amst. p. 22
+  - book_title: Chamberlayne
+    page: 22
+    description: Siamice
+    source: Exinde ad manus Clar. Lacrosii pervenit qui eam mecum communicavit operi huic inferendam
+text:
+  "Poo orao giou sowen, thiou pra hai pra chot
+   tob hayn con tang laë tovaë pra pon moang,
+   pra cob hay daë kie rao, haë leo neung kiaë
+   pra mogan hain din somoë souan. Ha ha rao
+   toub van coo haë duë kéé prao van nyy, coo
+   prot bap rao semoe rao prot pouou tam kéé
+   rao, gaa haë prao top naë coang bap, haë"

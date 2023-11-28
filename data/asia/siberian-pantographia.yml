@@ -1,0 +1,27 @@
+language: Kolyma Yukaghir
+attestations:
+  - book_title: Pantographia
+    page: 274
+    description: Siberian
+    source: Witsius's Description of Tartary
+  - book_title: Noord en Oost Tartarye
+    page: 687
+    description: Joekagirsche
+bibliography:
+  - title: A Historical Dictionary of Yukaghir
+    author: Irina Nikolaeva
+    year: 2006
+    url: https://www.degruyter.com/document/doi/10.1515/9783110892840/html?lang=en
+text:
+  "Otjé mitsjé kandi koendsjoenga, temlælængh
+   nim totlie, legate! poegandallanpoh totlie, lætiot
+   t’sjemol alkaltei konda koedzjuga je levianh,
+   lunliagel miltje monidetjelæh keyck mitin
+   telaman, jeponkatsi mitin taldelpon mïtlæ
+   poel mïtkondan poniatsjok tannevinol mitlaæpoel,
+   je kondo dgonilæk mïtel olo olmïk, kon[^1]domolíak
+   mitel kimda annelan; le dót poegoendal lenpoh,
+   je tonbanck, je tændælov, koendejanck.
+   
+   [^1]: Fry's text is truncated at this point
+   "
