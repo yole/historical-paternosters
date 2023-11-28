@@ -36,7 +36,7 @@ class Language {
     var url: String? = null
 
     val outPath: String
-        get() = "languages/${name?.lowercase()}.html"
+        get() = "languages/${name?.lowercase()?.replace(' ', '-')}.html"
 }
 
 class Languages {

@@ -1,0 +1,20 @@
+language: Scottish Gaelic
+attestations:
+  - book_title: Pantographia
+    page: 268
+    description: Scots 2
+    source: Orat. Dom. Amst. p. 49
+  - book_title: Chamberlayne
+    page: 49
+    description: Scotice. Superiorum Provinciarum
+    source: Reverendus admodum Praæsul Episcopus Carliolensis Ampl. Domino Chamberlayno tradidit
+text:
+  "Ar nathairne ata ar neamh, goma beannuigte
+   hainmsa, gu deig do rioghachdsa, dentaa do iholfi
+   air dtalmhuin mar ata air neamh, tabhair
+   dhuinn anuigh ar naran laitheamhuil, agas
+   maith dhuinn ar bhfiacha, amhuil mhathmuid
+   dar bhfeicheamhnuibh, agas na leig ambuadhread
+   sinn, achd -saor sinn o ole. Oir is leatsa
+   an rioghachd an cumhachd agas an gloir gu
+   siorraidh. Amen."

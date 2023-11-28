@@ -8,6 +8,13 @@ books:
   author: Hieronimus Megiser
   author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
 
+- title: Duret
+  full_title: Thresor de L'Histoire des Langves de Cest Vnivers
+  year: 1613
+  url: https://archive.org/details/fre_b1886963
+  author: M. Claude Duret
+  author_url: https://en.wikipedia.org/wiki/Claude_Duret
+
 - title: Wilkins
   full_title:
     An Essay Towards a Real Character And a Philosophical Language

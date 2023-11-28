@@ -1,21 +1,19 @@
-language: Russian
+language: Russian (?)
 attestations:
   - book_title: Pantographia
-    page: 266
-    description: Sclavonian 2
-    source: Wilk. Ess. p. 435, Orat. Dom. p. 24
+    page: 268
+    description: Sclavonian 3
+    source: Duret, p. 744; Orat. Dom. p. 59
   - book_title: Oratio Dominica Polyglottos Polymorphos
-    description: Slavonica, Charactere Cyrulico, s. Russica (Lectio)
-    source: Wilk. n. 37. Conf. Meg. n. 34, Pist. n. 28, Reut. n. 42
-  - book_title: Wilkins
-    number: 37
-    description: Russian
+    page: 59
+    description: Slavonica Charactere Hieronymiano (Lectio)
+    source: Georgieviz. pag. 115. Conf. Dur. p. 744, Gesn. p. 62 a, Pist. n. 62, Reut. n. 28
 base: slavic/russian2-pantographia
 text:
-  "Oche nash izghae yease nanaebaesaegh, da sueatesa
-   ima tuoae, da predet tzaazstuia tuoae, da
-   boodet volya tuoya yaco na nebesae inazemle.
-   Ghlceb nash nasou schneei dazgd nam dnaes.
-   Jo staue nam dolghii nasha yaco imwee ostavelayem
-   dolzgnecom nashim. Ineuedi nas fpapast.
-   No jzbaue nas ot loocauaho. Amen."
+  "Otsse nass, ki yessi na nebessi. Ssuhtisse ime
+   tuoie. Pridi kralyeusstuo, budi uolia tuoia, kako
+   na nebu ina zemlij. Kruha nassega ssagdanigad
+   ai namga danass, I odpusciainam dughe
+   nasse, kako i mi odpusciamo dusuikon
+   nassijm, I nepeliai nats u napast, da izbaui
+   nats od nepriazni. Amen."

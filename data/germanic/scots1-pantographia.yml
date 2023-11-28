@@ -1,0 +1,20 @@
+language: Scots
+attestations:
+  - book_title: Pantographia
+    page: 268
+    description: Scots 1
+    source: Orat. Dom. p. 55
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 55
+    description: Scotica Meridionalis
+    source: Meg. n. 28. Conf. Dur. p. 874, Pist. n. 23, Reut. n. 18
+  - book_title: Megiser
+    number: 28
+    description: Scotice
+text:
+  "Our fader, vhilk ar in hevin : hallovit be thy
+   name : thy kingdon cum : thy vil be doin in
+   erth, as it is in hevin. Gif uss yijs day our daily
+   bred, and forgif us our sinnis, as we forgif
+   them that sin agains us. Et led us not into
+   tentation: bot delyver us from evil. Amen."

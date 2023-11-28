@@ -5,3 +5,9 @@ languages:
 - name: Sardinian
   family: Indo-European/Romance
   url: https://en.wikipedia.org/wiki/Sardinian_language
+- name: Scots
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Scots_language
+- name: Scottish Gaelic
+  family: Indo-European/Celtic
+  url: https://en.wikipedia.org/wiki/Scottish_Gaelic
