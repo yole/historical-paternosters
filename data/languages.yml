@@ -1,4 +1,7 @@
 languages:
+- name: Russian
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Russian_language
 - name: Sardinian
   family: Indo-European/Romance
   url: https://en.wikipedia.org/wiki/Sardinian_language

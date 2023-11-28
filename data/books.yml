@@ -4,16 +4,30 @@ books:
     Specimen Quinquaginta Diversarum Atque Inter Se Differentium Linguarum, & Dialectorum; 
     videlicet Oratio Dominica, Et Quaedam Alia Ex Sacris literis, totidem linguis expressa
   year: 1603
-  url: https://books.google.de/books?id=AZRXAAAAcAAJ
+  url: https://books.google.com/books?id=AZRXAAAAcAAJ
   author: Hieronimus Megiser
   author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
+
+- title: Wilkins
+  full_title:
+    An Essay Towards a Real Character And a Philosophical Language
+  year: 1668
+  url: https://books.google.com/books/?id=BCCtZjBtiEYC
+  author: John Wilkins
+  author_url: https://en.wikipedia.org/wiki/John_Wilkins
+
+- title: Oratio Dominica Polyglottos Polymorphos
+  full_title:
+    "Oratio Dominica [polyglottos, polymorphos]. : Nimirum, plus centum linguis, versionibus, aut characteribus reddita & expressa"
+  year: 1713
+  url: https://archive.org/details/oratiodominicapo00lipp
 
 - title: Chamberlayne
   full_title:
     Oratio Dominica in Diversas Omnium Fere Gentium Linguas Versa et Propris Cujusque Linguae
     Characteribus Expressa
   year: 1715
-  url: https://books.google.de/books?id=tLZbAAAAQAAJ
+  url: https://books.google.com/books?id=tLZbAAAAQAAJ
   author: John Chamberlayne
 
 - title: Pantographia
@@ -22,6 +36,6 @@ books:
     explanation of the peculiar Force and Power of each Letter, to which are added Specimens of all well-authenticated 
     Oral Languages, forming a Comprehensive Digest of Phonology
   year: 1799
-  url: https://books.google.de/books?id=4OU-AAAAYAAJ
+  url: https://books.google.com/books?id=4OU-AAAAYAAJ
   author: Edmund Fry
   author_url: https://en.wikipedia.org/wiki/Edmund_Fry

@@ -2,7 +2,13 @@
 #@layout($title)
 <h1>$title</h1>
 Full title: $full_title<br/>
+#if($author)
+#if($author_url)
 Author: <a href="$author_url">$author</a><br/>
+#else
+Author: $author
+#end
+#end
 Year of publication: $year<br/>
 Specimens:
 <ul>

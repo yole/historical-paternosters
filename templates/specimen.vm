@@ -22,7 +22,10 @@
             #if($attestation.number)
                 n. $attestation.number
             #end
-            <i>($attestation.description)</i> - ${attestation.source}
+            <i>($attestation.description)</i>
+#if($attestation.source)
+    - $attestation.source
+#end
         </li>
     #end
 </ul>

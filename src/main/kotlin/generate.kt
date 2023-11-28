@@ -23,7 +23,7 @@ class Book {
     var author_url: String? = null
 
     val outPath: String
-        get() = "books/${title?.lowercase()}.html"
+        get() = "books/${title?.lowercase()?.replace(' ', '-')}.html"
 }
 
 class Books {
