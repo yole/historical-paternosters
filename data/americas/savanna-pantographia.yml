@@ -1,0 +1,25 @@
+language: Savanna (not existent)
+attestations:
+  - book_title: Pantographia
+    page: 258
+    description: Savanna
+    source: Orat. Dom. Amst. p. 89
+  - book_title: Chamberlayne
+    page: 89
+    description: Savahanice
+    source: Misit Reverendus Doctor le Jau, V. D., Minister S. Jacobi in Caroli- am Meridionali
+bibliography:
+  - title: Notes on Forty Algonkin Versions of the Lord's Prayer
+    author: J. Hammond Trumbull
+    year: 1873
+    url: https://archive.org/details/cihm_45551
+notes: According to Trumbull, "[this text] does not belong to any one language ever spoken by an American tribe".
+text:
+  "Keelah nossé kitshah awé heyring. Yah zong
+   seway ononteeo. Agow aygon awoanneeo. —
+   Yes yaon onang ché owah itsché heyring. Kaat
+   shiack mowatgi hee kannaterow tyenteron.
+   Esh keinong cha haowi eto neeot shkeynong
+   haïtshé kitsha haowi. Ga ri waah et kaïn. Isse
+   he owain matchi: Agow aigon issé sha waneeo
+   egawain onaïng. Neeo."

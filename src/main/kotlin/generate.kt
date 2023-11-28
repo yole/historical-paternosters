@@ -35,7 +35,6 @@ class Language {
     var family: String? = null
     var url: String? = null
 
-
     val outPath: String
         get() = "languages/${name?.lowercase()}.html"
 }
@@ -63,12 +62,21 @@ class Attestation {
     var book: Book? = null
 }
 
+class BibliographyEntry {
+    var title: String? = null
+    var author: String? = null
+    var year: Int? = null
+    var url: String? = null
+}
+
 class Specimen {
     var path: String? = null
     var language: String? = null
     var base: String? = null
     var attestations: MutableList<Attestation> = mutableListOf()
+    var bibliography: MutableList<BibliographyEntry> = mutableListOf()
     var text: String? = null
+    var notes: String? = null
 
     var baseSpecimen: Specimen? = null
     var lang: Language? = null
