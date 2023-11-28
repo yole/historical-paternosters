@@ -28,3 +28,9 @@ languages:
 - name: Evenki
   family: Tungusic
   url: https://en.wikipedia.org/wiki/Evenki_language
+- name: Turkish
+  family: Turkic
+  url: https://en.wikipedia.org/wiki/Turkish_language
+- name: Massachusett
+  family: Algonquin
+  url: https://en.wikipedia.org/wiki/Massachusett_language

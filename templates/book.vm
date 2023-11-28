@@ -1,7 +1,9 @@
 #parse("layout.vm")
 #@layout($title)
 <h1>$title</h1>
+#if($full_title)
 Full title: $full_title<br/>
+#end
 #if($author)
 #if($author_url)
 Author: <a href="$author_url">$author</a><br/>

@@ -59,3 +59,22 @@ books:
   url: https://resources.huygens.knaw.nl/retroboeken/witsen
   author: Nicolaas Witsen
   author_url: https://en.wikipedia.org/wiki/Nicolaes_Witsen
+
+- title: De Turcarum moribus epitome
+  year: 1555
+  url: https://books.google.com/books?id=lh08AAAAcAAJ
+  author: Bartolomej Georgijević
+  author_url: https://en.wikipedia.org/wiki/Bartol_Gyurgieuvits
+
+- title: Lutheri Catechismus Virginiske Spraket
+  full_title: Lutheri Catechismus öfwersatt på american-virginiske språket
+  year: 1696
+  url: https://archive.org/details/luthericatechism00luth
+  author: John Campanius
+  author_url: https://en.wikipedia.org/wiki/John_Campanius
+
+- title: Eliot Indian Bible
+  year: 1663
+  url: https://archive.org/details/mamussewunneetup00elio
+  author: John Eliot
+  author_url: https://en.wikipedia.org/wiki/John_Eliot_(missionary)

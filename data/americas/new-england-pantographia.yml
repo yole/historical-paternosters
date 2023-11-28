@@ -1,0 +1,27 @@
+language: Massachusett
+attestations:
+  - book_title: Pantographia
+    page: 58
+    description: New England
+    source: Wilk. Ess. p. 435
+  - book_title: Pantographia
+    page: 300
+    description: Virginian
+    source: Orat. Dom. p. 64
+  - book_title: Lutheri Catechismus Virginiske Spraket
+    page: 130
+    description: Lingua Virginiana
+    source: Bibl. Virgin. Cantabrig. Nov. Angl. 1663
+  - book_title: Eliot Indian Bible
+text:
+  "Nooshun kesukquot, quittiana tamunach koowesuonk[1]; 
+   peyaumooutch kukketassootamoonk,
+   kuttenantamoonk, nen nach ohkeit neane[2]
+   kesukquut[3]; nummeet uongash asekesukokish,
+   assamatineau yeuyeu kesukod; kah ahquontamatinneau
+   numat cheseongash, neane matchenehu
+   queagig nuta quontamounnonog;"
+footnotes:
+  1: "Fry (New England): koo wesuonk"
+  2: "Fry (New England): nean"
+  3: "Fry (New England): kesukqut"
