@@ -1,0 +1,15 @@
+language: Spanish
+attestations:
+  - book_title: Pantographia
+    page: 276
+    description: Spanish 3
+    source: The reading of the Lord's Prayer in modern Spanish, communicated to me by a learned gentleman.
+text:
+  "Padre nuestro que estás en el cielo, sanctificado
+   sea tu nombre; venga nos tu reyno: hagase
+   tu voluntad, assi en la tierra como en el cielo; 
+   el pan nuestro de cada dia da nos le oy;
+   y perdona nos nuestras deudas assi como nosotros
+   perdonamos á nuestros deudores; y no
+   nos dexes caer en tentacion, mas libra nos de
+   mal. Amen."

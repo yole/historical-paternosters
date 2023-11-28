@@ -1,0 +1,22 @@
+language: Spanish
+attestations:
+  - book_title: Pantographia
+    page: 276
+    description: Spanish 2
+    source: Orat. Dom. Amst. p. 45
+  - book_title: Chamberlayne
+    page: 45
+    description: Hispanice
+text:
+  "Padre nuestro que estas en los cielos, sanctificado
+   sea tu nombre, venga tu regno[1], hagase
+   tu volontad assi en la tierra como en el cielo,
+   danos hoy nuestro pan cotidiano; y perdonanos[2] 
+   nuestras deudas assi como nos otros perdonamos
+   à nuestros deudores, y no nos metas
+   en tentacion, mas libra nos de mal, porque tuyo
+   es el reyno y la potencia y la gloria per los siglos. Amen."
+footnotes:
+  1: "Fry: reyno"
+  2: "Fry: perdona nos"
+  3: "Fry: remainder of the sentence replaced with &c."

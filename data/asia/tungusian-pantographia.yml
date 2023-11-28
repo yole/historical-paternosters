@@ -1,0 +1,24 @@
+language: Evenki
+attestations:
+  - book_title: Pantographia
+    page: 296
+    description: Tungusian
+    source: Witsius' description of Tartary; Orat. Dom. Amst. p. 14
+  - book_title: Noord en Oost Tartarye
+    page: 654
+    description: Toengoesche
+  - book_title: Chamberlayne
+    page: 14
+    description: Tungusiane
+    source: ex singulari favore <...> Witsii accepi
+text:
+  "Aminmoen moengi avagoe negdaoegidadoe.
+   Garisjegan gerbisch singi. Jemesjegal ogdigoe
+   singi. Osjegan sitlu singi on negdadoe do endradoe.
+   Kiltere moengi inegdoe boekal moendoe
+   tikin. Akakal moendoe ogbi moengi on
+   boe amnenkiteref kotatsjaldoe moendoeck. —
+   Aminkalivra moendoe jeregdoevi. Ajikal moendoe
+   malgadoeck. On singi bisin ogdidgoe
+   mandi baschin jereger. Tesje."
+

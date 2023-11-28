@@ -1,0 +1,19 @@
+language: Syriac
+attestations:
+  - book_title: Pantographia
+    page: 282
+    description: Syriac 8
+    source: The literal reading of the Lord's Prayer, from a new testament in this language, Hamb. 1663; Orat. Dom. p. 12
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 12
+    description: Syriaca, charactere vulgato
+    source: Conf. Dur. p. 405, Gesn. p. 16 b, Meg. n. 2, Pist. n. 2, Reuter n. 2, Wilk. n. 4
+text:
+  "Abhoun dbhaschmajo. Nethkadasch schmoch
+   Tithe malchouthoch. Nehve zebjonoch, ajchano
+   dbhaschmajo, oph b’ar’ho. Habh lan lach
+   mo dsunkonan jaumono. Vaschbouk lan chav
+   bain, ajchano d’oph chnan schbhakan l’chajobhain.
+   V’lo ta’alan lnesjouno. Elo pazan
+   men bischo. Metiil ddiloch hi malchoutho
+   v’chajlo, v’theschbouchtho l’olam ol’min."

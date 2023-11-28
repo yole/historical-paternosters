@@ -1,0 +1,20 @@
+language: Syriac
+attestations:
+  - book_title: Pantographia
+    page: 284
+    description: Syriac 9
+    source: The reading of the Lord's Prayer in the Stranghelo style; Orat. Dom. Amst. p. 9
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 12
+    description: Syriace. Charactere Estrangelo
+text:
+  "Abûn dbhascmaja: netquadasch scmoch: thethe
+   malkuthoch: nehva zebjonoch aikano dbhascmaja
+   apf barêa hablan lahhma dsûnquonan
+   jaumona: wasebûk lân hhaubain vehhatthin,
+   aikana dapf hhnan scbaquan lehhaibhin:
+   welah thelan lenishjûna: elah fatsah menbisca
+   mettul dedihloch hih malkutta wehhaila wetescbuhhta
+   leehlam ehlmin. Amin."
+notes:
+  Esṭrangēlā is the oldest and classical form of the [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet).

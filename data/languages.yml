@@ -16,3 +16,15 @@ languages:
   url: https://en.wikipedia.org/wiki/Thai_language
 - name: Kolyma Yukaghir
   url: https://en.wikipedia.org/wiki/Southern_Yukaghir_language
+- name: Spanish
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Spanish_language
+- name: Swedish
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Swedish_language
+- name: Syriac
+  family: Afro-Asiatic/Semitic
+  url: https://en.wikipedia.org/wiki/Syriac_language
+- name: Evenki
+  family: Tungusic
+  url: https://en.wikipedia.org/wiki/Evenki_language
