@@ -7,12 +7,17 @@
     </p>
 #end
     $text
+#if($footnotes)
+    <h3>Footnotes</h3>
+    #foreach($note in $footnotes.entrySet())
+        $note.key: $note.value<br/>
+    #end
+#end
     #if($baseSpecimen)
     <p>
         Based on <a href="/$baseSpecimen.outPath">${baseSpecimen.attestations[0].book.title}</a>
     #end
-<p>
-    Attested in:
+<h3>Attested in:</h3>
 <ul>
     #foreach($attestation in $attestations)
         <li><a href="/$attestation.book.outPath">$attestation.book.title</a>

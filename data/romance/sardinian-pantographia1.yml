@@ -4,13 +4,24 @@ attestations:
     page: 256
     description: Sardinian 1
     source: Duret, p. 818
-base: romance/sardinian-megiser12
+  - book_title: Megiser
+    number: 12
+    description: Sardorum Oppidanorum Linguâ
 text:
   "Pare nostru, qui istas in sos quelos, siat sanctificadu
   su nomen teu : vengat à nois su regnu
-  teu. Fasase sa voluntat tua, axi comen su
+  teu. Fasase sa voluntat tua, axicomen[1] su
   quelu, gasi en la terra. Lo pa nostru de dognia
-  die da nos hoc, I dexia à nos altres sos depitos
-  nostros, comente nos ateros dexiam als
+  die da nos hoc, I dexia à nos altres sos depitos[2]
+  nostros, comentenos[3] ateros dexiam als
   deppitores nostros. Ino nos induescas in sa
-  tentatio : mas livra nos de male. Amen."
+  tentatio : mas liura[4] nos de male.[5] 
+  Parche teu es so regne, sa gloria, i so imperii en sos sigles
+  de se sigles.
+  Amen."
+footnotes:
+  1: "Fry: axi comen"
+  2: "Fry: deppitos"
+  3: "Fry: comente nos"
+  4: "Fry: livra"
+  5: Following sentence is missing in Fry.

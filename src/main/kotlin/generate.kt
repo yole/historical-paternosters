@@ -80,6 +80,7 @@ class Specimen {
     var bibliography: MutableList<BibliographyEntry> = mutableListOf()
     var text: String? = null
     var notes: String? = null
+    var footnotes: Map<String, String> = hashMapOf()
 
     var baseSpecimen: Specimen? = null
     var lang: Language? = null
@@ -152,9 +153,16 @@ fun markdownToHtml(text: String): String {
     return HtmlGenerator(text, tree, markdownFlavourDescriptor).generateHtml()
 }
 
+val footnoteRegex = Regex("\\[(\\d+)]")
+
+fun formatFootnotes(text: String): String {
+    return footnoteRegex.replace(text) { mr -> "<sup>${mr.groupValues[1]}</sup>"}
+}
+
 fun generateSpecimen(specimen: Specimen, path: String) {
     val template = Velocity.getTemplate("specimen.vm")
     val context = contextFromObject(specimen)
+    context.put("text", specimen.text?.let { formatFootnotes(it) })
     context.put("notes", specimen.notes?.let { markdownToHtml(it) })
     generateToFile(path, template, context)
 }
