@@ -239,7 +239,14 @@ fun generateSpecimen(specimen: Specimen, path: String) {
 fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
     val template = Velocity.getTemplate("book.vm")
     val context = contextFromObject(book)
-    context.put("specimens", allSpecimens.filter { it.attestations.any { a -> a.book == book }})
+    val specimensWithAttestations = allSpecimens
+        .mapNotNull { specimen ->
+            val attestationInBook = specimen.attestations.find { a -> a.book == book }
+            attestationInBook?.let { specimen to it }
+        }
+        .sortedBy { it.second.page ?: it.second.number }
+
+    context.put("specimens", specimensWithAttestations)
     generateToFile(path, template, context)
 }
 
