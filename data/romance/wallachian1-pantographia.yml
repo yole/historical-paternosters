@@ -1,0 +1,23 @@
+language: Romanian
+attestations:
+  - book_title: Pantographia
+    page: 302
+    description: Wallachian 1
+    source: Orat. Dom. Amst. p. 77
+  - book_title: Chamberlayne
+    page: 77
+    description: Walachice
+    source: "Nobilissimus Dnus Birndorff Ablegatus Hungariae et Transylvaniae Ecclesiarum <...> pro Dno. Chamberlaynio accurate conscripsit"
+text:
+  "Tatul nostru csinye jesh in cseruj. Szvinczie
+   sze numelye tuo. Sze vii imparaczia ta. Fii
+   voja ta cum in cserui, asha shi pe pamuntul.
+   Punye nostru de te zilelie da noi asztesz. Jarta
+   greshalelye nostre cum shi noi jartarn a
+   greshitilor nostri. Shi nu dues pe noi inka la
+   iszpitira. Shi mentujeshte pe noi de ro. Amin."
+bibliography:
+- title: Stiernhielm, die rumänische Sprache und das merkwürdige Schicksal eines Vaterunsers
+  author: Eugenio Coseriu
+  year: 2009
+  url: https://core.ac.uk/display/15771496

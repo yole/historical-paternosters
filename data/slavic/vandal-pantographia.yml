@@ -1,0 +1,27 @@
+language: Lower Sorbian
+attestations:
+  - book_title: Pantographia
+    page: 300
+    description: Vandal
+    source: Orat. Dom. Amst. p. 80*
+  - book_title: Chamberlayne
+    page: 80
+    description: Vandalice Aliter
+    source: "Ex Appendice Tom. 3 Dissert. Misc. Cl. Relandi descripsi"
+  - book_title: Reland
+    page: 302
+    description: Vandalice
+  - book_title: Die Ehre dess Hertzogthums Crain
+    page: 274
+    description: Vandalice
+text:
+  "Woschzi nasch kéns sy nunebv, nsvesche meno
+   twojo, psiszknam kralostvo twojo, sestavi
+   wola twoja yako nanebo ytu nazemi, kleb
+   nasch dneisthi day nam schnisz. A wodai nam
+   wini nashe, ak my wodawani winikom naszym,
+   A newesich nas dopitowaine ; Ale umosz
+   nas od slego. Li."
+notes:
+  The Vandal language name refers to [Prekmurje Slovene](https://en.wikipedia.org/wiki/Prekmurje_Slovene)
+  but the text is not actually in that language.

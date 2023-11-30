@@ -1,0 +1,24 @@
+language: Romanian
+attestations:
+  - book_title: Pantographia
+    page: 304
+    description: Walloon
+    source: Orat. Dom. p. 45
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 45
+    description: Wallica
+    source: "Stiernh. n. 8. Conf. Bibl. Wall. Lond. 1588. 1620. N. T. Wallic. Lond. 1567"
+text:
+  "Pærinthele nostru cela ce esti en cheri. Svintzas
+   cæse numele teu. Vie enperetziæ ta. Facæse
+   voe ta, cum en tzer asesi pre pæmentu.
+   Pæne noastre tza sætzioace dæ noaæ astezi.
+   Si lase noaæ datorii le noastre, cum si noi se
+   læsæm datornitzilor nostri. Si nu dutze preno
+   i la ispitire: Tze ne mentueste prenoi de viclianul.
+   Amin."
+bibliography:
+  - title: Stiernhielm, die rumänische Sprache und das merkwürdige Schicksal eines Vaterunsers
+    author: Eugenio Coseriu
+    year: 2009
+    url: https://core.ac.uk/display/15771496

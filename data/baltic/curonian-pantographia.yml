@@ -1,0 +1,27 @@
+language: Latvian
+attestations:
+  - book_title: Pantographia
+    page: 314
+    description: Courlandic
+    source: Orat. Dom. Amst. p. 84
+  - book_title: Chamberlayne
+    page: 84
+    description: Curlandice
+    source: Orat. Dom. Amst. p. 84
+  - book_title: Brand
+    page: 74
+    description: Churländisch
+text:
+  "Tews mûs kut tu esch in debbes. Sweérti to
+   tau waêrtsch, Inaēkas[1] moms tau walstieb. Tau
+   spraets noteék in debbes kavērssu semes. Mûs
+   schjodēnysch to maisyd do tû moms schjodeên.
+   Pomettêes mus parradûs kamés pommêtêm
+   sau paradnēkem. Néwét[3] moms eck schjan.
+   Láune kaedēnāeschjēn: Ais to tés tau
+   walstybē, tau speax, tau gôetsch, tau musiga
+   besgat. Omen."
+footnotes:
+  1: "Chamberlayne, Pantographia: Innēkas"
+  2: "Chamberlayne, Pantographia: kames"
+  3: "Chamberlayne, Pantographia: nêwét"

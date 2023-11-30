@@ -78,3 +78,30 @@ books:
   url: https://archive.org/details/mamussewunneetup00elio
   author: John Eliot
   author_url: https://en.wikipedia.org/wiki/John_Eliot_(missionary)
+
+- title: Reland
+  full_title: Hadriani Relandi Dissertationum Miscellanearum Pars Tertia
+  year: 1708
+  url: https://books.google.de/books?id=CPtkAAAAcAAJ
+  author: Adriaan Reland
+  author_url: https://en.wikipedia.org/wiki/Adriaan_Reland
+
+- title: Die Ehre dess Hertzogthums Crain
+  full_title: Die Ehre dess Hertzogthums Crain, Zwenter Theil
+  year: 1689
+  url: https://www.digitale-sammlungen.de/en/view/bsb11055296
+  author: Johann Weikhard von Valvasor
+  author_url: https://en.wikipedia.org/wiki/Johann_Weikhard_von_Valvasor
+
+- title: Oratio Orationum
+  full_title: Oratio Orationum. SS. Orationis Dominicae Versiones praeter Authenticam fere Centum
+  year: 1680
+  url: https://books.google.com/books?id=slF_Cng8iwMC
+
+- title: Brand
+  full_title: Reysen durch die Marck Brandenburg, Preussen, Churland, Liefland, Pleßcovien, Groß-Naugarden, Tweerien und Moscovien
+  year: 1702
+  url: https://archive.org/details/BrandReysen1702
+  author: Johan-Arnold von Brand
+  author_url: https://de.wikipedia.org/wiki/Johann_Arnold_von_Brand
+

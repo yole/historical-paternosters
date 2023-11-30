@@ -1,0 +1,26 @@
+language: Manchu
+attestations:
+  - book_title: Pantographia
+    page: 288
+    description: Tartaric 4
+    source: Orat. Dom. Amst. p. 13
+  - book_title: Chamberlayne
+    page: 13
+    description: Tartarice. Tartarorum Sinensium stylo.
+    source:
+      "Hanc ex autographo Epistolae J. Bouvet Jesuitae ad lllustrem Dn. Leibnitium 
+      mihi misit Eruditiilimus Dominus Lacrosius"
+text:
+  "Abcade thégé megni ama. Sini kebou endouringhe
+   okini. Sini couron tchikini. Nade abcade
+   adali sini couninde atchaboukini. Jnenghitari
+   i tchecou enenhhi mende poureou, kéli
+   kerenni endeboucoubé megni couë’bouréou.
+   Kéli membé pouyendé oume togimbouré.
+   Elemanga membe egetchi tchaïlaboureéou. —
+   Ere sonkoi okini."
+bibliography:
+  - title: Zu zwei katholischen Katechismen in Mandjurischer Sprache
+    author: Hartmut Walravens
+    year: 1974
+    url: https://www.jstor.org/stable/40726183

@@ -1,0 +1,31 @@
+language: Malay
+attestations:
+  - book_title: Pantographia
+    page: 192
+    description: Malayan 2
+    source: "from the Malay Testament, Edit. Oxf. 1677, in the author’s possession."
+  - book_title: Pantographia
+    page: 312
+    description: Bengallee
+    source: Orat. Dom. Amst. p. 23
+  - book_title: Chamberlayne
+    page: 23
+    description: Bengalice
+    source: "ego litteris genti huic propiis, lingua autem Malaica expressi"
+text:
+  "Bappa kita, jang adda de surga, namma mou
+   jadi bersakti, radjat-mu[1] mendarang, kandhatimu[2]
+   menjadi de bumi seperti de surga, roti
+   kita derri sa hari-hari membrikan kita sa hari
+   inila, makka ber-ampunla pada-kita[3] doosa kita,
+   seperti kita berampun-akan siapa ber-sala
+   kapada kita, d’jang-an hentar kita kapada tjo
+   bahan[4], tetapi lepasken kita dari jang d’jakat:
+   karna mu[1] pun’ja radjat, daan kauwassahan,
+   daan berbassaran[5] sampey kakakal, Amin."
+footnotes:
+  1: "Pantographia (Bengallee), Chamberlayne: mou"
+  2: "Pantographia (Bengallee), Chamberlayne: kandhatimou"
+  3: "Pantographia (Bengallee), Chamberlayne: padakita"
+  4: "Pantographia (Bengallee), Chamberlayne: tjobahan"
+  5: "Pantographia (Bengallee), Chamberlayne: berbessaran"

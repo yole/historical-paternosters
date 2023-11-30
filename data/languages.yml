@@ -34,3 +34,15 @@ languages:
 - name: Massachusett
   family: Algonquin
   url: https://en.wikipedia.org/wiki/Massachusett_language
+- name: Lower Sorbian
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Sorbian_languages
+- name: Malay
+  family: Austronesian
+  url: https://en.wikipedia.org/wiki/Malay_language
+- name: Latvian
+  family: Indo-European/Baltic
+  url: https://en.wikipedia.org/wiki/Latvian_language
+- name: Manchu
+  family: Tungusic
+  url: https://en.wikipedia.org/wiki/Manchu_language
