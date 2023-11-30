@@ -81,6 +81,7 @@ class Specimen {
     var text: String? = null
     var notes: String? = null
     var footnotes: Map<String, String> = hashMapOf()
+    var gloss: Map<String, String> = hashMapOf()
 
     var baseSpecimen: Specimen? = null
     var lang: Language? = null
@@ -159,10 +160,78 @@ fun formatFootnotes(text: String): String {
     return footnoteRegex.replace(text) { mr -> "<sup>${mr.groupValues[1]}</sup>"}
 }
 
+data class GlossedTextWord(val original: String, val gloss: String)
+data class GlossedTextLine(val words: List<GlossedTextWord>)
+
+fun formatGlossedText(specimen: Specimen): List<GlossedTextLine> {
+    val text = specimen.text ?: return emptyList()
+    var pos = 0
+    val words = mutableListOf<GlossedTextWord>()
+    while (pos < text.length) {
+        while (pos < text.length && text[pos].isWhitespace()) {
+            pos++
+        }
+        if (pos < text.length && text[pos] == '[') {
+            pos++
+            var footnote = ""
+            while (pos < text.length && text[pos].isDigit()) {
+                footnote += text[pos++]
+            }
+            if (pos < text.length && text[pos] == ']') {
+                pos++
+            }
+            words[words.size-1] = GlossedTextWord(words.last().original + "<sup>$footnote</sup>", words.last().gloss)
+        }
+
+        val (word, gloss) = findLongestMatchingGloss(specimen.gloss, text, pos)
+        if (word != null && gloss != null) {
+            words.add(GlossedTextWord(word, gloss))
+        }
+        else {
+            val wordEnd = text.indexOf(' ', pos).takeIf { it >= 0 } ?: text.length
+            words.add(GlossedTextWord(text.substring(pos, wordEnd), ""))
+        }
+        pos += words.last().original.length
+    }
+    return breakIntoLines(words)
+}
+
+fun findLongestMatchingGloss(glosses: Map<String, String>, text: String, pos: Int): Pair<String?, String?> {
+    var resultOriginal = ""
+    var resultGloss = ""
+    for ((original, gloss) in glosses) {
+        if (text.startsWith(original, pos) && original.length > resultOriginal.length) {
+            resultOriginal = original
+            resultGloss = gloss
+        }
+    }
+    return if (resultOriginal.isNotEmpty()) resultOriginal to resultGloss else null to null
+}
+
+fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
+    val result = mutableListOf<GlossedTextLine>()
+    var currentLineWords = mutableListOf<GlossedTextWord>()
+    for (word in words) {
+        if (currentLineWords.sumOf { it.original.length } + word.original.length > 50) {
+            result.add(GlossedTextLine(currentLineWords))
+            currentLineWords = mutableListOf()
+        }
+        currentLineWords.add(word)
+    }
+    if (currentLineWords.isNotEmpty()) {
+        result.add(GlossedTextLine(currentLineWords))
+    }
+    return result
+}
+
+
 fun generateSpecimen(specimen: Specimen, path: String) {
     val template = Velocity.getTemplate("specimen.vm")
     val context = contextFromObject(specimen)
     context.put("text", specimen.text?.let { formatFootnotes(it) })
+    if (specimen.gloss.isNotEmpty()) {
+        context.put("glossed_text", formatGlossedText(specimen))
+    }
     context.put("notes", specimen.notes?.let { markdownToHtml(it) })
     generateToFile(path, template, context)
 }

@@ -9,9 +9,38 @@ attestations:
     description: de Spaeke van d'Ostiaki
 text:
   "Jez mé koendind jejand nopkon, noeni nip
-   tät, tule noetkotsi tät, tät ténel tät tät nopkon
-   its jots jogodt, nai mé tsjelelemi tallel mekosjek
+   tät, tule noetkotsj[1] tät, tät ténel tät tät nopkon
+   itsjotsjogodt[2], nai mé tsjelelelmi[3] tallel mekosjek
    titap, kvodtsjedi mekosjek kolzja mei,
-   tat mei kvodtsjedi kolzja mei, nick jgosjid
-   kvondik mat kekend, tǎt mat losogod; tǎt tǎt
-   noedkotsi oroep oevorganin tarn noen. Nat."
+   tät mei kvodtsjedi kolzja mei, nick jgosjid
+   kvondik mat kekend, tät mat losogod; tät 
+   tät nudkotsj[4] oroep oevorganin tarn noen. Nat."
+footnotes:
+  1: "Pantographia: noetkotsi"
+  2: "Pantographia: its jots jogodt"
+  3: "Pantographia: tsjelelemi"
+  4: "Pantographia: noedkotsi"
+gloss:
+  "Jez": "Pater"
+  "mé": "Noster"
+  "koendind jejand": "qui es"
+  "nopkon": "in caelis"
+  "noeni": "sanctificetur"
+  "nip": "nomen"
+  "tule": "Adveniat"
+  "noetkotsj": "regnum"
+  "ténel tät": "voluntas tua"
+  "tät nopkon": "sicut in caelo"
+  "itsjotsjogodt": "et in terra"
+  "nai": "Panem"
+  "tsjelelelmi": "cotidianum"
+  "tallel": "da"
+  "mekosjek": "nobis"
+  "titap": "hodie"
+  "kvodtsjedi": "dimitte"
+  "kolzja": "debita"
+  "tät mei": "sicut et nos"
+  "nick jgosjid kvondik": "et ne nos inducas"
+  "mat": "nos"
+  "kekend": "in tentationem"
+  "losogod": "a malo"

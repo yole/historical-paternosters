@@ -6,7 +6,25 @@
         Language: <a href="$lang.url">$lang.name</a>
     </p>
 #end
+#if($glossed_text)
+    #foreach($line in $glossed_text)
+    <table>
+    <tr>
+        #foreach($word in $line.words)
+        <td>$word.original</td>
+        #end
+    </tr>
+    <tr>
+        #foreach($word in $line.words)
+            <td>$word.gloss</td>
+        #end
+    </tr>
+    </table>
+    #end
+#else
     $text
+#end
+
 #if($footnotes)
     <h3>Footnotes</h3>
     #foreach($note in $footnotes.entrySet())
