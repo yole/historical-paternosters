@@ -1,0 +1,19 @@
+language: Curonian
+attestations:
+- book_title: Pantographia
+  page: 242
+  description: Prussian 3
+  source: on the authority of Simon Gronovius; Orat. Dom. Amst. p. 86
+- book_title: Chamberlayne
+  page: 86
+  description: Prussice, ex Simone Grunovio
+base: baltic/prussian-grunau
+text:
+  "Nossen thewes cur tu es delbes. Sehwiz gesger
+   thowes wardes. Penag mynys thowe mystlalstibe.
+   Toppes pratres gircad delbeszisne tade
+   tymnes sennes worsinny. Dodi nomimes an
+   nosse igdenas magse. Unde geitkas pamas numas
+   musse nozegun cademas pametam nusson
+   pyrtainekans. No wede numus padam padomam,
+   swalbadi mumes newuse. Jesus Amen."

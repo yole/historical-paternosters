@@ -1,0 +1,19 @@
+language: Swedish
+attestations:
+- book_title: Pantographia
+  page: 244
+  description: Runic 2
+  source: Orat. Dom. p. 22
+- book_title: Oratio Dominica Polyglottos Polymorphos
+  page: 22
+  description: Runica
+  source: Fr. Junius F.F.
+text:
+  "Fader uor som est i himlum, halgad warde
+   thitt nama. Tilkomme thitt rikie. Skie thin
+   vilie, so som i himmalan, so och po jordanne.
+   Wort dachlicha brodh gif os i dagh. Ogh forlat
+   os uora skuldar, so som ogh vi forlate the
+   as skyldighe are. Ogh inled os ikkie i frestolsan,
+   utan frels os ifra ondo. Ty rikiad ar thitt
+   ogh maghtan, ogh harligheten. Amen."

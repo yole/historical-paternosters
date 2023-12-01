@@ -1,0 +1,22 @@
+language: Portuguese
+attestations:
+  - book_title: Pantographia
+    page: 238
+    description: Portuguese 2
+    source: Wilk. Ess. p. 435, Orat. Dom. p. 38
+  - book_title: Chamberlayne
+    page: 46
+    description: Lusitanice
+    source: ex. N. T. Lusitanico impresso Amst. 4to
+text:
+  "Pae nosso que estás n’os ceos, sanctificado sega
+   o teu nome, venna o teu reyno, seja feita
+   a tua vontade assi n’a terra como n’o ceo; O
+   paō nosso de cadadia nos dá hoje, e perdoa-
+   nos nossas dividas, assi como nos perdoamos
+   nossos devedores; e naō nos metas emtas tentaçao, 
+   mas livra nos de mal. Porque teu he o[1]
+   reyno, e a potencia, e a gloria para todo sempre. Amen."
+footnotes:
+  1: "Pantographia: Text ends here"
+

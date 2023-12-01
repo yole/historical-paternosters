@@ -46,3 +46,9 @@ languages:
 - name: Manchu
   family: Tungusic
   url: https://en.wikipedia.org/wiki/Manchu_language
+- name: Curonian
+  family: Indo-European/Baltic
+  url: https://en.wikipedia.org/wiki/Curonian_language
+- name: Old Prussian
+  family: Indo-European/Baltic
+  url: https://en.wikipedia.org/wiki/Old_Prussian_language

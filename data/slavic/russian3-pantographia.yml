@@ -1,0 +1,19 @@
+language: Russian
+attestations:
+  - book_title: Pantographia
+    page: 248
+    description: Russian 3
+    source: Orat. Dom. Amst. p. 78
+  - book_title: Chamberlayne
+    page: 78
+    description: Moscovitice
+    source: "Nobilissimus Dnus Birndorff Ablegatus Hungariae et Transylvaniae Ecclesiarum <...> pro Dno. Chamberlaynio accurate conscripsit"
+base: slavic/russian2-pantographia
+text:
+  "Otshe nash ije esi na nebesech. Da svetitsia imia
+   tvoie. Da pridet tzarstvie tvoie. Da budet
+   volia tvoia iako na nebesi i na zemli. Chleb
+   nash nasuschnii dajid nam dnies. J ostavinam
+   dolgi nasha jakoje i mi ostavliaem doljinicom
+   nashim. J ne vovedi nas vo iscuschenie. No
+   izbavi nas ot lucavago. Amen."

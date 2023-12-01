@@ -105,3 +105,16 @@ books:
   author: Johan-Arnold von Brand
   author_url: https://de.wikipedia.org/wiki/Johann_Arnold_von_Brand
 
+- title: Grunau
+  full_title: Preussische Chronik, Vol. 1
+  year: 1529
+  url: https://books.google.com/books?id=RkcFAAAAQAAJ
+  author: Simon Grunau
+  author_url: https://en.wikipedia.org/wiki/Simon_Grunau
+
+- title: Hartknoch
+  full_title: Alt- und Neues Preussen Oder Preussischer Historien Zwey Theile
+  year: 1684
+  url: https://books.google.com/books?id=ImJcAAAAcAAJ
+  author: Christoph Hartknoch
+  author_url: https://en.wikipedia.org/wiki/Christoph_Hartknoch

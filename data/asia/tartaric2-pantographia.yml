@@ -1,0 +1,25 @@
+language: Turkish
+attestations:
+  - book_title: Pantographia
+    page: 288
+    description: Tartaric 2
+    source: Orat. Dom. p. 19
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 19
+    description: Tartarica
+    source: Vide Schildb. p. ult. Conf. Meg. n. 44. Wilk. n. 38
+text:
+  "Yâ[1] Atamùz ki yûksèk ghiôghdá sen, aadin âri
+   olsoun, pâdishâh-líghin ghelsoun, boiruklérin
+   itmish olsoun ghiôghda kibì dahi yírda, her-ghiûnaghi
+   ekmekimúzi vîr bizè bû-ghiûn, va
+   bourgilerimúzi bizè baghíshla nítakim biz dahi
+   bourgilulerimúzi baghishlériz, va bizì sinísha[2]
+   ghiturmà, lakìn yaramazdàn bizì sáli-vir[3],
+   zirá-ki senúngh-dur padishah-lìk va kadirlìk[4]
+   va boyûklìk ta gjâvid gjâvidana. Amîn."
+footnotes:
+  1: "Pantographia: Ya"
+  2: "Orat. Dom. inserts here [sunisha]"
+  3: "Orat. Dom. inserts here [va kôrtar va sákla]"
+  4: "Pantographia's specimen is truncated at this point"

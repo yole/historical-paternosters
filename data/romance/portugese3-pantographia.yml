@@ -1,0 +1,21 @@
+language: Portuguese
+attestations:
+  - book_title: Pantographia
+    page: 238
+    description: Portuguese 3
+    source: David Wilkins’s edition of Chamberlayne’s Orat. Dom. p. 46.
+  - book_title: Chamberlayne
+    page: 46
+    description: Lusitanice Aliter
+    source: ex Liturgia Ecclesiae Anglicanae Lusitanica Oxonii 1700
+text:
+  "Nosso pay que estás n’o c’eo, santificado seia
+   teu nome, venha teu reyno, tua vontade se faça 
+   na terra, como n’o ceo; dà nos oje nosso
+   paō quotidiano, et perdoanos nossos trespassos
+   assi como nos perdoamos a os que trespassaō
+   contra nos; et naō nos tragas à tentaçaō,
+   mas livra nos do mal: porque teu he o reyno,[1]
+   & o poder, & a gloria em eterno. Amen."
+footnotes:
+  1: "Pantographia: Text ends here"

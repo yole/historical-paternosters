@@ -1,0 +1,15 @@
+language: Portuguese
+attestations:
+  - book_title: Pantographia
+    page: 238
+    description: Portuguese 1
+    source: Guthrie, p. 813
+text:
+  "Padre nosso, questas nos ceos, sanctificado seia
+   otu nome; venha à nos o teu reino, sea feita
+   à tua voluntade, assi nos ceos, come na terra.
+   Opao nosson de cadadia, da nolo oie nestro
+   dia, e perdoa a nos sennor as nossas dividas,
+   assi como nos perdoamos aos nossos dividores
+   e naon nos dexes cahir in tentacaon, mas libra
+   nos do mal. Amen."

@@ -1,0 +1,40 @@
+language: Old Prussian
+attestations:
+  - book_title: Pantographia
+    page: 242
+    description: Prussian 2
+    source: Orat. DOm. Amst. p. 86
+  - book_title: Chamberlayne
+    page: 86
+    description: Prutenice. Ex eodem.
+    source: ex Chr. Hartknochii Dissert. 5 de Ling. vet. Prus. pag. 86. 87
+  - book_title: Hartknoch
+    page: 93
+text:
+  "Thawe nouson kas thou æsse ændengon[1]. Swintits[2]
+   wirse twais emmens. Pareysey[3] noumans[4]
+   twayia ryeky. Tways quaits audaseisin[5] na semmiey[6]
+   kay endengan[7]. Nouson deyninan geytiey
+   days noumans schindeynan. Bhæ etwerpeis
+   noumans nouson anschautins, kay mes etwerpimay[8]
+   nouson anschautinekamans.[9] Bhæ ni wedeys mans
+   enperbandasnan. Slait[10] is rankeis mans æsse wargan.
+   Emmen."
+footnotes:
+  1: "Chamberlayne, Pantographia: endengon"
+  2: "Chamberlayne: Swyntits, Pantographia: swytits"
+  3: "Chamberlayne, Pantographia: parey sey"
+  4: "Chamberlayne, Pantographia: noumaus"
+  5: "Chamberlayne, Pantographia: audaseysin"
+  6: "Pantographia: semiey"
+  7: "Chamberlayne, Pantographia: endengon"
+  8: "Chamberlayne, Pantographia: etwerpymay"
+  9: "Pantographia: The text is cut off at this point, except for Emmen at the end"
+  10: "Chamberlayne: slaitt"
+bibliography:
+  - title: Old Prussian Written Monuments
+    author: Mykolas Letas Palmaĭtis
+    year: 2007
+notes:
+  According to the referenced book, the text comes from the "corrected"
+  version of Old Prussian Catechism published in Königsberg in 1545.

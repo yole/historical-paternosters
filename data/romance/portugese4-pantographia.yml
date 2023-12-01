@@ -1,0 +1,15 @@
+language: Portuguese
+attestations:
+  - book_title: Pantographia
+    page: 240
+    description: Portuguese 4
+    source: a gentleman well acquainted with the language
+text:
+  "Padre nosso que estais nos çêos, santificado
+   seja o vosso nome, venha a nôs o vosso reyno:
+   seja feita a vossa vontade assim na terra,
+   como no çeo, o pāo nosso de cada dia nos dai
+   hoje; perdoai as nossas devidas assim como
+   nos perdoamos a os nossos devidores, e nāo
+   nos deixeis cahir em tentaçāo, mas livrai-nos
+   de tudo o mal. Amen."
