@@ -118,3 +118,10 @@ books:
   url: https://books.google.com/books?id=ImJcAAAAcAAJ
   author: Christoph Hartknoch
   author_url: https://en.wikipedia.org/wiki/Christoph_Hartknoch
+
+- title: Gage
+  full_title: A survey of the Spanish-West-Indies. Being a journal of three thousand and three hundred miles on the continent of America
+  year: 1702
+  url: https://archive.org/details/surveyofspanishw00gage
+  author: Thomas Gage
+  author_url: https://en.wikipedia.org/wiki/Thomas_Gage_(priest)

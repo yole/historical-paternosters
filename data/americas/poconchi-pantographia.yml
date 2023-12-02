@@ -1,0 +1,70 @@
+language: Poqomchiʼ
+attestations:
+  - book_title: Pantographia
+    page: 224
+    description: Poconchi
+    source: Wilk. Ess. p. 435. Orat. Dom. p. 63
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 61
+    description: Poconchi
+    source: Thom. Gage p. 473 Conf. Wilk. n. 48
+  - book_title: Gage
+    page: 473
+    description: Poconchi
+text:
+  "Catat taxah vilcat; nim ta[1] incaharçihi avi; inchalita
+   avihauri pan[2] cana. Invanivita[3] nava yahvir
+   vacacal, he invan taxah[3]. Chaye runa cahuhunta
+   quih viic. Naçach ta camac[4], he incaçachve
+   quimac ximacquivi chiqvih. Macoacana
+   chipam catacchyhi; coaveçata china unche
+   tsirij mani quiro, he inqui. Amen."
+footnotes:
+  1: "'nimta' written as one word in text but glossed as two independent words"
+  2: "'avihauripan' written as one word in text but glossed as two independent words"
+  3: "Written 'in vantaxah' in text but glossed with different word breaks"
+  4: "Written 'Naçachtamac' in the text but glossed as three separate words"
+  5: "Written 'inpui' in the text but gloss is given for 'inqui"
+gloss:
+  "Catat": "Our father"
+  "taxah": "Heaven"
+  "vilcat": "art"
+  "nim": "greatly"
+  "ta": "willing"
+  "incaharçihi": "is magnified"
+  "avi": "thy name"
+  "inchalita": "let come"
+  "pan": "upon"
+  "cana": "our heads"
+  "Invanivita": "let be done"
+  "nava": "thou wilst"
+  "yahvir": "here"
+  "vacacal": "the face fo the earth"
+  "he": "even as"
+  "invan": "it is done"
+  "chaye": "give"
+  "runa": "today"
+  "cahuhunta": "our-every-OPT"
+  "quih": "the Sun of the day"
+  "viic": "bread"
+  "Naçach": "forgive"
+  "camac": "our sins"
+  "incaçachve": "we forgive"
+  "quimac": "their sins"
+  "ximacquivi": "they have sinned"
+  "chiqvih": "against us"
+  "Macoacana": "leave us not"
+  "chipam": "in"
+  "catacchyhi": "our being tempted"
+  "coaveçata": "deliver us"
+  "china": "from"
+  "unche": "all"
+  "tsirij": "evil"
+  "mani": "not"
+  "quiro": "good"
+  "inpui": "he says"
+
+
+
+
+
