@@ -1,8 +1,17 @@
 #parse("layout.vm")
 #@layout($title)
-<h1>$title</h1>
-#if($full_title)
-Full title: $full_title<br/>
+<h1>$fullTitleSnippet</h1>
+#if($full_title && $full_title != $fullTitleSnippet)
+Full title:
+    #if($url)
+        <a href="$url">$full_title</a>
+    #else
+        $full_title
+    #end
+<br/>
+#end
+#if($url && (!$full_title || $full_title == $fullTitleSnippet))
+    <a href="$url">Full text</a><br/>
 #end
 #if($author)
 #if($author_url)
@@ -12,7 +21,12 @@ Author: $author
 #end
 #end
 Year of publication: $year<br/>
-Specimens:
+
+#if($image)
+    <img src="/images/$image"/>
+#end
+
+<h3>Specimens</h3>
 <ul>
 #foreach($specimen in $specimens)
     <li>

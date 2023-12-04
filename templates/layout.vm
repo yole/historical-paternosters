@@ -1,6 +1,8 @@
 #macro(layout $title)
 <head>
     <meta charset="UTF-8"/>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Serif">
     <link rel="stylesheet" href="/paternoster.css"/>
 #if($title)
     <title>Historical Paternoster Database: $title</title>

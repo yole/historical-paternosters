@@ -3,6 +3,9 @@
 <h1>Books with Paternoster Attestations</h1>
 #foreach($book in $books)
     <p>
+#if($book.author)
+    $book.author &ndash;
+#end
     #if($book.full_title)
     <a href="/$book.outPath">$book.full_title</a>
     #else

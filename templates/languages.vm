@@ -9,7 +9,11 @@
 #renderFamily($subFamily)
 #end
 #foreach($language in $family.languages)
-    <li><a href="/$language.outPath">$language.name</a></li>
+    <li><a href="/$language.outPath">$language.name</a>
+#if($language.url)
+    (<a href="$language.url">Wikipedia</a>)
+#end
+    </li>
 #end
 </ul>
 #end

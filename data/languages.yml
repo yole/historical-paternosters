@@ -73,3 +73,15 @@ languages:
 - name: Guaraní
   family: Tupian
   url: https://en.wikipedia.org/wiki/Guarani_language
+- name: Portuguese
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Portuguese_language
+- name: Arabic
+  family: Afro-Asiatic/Semitic
+  url: https://en.wikipedia.org/wiki/Arabic
+- name: Romanian
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Romanian_language
+- name: Poqomchi'
+  family: Mayan
+  url: https://en.wikipedia.org/wiki/Poqomchi%CA%BC_language

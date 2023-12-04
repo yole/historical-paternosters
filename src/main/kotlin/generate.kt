@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalPathApi::class)
+
 package page.yole.paternosters
 
 import org.apache.velocity.Template
@@ -17,6 +19,8 @@ import java.util.Properties
 import kotlin.io.path.*
 import kotlin.reflect.KProperty
 
+private fun toSnippet(text: String?, words: Int) = text?.split(' ')?.take(words)?.joinToString(" ") ?: ""
+
 class Book {
     var title: String? = null
     var full_title: String? = null
@@ -24,9 +28,16 @@ class Book {
     var url: String? = null
     var author: String? = null
     var author_url: String? = null
+    var image: String? = null
 
     val outPath: String
         get() = "books/${title?.lowercase()?.replace(' ', '-')}.html"
+
+    val fullTitleSnippet: String
+        get() {
+            val snippet = full_title?.let { toSnippet(it, 8) } ?: title ?: ""
+            return if (snippet == full_title) snippet else "$snippet..."
+        }
 }
 
 class Books {
@@ -41,6 +52,8 @@ class Language {
     val outPath: String
         get() = "languages/${name?.lowercase()?.replace(' ', '-')}.html"
 }
+
+val uncertainLanguages = mutableMapOf<String, Language>()
 
 class Languages {
     var languages: MutableList<Language> = mutableListOf()
@@ -90,10 +103,10 @@ class Specimen {
         get() = "$path.html"
 
     val snippet: String
-        get() = footnoteRegex.replace(
-            text?.split(' ')?.take(5)?.joinToString(" ") ?: "",
-            ""
-        )
+        get() = footnoteRegex.replace(toSnippet(text, 5), "")
+
+    val earliestAttestation: Attestation
+        get() = attestations.sortedBy { it.book?.year ?: Int.MAX_VALUE }.first()
 }
 
 fun loadSpecimen(path: Path): Specimen {
@@ -278,8 +291,17 @@ fun generateLanguages(rootFamily: LanguageFamily, path: String) {
 }
 
 fun generateIndex(path: String) {
+    val readme = Paths.get("README.md").readLines()
+        .drop(1) // first caption line
+        .dropWhile { it.isEmpty() } // blank lines
+        .takeWhile { !it.startsWith("#") } //next caption
+        .joinToString("\n")
+    val readmeHtml = markdownToHtml(readme)
+
     val template = Velocity.getTemplate("index.vm")
-    generateToFile(path, template, VelocityContext())
+    generateToFile(path, template, VelocityContext().apply {
+        put("readme", readmeHtml)
+    })
 }
 
 fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
@@ -326,10 +348,12 @@ private fun resolveReferences(
                 errors.add("Can't resolve base path in ${specimen.path}")
             }
         }
-        if (specimen.language == null) {
+        val language = specimen.language
+        if (language == null) {
             errors.add("No language specified in ${specimen.path}")
         } else {
-            specimen.lang = languages.find { it.name == specimen.language }
+            specimen.lang = languages.find { it.name == language } ?:
+            findOrCreateUncertainLanguage(language)
         }
         if (errors.isEmpty()) {
             specimen.attestations.sortBy { it.book!!.year }
@@ -338,14 +362,23 @@ private fun resolveReferences(
     return errors
 }
 
+fun findOrCreateUncertainLanguage(language: String): Language {
+    return uncertainLanguages.getOrPut(language) {
+        Language().apply {
+            name = language
+            family = "Uncertainly Identified"
+        }
+    }
+}
+
 fun main() {
     val books = loadBooks("data/books.yml")
     val languages = loadLanguages("data/languages.yml")
     val allSpecimens = loadSpecimens("data")
 
-    val rootFamily = groupLanguagesIntoFamilies(languages)
-
     val errors = resolveReferences(allSpecimens, books, languages)
+
+    val rootFamily = groupLanguagesIntoFamilies(languages + uncertainLanguages.values)
 
     if (errors.isNotEmpty()) {
         for (error in errors) {
@@ -371,4 +404,5 @@ fun main() {
     generateLanguages(rootFamily, "out/languages.html")
     generateIndex("out/index.html")
     Paths.get("templates/paternoster.css").copyTo(Paths.get("out/paternoster.css"), overwrite = true)
+    Paths.get("images").copyToRecursively(Paths.get("out/images"), overwrite = true, followLinks = false)
 }

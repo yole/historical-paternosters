@@ -20,10 +20,18 @@ introducing errors in the process of copying. The languages of each translation 
 sometimes misidentified.
 
 The goal of this project is to create a database of the Pater Noster translations published
-in collections that came out before 1800. For each translation, my goal is to identify the language,
-to track down the original source wherever possible, to specify the transmission history,
-and to annotate the differences between the versions of the same translation published by
-different authors. The effort is currently actively in progress.
+in collections that came out before 1800. For each translation, this database aims to:
+ * identify the language;
+ * track down the original source wherever possible;
+ * specify the transmission history;
+ * annotate the differences between the versions of the same translation published by
+different authors;
+ * provide interlinear glosses;
+ * provide links to articles where a given translation is discussed or analyzed.
+
+The effort is currently actively in progress.
+
+### This Repository
 
 This repository contains the database of the specimens themselves (the `data` directory),
 as well as code to generate a public Web site from the database. The site is a work in progress

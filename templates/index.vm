@@ -1,9 +1,5 @@
 #parse("layout.vm")
 #@layout("")
 <h1>Historical Paternoster Database</h1>
-In the Early Modern period, the most common way to provide a sample of a foreign language
-was a translation of the <a href="https://en.wikipedia.org/wiki/Lord%27s_Prayer">Lord's Prayer</a>, also
-known as Pater Noster or Oratio Dominica. Multiple books were released containing translations
-of Pater Noster into many languages (up to 100 and even more), and travel reports often contained
-translations of Pater Noster into the languages of the lands the author traveled to.
+$readme
 #end

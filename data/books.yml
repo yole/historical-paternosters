@@ -7,6 +7,7 @@ books:
   url: https://books.google.com/books?id=AZRXAAAAcAAJ
   author: Hieronimus Megiser
   author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
+  image: megiser.png
 
 - title: Duret
   full_title: Thresor de L'Histoire des Langves de Cest Vnivers
@@ -65,6 +66,7 @@ books:
   url: https://books.google.com/books?id=lh08AAAAcAAJ
   author: Bartolomej Georgijević
   author_url: https://en.wikipedia.org/wiki/Bartol_Gyurgieuvits
+  image: de-turcarum-moribus.jpeg
 
 - title: Lutheri Catechismus Virginiske Spraket
   full_title: Lutheri Catechismus öfwersatt på american-virginiske språket
@@ -109,6 +111,7 @@ books:
   full_title: Preussische Chronik, Vol. 1
   year: 1529
   url: https://books.google.com/books?id=RkcFAAAAQAAJ
+  image: grunau.jpeg
   author: Simon Grunau
   author_url: https://en.wikipedia.org/wiki/Simon_Grunau
 
@@ -136,4 +139,5 @@ books:
   full_title: Johannis Micraelii Erstes Buch Deß Alten Pommer-Landes
   year: 1639
   url: https://books.google.com/books?id=Nes-AAAAcAAJ
+  author: Johannes Micraelius
   author_url: https://en.wikipedia.org/wiki/Johannes_Micraelius
