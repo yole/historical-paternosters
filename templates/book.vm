@@ -15,7 +15,12 @@ Year of publication: $year<br/>
 Specimens:
 <ul>
 #foreach($specimen in $specimens)
-    <li>$specimen.second.description &ndash; <a href="/$specimen.first.outPath">$specimen.first.language</a></li>
+    <li>
+#if($specimen.second.description)
+    $specimen.second.description &ndash;
+#end
+        <a href="/$specimen.first.outPath">$specimen.first.language</a>: $specimen.first.snippet...
+    </li>
 #end
 </ul>
 #end

@@ -1,9 +1,29 @@
 #macro(layout $title)
 <head>
-<meta charset="UTF-8"/>
-<title>Historical Paternoster Database: $title</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="/paternoster.css"/>
+#if($title)
+    <title>Historical Paternoster Database: $title</title>
+#else
+    <title>Historical Paternoster Database</title>
+#end
 </head>
 <body>
-$!bodyContent
+    <div class="main">
+        <div class="navigation">
+            <h3 class="self-link"><a href="/">Paternosters</a></h3>
+            <p>
+            <a href="/books.html">Books</a><br/>
+            <a href="/languages.html">Languages</a>
+        </div>
+        <div class="content">
+            $!bodyContent
+        </div>
+    </div>
+    <div class="footer">
+        Maintained by <a href="https://github.com/yole">Dmitry Jemerov</a>.
+        Hosted on <a href="https://github.com/yole/historical-paternosters">GitHub</a>.
+        Additions, corrections? Issues and PRs are welcome.
+    </div>
 </body>
 #end

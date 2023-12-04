@@ -1,0 +1,25 @@
+body {
+    max-width: 1024px;
+}
+
+.main {
+    display: flex;
+}
+
+.navigation {
+    background-color: beige;
+    padding: 1rem;
+}
+
+.content {
+    padding-left: 1rem;
+}
+
+.self-link {
+    text-decoration: none;
+}
+
+.footer {
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+}

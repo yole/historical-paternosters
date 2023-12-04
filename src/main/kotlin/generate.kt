@@ -88,6 +88,12 @@ class Specimen {
 
     val outPath: String
         get() = "$path.html"
+
+    val snippet: String
+        get() = footnoteRegex.replace(
+            text?.split(' ')?.take(5)?.joinToString(" ") ?: "",
+            ""
+        )
 }
 
 fun loadSpecimen(path: Path): Specimen {
@@ -271,6 +277,11 @@ fun generateLanguages(rootFamily: LanguageFamily, path: String) {
     generateToFile(path, template, context)
 }
 
+fun generateIndex(path: String) {
+    val template = Velocity.getTemplate("index.vm")
+    generateToFile(path, template, VelocityContext())
+}
+
 fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
     val rootFamily = LanguageFamily("")
     for (language in languages) {
@@ -358,4 +369,6 @@ fun main() {
     }
     generateBooks(books, "out/books.html")
     generateLanguages(rootFamily, "out/languages.html")
+    generateIndex("out/index.html")
+    Paths.get("templates/paternoster.css").copyTo(Paths.get("out/paternoster.css"), overwrite = true)
 }

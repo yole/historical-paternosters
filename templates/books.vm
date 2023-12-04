@@ -1,4 +1,14 @@
+#parse("layout.vm")
+#@layout("Books")
+<h1>Books with Paternoster Attestations</h1>
 #foreach($book in $books)
-<a href="/$book.outPath">$book.title</a>
-<br>
+    <p>
+    #if($book.full_title)
+    <a href="/$book.outPath">$book.full_title</a>
+    #else
+    <a href="/$book.outPath">$book.title</a>
+    #end
+    ($book.year)
+    </p>
+#end
 #end
