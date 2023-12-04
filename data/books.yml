@@ -12,6 +12,7 @@ books:
   full_title: Thresor de L'Histoire des Langves de Cest Vnivers
   year: 1613
   url: https://archive.org/details/fre_b1886963
+  image: thresor.jpeg
   author: M. Claude Duret
   author_url: https://en.wikipedia.org/wiki/Claude_Duret
 
@@ -28,6 +29,7 @@ books:
     "Oratio Dominica [polyglottos, polymorphos]. : Nimirum, plus centum linguis, versionibus, aut characteribus reddita & expressa"
   year: 1713
   url: https://archive.org/details/oratiodominicapo00lipp
+  image: oratiodominica.jpeg
 
 - title: Chamberlayne
   full_title:
@@ -55,10 +57,11 @@ books:
   author_url: https://en.wikipedia.org/wiki/Simon_de_la_Loub%C3%A8re
 
 - title: Noord en Oost Tartarye
-  year: 1785
+  year: 1705
   url: https://resources.huygens.knaw.nl/retroboeken/witsen
   author: Nicolaas Witsen
   author_url: https://en.wikipedia.org/wiki/Nicolaes_Witsen
+  image: noord-en-ost-tartarye.jpeg
 
 - title: De Turcarum moribus epitome
   year: 1555
@@ -72,17 +75,19 @@ books:
   url: https://archive.org/details/luthericatechism00luth
   author: John Campanius
   author_url: https://en.wikipedia.org/wiki/John_Campanius
+  image: catechismus-virginiske-spraket.jpeg
 
 - title: Eliot Indian Bible
   year: 1663
   url: https://archive.org/details/mamussewunneetup00elio
   author: John Eliot
   author_url: https://en.wikipedia.org/wiki/John_Eliot_(missionary)
+  image: eliot-indian-bible.jpeg
 
 - title: Reland
   full_title: Hadriani Relandi Dissertationum Miscellanearum Pars Tertia
   year: 1708
-  url: https://books.google.de/books?id=CPtkAAAAcAAJ
+  url: https://books.google.com/books?id=CPtkAAAAcAAJ
   author: Adriaan Reland
   author_url: https://en.wikipedia.org/wiki/Adriaan_Reland
 
@@ -92,6 +97,7 @@ books:
   url: https://www.digitale-sammlungen.de/en/view/bsb11055296
   author: Johann Weikhard von Valvasor
   author_url: https://en.wikipedia.org/wiki/Johann_Weikhard_von_Valvasor
+  image: herzogtum-crain.png
 
 - title: Oratio Orationum
   full_title: Oratio Orationum. SS. Orationis Dominicae Versiones praeter Authenticam fere Centum
@@ -104,6 +110,7 @@ books:
   url: https://archive.org/details/BrandReysen1702
   author: Johan-Arnold von Brand
   author_url: https://de.wikipedia.org/wiki/Johann_Arnold_von_Brand
+  image: Brand_Reysen.jpeg
 
 - title: Grunau
   full_title: Preussische Chronik, Vol. 1
@@ -125,12 +132,14 @@ books:
   url: https://archive.org/details/surveyofspanishw00gage
   author: Thomas Gage
   author_url: https://en.wikipedia.org/wiki/Thomas_Gage_(priest)
+  image: gage.jpeg
 
 - title: Account of the Islands of Orkney
   year: 1700
   url: https://archive.org/details/bim_early-english-books-1641-1700_an-account-of-the-island_wallace-james_1700
   author: James Wallace
   author_url: https://en.wikipedia.org/wiki/James_Wallace_(botanist)
+  image: orkney.jpeg
 
 - title: Micraelius
   full_title: Johannis Micraelii Erstes Buch Deß Alten Pommer-Landes
