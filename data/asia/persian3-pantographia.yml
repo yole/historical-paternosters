@@ -1,0 +1,23 @@
+language: Persian
+attestations:
+  - book_title: Pantographia
+    page: 220
+    description: Persian 3
+    source: Wilk. Ess. p. 435. Orat. Dom. p. 17
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 17
+    description: Persica.
+    source: Wilkins n. 41. Confer. Meg. num. 43
+text:
+  "Ei padere ma kih der osmon. Pak basched
+   nâm tou. Beyayed padschahi tou. Schwad
+   chwáste tou hemzjunánkih der osmon nîz der
+   zemîn. Bideh mara jmrouz nân kefaf rouz
+   mara. Wudargudshar mara konahan ma zjunankih
+   ma niz migudhsarim ormân mara.
+   Wudar ozmajisch minedaz mara. Likin chalasd
+   kun mara ez scherire. Beraj ankih melcut
+   wunirumendi w’a-tsemet ez on toust vuta
+   ebed ebedi ’lebedi. Amin."
+footnotes:
+  1: "Pantographia: Wodar"

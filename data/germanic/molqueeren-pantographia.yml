@@ -1,0 +1,24 @@
+language: West Frisian
+attestations:
+  - book_title: Pantographia
+    page: 204
+    description: Molqueeren
+    source: Orat. Dom. Amst. p. 88
+  - book_title: Chamberlayne
+    page: 88
+    description: Molquerane
+    source: sed quoniam mihi tradita est à Cl. Hemsterhusio
+text:
+  "Oes Veer der iin de hiim’len binne. Jimme
+   nemme word heil’ge. Jimme keuniink-riike
+   kom to. Jimme wolle geschied op d’ierde alliik
+   as iin de hiimmel. Joeoe oes joe oes dageliiks
+   broeoe. En vorjoeoe oes oes schjolden, alliik
+   as wi vorgoeoe oes schjold’ners. Ende en
+   leide oes naat ein vorsiekiinge, mar vorlos oes
+   van de kwoeoe. Want jimmes iis ’et keuniinkriike
+   en de kreft, en de heerliikheit, iin der ieuwigheit. Ammen."
+footnotes:
+  1: "Pantographia: text is cut off at 'keuniink'"
+notes:
+  The language name refers to the village of [Molkwerum](https://en.wikipedia.org/wiki/Molkwerum).

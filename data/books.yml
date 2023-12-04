@@ -125,3 +125,15 @@ books:
   url: https://archive.org/details/surveyofspanishw00gage
   author: Thomas Gage
   author_url: https://en.wikipedia.org/wiki/Thomas_Gage_(priest)
+
+- title: Account of the Islands of Orkney
+  year: 1700
+  url: https://archive.org/details/bim_early-english-books-1641-1700_an-account-of-the-island_wallace-james_1700
+  author: James Wallace
+  author_url: https://en.wikipedia.org/wiki/James_Wallace_(botanist)
+
+- title: Micraelius
+  full_title: Johannis Micraelii Erstes Buch Deß Alten Pommer-Landes
+  year: 1639
+  urL: https://books.google.com/books?id=Nes-AAAAcAAJ
+  author_url: https://en.wikipedia.org/wiki/Johannes_Micraelius

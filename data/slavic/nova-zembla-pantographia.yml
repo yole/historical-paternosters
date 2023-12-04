@@ -1,0 +1,29 @@
+language: Russian
+attestations:
+  - book_title: Pantographia
+    page: 212
+    description: Nova Zembla
+    source: Orat. Dom. Amst. p. 80*
+  - book_title: Chamberlayne
+    page: 80
+    description: Nova Zembla
+    source: "Ex Appendice Tom. 3 Dissert. Misc. Cl. Relandi descripsi"
+  - book_title: Reland
+    page: 303
+    description: Novazemblice
+  - book_title: Die Ehre dess Hertzogthums Crain
+    page: 274
+    description: Vandalice
+base: slavic/russian2-pantographia
+text:
+  "Otcse naz icse zi[1] nanabezi[2], Pozuetytze ime
+   tye, Pridi czarztvo tye, Budi uola tya kako
+   unebezi tako nazemli, Hlyb naz zakdan dynam
+   danacz, I[3] odpuzi nam duge naze kako
+   imi odpuzymo doznikam nazim, i nauedi[4] naz
+   unapazet, Da izctaui naz od zla. Amen"
+footnotes:
+  1: "Pantographia, Chamberlayne: ti"
+  2: "Pantographia, Chamberlayne: nanebezi"
+  3: "Pantographia, Chamberlayne: J"
+  4: "Pantographia, Chamberlayne: Jnauedi"

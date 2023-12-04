@@ -1,0 +1,25 @@
+language: Norn
+attestations:
+  - book_title: Pantographia
+    page: 216
+    description: Orcadian
+    source: Orat. Dom. p. 65
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 65
+    description: Orcadica
+  - book_title: Account of the Islands of Orkney
+    page: 68
+    description: Norns
+text:
+  "Favor i ir i[1] chimrie, helleur ir i nam thite, gilla
+   cosdum thite cumma, veya thine mota vara
+   gort o yurn sinna gort i chimrie, ga vus da on
+   dalight brow vora, firgive vus sinna vora sin
+   vee firgive sindara mutha vus, lyv vus[2] ye i
+   tumtation[3], min delivera vus fro olt ilt. Amen,[4]
+   Or, On sa meteth vera."
+footnotes:
+  1: "Pantographia, Oratio Dominica Polyglottos Polymorphos: 'iri' instead of 'ir i'"
+  2: "Pantographia, Oratio Dominica Polyglottos Polymorphos: 'us &' instead of 'vus'"
+  3: "Pantographia, Oratio Dominica Polyglottos Polymorphos: 'tuntation"
+  4: "Pantographia: text is cut off at this point"

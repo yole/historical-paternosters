@@ -52,3 +52,24 @@ languages:
 - name: Old Prussian
   family: Indo-European/Baltic
   url: https://en.wikipedia.org/wiki/Old_Prussian_language
+- name: Persian
+  family: Indo-European/Iranian
+  url: https://en.wikipedia.org/wiki/Persian_language
+- name: Polish
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Polish_language
+- name: Norn
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Norn_language
+- name: Norwegian
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Norwegian_language
+- name: West Frisian
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/West_Frisian_language
+- name: Mohawk
+  family: Iroquoian
+  url: https://en.wikipedia.org/wiki/Mohawk_language
+- name: Guaraní
+  family: Tupian
+  url: https://en.wikipedia.org/wiki/Guarani_language

@@ -1,0 +1,22 @@
+language: Polish
+attestations:
+  - book_title: Pantographia
+    page: 216
+    description: Polish
+    source: From a bible in this language, Dantz. 1632. Wilk. Ess. p. 435. Orat. Dom. p. 58
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 58
+    descrition: Polonica
+    source:
+      "Bibl. Polon. Dant. 1632. Conf. N.T. Polon. Thorun. 1585. Dur. p. 869. Gesn. p. 62. Meg. n. 37. Pist. n. 30.
+       Reut. n. 29. Wilk. n. 34"
+text:
+  "Oicze náss, ktorys jest w niebiesiech. Swiecsie
+   imic twoie. Przydz krolestvo twoie. Badz
+   wola twa, jako wniebie, táky ná ziemi. Chlebá
+   nass ego powessedniego day nam dzisia. Y
+   od pusc nam nasze winy, ja koymy od pusec
+   zamo nássym winowajcom. Ynie w wodz nas
+   na pokusseme. Ale nas zbaw ode zkego. Abowiem
+   twoje jest krolestwo, y moc, y chwata,
+   na wieki. Amen."

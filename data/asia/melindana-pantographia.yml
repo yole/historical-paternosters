@@ -1,0 +1,19 @@
+language: Arabic
+attestations:
+  - book_title: Pantographia
+    page: 200
+    description: Melindana
+    source: Orat. Dom. p. 26
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 26
+    description: Melindana
+    source: Grammaye ap. D'Avity Afr. p. 497. Est hæc versio plane Arabico, Ideóque è superioribus corrigenda.
+text:
+  "Aban ladi fissan auari; It cades esmoctacti.
+   Mala cutoca. Tacuna mascitoca coma fissame
+   Chidaleca ghlalandi. Cobzano chefasona agtona
+   fili aume. Agsar lena Cataiano nacfar leman
+   lena galaia. Vualo tadcholnal tagarabe.
+   Lache nagna min ssciratri. Amin."
+notes:
+  The place that the language name refers to is [Malindi](https://en.wikipedia.org/wiki/Malindi), in modern day Kenya.

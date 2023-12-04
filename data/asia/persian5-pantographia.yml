@@ -1,0 +1,24 @@
+language: Persian
+attestations:
+  - book_title: Pantographia
+    page: 222
+    description: Persian 57
+    source: Orat. Dom. Amst. p. 10
+  - book_title: Chamberlayne
+    page: 10
+    description: Percice. Charactere Jaguthi
+    source: ex Mss. Ciar. Chamberlaynii charactere Jaghuthi scripto.
+text:
+  "Namoz Hasrath Issa. Ei peder moh ki der aosmoni.
+   Nahm ssetthuda kiarda sheued padeschahi
+   tu biagad. Araadeh tu bedgia awerdah
+   sheved derssamin ki dziun der osmon. —
+   Nam hererouss imerouss bæmo bærsan. Ve
+   giunoh moh meof kiunid csenancsi moh. Üschanera[1]
+   ki bemoh giunoh kerda end aafu fermaüm
+   ve derweswesse. Sheittan mahrah mefkiun
+   amma essu mahrah chellos kiunid ki
+   paddeschai tu. Ve dgelalettu ve kuddret tu
+   giawid baschad. Amin."
+footnotes:
+  1: "Pantographia: uschanera"

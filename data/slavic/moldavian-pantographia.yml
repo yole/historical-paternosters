@@ -1,0 +1,16 @@
+language: Russian
+attestations:
+  - book_title: Pantographia
+    page: 204
+    description: Moldavian
+    source: from a manuscript in the Bodleian library
+base: slavic/russian2-pantographia
+text:
+  "Otze nasi ezie esæ na nebesech: Da sbetætse
+   æme tboe: Da prædet tzarstbie tböe: Da baidet
+   bole tböe iako na nebesech æ na zemlæ:
+   Chliab nasi nasestniæ dazit nam denes : Æ ostabæ
+   nam delggæ nase sakozie æmæ ostablem
+   dailzænikom nasaem: Æ nebaibedæ nasi beæskusevje:
+   Nai æsbabaæ nas ot laikabago: Iako
+   tböe est tzarstbo æ sæla æ slaba otzu æ sinu"

@@ -1,0 +1,24 @@
+language: Persian
+attestations:
+  - book_title: Pantographia
+    page: 222
+    description: Persian 4
+    source: Orat. Dom. Amst. p. 9
+  - book_title: Chamberlayne
+    page: 9
+    description: Percice. stylo communi
+    source: ex Exemplaribus impressis
+base: asia/persian3-pantographia
+text:
+  "Ei padere ma kih der osmoni. Pak basched
+   nâm tu. Beyayed padschahi tu. Schwad chwáste
+   tu hemzjunánkih der osmon nîz der
+   zemîn. Bdéh mára jmrouz nân kefáf rouz
+   mara. Wadargudsar mara konáhan ma zjunankih
+   ma niz migsarim ormân mara. Wadar[1]
+   ozmajisch minedâz mara. Likin chalás
+   kun mara ez scherir. Beraj ankih melcut wanirumendi
+   w’a-semet ez on tust ecnoun wota
+   ebed ebed ’i lebedi. Amin."
+footnotes:
+  1: "Pantographia: Wodar"
