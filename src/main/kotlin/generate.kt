@@ -1,5 +1,3 @@
-@file:OptIn(ExperimentalPathApi::class)
-
 package page.yole.paternosters
 
 import com.beust.klaxon.JsonObject
@@ -60,8 +58,18 @@ class Language {
     var family: String? = null
     var url: String? = null
 
-    val outPath: String
-        get() = "languages/${name?.lowercase()?.replace(' ', '-')}.html"
+    var specimens: List<Specimen>? = null
+
+    val outPath: String?
+        get() =
+            if (family == uncertainFamily)
+                null
+            else
+                "languages/${name?.lowercase()?.replace(' ', '-')}.html"
+
+    companion object {
+        const val uncertainFamily = "Uncertainly Identified"
+    }
 }
 
 val uncertainLanguages = mutableMapOf<String, Language>()
@@ -325,10 +333,9 @@ fun generateBooks(books: List<Book>, path: String) {
     generateToFile(path, template, context)
 }
 
-fun generateLanguage(language: Language, allSpecimens: List<Specimen>, path: String) {
+fun generateLanguage(language: Language, path: String) {
     val template = Velocity.getTemplate("language.vm")
     val context = contextFromObject(language)
-    context.put("specimens", allSpecimens.filter { it.lang == language })
     generateToFile(path, template, context)
 }
 
@@ -408,6 +415,11 @@ private fun resolveReferences(
             specimen.attestations.sortBy { it.book!!.year }
         }
     }
+
+    for (language in languages + uncertainLanguages.values) {
+        language.specimens = allSpecimens.filter { it.lang == language }
+    }
+
     return errors
 }
 
@@ -415,11 +427,12 @@ fun findOrCreateUncertainLanguage(language: String): Language {
     return uncertainLanguages.getOrPut(language) {
         Language().apply {
             name = language
-            family = "Uncertainly Identified"
+            family = Language.uncertainFamily
         }
     }
 }
 
+@OptIn(ExperimentalPathApi::class)
 fun main() {
     val books = loadBooks("data/books.yml")
     val languages = loadLanguages("data/languages.yml")
@@ -447,7 +460,7 @@ fun main() {
         generateBook(book, allSpecimens, "out/${book.outPath}")
     }
     for (language in languages) {
-        generateLanguage(language, allSpecimens, "out/${language.outPath}")
+        generateLanguage(language, "out/${language.outPath}")
     }
     generateBooks(books, "out/books.html")
     generateLanguages(rootFamily, "out/languages.html")
