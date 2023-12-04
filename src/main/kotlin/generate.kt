@@ -2,6 +2,8 @@
 
 package page.yole.paternosters
 
+import com.beust.klaxon.JsonObject
+import com.beust.klaxon.Parser
 import org.apache.velocity.Template
 import org.apache.velocity.VelocityContext
 import org.apache.velocity.app.Velocity
@@ -13,6 +15,12 @@ import org.yaml.snakeyaml.TypeDescription
 import org.yaml.snakeyaml.Yaml
 import org.yaml.snakeyaml.constructor.Constructor
 import java.io.OutputStreamWriter
+import java.io.StringReader
+import java.lang.Exception
+import java.net.URI
+import java.net.http.HttpClient
+import java.net.http.HttpRequest
+import java.net.http.HttpResponse.BodyHandlers
 import java.nio.file.Path
 import java.nio.file.Paths
 import java.util.Properties
@@ -31,7 +39,10 @@ class Book {
     var image: String? = null
 
     val outPath: String
-        get() = "books/${title?.lowercase()?.replace(' ', '-')}.html"
+        get() = "books/${titleSlug}.html"
+
+    val titleSlug: String
+        get() = title?.lowercase()?.replace(' ', '-') ?: ""
 
     val fullTitleSnippet: String
         get() {
@@ -243,6 +254,34 @@ fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
     return result
 }
 
+fun downloadThumbnail(book: Book): String? {
+    val bookUrl = book.url ?: return null
+    if ("books.google.com" in bookUrl) {
+        val downloadPath = Paths.get("out/images", book.titleSlug + ".jpg")
+        if (!downloadPath.exists()) {
+            val id = bookUrl.substringAfter("id=")
+            val httpClient = HttpClient.newHttpClient()
+            val request = HttpRequest.newBuilder()
+                .uri(URI.create("https://www.googleapis.com/books/v1/volumes/$id"))
+                .build()
+            val response = httpClient.send(request, BodyHandlers.ofString())
+
+            val parser = Parser.default()
+            val jsonObject = parser.parse(StringReader(response.body())) as JsonObject
+            val volumeInfo = jsonObject["volumeInfo"] as JsonObject
+            val imageLinks = volumeInfo["imageLinks"] as JsonObject
+            val medium = imageLinks["medium"] as String
+
+            val imageRequest = HttpRequest.newBuilder()
+                .uri(URI.create(medium))
+                .build()
+            httpClient.send(imageRequest, BodyHandlers.ofFile(downloadPath))
+        }
+
+        return book.titleSlug + ".jpg"
+    }
+    return null
+}
 
 fun generateSpecimen(specimen: Specimen, path: String) {
     val template = Velocity.getTemplate("specimen.vm")
@@ -256,6 +295,15 @@ fun generateSpecimen(specimen: Specimen, path: String) {
 }
 
 fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
+    if (book.image == null) {
+        try {
+            book.image = downloadThumbnail(book)
+        }
+        catch(e: Exception) {
+            e.printStackTrace()
+        }
+    }
+
     val template = Velocity.getTemplate("book.vm")
     val context = contextFromObject(book)
     val specimensWithAttestations = allSpecimens
@@ -266,6 +314,7 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
         .sortedBy { it.second.page ?: it.second.number }
 
     context.put("specimens", specimensWithAttestations)
+
     generateToFile(path, template, context)
 }
 

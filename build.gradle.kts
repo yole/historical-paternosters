@@ -14,6 +14,7 @@ dependencies {
     implementation("org.apache.velocity:velocity-engine-core:2.3")
     implementation("org.jetbrains:markdown:0.5.2")
     implementation("org.slf4j:slf4j-simple:2.0.9")
+    implementation("com.beust:klaxon:5.5")
     testImplementation(kotlin("test"))
     implementation(kotlin("reflect"))
 }
@@ -23,5 +24,5 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(8)
+    jvmToolchain(17)
 }
