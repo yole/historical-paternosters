@@ -91,3 +91,9 @@ languages:
 - name: Tamil
   family: Dravidian
   url: https://en.wikipedia.org/wiki/Tamil_language
+- name: Malagasy
+  family: Austronesian
+  url: https://en.wikipedia.org/wiki/Malagasy_language
+- name: Lithuanian
+  family: Indo-European/Baltic
+  url: https://en.wikipedia.org/wiki/Lithuanian_language

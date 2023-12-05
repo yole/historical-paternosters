@@ -162,3 +162,10 @@ books:
   author: Philippus Baldaeus
   author_url: https://en.wikipedia.org/wiki/Philippus_Baldaeus
   image: baldaeus.jpeg
+
+- title: Flacourt
+  full_title: Histoire de la grande isle Madagascar
+  year: 1658
+  url: https://books.google.com/books?id=69w_AAAAcAAJ
+  author: Étienne de Flacourt
+  author_url: https://en.wikipedia.org/wiki/%C3%89tienne_de_Flacourt

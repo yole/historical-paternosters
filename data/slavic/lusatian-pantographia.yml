@@ -1,0 +1,30 @@
+language: Lower Sorbian
+attestations:
+  - book_title: Pantographia
+    page: 182
+    description: Lusatian
+    source: Wilk. Ess. p. 435. Orat. Dom. p. 42
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 42
+    description: Lusatica
+    source: Meg. n. 38. Conf. Pist. n. 35. Reut. n. 35. Wilk. n. 33.
+  - book_title: Megiser
+    number: 38
+    description: Lusatice
+text:
+  "Wosch nasch, kensch sy nanebebu, wss weschone 
+   bushy me twove: poshish[1] knam krailestwo
+   twojo: so stany woli twoja[2], takhak nanebu[3],
+   tak heu nasemu: klib nasch schidni day
+   nam shensa; a woday nam wyni nashe, ack
+   my wodawamij winikam[4] naschim: neweshi
+   nass dospitowana: a le wimoshi nas wot slego
+   psheto twojo jo to kralestvo a ta[5] moz, a ta[5] zest[6]
+   wot nymernoshik nymer nosti. Amen."
+footnotes:
+  1: "Pantographia, Oratio Dominica Polyglottos Polymorphos: pos hish"
+  2: "Pantographia, Oratio Dominica Polyglottos Polymorphos: tuoja"
+  3: "Pantographia, Oratio Dominica Polyglottos Polymorphos: manebu"
+  4: "Pantographia, Oratio Dominica Polyglottos Polymorphos: wini kam"
+  5: "Pantographia, Oratio Dominica Polyglottos Polymorphos: ata"
+  6: "Pantographia: text is cut off at this point"

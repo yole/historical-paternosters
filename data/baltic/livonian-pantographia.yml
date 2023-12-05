@@ -1,0 +1,70 @@
+language: Latvian
+attestations:
+  - book_title: Pantographia
+    page: 182
+    description: Livonian
+    source: Duret, p. 869. Orat. Dom. p. 42
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 42
+    description: Livonica
+    source: Meg. n. 39. Conf. Dur. p. 869. Munst. Chron. T. III c. 183 p. 1124. Pist. n. 32. Reut. n. 41. Wilk. n. 36
+  - book_title: Megiser
+    number: 39
+    description: Livonice & Werulorum lingua
+text:
+  "Tabes mus, kas tu es eck sckan debbessis;
+   schwetitz[1] tows waarcz: enack mums tows
+   walstibe; tows praatz buska, ksch kan debbes,
+   ta wursan summes: musse denische mayse duth[2]
+   mums schodeen; pammate mums musse
+   grake, ka mess pammart musse parradveken[3]:
+   ne wedde mums louna badeckle:
+   pett passatza mums nu wusse[4] loune. Amen."
+footnotes:
+   1: "Pantographia, Oratio Dominica: schwe titz"
+   2: "Pantographia: du th"
+   3: "Pantographia, Oratio Dominica: parradueken"
+   4: "Pantographia, Oratio Dominica: nu'wusse"
+notes:
+  "'Werulorum lingua' may refer to [Heruli](https://en.wikipedia.org/wiki/Heruli)"
+gloss:
+  "Tabes": "Pater"
+  "mus": "noster"
+  "kas": "qui"
+  "tu es": "es"
+  "eck sckan": "in"
+  "debbessis": "coelis"
+  "schwetitz": "sanctificatur"
+  "tows": "tuum"
+  "waarcz": "nomen"
+  "enack": "adveniat"
+  "mums": "nos/nobis"
+  "walstibe": "regnum"
+  "praatz": "voluntas"
+  "buska": "fiat"
+  "ksch": "sicut"
+  "kan": "in"
+  "debbes": "coelo"
+  "ta": "sic"
+  "wursan": "etiam"
+  "summes": "in terra"
+  "musse": "nostrum/nostra/nostris"
+  "denische": "quotidianum"
+  "mayse": "panem"
+  "duth": "da"
+  "schodeen": "hodie"
+  "pammate": "remitte"
+  "grake": "debita"
+  "ka": "sicut"
+  "mess": "nos"
+  "pammart": "remittimus"
+  "parradveken": "debitoribus"
+  "ne": "ne"
+  "wedde": "inducas"
+  "louna": "in malam"
+  "badeckle": "tentationem"
+  "pett": "sed"
+  "passatza": "libera"
+  "nu": "ab"
+  "wusse": "omni"
+  "loune": "malo"

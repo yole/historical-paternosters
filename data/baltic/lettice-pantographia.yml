@@ -1,0 +1,26 @@
+language: Latvian
+attestations:
+  - book_title: Pantographia
+    page: 180
+    description: Lettice
+    source: Orat. Dom. Amst. p. 84
+  - book_title: Chamberlayne
+    page: 84
+    description: Lettice
+    source: ex Brandtii itinerario per illas regiones hausi
+text:
+  "Musso tæwss kass eeksch dæbbæsim. Swættizlay
+   toop tauwss wardz. Læy eenak mumss
+   tawa kiæmna walstiba, tawss praatz[1] lay noteek
+   ta wirss sæne mæss kaeeksch dæbbæsim.
+   Musu deenisku maisi dod mumss schoden: un
+   pedod mums mussus paraduss ka mæss peedodam
+   muussim paradneekim. Un næ eewædd[2]
+   muuss kærdi naschanæ. Bætt pstino ta liauna.
+   Tawa jaw ir ta kainna walstiba tass spæækss
+   un tass godz muuschigi muuschai. Amen."
+footnotes:
+  1: "Pantographia: yraatz"
+  2: "Pantographia: text is cut off at this point"
+notes:
+  Chamberlayne refers to Brand as a source but his book does not actually contain this version of Pater Noster.

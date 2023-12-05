@@ -1,0 +1,30 @@
+language: Malagasy
+attestations:
+  - book_title: Pantographia
+    page: 184
+    description: Madagascar 2
+    source: From Fiacourt’s history of Madagascar. Wilk. Ess. p. 435. Orat. Dom. p. 32
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 32
+    description: Madagascarica
+    source: Sr. de Flacourt Hist. Madagasc. l. 47. Conf. Wilk. n. 47
+  - book_title: Flacourt
+    page: 187
+    description: langue Madecasse
+text:
+  "Amproy antsica izau hanautangh andanghitsi
+   angharanau hofissahots, vahoüachanau hoaui
+   aminay, fitejannaû hoefaizanghe[1] an tane toua
+   andangithsi; mahoumehohanau[2] anrou aniou
+   abinaihane antsica, amahanaumanghafaca[3] hanay
+   ota antsica; touazahai[4] manghafaca hota
+   anreo mauouanay: amanhanau aca manhatetseanay[5]
+   abin fiuetseuetsie ratsi, feha hanau mete
+   zahahanay tabin haratsijan[6] abi. Amin."
+footnotes:
+  1: "Pantographia, Oratio Dominica: hoefaizangh"
+  2: "Pantographia, Oratio Dominica: mahou mehohanau"
+  3: "Pantographia, Oratio Dominica: amahanau manghafaca"
+  4: "Pantographia, Oratio Dominica: tonazahai"
+  5: "Pantographia, Oratio Dominica: mahatetseanay"
+  6: "Pantographia, Oratio Dominica: haratsi an"
