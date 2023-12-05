@@ -1,0 +1,25 @@
+name: Publish Web site
+on: [push, workflow_dispatch]
+jobs:
+  publish:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v3
+        with:
+          distribution: corretto
+          java-version: 17
+      - uses: gradle/gradle-build-action@v2
+
+      - name: Generate
+        run: ./gradlew run
+
+      - name: Publish to Netlify
+        uses: South-Paw/action-netlify-cli@v2
+        with:
+          args: deploy --dir=out --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

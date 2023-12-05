@@ -1,5 +1,6 @@
 plugins {
-    kotlin("jvm") version "1.9.20"
+    kotlin("jvm") version "1.9.21"
+    application
 }
 
 group = "page.yole"
@@ -25,4 +26,8 @@ tasks.test {
 
 kotlin {
     jvmToolchain(17)
+}
+
+application {
+    mainClass = "page.yole.paternosters.GenerateKt"
 }
