@@ -88,3 +88,6 @@ languages:
 - name: Chinese
   family: Sino-Tiberan
   url: https://en.wikipedia.org/wiki/Chinese_language
+- name: Tamil
+  family: Dravidian
+  url: https://en.wikipedia.org/wiki/Tamil_language

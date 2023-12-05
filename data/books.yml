@@ -151,6 +151,14 @@ books:
 - title: Rocca
   full_title: Bibliotheca Apostolica Vaticana a Sixto V. Pont. Max. in Splendidiorem, Commodioremq. Locum Translata
   year: 1591
-  url: https://books.google.de/books?id=H-55KPskH5YC
+  url: https://books.google.com/books?id=H-55KPskH5YC
   author: Angelo Rocca
   author_url: https://en.wikipedia.org/wiki/Angelo_Rocca
+
+- title: Baldaeus
+  full_title: A true and exact description of the most celebrated East-India coasts of Malabar and Coromandel; as also of the isle of Ceylon
+  year: 1703
+  url: https://archive.org/details/trueexactdescrip00bald
+  author: Philippus Baldaeus
+  author_url: https://en.wikipedia.org/wiki/Philippus_Baldaeus
+  image: baldaeus.jpeg

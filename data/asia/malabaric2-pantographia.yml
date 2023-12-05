@@ -1,0 +1,27 @@
+language: Tamil
+attestations:
+  - book_title: Pantographia
+    page: 188
+    description: Malabaric 2
+    source: Orat. Dom. Amst. p. 25
+  - book_title: Chamberlayne
+    page: 25
+    description: Malabarice. Dialecto Tranquebarensi.
+    source: dedit Dominus Henricus Plutschovius ex Wesenhang
+text:
+  "Paramandalang gellile irukkira engel pidawe.
+   Ummudejia namum artschikka padduwadaga.
+   Ummudejia ratschijum wara. Ummudejia sittum
+   paramandalattile scheja padumapole pumijilejum
+   scheja padduwagada. Annannulla
+   engel oppum engellukku innudarum. Engel
+   cadencararukku nangel porukkuma pole nirum
+   engel cadengelei engellukku porum. Engelei
+   tschodineijile piraweschija dejum. Analo
+   tinmeijile ninnu engelei letschittukollum. Adedendal
+   ratschiammum pelamum magimeijum
+   ummakku ennenneikkum undajirukkudu.
+   Amen."
+notes:
+  Chamberlayne refers to [Heinrich Plütschau](https://en.wikipedia.org/wiki/Heinrich_Pl%C3%BCtschau),
+  who worked as a missionary in Tranquebar (modern day [Tharangambadi](https://en.wikipedia.org/wiki/Tharangambadi)).

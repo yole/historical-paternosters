@@ -1,0 +1,27 @@
+language: Malay
+attestations:
+  - book_title: Pantographia
+    page: 196
+    description: Malayan 6
+    source: Orat. Dom. Amst. p. 19
+  - book_title: Chamberlayne
+    page: 19
+    description: Malaice. alia Dialecto.
+    source: à Reverendi Viri Domini Francifci Valentini filia, Domina Cornelia Valentinia
+text:
+  "Bápa kámi jang áda di surga, namà moe disoetsjíken,
+   karadjäan-moe didatángi, kahendác-moe
+   djadílah di bóemi sepérti dálam surga, réziki
+   kamí déri sahári hári debrikan ákan kami
+   pada hari ini. Daan mengámpon ákan kami
+   dósa kami sepérti kami mengámpon ákan
+   barang siápa jang bérsalah akan kami; daan[1]
+   d'jangan báwa kami pada pertsjobáän,
+   Hánja dilepásken kami déri páda jang djáhat;
+   Karna karadjáän, daan kowása daan kamoeliáan toehan
+   ampoenja sampei kakal. Amien."
+footnotes:
+  1: "Pantographia: text is truncated at this point"
+notes:
+  Provided to Chamberlayne by Cornelia, daughter of [François Valentin](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Valentyn), 
+  who apparently already as a child had great command of Malay, Latin, Portuguese and Dutch.
