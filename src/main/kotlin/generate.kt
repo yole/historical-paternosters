@@ -266,7 +266,9 @@ fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
 fun downloadThumbnail(book: Book): String? {
     val bookUrl = book.url ?: return null
     if ("books.google.com" in bookUrl) {
-        val downloadPath = Paths.get("out/images", book.titleSlug + ".jpg")
+        val imagesPath = Paths.get("out/images")
+        imagesPath.createDirectories()
+        val downloadPath = imagesPath.resolve(book.titleSlug + ".jpg")
         if (!downloadPath.exists()) {
             val id = bookUrl.substringAfter("id=")
             val httpClient = HttpClient.newHttpClient()

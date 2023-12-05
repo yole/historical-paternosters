@@ -34,8 +34,7 @@ The effort is currently actively in progress.
 ### This Repository
 
 This repository contains the database of the specimens themselves (the `data` directory),
-as well as code to generate a public Web site from the database. The site is a work in progress
-and hasn't been published yet.
+as well as code to generate a [public Web site](https://paternosters.yole.page/) from the database.
 
 If you want to add something to the database or to correct an error, you're very much welcome
 to file an issue or a pull request.
