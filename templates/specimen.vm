@@ -3,7 +3,12 @@
 <h1>Pater Noster in $language</h1>
 #if($lang)
     <p>
-        Language: <a href="$lang.url">$lang.name</a>
+        Language:
+        #if($lang.url)
+            <a href="$lang.url">$lang.name</a>
+        #else
+            $lang.name
+        #end
     </p>
 #end
 #if($glossed_text)
@@ -64,6 +69,9 @@
         #foreach($bibref in $bibliography)
         <li>
             <a href="$bibref.url">$bibref.title</a> by $bibref.author ($bibref.year)
+            #if($bibref.page)
+                , page $bibref.page
+            #end
         </li>
         #end
     </ul>

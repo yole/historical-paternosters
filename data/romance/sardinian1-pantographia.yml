@@ -1,4 +1,4 @@
-language: Catalan (?)
+language: Sardinian/Catalan
 attestations:
   - book_title: Pantographia
     page: 256
@@ -9,7 +9,7 @@ attestations:
     description: Sardorum Oppidanorum Linguâ
 text:
   "Pare nostru, qui istas in sos quelos, siat sanctificadu
-  su nomen teu : vengat à nois su regnu
+  su nomen teu: vengat à nois su regnu
   teu. Fasase sa voluntat tua, axicomen[1] su
   quelu, gasi en la terra. Lo pa nostru de dognia
   die da nos hoc, I dexia à nos altres sos depitos[2]
@@ -25,3 +25,20 @@ footnotes:
   3: "Fry: comente nos"
   4: "Fry: livra"
   5: Following sentence is missing in Fry.
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 208
+  - title: "Sardica ut in Oppidis"
+    author: Eugenio Coseriu
+    year: 1980
+    url: https://coseriu.ch/wp-content/uploads/publications_coseriu/coseriu167.pdf
+notes:
+  "According to Heinimann, this is a mix of Catalan and Sardinian:
+   'In der Version A werden Sardisch und Katalanisch merkwürdig vermengt:
+    Aus der Mischung von Gessners städtischer, d.h. katalanischer Gebetsfassung (Nr. 46) und 
+    Roccas sardischer Version A entsteht durch Megisers Eingriff eine hybride Sprache, die in 
+    Wirklichkeit nirgends existiert.'"

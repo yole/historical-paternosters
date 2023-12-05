@@ -102,6 +102,7 @@ class BibliographyEntry {
     var author: String? = null
     var year: Int? = null
     var url: String? = null
+    var page: Int? = null
 }
 
 class Specimen {

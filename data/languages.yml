@@ -85,3 +85,6 @@ languages:
 - name: Poqomchi'
   family: Mayan
   url: https://en.wikipedia.org/wiki/Poqomchi%CA%BC_language
+- name: Chinese
+  family: Sino-Tiberan
+  url: https://en.wikipedia.org/wiki/Chinese_language
