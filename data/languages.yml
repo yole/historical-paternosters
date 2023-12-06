@@ -97,3 +97,27 @@ languages:
 - name: Lithuanian
   family: Indo-European/Baltic
   url: https://en.wikipedia.org/wiki/Lithuanian_language
+- name: Finnish
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Finnish_language
+- name: Latin
+  family: Romance
+  url: https://en.wikipedia.org/wiki/Latin
+- name: Italian
+  family: Romance
+  url: https://en.wikipedia.org/wiki/Italian_language
+- name: Irish
+  family: Indo-European/Celtic
+  url: https://en.wikipedia.org/wiki/Irish_language
+- name: Icelandic
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Icelandic_language
+- name: Hungarian
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Hungarian_language
+- name: Hebrew
+  family: Afro-Asiatic/Semitic
+  url: https://en.wikipedia.org/wiki/Hebrew_language
+- name: Swiss German
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Swiss_German

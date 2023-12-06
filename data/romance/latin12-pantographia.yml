@@ -1,0 +1,16 @@
+language: Latin
+attestations:
+  - book_title: Pantographia
+    page: 178
+    description: Latin 12
+    source: Beza's folio edition, Genev. 1598
+text:
+  "Pater noster, qui es in cœelis, sanctificetur nomen
+   tuum. Adveniat regnum tuum; fiat voluntas
+   tua, ut in cœlo, ita etiam in terrâ. Panem
+   nostrum quotidianum da nobis hodie. Et
+   remitte nobis debita nostra, sicut et nos remittimus
+   debitoribus nostris. Et ne nos inducas
+   in tentationem, sed libera nos ab illo improbo
+   quia tuum est regnum, et potentia, et gloria,
+   in secula. Amen."

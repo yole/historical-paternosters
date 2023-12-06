@@ -1,0 +1,82 @@
+language: Finnish
+attestations:
+  - book_title: Pantographia
+    page: 180
+    description: Lapland
+    source: Duret, p. 869. Wilk. Ess. p. 435. Orat. Dom. p. 44
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 44
+    description: Lapponica
+    source: Meg. n. 41. Confer. Dur. p. 869. Pist. n. 34. Reut. n. 39. Wilk. n. 23
+  - book_title: Megiser
+    number: 41
+    description: Finnonice, vel lingua silvestrium Laporum.
+  - book_title: Cosmographia
+    page: 620
+    description: "in Finlendischer und Pilappener sprach deren sich ettlich Lysiender gebrauchen"
+text:
+  "Isa meidhen, joko oledh taju ahissa[1]; puhettu
+   olkohon siun nimesi: tulkohon[2] siun waltakuntasi[3];
+   olkohon siun tahtosi, kuwin[4] taivahissa[5],
+   nyn manpallâ, meidhen[6] jokapaivven leipä
+   anna meilen[7] tânâpâiwâne[8], ja anna anteixe
+   meiden syndia; kuwin[9] môe annamma meden[10] vastahan
+   rickoillen: ja âle[11] sata meitâ[12] kinsauxen[13];
+   mutta paasta meitâ[14] pahasta. Amen."
+footnotes:
+  1: "Pantographia, Oratio Dominica: tajuahissa"
+  2: "Pantographia, Oratio Dominica: tul kohon"
+  3: "Megiser, Pantographia, Oratio Dominica: vvaltakunta si"
+  4: "Megiser, Pantographia, Oratio Dominica: kvvuin"
+  5: "Megiser, Pantographia, Oratio Dominica: tai vahissa"
+  6: "Pantographia, Oratio Dominica: meiden"
+  7: "Pantographia, Oratio Dominica: mehilen"
+  8: "Megiser, Pantographia, Oratio Dominica: tâna pâivvane"
+  9: "Megiser, Pantographia, Oratio Dominica: kvvuin"
+  10: "Pantographia, Oratio Dominica: word is omitted"
+  11: "Megiser, Pantographia, Oratio Dominica: âle"
+  12: "Megiser, Pantographia, Oratio Dominica: mei tâ"
+  13: "Megiser, Pantographia, Oratio Dominica: kin sauxen. Pantographia: text is cut off at this point"
+  14: "Megiser, Pantographia, Oratio Dominica: meite"
+gloss:
+  "Isa": "Pater"
+  "meidhen": "noster"
+  "joko": "qui"
+  "oledh": "es"
+  "taju ahissa": "in coelo"
+  "puhettu": "sanctum"
+  "olkohon": "fiat"
+  "siun": "tuum"
+  "nimesi": "nomen"
+  "tulkohon": "adveniat"
+  "waltakuntasi": "regnum tuum"
+  "tahtosi": "voluntas"
+  "kuwin": "sicut"
+  "taivahissa": "in coelo"
+  "nyn": "sic"
+  "manpallâ": "in terra"
+  "jokapaivven": "quotidianum"
+  "leipä": "panem"
+  "anna": "da"
+  "meilen": "nobis"
+  "tânâpâiwâne": "hoc die"
+  "ja": "&"
+  "anteixe": "remissionem"
+  "meiden": "nos"
+  "syndia": "peccaris"
+  "môe": "nos"
+  "annamma": "remittimus"
+  "meden": "nostris"
+  "vastahan rickoillen": "adversariis"
+  "âle": "ne"
+  "sata": "inducas"
+  "meitâ": "nos"
+  "kinsauxen": "in tentationem"
+  "mutta": "sed"
+  "paasta": "libera"
+  "pahasta": "a malo"
+bibliography:
+  - title: "Keskiaikainen Isä meidän -rukous"
+    author: Harri Uusitalo
+    year: 2020
+    url: https://journal.fi/virittaja/article/download/97393/58161

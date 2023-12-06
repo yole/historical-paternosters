@@ -1,0 +1,19 @@
+language: Hungarian
+attestations:
+  - book_title: Pantographia
+    page: 150
+    description: Hungarian
+    source: Molnar's Hungarian grammar. Wilk. Ess. p. 435. Orat. Dom. p. 45
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 45
+    description: Hungarica
+    source: Albert. Molnar. Grammat. Ungar. p. 197. Conf. Gesn. f. 56.b. Meg. n. 40. Pist. n. 40. Reut. n. 36. Wilk. n. 28
+text:
+  "Mi Atyánc kì vagy az mennyekben, ssenteltessec
+   megâ te neved: jojon elaz te orsságod
+   legyen megâ te akaratod, mint az menyben,
+   ugy itt ez foldonis ; az mi mindennappi kenyerünket
+   add meg neéküncma ; es boczásd meg
+   minéküne az mi vétkeinket, miképpen miis
+   megboczàtunc azoknac, az kic mi ellenünc
+   vetkeztenec: es ne vigy minket azkisertetbe."

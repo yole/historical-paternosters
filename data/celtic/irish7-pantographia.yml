@@ -1,0 +1,23 @@
+language: Irish
+attestations:
+  - book_title: Pantographia
+    page: 168
+    description: Irish 7
+    source: Biblia Hibernica, Lond. 1690. Orat. Dom. p. 57. Vallancey, p. 62.
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 57
+    description: Hibernica
+    source: Matth. vi. Bibl. Hibernica, Lond. 1690.
+text:
+  "Ar nathair atá ar neamh[1], naomhthar hainm:
+   tigeadh do rioghachd, deúntar do thoil ar an
+   ttalâmh, mar do nithear ar neamh[1]; ar narán
+   laéathamhail tabhair dhúinn a niu; agus maith
+   dhúinn ar bhfíacha, mar mhaithm ìdne dar
+   bhféitheamnuibh féin: agus na léig sinn a ccathughadh[2], 
+   achd sáor inn ò olc: oir is leachd[3] féin an ríoghachd,
+   & an cumhachd, agus an ghloír go siórruighe. Amen."
+footnotes:
+  1: "Pantographia: neamb"
+  2: "Pantographia: ca thughadh"
+  3: "Pantographia: text is cut off at this point"

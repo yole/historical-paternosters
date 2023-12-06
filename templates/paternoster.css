@@ -24,3 +24,7 @@ body {
     padding-top: 0.5em;
     padding-left: 0.5em;
 }
+
+.glosses {
+    font-size: smaller;
+}

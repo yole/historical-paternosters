@@ -1,0 +1,15 @@
+language: Latin
+attestations:
+  - book_title: Pantographia
+    page: 178
+    description: Latin 11
+    source: Castellio’s Biblia Sacra. Frankf. 1697,
+text:
+  "Pater noster, qui es in cœlis, sancte colatur
+   nomen tuum; veniat regnum tuum ; fiat voluntas
+   tua, ut in cœlo, sic in terra; et remitte
+   nobis debita nostra, ut et nos remittimus debitoribus
+   nostris: neve nos in tentationem inducito,
+   sed a malo tuere; quoniam tuum est
+   regnum, et potentia, et gloria, in sempiternum
+   Amen."

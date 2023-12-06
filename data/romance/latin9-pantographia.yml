@@ -1,0 +1,20 @@
+language: Latin
+attestations:
+  - book_title: Pantographia
+    page: 176
+    description: Latin 9
+    source: from the celebrated vulgate edition of St. Jerom. Orat. Dom. p. 33.
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 33
+    description: Latina
+    source: Vulgat. ex Ed. Sixti V. Papae Antwep 1603 p. 764. Conf. Meg. 8. Pist. 6. Reut. 7. Stiernh. n. ? Wilk. 8
+text:
+  "Pater noster, qui es in cœlis: sanctificetur nomen
+   tuum: adveniat regnum tuum, fiat voluntas
+   tua, sicut in cœlo, et in terra; panem
+   nostrum supersubstantialem da nobis hodie:
+   et dimitte nobis debita nostra, sicut et nos
+   dimittimus debitoribus nostris: et ne nos inducas
+   in tentationem, sed libera nos a malo, quia
+   tuum est regnum, et potentia, et gloria in secula
+   seculorum. Amen."

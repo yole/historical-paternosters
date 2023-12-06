@@ -169,3 +169,10 @@ books:
   url: https://books.google.com/books?id=69w_AAAAcAAJ
   author: Étienne de Flacourt
   author_url: https://en.wikipedia.org/wiki/%C3%89tienne_de_Flacourt
+
+- title: Cosmographia
+  full_title: Cosmographia. Beschreibung aller Lender durch Sebastianum Munsterum
+  year: 1544
+  url: https://books.google.com/books?id=G3JOAAAAcAAJ
+  author: Sebastian Münster
+  author_url: https://en.wikipedia.org/wiki/Sebastian_M%C3%BCnster

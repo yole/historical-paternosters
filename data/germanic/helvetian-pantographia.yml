@@ -1,0 +1,21 @@
+language: Swiss German
+attestations:
+  - book_title: Pantographia
+    page: 140
+    description: Helvetian
+    source: Orat. Dom. p. 47
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 47
+    description: Helvetica
+    source: Gesn. f. 42.a. & 46.a. Conf. Meg. n. 18. Pist. n. 16. T.D.C.R. p. 255
+text:
+  "Vatter unser, der du hist in himmlen, geheyligt
+   werd dyn nam; zukumm uns dijn rijch,
+   dyn will geschahe, wie im himmel, also auch
+   uff erden: gib uns hut unser taglich brot: und
+   vergib uns unsere schulden, wie auch wir vergaben
+   unsern schuldneren; und fuhr uns nicht
+   in versuchnyss, sunder erlos uns von dem
+   bosen. Amen."
+footnotes:
+  1: "Pantographia: and"

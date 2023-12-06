@@ -19,7 +19,7 @@
         <td>$word.original</td>
         #end
     </tr>
-    <tr>
+    <tr class="glosses">
         #foreach($word in $line.words)
             <td>$word.gloss</td>
         #end

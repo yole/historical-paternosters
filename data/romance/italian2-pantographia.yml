@@ -1,0 +1,16 @@
+language: Italian
+attestations:
+  - book_title: Pantographia
+    page: 168
+    description: Italian 2
+    source: the modern reading of the Lord's Prayer
+text:
+  "Padre nostro, che sei nel cielo, sia sanctificato
+   il tuo nome; il tuo regno venga; la tua volunta
+   sia fatta, sic come in cielo cosi anche in
+   terra: dacci oggi il nostro pane cotidiano: e
+   remittici i nostri debiti, sic come noi ancora
+   rimittiamo á nostri debitori; e non inducici
+   in tentazione; ma liberaci dal maligno; percio
+   che tuo è il regno, e la potenza, e la gloria
+   in sempiterno. Amen."

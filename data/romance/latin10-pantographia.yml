@@ -1,0 +1,16 @@
+language: Latin
+attestations:
+  - book_title: Pantographia
+    page: 178
+    description: Latin 10
+    source: Novum Testamentum Jesu Christi filii Dei, ex Versione Erasmi. Basil. 1570.
+text:
+  "Pater noster qui es in cœlis, sanctificetur nomen
+   tuum; veniat regnum tuum: fiat voluntas
+   tua, quemadmodum in cœlo, sic etiam in
+   terra: panem nostrum quotidianum da nobis
+   hodie: et remitte nobis debita nostra, sicut et
+   nos remittimus debitoribus nostris: et ne inducas
+   nos in tentationem, sed libera nos a malo,
+   quia tuum est regnum, et potentia, et gloria,
+   in secula. Amen."
