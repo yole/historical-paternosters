@@ -1,0 +1,33 @@
+language: West Frisian
+attestations:
+  - book_title: Pantographia
+    page: 90
+    description: Frisic
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 46
+    description: Frisian
+    source: M.
+  - book_title: Megiser
+    number: 20
+    description: Frisice
+text:
+  "Ws Haita duu[1] derstu biste yne hymil, dyn
+   name wird heiligt, dyn ryck to komme[2], dyn
+   wille moet schoen, opt yrtryck as yne hymil.
+   Ws deilix bræ jov ws jwed[3]; in verjou
+   ws, ws[4] schylden, as wy vejac ws schyldnirs;
+   In lied ws nact in versieking: Din fry ws
+   vin it quæd: Dan dyn is it ryck, de macht,[5]
+   in de heerlickheyt, yn yewicheyt. So mœttet wese."
+footnotes:
+  1: "Wilkins: word is omitted"
+  2: "Pantographia: tokomme"
+  3: "Pantographia: juved"
+  4: "Wilkins, Pantographia: vvs"
+  5: "Pantographia: text is cut off at this point"
+bibliography:
+  - title: Frysk út Hieronymus Megiserus syn wurken út 1603
+    author: T.B. Hoekema
+    year: 1979
+    url: https://ugp.rug.nl/uswurk/article/view/28604

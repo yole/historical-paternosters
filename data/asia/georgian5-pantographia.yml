@@ -1,0 +1,22 @@
+language: Georgian
+attestations:
+  - book_title: Pantographia
+    page: 98
+    description: Georgian 5
+    source: Orat. Dom. p. 31
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 31
+    description: Gjorganica
+    source: Magg. II. 137
+text:
+  "Mamao cjueno romeli chbar zzahta sciua.
+   Tzmida ikachn sa-chheli sceni. Sceni movedin
+   suphocha sceni. Ikachn neba sceni os zatha
+   scina eghre kue-chanisa szeda. Puri cjueni
+   arsobisa momez cjuens dges da. Momitheven
+   cjuenthana nadebni cjueni os cjuen miutevebth
+   thana mjebtha math cjuentha.[1] Da noscemi
+   chuaneb cjuen gansazdelsa. Ala
+   michsneb cjuen borothifagan. Amin."
+footnote:
+  1: "Pantographia: the following phrase is missing"

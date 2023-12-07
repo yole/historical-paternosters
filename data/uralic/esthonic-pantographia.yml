@@ -1,0 +1,29 @@
+language: Estonian
+attestations:
+  - book_title: Pantographia
+    page: 80
+    description: Esthonic
+    source: Orat. Dom. p. 43
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 43
+    description: Esthonica
+    source: Henr. Stahlius Hand-Buch P. I. p. 4. Conf. Reut. n. 40
+  - book_title: Stahl
+    page: 25
+text:
+  "Issa meddi ke sinna ollet Taiwas, pohitzetut
+   sakut sunno nimmi. Tulckut meile sunno rickus.
+   Sunno tachtminne sundkut, kui Taiwas,
+   ninda kahs mah pehl. Meddi iggapeiwase leiba
+   anna meile tennapeiw. Ninck[1] anna andix
+   meile[2] meddi wolgkat, kudt meie andix anname
+   meddi wolgkaleisille. Ninck[1] erra sata meid[3]
+   kinsatusse sisze. Erranis errapehsta[4] meid keickest
+   kurjast. Sest sunno on se rickus, ninck[5]
+   se weggi, ninck[5] se auw, iggawest. Amen."
+footnotes:
+  1: "Oratio Dominica, Pantographia: nink"
+  2: "Oratio Dominica, Pantographia: meile andix"
+  3: "Oratio Dominica, Pantographia: satameid"
+  4: "Oratio Dominica, Pantographia: erhapehsta"
+  5: "Pantographia: nink"

@@ -1,0 +1,32 @@
+language: Friulian
+attestations:
+  - book_title: Pantographia
+    page: 92
+    description: Friulian, or Forojulian
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 13
+    description: Friulian
+  - book_title: Megiser
+    number: 11
+    description: Goritianorum, & Foroiuliensium Lingua
+text:
+  "Pari nestri ch’ees in cijl, see santificaat[1] lu[2] to
+   nom; vigna lu to ream, see fatta la too voluntaat,
+   sich’[3] in cijl, et in tiarra[4]: Da nus hu’el 
+   nestri pan cotidian; et perdoni[5] nus glu
+   nestris debiz, sicu noo perduin agl nestris debetoors[6].
+   E no nus menaa in tentation; mà
+   libora nus dal mal. Amen."
+footnotes:
+  1: "Pantographia: sanctificaat"
+  2: "Wilkins, Pantographia: la"
+  3: "Wilkins, Pantographia: sice'"
+  4: "Wilkins, Pantographia: tierra"
+  5: "Wilkins, Pantographia: perdonni"
+  6: "Wilkins: debitoors"
+bibliography:
+  - title: Sul Pater noster nella Goritianorum et Foroiuliensium lingua (e oltre)
+    author: Gabriele Zanello
+    year: 2018
+    url: https://www.academia.edu/38191696/Sul_Pater_noster_nella_Goritianorum_et_Foroiuliensium_lingua_e_oltre_

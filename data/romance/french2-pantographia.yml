@@ -1,0 +1,36 @@
+language: French
+attestations:
+  - book_title: Pantographia
+    page: 90
+    description: French 2
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 11
+    description: French
+  - book_title: Megiser
+    number: 14
+    description: Gallice
+text:
+  "Nostre pere qui es és cieulx, ton nom soit sanctifie[1];
+   ton royaume adviene[2]; ta volonte soit
+   faicte[3], ainsi en la terre comme au ciel[4]; nostre
+   pain quotidiain donne nous aviourdhuy[5];
+   et pardonne nous noz faultes, comme nous
+   pardonnons a ceulx qui nous ont offenzes; et
+   ne nous induy point en tentation, mais deliure
+   nous de mal.[6] Car à toi est le regne et la puissance et la gloire 
+   à tousjours jamais. Amen."
+footnotes:
+  1: "Pantographia: santifie"
+  2: "Wilkins, Pantographia: advenie"
+  3: "Wilkins, Pantographia: faicte"
+  4: "Wilkins, Pantographia: cieulx"
+  5: "Megiser: donne nous aviourdhuy nostre pain quotidiain"
+  6: "Wilkins, Pantographia: Following sentence is missing."
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 120

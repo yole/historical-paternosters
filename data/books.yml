@@ -176,3 +176,17 @@ books:
   url: https://books.google.com/books?id=G3JOAAAAcAAJ
   author: Sebastian Münster
   author_url: https://en.wikipedia.org/wiki/Sebastian_M%C3%BCnster
+
+- title: De Lingua Getarum
+  full_title: "De literis & lingua Getarum, sive Gothorum: Quibus accesserunt specimina variarum lingiarum"
+  year: 1618
+  url: https://books.google.com/books?id=-QXLoAEACAAJ
+  author: Bonaventura Vulcanius
+  author_url: https://en.wikipedia.org/wiki/Bonaventura_Vulcanius
+
+- title: Stahl
+  full_title: Hand und Hauszbuches für die Pfarherren, und Hauszväter Ehstnischen Fürstenthums Erster Theil…
+  year: 1632
+  url: https://www.digar.ee/arhiiv/en/collections/21226
+  author: Heinrich Stahl
+  author_url: https://en.wikipedia.org/wiki/Heinrich_Stahl

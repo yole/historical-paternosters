@@ -1,0 +1,15 @@
+language: French
+attestations:
+  - book_title: Pantographia
+    page: 90
+    description: French 3
+    source: Guthrie, p. 849.
+text:
+  "Notre Père qui es aux cieux, ton nom soit
+   sanctifié. Ton règne vienne. Ta volonté soit
+   faite en la terre comme au ciel. Donne-nous
+   aujourd’hui notre pain quotidien. Pardonne-nous
+   nos offenses, comme nous pardonnons
+   à ceux qui nous ont offensés. Et ne nous induis
+   point en la tentation, mais nous délivre
+   de mal. Amen."

@@ -1,0 +1,43 @@
+language: Gothic
+attestations:
+  - book_title: Pantographia
+    page: 102
+    description: Gothic 4
+    source: Orat. Dom. p. 21. Wilk. Ess. p. 435
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 21
+    description: Gothica
+    source: N. Test. Goth. Stiernh. Lim. Gloss. Goth. Conf. Meg. n. 24. Pist. n. 22. Vulcan. de Lit. & Lingu. Get. p. 33 Reut. n. 22. T.S.E.R. p. 250
+  - book_title: Megiser
+    number: 24
+    description: Gothice
+  - book_title: De Lingua Getarum
+    page: 35
+text:
+  "Atta unsar thu in himinam[1]; veihnai[2] namo
+   thein; Quimai[3] thiudinassus theins, vairthai
+   vilja theins, sve in himina[1], jah ana airthai[4].
+   Hlaif[5] unsarana thana sinteinan[6] gif uns himma daga[7].
+   Jah aflet uns thatei sculans sijaima[8]
+   swaswe[9] jah veis afletam thaim skulam unsaraim[10];
+   jah ni briggais[11] uns in fraistubnjai[12]. Ak
+   lausei uns af thamma ubilin.[13] Unte theina ist
+   thiudangardi[14], jah mahts[15] jah[16] vulthus, in aivins. Amen"
+footnotes:
+  1: "Megister: himmina; De Lingua Getarum: himina"
+  2: "Megister: wihnai"
+  3: "Megiser, De Lingua Getarum: vimai"
+  4: "Megiser: arte"
+  5: "Megiser: hlaef"
+  6: "Megiser: senteinam"
+  7: "Megiser, Oratio Dominica, Pantographia, De Lingua Getarum: himmadaga"
+  8: "Megiser: thateisculanssigaima; De Lingua Getarum: sculanssigaima"
+  9: "Megiser, Oratio Dominica, Pantographia: sua sue"
+  10: "Megister: unsarem"
+  11: "Megister: brigges"
+  12: "Megister: fraestub; De Lingua Getarum: fraestubngai"
+  13: "Megister: ublin. Pantographia: the next phrase is omitted."
+  14: "Megiser: thin dan gardi; Oratio Dominica: thiudanjardi"
+  15: "Megiser: mach, De Lingua Getarum: mahs"
+  16: "De Lingua Getarum: gag"
+

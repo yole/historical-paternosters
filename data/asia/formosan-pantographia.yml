@@ -1,0 +1,24 @@
+language: Siraya
+attestations:
+  - book_title: Pantographia
+    page: 86
+    description: Formosan
+    source: Orat. Dom. p. 62
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 62
+    description: Formosana
+    source: J.L.
+text:
+  "Diameta ka tu vullum lulugniang ta nanang
+   oho, maba tongal ta tao tu goumoho, mamtalto
+   ki kamoienhu tu nai mama tu vullum:
+   pecame ká cangniang wagi katta. Hamiecame
+   ki varaviang mamemiang mamia ta varau
+   ki tao ka mouro ki riich emitang. Inecame
+   poudangadangach souaia mecame ki litto, ka
+   imhouato ta gumaguma kallipuchang kasasamagang,
+   mikaqua. Amen."
+notes:
+  "J.L. refers to [Hiob Ludolf](https://en.wikipedia.org/wiki/Hiob_Ludolf). According to 
+  [The pretended Asian : George Psalmanazar's eighteenth-century Formosan hoax](https://archive.org/details/pretendedasiange0000keev),
+  page 82, the text comes from a now lost Formosan reading book from 1645, prepared by [Robert Junius](https://en.wikipedia.org/wiki/Robert_Junius)."

@@ -121,3 +121,27 @@ languages:
 - name: Swiss German
   family: Indo-European/Germanic
   url: https://en.wikipedia.org/wiki/Swiss_German
+- name: Dutch
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Dutch_language
+- name: Romansh
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Romansh_language
+- name: Gothic
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Gothic_language
+- name: Georgian
+  family: Kartvelian
+  url: https://en.wikipedia.org/wiki/Georgian_language
+- name: Friulian
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Friulian_language
+- name: French
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/French_language
+- name: Siraya
+  family: Austronesian
+  url: https://en.wikipedia.org/wiki/Siraya_language
+- name: Estonian
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Estonian_language
