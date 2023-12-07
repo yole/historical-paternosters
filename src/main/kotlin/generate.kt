@@ -280,7 +280,7 @@ fun downloadThumbnail(book: Book): String? {
             val parser = Parser.default()
             val jsonObject = parser.parse(StringReader(response.body())) as JsonObject
             val volumeInfo = jsonObject["volumeInfo"] as JsonObject
-            val imageLinks = volumeInfo["imageLinks"] as JsonObject
+            val imageLinks = volumeInfo["imageLinks"] as JsonObject? ?: return null
             val medium = imageLinks["medium"] as String
 
             val imageRequest = HttpRequest.newBuilder()
