@@ -4,10 +4,10 @@ attestations:
     page: 50
     description: Dalmatian 2
     source: Wilk. Ess. p. 435.
-  - book: Wilkins
+  - book_title: Wilkins
     number: 27
     description: Dalmatian
-  - book: Megiser
+  - book_title: Megiser
     number: 35
     description: Dalmatice. Molitva Gozpodinava
 base: slavic/sclavonian3-pantographia
