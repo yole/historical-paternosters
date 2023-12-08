@@ -1,0 +1,26 @@
+language: Slovene
+attestations:
+  - book_title: Pantographia
+    page: 24
+    description: Carnish
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 26
+    description: Carnish
+    source: M.
+  - book_title: Megiser
+    number: 33
+    description: Illyrice seu Carniolanorum lingua
+text:
+  "Ozha nash kir si v’nebesih. Posvozhenu[1] bodi
+   iime tvoie. Pridi k’nam kraylestvu tvoie. S’idise
+   volia tvoia. Kakor nanebi taku nasemlij.
+   Kruh nash usak dainij[2] dai nam dones. Inu
+   odpusti nam dulge nashe. Kakor tudi mi odpustimo
+   dulshnikom nashim. Inu neupelai
+   nas v’iskushno. Tamazh reshi nass od slega.
+   Sakai tvoje je krailestvu, múzh, zhhast veko[3]ma. Amen."
+footnotes:
+  1: "Wilkins, Pantographia: posvezhenu"
+  2: "Wilkins, Pantographia: dainii"
+  3: "Pantographia: text is cut off at this point"

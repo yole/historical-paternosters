@@ -8,6 +8,10 @@ attestations:
     page: 25
     description: Coptica quasi Antiqua
     source: Grammaye ap. D'Avity Afr. 297
+  - book_title: Gramaye Specimen
+    page: 18
+    description: Aegyptiaco & Nilotico sermone
+    source: Bapt. Fererius communicavit
 text:
   "Theut habh atast en ornos. Plenspliah arich
    eho. Abspinth bahl eho. Erup vlid heo ah

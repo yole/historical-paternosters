@@ -1,0 +1,25 @@
+language: Czech
+attestations:
+  - book_title: Pantographia
+    page: 20
+    description: Bohemian
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 32
+    description: Bohemian
+    source: Gesnerus
+  - book_title: Gessner
+    page: 58
+    description: sermone Bohenico
+text:
+  "Otozie nass, genz syna nebesich. Oszwiet se
+   meno twe. Przid kralowstwii twe. Bud wule
+   twa yakona nebi tak y na zemi[1]. Chleb nasz
+   wezdeyssi dey nam dnes. Y odpust[2] nam nasse
+   winy, yako y my odpaustime nassim winikom.
+   Y ne uwod nasz do pokussenij[3]. Ale
+   zbaw nas od zleho. Amen."
+footnotes:
+  1: "Pantographia: zeni"
+  2: "Pantographia: Yodpust"
+  3: "Pantographia, Wilkins: pokussenii"

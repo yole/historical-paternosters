@@ -166,3 +166,20 @@ languages:
 - name: Coptic
   family: Afro-Asiatic
   url: https://en.wikipedia.org/wiki/Coptic_language
+- name: Aramaic
+  family: Afro-Asiatic/Semitic
+  url: https://en.wikipedia.org/wiki/Aramaic
+- name: Catalan
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Catalan_language
+- name: Slovene
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Slovene_language
+- name: Welsh
+  family: Indo-European/Celtic
+  url: https://en.wikipedia.org/wiki/Welsh_language
+- name: Czech
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Czech_language
+
+

@@ -1,0 +1,26 @@
+language: Welsh
+attestations:
+  - book_title: Pantographia
+    page: 20
+    description: Ancient British 1
+    source: Orat. Dom. p. 50
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 50
+    description: Britannica Vetus.
+    source: Meg. n. 29. Conf. Gesn. p. <?> Pist. n. 25
+  - book_title: Megiser
+    number: 29
+    description: "Cambrice seu Anglo Saxonice: vel lingua Vallica & veteri Britannica"
+text:
+  "Eyn[1] taad rhuvn wytyn y nefoedodd[2]; Santeiddier
+   yr hemvu[3] tau: De vedy dyrnas dau:
+   Guueler dy wollys arryddayar megis agyn y
+   nefi, Eyn bara beunydda vul dyro inniheddivu:
+   Ammaddeu ynny evn deledion, megis
+   agi maddevu in deledvvir ninaw: Agna thowys
+   ni in brofedigaeth : Namyn gvvaredni[4] rhag drug. Amen."
+footnotes:
+  1: "Pantographia, Oratio Dominica: eyen"
+  2: "Pantographia, Oratio Dominica: neofoedodd"
+  3: "Pantographia hemuv"
+  4: "Pantographia: text is cut off at this point"

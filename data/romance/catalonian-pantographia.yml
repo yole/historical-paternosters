@@ -1,0 +1,28 @@
+language: Catalan
+attestations:
+  - book_title: Pantographia
+    page: 24
+    description: Catalonian
+    source: Orat. Dom. p. 36
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 36
+    description: Catalanica
+    source: Bern. Aldret. lib. 2 cap. 8.
+  - book_title: Alderete
+    page: 62
+    description: Catalan
+text:
+  "Pare nostro, que estau en lo cel. Sanctificat
+   sea el vostro sant nom. Vinga en nos altres
+   el vostre[2] saint reine. Fasas la vostra voluntat,
+   axi en la terra como se fa en lo cel. El pa
+   nostre de cada dia da nous lo gui. I perdonau
+   nos nostres culpes; axi com[3] nos altres
+   perdonam a nostres deudores. I no permetau[4]
+   que nos altres caigam en la tentacio. Ansdes
+   llibra nos de qual se vol mal. Amen."
+footnotes:
+  1: "Pantographia, Oratio Dominica: vostre"
+  2: "Pantographia, Oratio Dominica: vostra"
+  3: "Pantographia: como"
+  4: "Pantographia: text is cut off at this point"

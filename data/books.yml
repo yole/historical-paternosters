@@ -197,3 +197,26 @@ books:
   url: https://books.google.com/books?id=aogyAQAAMAAJ
   author: William Camden
   author_url: https://en.wikipedia.org/wiki/William_Camden
+
+- title: Gramaye Specimen
+  full_title: Specimen litterarum et linguarum universi orbis
+  year: 1622
+  url: https://gallica.bnf.fr/ark:/12148/bpt6k322675s
+  author: Jean-Baptiste Gramaye
+  author_url: https://en.wikipedia.org/wiki/Jean-Baptiste_Gramaye
+
+- title: Alderete
+  full_title: Del origen y principio de la lengua castellana o romance que hoy se uso en España
+  year: 1606
+  url: https://books.google.com/books?id=U4FXAAAAcAAJ
+  author: Bernardo de Alderete
+  author_url: https://en.wikipedia.org/wiki/Bernardo_de_Alderete
+
+- title: Gessner
+  full_title:
+    "Mithridates: De Differentiis Lingvarvm tvm vetervm tum quae hodie apud diuersas nationes 
+     in toto orbe terraru[m] in usu sunt"
+  url: https://books.google.com/books?id=yTVUAAAAcAAJ
+  year: 1555
+  author: Conrad Gessner
+  author_url: https://en.wikipedia.org/wiki/Conrad_Gessner

@@ -1,0 +1,24 @@
+language: Welsh
+attestations:
+  - book_title: Pantographia
+    page: 22
+    description: Ancient British 2
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 43
+    description: Welsh
+text:
+  "Ein tad yr hwn wytl yn y nesoedd. Sancteiddier[1]
+   dy enw. Deued dy deyrnas. Bid dy ewyllys
+   ar yddaiar, megis y mae yn y nefoedd[2].
+   Dyro i ni heddyw ein bara bennyddiol[3], 
+   a maddeu[4] i ni ein dyledion, fel a maddeuwn ni in
+   dyled-wyr[5]. Ac nac arwain ni i brofedigaeth[6].
+   Eithr gwared ni rhag drwg. Amen."
+footnotes:
+  1: "Pantographia: Sanctedidier"
+  2: "Pantographia: nefoed"
+  3: "Pantographia: beunyddiol"
+  4: "Pantographia: amad deu"
+  5: "Pantographia: dyledwgr"
+  6: "Pantographia: brofe digaeth"

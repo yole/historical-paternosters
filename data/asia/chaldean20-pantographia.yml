@@ -1,0 +1,21 @@
+language: Aramaic
+attestations:
+  - book_title: Pantographia
+    page: 40
+    description: Chaldean 20
+    source: Orat. Dom. p. 11
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 11
+    description: Chaldaica
+text:
+  "Abhouna debhischmaija; jithkaddasch schemach; 
+   tethe malchouthach; jehěveh tsibhjanach
+   kma bhischmaija knema bh-ar-a; habh lan
+   lahhma dmissetana bhjoma; uschebuk lan
+   hhobai kma anan schbhakna lěhhaijabhai[1];
+   v’al thaǎlan lenissajona; ella phza jathan min
+   bischa; m’toul dědhilach itheh[2] malchutha vehhéla
+   vetheschbuhha l’a’lmin. Amen."
+footnotes:
+  1: "Pantographia: běhhai jabhai"
+  2: "Pantographia: iteeh"

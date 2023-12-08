@@ -1,0 +1,21 @@
+language: Chinese
+attestations:
+  - book_title: Pantographia
+    page: 42
+    description: Chinese 1
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 42
+    description: Chinish
+text:
+  "Ngò[1] tèm fu chè tsay thiæn. Ngo tèm yuèn
+   ùl niûn chîm xím. Ùl gúë lîn. Úl chì chîm
+   hîm. Yu ty su sim thyæn. Ngò teng uwàng
+   uul kyn jûn ngò ngò zié jong leáng. Uul myæn[2] 
+   ong-o tsi ay. Zîu ngò ijé ssa toû ngo tsi
+   ay tsié. Yeéu' pu ngò chiù chi éu ìu ieáu caan
+   Nây kyeéa ngo yu chiu’o."
+footnotes:
+  1: "Pantographia: no tone marks are reproduced in the text"
+  2: "Pantographia: my æn"
+  3: "Pantographia: can"
