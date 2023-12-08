@@ -1,0 +1,43 @@
+language: English
+attestations:
+  - book_title: Pantographia
+    page: 64
+    description: English 3
+    source: "About 1160, in the reign of King Henry II. the annexed
+     Lord’s Prayer was rendered in rhyme, and sent from
+     Rome by Pope Adrian, an Englishman. Wilk. Ess. p. 7. Orat. Dom. p. 68."
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 68
+    description: "Anglica altera Vetustior ab Adriano Pontifice
+      (ex Anglorum gente oriundo) concinnata, ut a junioribus suis
+      popularibus edisceretur, circa Annum 1156."
+  - book_title: Remains Concerning Britain
+    page: 17
+text: |
+  Ure fadyr in heaven rich.
+  Thy name be halyed[1] everlich[2].
+  Thou bring us thy michell blisse:
+  Als hit in heaven y[3]-doe,
+  Evar[4] in yearth beene it also[5].
+  That holy bread[6] that lasteth[7] ay.
+  Thou send it ous[8] this ilke[9] day.
+  Forgive ous[8] all that we havith[10] don.
+  As we forgivet[11] uch other mon[12]:
+  Ne let ous fall into no founding,
+  Ac[13] sheild[14] ous fro the fowle thing. Amen.
+poetry: true
+footnotes:
+  1: "Pantographia: hallyed"
+  2: "Pantographia, Oratio Dominica: ever lich"
+  3: "Oratio Dominica: heveny"
+  4: "Oratio Dominica: euear"
+  5: "Oratio Dominica: been it alsoe"
+  6: "Oratio Dominica: breade"
+  7: "Oratio Dominica: lasteith"
+  8: "Oratio Dominica: us"
+  9: "Oratio Dominica: like"
+  10: "Pantographia, Oratio Dominica: have"
+  11: "Oratio Dominica: forgive"
+  12: "Oratio Dominica: on"
+  13: "Oratio Dominica: ne"
+  14: "Oratio Dominica: sheld, Pantographia: shield"

@@ -1,0 +1,19 @@
+language: English
+attestations:
+  - book_title: Pantographia
+    page: 64
+    description: English 4
+    source: "About 1250, in the reign of Henry III. we find it thus
+      rendered also in rhyme. Martin’s Inst. p. 15."
+text: |
+  Fadir ur that es in hevene,
+  Halud be thi Nam to nevene:
+  Thou do us thi rich rike,
+  Thi Will erd be wroght elk:
+  As it is wroght in Heven ay,
+  Ur ilk Day Brede give us to Day:
+  Forgive thou all us dettes urs
+  As we forgive till ur detturs
+  And ledde us in na fanding
+  But sculd us fra ivel Thing.
+poetry: true

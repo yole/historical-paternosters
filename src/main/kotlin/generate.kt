@@ -80,7 +80,7 @@ class Languages {
 
 class LanguageFamily(
     val name: String,
-    val languages: MutableList<Language> = mutableListOf(),
+    val languages: MutableSet<Language> = sortedSetOf(compareBy(Language::name)),
     val subFamilyMap: MutableMap<String, LanguageFamily> = hashMapOf()
 ) {
     val subFamilies: List<LanguageFamily>
