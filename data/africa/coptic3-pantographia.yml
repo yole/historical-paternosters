@@ -1,0 +1,24 @@
+language: Fake
+attestations:
+  - book_title: Pantographia
+    page: 46
+    description: Coptic 3
+    source: Orat. Dom. p. 25
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 25
+    description: Coptica quasi Antiqua
+    source: Grammaye ap. D'Avity Afr. 297
+text:
+  "Theut habh atast en ornos. Plenspliah arich
+   eho. Abspinth bahl eho. Erup vlid heo ah
+   en orna, si ben isi. Beko bibh pueum, thet
+   hio memah. Fib aff hla ihos gipsa hio ; omsh
+   afflom gipsam hia. Sib auk quarb en zharafhi
+   3 as afsh hio malach. Amin."
+notes:
+  "Almost certainly invented by Gramaye. Already 
+  Wilkins in the preface to Chamberlayne's book
+  writes: Chaost vocum Aegyptiacarum, Hebraicarum
+  Graecarumque quae nunquam uti hic conjunctae sunt,
+  in lingua Coptica fuerunt in usu, sed ab Auctore
+  Grammaji effictae"

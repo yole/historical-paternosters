@@ -151,3 +151,18 @@ languages:
 - name: English
   family: Indo-European/Germanic
   url: https://en.wikipedia.org/wiki/English_language
+- name: German
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/German_language
+- name: Danish
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Danish_language
+- name: Croatian
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Croatian_language
+- name: Cornish
+  family: Indo-European/Celtic
+  url: https://en.wikipedia.org/wiki/Cornish_language
+- name: Coptic
+  family: Afro-Asiatic
+  url: https://en.wikipedia.org/wiki/Coptic_language

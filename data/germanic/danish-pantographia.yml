@@ -1,0 +1,26 @@
+language: Danish
+attestations:
+  - book_title: Pantographia
+    page: 50
+    description: Danish
+    source: Wilk. Ess. p. 435. Orat. Dom. p. 55.
+  - book_title: Wilkins
+    number: 21
+    description: Danish
+  - book_title: Megiser
+    number: 23
+    description: Danice
+text:
+  "Pader vor du som est i himmelen. Helligt
+   vorde dit naffn. Til komme dit rige. Borde
+   din bilie[1]; saa paa jorden som hand er i himmelen.
+   Giff oz i dag vort daglige brod. Oc
+   forlad oz vor[2] skyld; som wi forlade vore skyldener.
+   Oc leed oz icke voi fristelse. Men frels oz
+   fraont[3]. Thi rigit er dit, oc krafft, oc herlighed i[4]
+   ewighed. Amen."
+footnotes:
+  1: "Pantographia: Billie"
+  2: "Pantographia: word is omitted"
+  3: "Pantographia, Wilkins: fra ont. Wilkins: text is cut off at this point."
+  4: "Pantographia: herligved; 'i' is omitted"

@@ -1,0 +1,17 @@
+language: Coptic
+attestations:
+  - book_title: Pantographia
+    page: 46
+    description: Coptic 4
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 7
+    description: Copti
+text:
+  "Peniot etchennipheoui. Mareftoubonje pecran.
+   Maresinje tecme touro. Netehnacmarefshopi.
+   Phredichentphenemhi jenpicahi. Fenoiki
+   terasti meifnanphoou. Ouohchanieteron
+   nanebolmphretitio. Tenchoebol neete.
+   Ouo omper tenechou epirasmos. Alla nah
+   menebolch enpipethmou."

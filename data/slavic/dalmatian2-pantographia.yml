@@ -1,0 +1,25 @@
+language: Prekmurje Slovene (?)
+attestations:
+  - book_title: Pantographia
+    page: 50
+    description: Dalmatian 2
+    source: Wilk. Ess. p. 435.
+  - book: Wilkins
+    number: 27
+    description: Dalmatian
+  - book: Megiser
+    number: 35
+    description: Dalmatice. Molitva Gozpodinava
+base: slavic/sclavonian3-pantographia
+text:
+  "Otsce nas koyi-yessina nebissih. Szvetisse gyme
+   tvoye. Pridi kralyesstvo[1] tvoze. Budi volya
+   tvoya: kako na nebu, tako ina zemlyi.
+   Kruh nas ssvagdanyni day nam danass. Jod
+   pussti naam duge nase. Kako i my odpuschyamo
+   duxnikom nassim. Ine naass uvedi u-napasst[2].
+   Da osslobodi naas od assla. Amen."
+footnotes:
+  1: "Pantographia, Wilkins: kralyess tvo"
+  2: "Pantographia, Wilkins: uvedi-napasst"
+

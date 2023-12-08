@@ -1,0 +1,17 @@
+language: Cornish
+attestations:
+  - book_title: Pantographia
+    page: 48
+    description: Cornish
+    source: Orat. Dom. p. 52
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 52
+    description: Cornubica
+text:
+  "Ny taz ez yn neau. Bonegas yw tha hanaw.
+   Tha Gwlakath doaz. Tha bonogath bogweez
+   en nore pocoragen neau. Roe thenyen dythma
+   gon dyth bara givians. Ny gan rabn weery
+   cara ny givians mens. O cabin ledia ny
+   nara idn tentation. Buz dilver ny thart doeg.
+   Amen."

@@ -1,0 +1,15 @@
+language: German
+attestations:
+  - book_title: Pantographia
+    page: 52
+    description: High Dutch
+    source: Guthrie, p. 746.
+text:
+  "Unser Vater, der du bist im himmel, geheiliget
+   werd dein name. Zukomme dein reich.
+   Dein wille geschehe, wie im himmel also auch
+   auf erden. Unser tâglich brodt gib uns heute.
+   Und vergib uns unser schuld, als wir vergeben
+   unsern schuldigern. Unde fuhre uns nict
+   in versuchung. Sondern erlô se uns von dem
+   bosen. Den dein is das reich, und die krafft."

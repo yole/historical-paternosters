@@ -1,0 +1,20 @@
+language: Dutch
+attestations:
+  - book_title: Pantographia
+    page: 52
+    description: Low Dutch 1
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 20
+text:
+  "Onse vader die in den hemelin sijt[1]; uwen naem
+   werde geheylight; uw coninckrijcke icome;
+   uwen wille geschiede, gelijck in den hemel
+   oockop der aerden; ons daghelijcks broot
+   gheeft ons heden; ende vergheeft ons onse
+   scoulden, gelijck vock wy vergheven onsen
+   schuldenaren; ende en leydtons nict in 
+   ver[2]weekinghe[3], naer verlost ons van den bosen."
+footnotes:
+  1: "Pantographia: this word is omitted"
+  2: "Pantographia: text is cut off at this point"

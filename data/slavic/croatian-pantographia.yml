@@ -1,0 +1,30 @@
+language: Russian
+attestations:
+  - book_title: Pantographia
+    page: 48
+    description: Croatian
+    source: Wilk. Ess. p. 435.
+  - book_title: Wilkins
+    number: 29
+    description: Croatian
+  - book_title: Megiser
+    number: 34
+    description: Croatice, Ruthenice, Moscovitice
+base: slavic/russian2-pantographia
+text:
+  "Ozhe nash ishe esina[1] nebesih. Svetise jme tuoe.
+   Pridi cesarastvo[2] tvuoe. Budi volia tvoja
+   Jako na niebesih j tako na semlij[3]. Hlib nash
+   usagdanni[4] dai nam danas. Jodpusti nam dlgi
+   nashe. Jaco she i mi[5] odpushzhamo dishnikom
+   nashim. Ine isbavi nas od nepriasni.[6] Dais bavi
+   nas od sla.[7] Iako tvoe je Cesarastvo, i mozh, 
+   i slava, vaveki. Amen."
+footnotes:
+  1: "Pantographia: efina"
+  2: "Wilkins, Pantographia: cesa rastvo"
+  3: "Wilkins, Pantographia: nasemlij"
+  4: "Wilkins, Pantographia: usag danni"
+  5: "Wilkins, Pantographia: imi"
+  6: "Megiser: the following phrase is missing."
+  7: "Wilkins, Pantographia: the following phrase is missing."
