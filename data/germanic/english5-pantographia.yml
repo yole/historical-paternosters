@@ -1,0 +1,20 @@
+language: English
+attestations:
+  - book_title: Pantographia
+    page: 66
+    description: English 5
+    source: "In the year 1260, in the reign of King Henry III, the annexed translation of the Lord’s Prayer 
+      is also given in rhyme. Wilk. Ess. p. 7"
+text: |
+  Fader that art in heavin riche,
+  Thin helge nam it wurth the blisse,
+  Cumen and mot thy kingdom,
+  Thin holy will it be all don,
+  In heaven and in erdh also.
+  So it shall bin full well Ic tro.
+  Gif us all bread on this day,
+  And forgif us ure sinnes.
+  As we do ure wider winnes:
+  Let us not in fonding fall,
+  Oac fro evil thu syld us all. Amen.
+poetry: true

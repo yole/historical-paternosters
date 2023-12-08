@@ -115,6 +115,7 @@ class Specimen {
     var notes: String? = null
     var footnotes: Map<String, String> = hashMapOf()
     var gloss: Map<String, String> = hashMapOf()
+    var poetry: Boolean? = false
 
     var baseSpecimen: Specimen? = null
     var lang: Language? = null
@@ -297,7 +298,10 @@ fun downloadThumbnail(book: Book): String? {
 fun generateSpecimen(specimen: Specimen, path: String) {
     val template = Velocity.getTemplate("specimen.vm")
     val context = contextFromObject(specimen)
-    context.put("text", specimen.text?.let { formatFootnotes(it) })
+    context.put("text", specimen.text?.let {
+        val withFootnotes = formatFootnotes(it)
+        if (specimen.poetry == true) withFootnotes.replace("\n", "<br>") else withFootnotes
+    })
     if (specimen.gloss.isNotEmpty()) {
         context.put("glossed_text", formatGlossedText(specimen))
     }

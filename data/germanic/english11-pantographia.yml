@@ -1,0 +1,15 @@
+language: English
+attestations:
+  - book_title: Pantographia
+    page: 70
+    description: English 11
+    source: Archbishop Cranmer’s Bible <...> which was printed in 1575
+text:
+  "O our father which art in heauen halowed be
+   thy name. Let thy kingdome come. Thy wyll
+   be done, as well in earth, as it is in heauen.
+   Give vs this Day our dayly breade. And forgyue
+   vs our dettes, as we forgyue our detters.
+   And leade vs not into temptation, but deliuer
+   vs from euill: for thine is the kingdome, and
+   the power, and the glorie, for euer. Amen."

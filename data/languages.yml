@@ -145,3 +145,9 @@ languages:
 - name: Estonian
   family: Uralic
   url: https://en.wikipedia.org/wiki/Estonian_language
+- name: Ge'ez
+  family: Afro-Asiatic/Semitic
+  url: https://en.wikipedia.org/wiki/Ge%CA%BDez
+- name: English
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/English_language

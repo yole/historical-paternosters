@@ -1,0 +1,19 @@
+language: Ge'ez
+attestations:
+  - book_title: Pantographia
+    page: 82
+    description: Ethiopic 2
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 5
+    description: Aethiop
+text:
+  "Abuna xabashamajath. Yithkadash shimacha
+   Thymtsa mangystcha. Yichun phachadacha.
+   Bachama bashamai wabamdyrni. Shishajana
+   zalala ylathana habana yom. Hydyglana abashana[1]. 
+   Chama nyhhnani nyhadyg laxa abasha
+   lana. Waithabyana wysh tha manshuthi, ala
+   adychnana balhhanana ymkulu ychui."
+footnotes:
+  1: "Pantographia: aba shana"

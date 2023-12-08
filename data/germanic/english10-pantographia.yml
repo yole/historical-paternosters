@@ -1,0 +1,19 @@
+language: English
+attestations:
+  - book_title: Pantographia
+    page: 70
+    description: English 10
+    source:
+      "a translation by Sir John Cheke, Professor of Greek in the University of Cambridge, 
+      in the reign of Edward VI. Orat. Dom. p. 69"
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 69
+    description: Versio Cl. Viri Jo Checi, Edvardi VI. Praeceptoris Erudissimi
+text:
+  "Our father which art in heaven, halowed be
+   thy name, Let thy Kingdom come, Thy will
+   be fulfilled, as well in earth as it is in heaven:
+   Give ous this day our dayly bread: And forgive
+   ous our trespasses, even as we forgive
+   our trespassers: And lead ous not into temptation,
+   But delyver ous from evyl. Amen."
