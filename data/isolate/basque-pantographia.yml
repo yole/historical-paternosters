@@ -1,0 +1,48 @@
+language: Basque
+attestations:
+  - book_title: Pantographia
+    page: 20
+    description: Biscayan
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 45
+    description: Biscan
+  - book_title: Megiser
+    number: 31
+    description: Cantabrice
+  - book_title: Leizarraga
+    page: 10
+text:
+  "Gure aita ceruëtan[1] aicena. Sanctifica bedi
+   hire icena[2]. Ethor[3] bedi hire resumá[4]. Eguin
+   bedi hire vorondatea[5] ceruän beçala[6] lurrean
+   ere. Gure eguneco[7] oguia iguc[8] egun. Eta 
+   quitta[9] ietzaguc[10] gure çorrac[11]: Nola gucere[12] gure
+   çordunéy[13] quittatzen baitrauegu[14]. Eta 
+   ezgaitzála sar[15] eraci[16] tentationetan[17]. Baina deliura[18]
+   gaitzac gaichtotic[19]."
+footnotes:
+  1: "Megiser, Wilkins, Pantographia: cerue tan"
+  2: "Pantographia: ieeena"
+  3: "Megiser: et hor; Wilkins, Pantographia: et hoz"
+  4: "Megiser, Wilkins, Pantographia: rehuma"
+  5: "Wilkins, Pantographia: vozondatea"
+  6: "Wilkins, Pantographia: cervan be cala"
+  7: "Pantographia: egoneco"
+  8: "Megiser, Wilkins, Pantographia: igue"
+  9: "Pantographia: quit ta"
+  10: "Megiser, Wilkins, Pantographia: jetrague"
+  11: "Pantographia: cozrac"
+  12: "Megiser, Wilkins: guere; Pantographia: gucre"
+  13: "Pantographia: cozduney"
+  14: "Megiser, Wilkins, Pantographia: baitra vegu"
+  15: "Wilkins: ezgai zala sar, Pantographia: ezgai zalasar"
+  16: "Pantographia: eracitenta"
+  17: "Pantographia: tentacione tan"
+  18: "Megiser, Wilkins: delivra, Pantographia: delibza"
+  19: "Megiser, Wilkins, Pantographia: gaich totic"
+bibliography:
+  - title: Vicisitudes de un Padrenuestro en vasco en el siglo XVII
+    author: Francisco J. Oroz Arizcuren
+    year: 1980
+    url: https://ojs.ehu.eus/index.php/ASJU/article/view/7552/6738

@@ -181,5 +181,7 @@ languages:
 - name: Czech
   family: Indo-European/Slavic
   url: https://en.wikipedia.org/wiki/Czech_language
-
+- name: Berrichon
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Berrichon_dialect
 

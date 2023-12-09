@@ -1,0 +1,36 @@
+language: Berrichon
+attestations:
+  - book_title: Pantographia
+    page: 18
+    description: Berryan
+    source: Orat. Dom. p. 39
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 39
+    description: Berriensis
+text:
+  "Nouestre pére que sias dins l’ou Ciel, vouestre
+   nom siet santifia. Que vouestre royame nous
+   arribe. Que vouestre volonta siet fache, a la terre[1]
+   comme a ou Ciel. Dona nous aujourdhuy
+   nouestre[2] pan quotidien. Et perdona nos nouestros
+   offenses, como nos outros pardonem a na
+   quoties que nous en offensa. Et ne nous lais[4]sa
+   pas tomber dins la tentation. Mai delivra nous d'ou mau. 
+   Ainsi siet."
+footnotes:
+  1: "Pantographia: this word is omitted"
+  2: "Pantographia: nuestre"
+  3: "Pantographia: nuestros"
+  4: "Pantographia: text is cut off at this point"
+bibliography:
+  - title: Nuevos datos sobre las obras vascas de Pierre d'Urte
+    author: Josu M. Zulaika Hernández
+    year: 2009
+    url: https://artxiker.ccsd.cnrs.fr/artxibo-00526863/
+    page: 340
+notes:
+  "According to a remark in Josu M. Zulaika Hernández's article,
+  the reason why a Berrichon version of Pater Noster appeared in the collections
+  was because 'Berria' in the name of the Basque New Testament translation
+  (which actually means 'new') was interpreted as a language name, and people started
+  looking for that language."

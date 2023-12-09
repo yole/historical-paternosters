@@ -220,3 +220,10 @@ books:
   year: 1555
   author: Conrad Gessner
   author_url: https://en.wikipedia.org/wiki/Conrad_Gessner
+
+- title: Leizarraga
+  full_title: Iesus Christ Gure Iaunaren Testamentu Berria
+  url: https://web.archive.org/web/20120611214922/http://www.euskomedia.org/PDFAnlt/mono/leizarraga/leizarraga_biblia.pdf
+  year: 1571
+  author: Joanes Leizarraga
+  author_url: https://en.wikipedia.org/wiki/Joanes_Leizarraga
