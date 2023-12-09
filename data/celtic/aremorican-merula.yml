@@ -1,0 +1,36 @@
+language: Breton
+attestations:
+  - book_title: Pantographia
+    page: 14
+    description: Aremorican 2
+    source: Orat. Dom. p. 51
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 51
+    description: Britannica Aremoricana (Alia Versio)
+    source: P. Merulae Cosmograph. pag. 331
+  - book_title: Merula
+    page: 432
+    description: Britannice apud Aremoricos in Galliis
+text:
+  "Hon tad pehuny[1] sou en efaou,
+   Da hanou bezet sanctifiet,
+   Devet aornomp da rouantelaez.
+   Da eol bezet graet en douar, eual maz eou[2] en euf.
+   Ró dimp hyziou hon bara pemdeziec. 
+   Pardon dimp hon pechedou, eual ma pardonomp 
+   da nep pegant ezomp offanczet[3]. 
+   Ha nas[4] dilaes-quet a hanomp en temptation; 
+   hoguen[5] hon diliur dyouz drouc. 
+   Rae dit ez aparchant an rouantelaez, an gloar, hac an
+   galhout da bizauyquen. Amen."
+footnotes:
+  1: "Oratio Dominica, Pantographia: pehudij"
+  2: "Oratio Dominica, Pantographia: eon"
+  3: "Pantographia: offanzet"
+  4: "Oratio Dominica, Pantographia: na"
+  5: "Pantographia: text is cut off at this point"
+bibliography:
+  - title: Les Protestants et la langue bretonne
+    author: L. Lok, Louis Dujardin
+    year: 1950
+    url: https://www.jstor.org/stable/24297888

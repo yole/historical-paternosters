@@ -1,0 +1,35 @@
+language: Welsh
+attestations:
+  - book_title: Pantographia
+    page: 22
+    description: Ancient British 2
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 43
+    description: Welsh
+  - book_title: Merula
+    page: 432
+    description: Britannice apud Cambrobritannos in Anglia
+text:
+  "Ein tâd yr hwn ydwyt[1] yn y nefoedd[2]. Sancteiddier[3]
+   dy enw. Deled[4] dy deyrnas. Bydded[5] dy ewyllys
+   ar yddaiar, megis[6] yn y nefoedd[7].
+   Dyro i ni heddyw ein bara beunyddiol, 
+   a maddeu[8] di[9] i ni ein dyledion, fel a maddeuom[10] ninnau[11] in
+   dyled-wyr[12]. Ac nac arwain ni i brofedigaeth[13].
+   Eithr gwaret[14] ni rhag drwg. Amen."
+footnotes:
+  1: "Wilkins, Pantographia: wytl"
+  2: "Wilkins, Pantographia: nefoedd"
+  3: "Pantographia: Sanctedidier"
+  4: "Wilkins, Pantographia: deued"
+  5: "Wilkins, Pantographia: bid"
+  6: "Wilkins, Pantographia: 'y mae' is inserted at this point"
+  7: "Pantographia: nefoed"
+  8: "Pantographia: amad deu"
+  9: "Wilkins, Pantographia: word is skipped"
+  10: "Wilkins: maddewn, Pantographia: maddeuwn"
+  11: "Wilkins, Pantographia: ni"
+  12: "Pantographia: dyledwgr"
+  13: "Pantographia: brofe digaeth"
+  14: "Pantographia, Wilkins: gwared"

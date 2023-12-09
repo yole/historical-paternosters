@@ -227,3 +227,10 @@ books:
   year: 1571
   author: Joanes Leizarraga
   author_url: https://en.wikipedia.org/wiki/Joanes_Leizarraga
+
+- title: Merula
+  full_title: Cosmographia generalis Libri tres
+  url: https://books.google.com/books?id=MJZrGMEpvhsC
+  year: 1605
+  author: Paulus Merula
+  author_url: https://en.wikipedia.org/wiki/Paulus_Merula

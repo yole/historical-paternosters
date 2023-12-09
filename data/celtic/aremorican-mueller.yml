@@ -1,0 +1,22 @@
+language: Breton
+attestations:
+  - book_title: Pantographia
+    page: 14
+    description: Aremorican 1
+    source: Orat. Dom. p. 51
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 51
+    description: Britannica Aremoricana
+text:
+  "Hon tat pehing son in acou’n. Oth hano bezet
+   sanctifiet. De vel de ompho rouantelez.
+   Ha volonté bezet gret voar an douar evel en
+   coûn. Roit dezomp hinou hor bara bemdezier,
+   ha pardon nil dezomp hon offançon evel
+   ma pardon nomp d’ac re odeus hon offançet.
+   Ha n’hon digaçit quel è tentation. Hogen de
+   livrit a drove. Amen."
+notes:
+  "According to [this article](http://www.tresor-breton.bzh/2018/10/14/1903-le-mystere-du-pater-breton-de-jerusalem/),
+  the text, which was once written on the wall of the Carmelites cloister
+  in Jerusalem, is a 'massacre orthografique' and does not correctly represent a Breton text."

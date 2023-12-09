@@ -184,4 +184,7 @@ languages:
 - name: Berrichon
   family: Indo-European/Romance
   url: https://en.wikipedia.org/wiki/Berrichon_dialect
+- name: Breton
+  family: Indo-European/Celtic
+  url: https://en.wikipedia.org/wiki/Breton_language
 
