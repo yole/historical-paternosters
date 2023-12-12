@@ -187,4 +187,9 @@ languages:
 - name: Breton
   family: Indo-European/Celtic
   url: https://en.wikipedia.org/wiki/Breton_language
-
+- name: Armenian
+  family: Indo-European
+  url: https://en.wikipedia.org/wiki/Armenian_language
+- name: Amharic
+  family: Afro-Asiatic/Semitic
+  url: https://en.wikipedia.org/wiki/Amharic

@@ -1,0 +1,27 @@
+language: Armenian
+attestations:
+  - book_title: Pantographia
+    page: 14
+    description: Armenian 7
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 40
+    description: Armenian
+    source: Megiserus
+  - book_title: Megiser
+    number: 43
+    description: Armenice & Persice
+text:
+  "Hair mer or iercins des. Surb eglizzi anun
+   cho. Eceszzæ archaiuthai cho. Eglizzin camch[1]
+   cho. Orpes jercins en jercri. Zhazt mer hanapazord
+   tur[2] mez aisaur. Eu thogl mez zpaartis
+   mer. Orpæs[3] eu mech thoglumch merozt
+   partpanazt. Eu mi tanir zmezi phorxuthai.
+   Ail pharceai zmez izaræ.[4] Zi choæ archajuthai
+   eu Zauruthai eupharnch javiteans. Amin."
+footnotes:
+  1: "Pantographia: cam"
+  2: "Wilkins: tue; Pantographia: rue"
+  3: "Pantographia: orpas"
+  4: "Pantographia, Wilkins: following phrase is omitted"

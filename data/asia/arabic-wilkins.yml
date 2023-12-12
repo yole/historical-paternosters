@@ -1,0 +1,20 @@
+language: Arabic
+attestations:
+  - book_title: Pantographia
+    page: 14
+    description: Arabic 6
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 3
+    description: Arabic
+text:
+  "Yâ Abânalladi phissamawati. Yatakaddasu
+   smoca. Tâti malacûtoca. Tacûno mashiatoca
+   Camâ phissamâi wa ala’l ardi. Chubzana’lladi
+   lil gadi ahtinaol yaum. Waghphir lanâ mâ aleina.
+   Camâ naghphiro nahno limàn lanâ alcihi.
+   Walâ túdkilná hagiârib. Lakin nagjinnâ[1]
+   minnash shirriti.[2] Lianna leka’lmulka, va’lkou"
+footnotes:
+  1: "Pantographia: naggina"
+  2: "Pantographia: the following cut-off phrase is taken from Oratio Dominica Polyglottos Polymorphos"

@@ -1,0 +1,21 @@
+language: Amharic
+attestations:
+  - book_title: Pantographia
+    page: 2
+    description: Amharic
+    source: Orat. Dom. p. 15
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 15
+    description: Amharica
+    source: J. Ludolf Gr. Aeth. p. 44 Conf. Meg. n. 3 Pist. n. 3 Wilk. n. 3
+text:
+  "Abâtâtyn bassamaj jalach. Jynzalyn mangystcha.
+   Fakâdychm jyhuyn bassamaj yndalachschig
+   bamydrm[1]. Sisâjâtyn yjaylatu zâre sytan.
+   Badalâtyn myharan ynjam jabadalanan
+   yndo nymhyr. Hamansut nygabâ matan attawan.
+   Adhanan yndu kabis nagar.[1] Ysma
+   ziaka jyy’ti mengy’st hajl wasybhat laalama a"
+footnotes:
+  1: "Pantographia: bamydram"
+  2: "Oratio Dominica: text is cut off at this point"

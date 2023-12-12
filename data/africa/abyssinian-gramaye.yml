@@ -1,0 +1,25 @@
+language: Fake?
+attestations:
+  - book_title: Pantographia
+    page: 2
+    description: Abyssinian
+    source: Orat. Dom. p. 26
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 25
+    description: Angolana
+    source: Grammaye ap. D'Avity Afr. p. 471
+  - book_title: Gramaye Oratio
+    page: 5
+    description: Sic orant Abyssini-Canarij.
+text:
+  "Abbahn schirfifu. Selenskgi zebonsha. Meffhaq
+   spirsha[1]. Ischirs[2] jergash. Semskan hirman
+   egahquahn. Parchon pmlegron; ha parchons
+   phlegonaos. nehiblickan[3] scepikha[4]. Erupn
+   ihapsa.[5] Amen."
+footnotes:
+  1: "Oratio Dominica, Pantographia: spirsa"
+  2: "Oratio Dominica, Pantographia: ischir"
+  3: "Oratio Dominica, Pantographia: ne hibli kan"
+  4: "Oratio Dominica, Pantographia: scepikha"
+  5: "Pantographia: repeats the text from the beginning at this point"

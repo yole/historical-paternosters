@@ -1,0 +1,29 @@
+language: Fake?
+attestations:
+  - book_title: Pantographia
+    page: 2
+    description: Angolan
+    source: Orat. Dom. p. 25
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 25
+    description: Angolana
+    source: Grammaye ap. D'Avity Afr. p. 471
+  - book_title: Gramaye Specimen
+    page: 23
+    description: Aethopica
+    source: meus mihi Aethiops interpretatus est
+text:
+  "Tata[1] a monte hosa azure macla agysa[2] anfomsa[3] ara
+  queraola[4] azureta o amano. A fonnimonte[5] iouro toma mont
+  iouro[6] a fouco[7]. O augamont plechamont[8] almont augamos[9] plechomont
+  ouan-mont-cault plutech si-auermont moiue."
+footnotes:
+  1: "Oratio Dominica, Pantographia: tota"
+  2: "Oratio Dominica, Pantographia: agisa"
+  3: "Oratio Dominica, Pantographia: anfonsa"
+  4: "Oratio Dominica, Pantographia: quereola"
+  5: "Pantographia: afonnimonte"
+  6: "Oratio Dominica, Pantographia: montiouro"
+  7: "Oratio Dominica, Pantographia: fauco"
+  8: "Oratio Dominica, Pantographia: plecha mon"
+  9: "Oratio Dominica: augomos; Pantographia: augumos"
