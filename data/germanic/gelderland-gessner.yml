@@ -1,0 +1,40 @@
+language: Dutch
+attestations:
+  - book_title: Pantographia
+    page: 104
+    description: Guelderland
+    source: Orat. Dom. p. 56
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 56
+    description: Geldrica
+    source: Meg. n. 21. Conf. Gesn. f. 49a. Pist. n. 18. Reut. n. 25
+  - book_title: Megiser
+    number: 21
+    description: Geldrice
+  - book_title: Gessner
+    page: 44
+    description: Geldrice
+text:
+  "Onse Vayer, die ghey seit in den hemel;
+   geheilicht[1] sey uwen naem; wu reyck ons toecoem,
+   uwen wil[2] geschie[3] up erden, als in den[4] hemel;
+   geeft[5] ons heuyē[6] ons daghelichs broot:
+   ende vergeeft[7] ons onse scult[8], als wey vergeven
+   onse sculdenaers[9]; ende enleyt ons niet[10]
+   in becoringhe[11]; sondern[12] verloest ons van allen
+   quaden. Amen."
+footnotes:
+  1: "Megiser, Oratio Dominica, Pantographia: geheylicht"
+  2: "Megiser, Oratio Dominica, Pantographia: will"
+  3: "Megiser, Oratio Dominica, Pantographia: geschieh"
+  4: "Pantographia: de"
+  5: "Megiser, Oratio Dominica: geefft"
+  6: "Pantographia, Oratio Dominica: heyen"
+  7: "Megiser, Oratio Dominica: vergeefft"
+  8: "Megiser, Oratio Dominica, Pantographia: sculdt"
+  9: "Megiser, Oratio Dominica, Pantographia: sculdengers"
+  10: "Pantographia: met"
+  11: "Megiser, Oratio Dominica, Pantographia: becooringhe"
+  12: "Megiser, Oratio Dominica, Pantographia: sondern"
+notes:
+  The attested language name refers to the province of [Gelderland](https://en.wikipedia.org/wiki/Gelderland).

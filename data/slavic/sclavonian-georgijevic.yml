@@ -1,0 +1,37 @@
+language: Prekmurje Slovene (?)
+attestations:
+  - book_title: Pantographia
+    page: 268
+    description: Sclavonian 3
+    source: Duret, p. 744; Orat. Dom. p. 59
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 59
+    description: Slavonica Charactere Hieronymiano (Lectio)
+    source: Georgieviz. pag. 115. Conf. Dur. p. 744, Gesn. p. 62 a, Pist. n. 62, Reut. n. 28
+  - book_title: Gessner
+    page: 55
+    description: Illyrice vel Slavonice
+  - book_title: De Turcarum moribus epitome
+    page: 104
+    description: Sclauon. Ling.
+base: slavic/russian2-pantographia
+text:
+  "Otsse nass, ki yessi[1] na nebessi. Ssuetisse[2] ime
+   tuoie. Pridi kralyeusstuo tuoie[3], budi volia[4] tuoia, kako
+   na nebu i na[5] zemlij[6]. Kruha nassega ssagdaniega dai[7] 
+   namga danass, I odpusciainam[8] dughe
+   nasse, kako i mi odpusciamo[9] dusuikon[10]
+   nassijm, I nepeliai nats v[11] napast, da izbaui
+   nats od nepriazni. Amen."
+footnotes:
+  1: "Gessner: ky iessi"
+  2: "Oratio Dominica Polyglottos Polymorphos, Pantographia: Ssuhtisse"
+  3: "Word missing in Oratio Dominica Polyglottos Polymorphos and Pantographia. Gessner: tuo kralyeuss."
+  4: "Gessner, Oratio Dominica Polyglottos Polymorphos, Pantographia: uolia"
+  5: "Oratio Dominica Polyglottos Polymorphos, Pantographia: ina"
+  6: "Gessner: zem lij"
+  7: "Oratio Dominica Polyglottos Polymorphos, Pantographia: ssagdanigad ai"
+  8: "Gessner: odeuscia nam"
+  9: "Gessner: odpusciauam"
+  10: "Gessner: dusnikon"
+  11: "Gessner, Oratio Dominica Polyglottos Polymorphos, Pantographia: u"

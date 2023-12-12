@@ -1,0 +1,24 @@
+language: Old High German
+attestations:
+  - book_title: Gessner
+    page: 41
+    description: Germanice scripta in Heluetiis, anno Domini 870
+  - book_title: Megiser
+    number: 22
+    description: Antiqua Germanorum lingua, scripta circa Annum 870
+text:
+  "Fater ünser, du in himele bist.
+   Din namo werde geheiligot.
+   Din riche chome.
+   Din willo gescehe in erdo also in himile[1].
+   Unser tagolicha brot kib uns hinto.
+   Unde unsere sculde belaz üns als auch wir belasend[2]
+   unseren sculdigen. Und in chorunga nit leitest du unsich.
+   Nun[3] belose unsich sone ubele."
+footnotes:
+  1: "Megiser: himele"
+  2: "Megiser: belasendt"
+  3: "Megiser: Nu"
+notes:
+  According to [Althochdeutsches Lesebuch](https://archive.org/details/althochdeutsche00brau/page/34/mode/2up)
+  this text comes from [Notker](https://en.wikipedia.org/wiki/Notker_Labeo)'s Psalter.
