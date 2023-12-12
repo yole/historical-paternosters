@@ -1,0 +1,25 @@
+language: Icelandic
+attestations:
+  - book_title: Gessner
+    page: 48
+    description: Islandica
+  - book_title: Megiser
+    number: 25
+    description: Islandice
+text:
+  "Bader vor sun ert ai himmum[1]; helgist bitt
+  namb[2] ti. Komi titt[3] rike, verdi tinn vile,
+  suoms ai himme so ai podu[4]. Burd[5] vort daglgt
+  geb tu oss i dag. Og bergeb oss skullden vorn,
+  suo sem[6] ui bergebun skulldun vorn. Ant leid[7]
+  oss e ki breisl ni helldur brelsa tu[8] oss ber illu tatz[9] sie."
+footnotes:
+  1: "Megiser: aihimmum"
+  2: "Megiser: nam"
+  3: "Megiser: tit"
+  4: "Megiser: aipodu"
+  5: "Megiser: burt"
+  6: "Megiser: suosem"
+  7: "Megiser: leidt"
+  8: "Megiser: word is omitted"
+  9: "Megiser: tasst"

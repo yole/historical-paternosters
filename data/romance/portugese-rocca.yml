@@ -1,0 +1,41 @@
+language: Portuguese
+attestations:
+  - book_title: Pantographia
+    page: 238
+    description: Portuguese 1
+    source: Guthrie, p. 813
+  - book_title: Megiser
+    number: 16
+    description: Lusitanice
+  - book_title: Rocca
+    page: 374
+    description: Lusitanica
+text:
+  "Padre nosso, que stas[1] nos ceos, santificado[2] seia
+   o teu[3] nome; venha à nos o teu reino, seja ferta[4]
+   à tua vontade[5], assi nos ceos, come na terra.
+   O pao nosso[6] de cadadia, dano lo[7] oie nesto[8]
+   dia, e perdoa nos[9] sennor as nossas dividas,
+   assi como nos perdoamos aos nossos dividores;
+   e nao[10] nos dexes cahir in tentacao[11], mas libra
+   nos do mal. Amen."
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 175
+footnotes:
+  1: "Pantographia: questas"
+  2: "Pantographia: sanctificado"
+  3: "Pantographia: otu"
+  4: "Pantographia: sea feita"
+  5: "Megiser: volontade; Pantographia: voluntade"
+  6: "Pantographia: Opao nosson"
+  7: "Pantographia: da nolo"
+  8: "Pantographia: nestro"
+  9: "Pantographia: a nos"
+  10: "Pantographia: naon"
+  11: "Pantographia: tentacaon"
+

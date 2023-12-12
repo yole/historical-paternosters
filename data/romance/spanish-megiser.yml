@@ -1,0 +1,24 @@
+language: Spanish
+attestations:
+  - book_title: Pantographia
+    page: 274
+    description: Spanish 1
+    source: From the New Testament in this language, Amst. 1625; Wilk. Ess. p. 435
+  - book_title: Megiser
+    number: 15
+    description: Spanish
+text:
+  "Padre nuestro, que estas en los cielos, sanctificato[1]
+   sea el tu nombre; venga à nos el tu reyno:
+   hagase[2] tu voluntad, assi en la tierra, como
+   en el cielo. El pan nuestro de cada dia da nos
+   lo oy: y perdona nos nuestras deudas, assi como
+   nostros perdonamos à nuestros deudores.
+   Y no nos dexes caër en la tentation: mas libra
+   nos de mal; porque[3] tuyo es el reyno, y la
+   potencia[4], y la gloria, por todos los siglos. Amen."
+footnotes:
+  1: "Pantographia: sanctificado"
+  2: "Pantographia: fagase"
+  3: "Pantographia: porgue"
+  4: "Pantographia: potentia"
