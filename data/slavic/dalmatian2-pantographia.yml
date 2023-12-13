@@ -10,7 +10,7 @@ attestations:
   - book_title: Megiser
     number: 35
     description: Dalmatice. Molitva Gozpodinava
-base: slavic/sclavonian3-pantographia
+base: slavic/sclavonian-georgijevic
 text:
   "Otsce nas koyi-yessina nebissih. Szvetisse gyme
    tvoye. Pridi kralyesstvo[1] tvoze. Budi volya
