@@ -1,0 +1,43 @@
+language: Sardinian
+attestations:
+  - book_title: Pantographia
+    page: 256
+    description: Sardinian 2
+    source: Duret, p. 818
+  - book_title: Megiser
+    number: 13
+    description: Sardorum communiori lingua
+  - book_title: Gessner
+    page: 66
+    description: in Sardorum communiori lingua, extra civitates
+text:
+  "Babbu nostru, sughale ses in sos chelus[1]: santusiada[2]
+   su nomine tuo: bengiad su rennu tuo[3]:
+   faciadsi[4] sa voluntade tua, comenti en chelo,
+   gasi in sa terra. Su pane nostru de ogniedie
+   dona anosateros hoæ[5], et lassa à nosateros is debitus[6]
+   nostrus, comente[7] è nosateros lassaos à is
+   debitores[8] nostrus. E no[9] nos portis in sa
+   tentatione[10]. Impero libera nos da male.[11]
+   Poiteo tuo esti su rennu, sa gloria è su imperiu, in
+   sos seculos de sos secolos. Amen.[12]"
+footnotes:
+  1: "Gessner: soschelus"
+  2: "Pantographia: santufiada"
+  3: "Megiser: tou"
+  4: "Megiser, Pantogaphia: faciad si"
+  5: "Megiser, Pantographia: da nos lu hoæ"
+  6: "Megiser, Pantographia: is deppidos"
+  7: "Megiser, Pantographia: gasi comente"
+  8: "Megiser, Pantographia: sos deppidores"
+  9: "Megiser, Pantographia: non"
+  10: "Megiser, Pantographia: tentassione"
+  11: "Megiser: su male. Pantographia: following phrase is missing"
+  12: "Megiser: Gasi siat."
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 203
