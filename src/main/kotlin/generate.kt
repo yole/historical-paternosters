@@ -357,7 +357,7 @@ fun generateIndex(path: String) {
     val readme = Paths.get("README.md").readLines()
         .drop(1) // first caption line
         .dropWhile { it.isEmpty() } // blank lines
-        .takeWhile { !it.startsWith("#") } //next caption
+        .takeWhile { "End of index.html" !in it }
         .joinToString("\n")
     val readmeHtml = markdownToHtml(readme)
 

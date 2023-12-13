@@ -31,6 +31,18 @@ different authors;
 
 The effort is currently actively in progress.
 
+### Methodology
+
+* Differences between different versions of a translation are annotated as footnotes.
+* Differences in punctuation and diacritics are not annotated.
+* A text in a non-Latin script and its transliteration are presented as two different specimens.
+  The transliteration is marked as 'based on' the original text.
+* Differences between transliterations of the same text are not annotated; only one version
+  is selected as canonical.
+* Glosses are provided only when they are present in an original attestation.
+
+[//]: # (End of index.html)
+
 ### This Repository
 
 This repository contains the database of the specimens themselves (the `data` directory),
