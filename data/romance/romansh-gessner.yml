@@ -1,0 +1,38 @@
+language: Romansh
+attestations:
+  - book_title: Pantographia
+    page: 104
+    description: Grisons
+    source: Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 16
+    description: Grysons
+  - book_title: Megiser
+    number: 10
+    description: Rhatice, Lingua Curvalica
+  - book_title: Rocca
+    page: 374
+    description: vernaculo Rhetorum sermone conscripta, quem vulgo Romanum appellant
+  - book_title: Gessner
+    page: 65
+    description: in vernaculo Rhaetorum sermone, quem ipsi vulgo Romanum appellant, nostri Churwelsch
+text:
+  "Bab nos quæl tu[1] ist in eschil, santifichio saia
+   ilgtes num; ilgtes ariginam uigna ter nus, la
+   thia uoeglia d’uainta[2], in terra sco la fo in eschil; 
+   do a nus nos paun houtz & in münchia[3]
+   di; parduna à nus nos dbits, sco nus fain à
+   nos dbitaduors[4]; nun ens mener in mel aprouaimaint; 
+   dimpersemaing spendra nus da tuots mels. Amen."
+footnotes:
+  1: "Rocca, Wilkins, Pantographia: tii"
+  2: "Rocca: vainta"
+  3: "Rocca, Megiser, Wilkins, Pantographia: miinchia"
+  4: "Rocca: dbitaduos"
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 191
