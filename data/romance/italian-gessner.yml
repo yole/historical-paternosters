@@ -1,0 +1,57 @@
+language: Italian
+attestations:
+  - book_title: Pantographia
+    page: 168
+    description: Italian 1
+    source: Edit. Genev. 1607. Wilk. Ess. p. 435
+  - book_title: Wilkins
+    number: 12
+    description: Italian
+  - book_title: Megister
+    number: 9
+    description: Italice
+  - book_title: Rocca
+    page: 368
+    description: Italice
+  - book_title: Gessner
+    page: 57
+    description: Italice
+text:
+  "Padre nostro[1], che sei ne’ cieli, sia santificato[2]
+   il nome tuo[3]; venga il tuo regno[4]; 
+   sia fatta la tua volunta[5], come[6] nel[7] cielo, così ancora[8] in terra[9]:
+   dacci oggi[10] il nostro pane cotidiano[11]; et[12] rimettici[13]
+   i nostri peccati[14], come[15] anchora noi[16] li[17]
+   rimettiamo a’ nostri debitori[18]: e[19] non ci indurre[20]
+   in tentatione, ma liberaci dal male[21]: perci[22]oche
+   tuo è il regno & la potentia, & la gloria, ne' secoli de secoli. Amen."
+footnotes:
+  1: "Gessner: nostre"
+  2: "Wilkins: sanctificato"
+  3: "Pantographia: il tuo nome"
+  4: "Rocca, Megiser, Wilkins: il regno tuo; Pantographia: il regno tuo venga"
+  5: "Rocca: volontà; Megiser: volontà tua; Wilkins: voluntà tua; Pantographia: la tua volunta sia fatta"
+  6: "Megiser, Wilkins, Pantographia: si come"
+  7: "Megiser, Wilkins, Pantographia: in"
+  8: "Megiser, Wilkins: word omitted; Pantographia: anche"
+  9: "Rocca: così nella terra, come nel cielo"
+  10: "Rocca, Megiser, Wilkins, Pantographia: hoggi"
+  11: "Wilkins: quotidiano"
+  12: "Rocca: word omitted; Pantographia: e"
+  13: "Megiser, Wilkins: perdonaci"
+  14: "Rocca, Megiser, Wilkins, Pantographia: debiti"
+  15: "Rocca, Megiser, Wilkins, Pantographia: si come"
+  16: "Rocca, Wilkins: noi; Pantographia: noi ancora"
+  17: "Pantographia: gli"
+  18: "Megiser, Wilkins: si come noi perdoniamo a'debitori nostri"
+  19: "Rocca: word skipped; Wilkins: et"
+  20: "Megiser, Wilkins: c'indurre; Pantographia: c'indurci"
+  21: "Pantographia: maligno. Gessner, Rocca: following phrase is missing."
+  22: "Pantographia: text is cut off at this point"
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 153
