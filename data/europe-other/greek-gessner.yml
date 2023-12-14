@@ -1,0 +1,20 @@
+language: Koine Greek
+attestations:
+  - book_title: Gessner
+    page: 46
+    description: Graeca
+  - book_title: Megiser
+    number: 5
+    description: Graece Latinis litteris
+text:
+  "Páter hemôn, ho en tîs uranis, hagiathîto tò
+   onomá su. Elthéto hi uasilía su. Genithîto tò thelimá
+   sou hòs en ouranô kæ epì tîs gîs. Tòn árton
+   himôn tòn epiúsion dòs himîn símeron. Kæ
+   áphes himîn tà ophilímata himôn, hòs kae himîs
+   aphíemen tîs ophilétæs himôn. Kæ mì isenénkis
+   himâs is pirasmòn. Allà rhysæ himâs apò tû ponirû.[1]
+   Hoti sù estin he basilia, kæ he dynamis, kæ he doxa,
+   is tùs æonas. Amín."
+footnotes:
+  1: "Gessner: the doxologia is not included"

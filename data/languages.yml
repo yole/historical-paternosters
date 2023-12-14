@@ -198,3 +198,6 @@ languages:
   url: https://en.wikipedia.org/wiki/Old_High_German
 - name: Basque
   url: https://en.wikipedia.org/wiki/Basque_language
+- name: Koine Greek
+  family: Indo-European
+  url: https://en.wikipedia.org/wiki/Koine_Greek

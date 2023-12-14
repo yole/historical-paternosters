@@ -8,6 +8,9 @@ attestations:
     page: 33
     description: Latina
     source: Vulgat. ex Ed. Sixti V. Papae Antwep 1603 p. 764. Conf. Meg. 8. Pist. 6. Reut. 7. Stiernh. n. ? Wilk. 8
+  - book_title: Megiser
+    description: Latine
+    number: 8
 text:
   "Pater noster, qui es in cœlis: sanctificetur nomen
    tuum: adveniat regnum tuum, fiat voluntas

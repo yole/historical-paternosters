@@ -1,0 +1,18 @@
+language: Hebrew
+attestations:
+  - book_title: Megiser
+    number: 2
+    description: Ebraice Latinis Characteribus
+  - book_title: Gessner
+    page: 47
+    description: Ebraica
+    source: Sebastianus Munsterus in Ebraica lingua edidit
+text:
+  "Abinu schœbbeschamaim, iikkadesch schmœcha:
+  thabo malchuthcha: ieasœh retzonecha
+  chibschamayim, ubaarœtz: œth lahhmenu themidi
+  then lanu haiom: uslahh lanu œth hhobotheinu
+  caaschœr anahhnu solhhin lebaalei hhobotheinu:
+  ueal thebienu benissaion, œlla hatzilenu mera.
+  Ci lecha hammlechuth ugburah uechabod leolam
+  olamim. Amen."

@@ -1,0 +1,27 @@
+language: Koine Greek
+attestations:
+  - book_title: Gessner
+    page: 46
+    description: sermone & characteribus Graecis
+  - book_title: Megiser
+    number: 5
+    description: Graece, communiter
+  - book_title: Pantographia
+    page: 134
+    description: Greek 34
+    source: Orat. Dom. p. 5
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 5
+    description: Orationis Dominicae Textus Authenticus
+    source: Matth. VI 9 seqq. Edit Reg Antv. Conf. Gesn. f. 52. Meg. n. 5. Pist. n. 5. Reut. n. 5.
+text:
+  "πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς,
+  ἁγιασθήτω τὸ ὄνομά σου,
+  ἐλθέτω ἡ βασιλεία σου,
+  γενηθήτω τὸ θέλημά σου ὡς ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς,
+  τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον,
+  καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν,
+  καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ.[1]
+  ὅτι σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα εἰς τοὺς αἰῶνας. ἀμήν."
+footnotes:
+  1: "Gessner: the doxologia is not included"
