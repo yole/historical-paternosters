@@ -196,3 +196,5 @@ languages:
 - name: Old High German
   family: Indo-European/Germanic
   url: https://en.wikipedia.org/wiki/Old_High_German
+- name: Basque
+  url: https://en.wikipedia.org/wiki/Basque_language
