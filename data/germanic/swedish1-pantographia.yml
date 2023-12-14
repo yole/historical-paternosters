@@ -4,11 +4,30 @@ attestations:
     page: 276
     description: Swedish 1
     source: The Lord's Prayer, from a bible in this language, Stockh. 1674; Wilk. Ess. p. 435
+  - book_title: Megiser
+    number: 26
+    description: Svetice
 text:
-  "Fader war som ast i himmelen, helgat warde
-   titt nampn; till komme titt ricke, skei tin wilie
-   sa pa jordenne som i himmelen: wart dagliga
-   brod giff oss i dagh; och forlat oss wara
-   skulder sa som ock wi forlaten them oss skyldege 
-   aro : och in leed oss icke i frestelse; ut an
-   frals oss i fra ondo. Tii riiket ar titt, och ma-"
+  "Fadher war som est[2] i himlom[3], helghat[4] warde
+   titt nampn; tillkomme[5] titt ricke, skee[6] tin wilie
+   så lom i himmelen så ock på jordenne[7]: wart dagligha[8]
+   brod giff oss idagh[9]; och forlat oss wara
+   skuld[10] sa som ock wi forlate[11] them oss skyldege 
+   aro: och inleedh[12] oss icke i frestelse; uthan[13]
+   frels[14] oss i fra ondo.[15] Tii riiket ar titt, och ma-"
+footnotes:
+  1: "Pantographia: fader"
+  2: "Pantographia: ast"
+  3: "Pantographia: himmelen"
+  4: "Pantographia: helgat"
+  5: "Pantographia: till komme"
+  6: "Pantographia: skei"
+  7: "Pantographia: sa pa jordenne som i himmelen"
+  8: "Pantographia: dagliga"
+  9: "Pantographia: i dagh"
+  10: "Pantographia: skulder"
+  11: "Pantographia: forlaten"
+  12: "Pantographia: in leed"
+  13: "Pantographia: ut an"
+  14: "Pantographia: frals"
+  15: "Megiser: doxologia is not included"
