@@ -63,15 +63,5 @@
     <h3>Notes</h3>
     $notes
 #end
-#if($bibliography)
-    <h3>Bibliography</h3>
-    <ul>
-        #foreach($bibref in $bibliography)
-        <li>
-            <a href="$bibref.url">$bibref.title</a> by $bibref.author
-            ($bibref.year)#if($bibref.publication), $bibref.publication#end#if($bibref.page), page $bibref.page#end
-        </li>
-        #end
-    </ul>
-#end
+#parse("bibliography.vm")
 #end

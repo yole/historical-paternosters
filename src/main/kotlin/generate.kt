@@ -27,6 +27,15 @@ import kotlin.reflect.KProperty
 
 private fun toSnippet(text: String?, words: Int) = text?.split(' ')?.take(words)?.joinToString(" ") ?: ""
 
+class BibliographyEntry {
+    var title: String? = null
+    var author: String? = null
+    var publication: String? = null
+    var year: Int? = null
+    var url: String? = null
+    var page: Int? = null
+}
+
 class Book {
     var title: String? = null
     var full_title: String? = null
@@ -36,6 +45,7 @@ class Book {
     var author_url: String? = null
     var image: String? = null
     var type: String? = null
+    var bibliography: MutableList<BibliographyEntry> = mutableListOf()
 
     val outPath: String
         get() = "books/${titleSlug}.html"
@@ -98,15 +108,6 @@ class Attestation {
     var source: String? = null
 
     var book: Book? = null
-}
-
-class BibliographyEntry {
-    var title: String? = null
-    var author: String? = null
-    var publication: String? = null
-    var year: Int? = null
-    var url: String? = null
-    var page: Int? = null
 }
 
 class Specimen {

@@ -239,6 +239,12 @@ books:
   author: Conrad Gessner
   author_url: https://en.wikipedia.org/wiki/Conrad_Gessner
   type: collection
+  bibliography:
+    - title: Der Mithridates (1555) zwischen Sprachmuseum und neulateinischem Onomastikon
+      author: Michail Sergeev
+      year: 2019
+      publication: Conrad Gessner (1516–1565). De Gruyter Oldenburg, 2019.
+      url: https://www.degruyter.com/document/doi/10.1515/9783110499056-028/html
 
 - title: Leizarraga
   full_title: Iesus Christ Gure Iaunaren Testamentu Berria

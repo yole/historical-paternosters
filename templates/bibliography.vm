@@ -1,0 +1,11 @@
+#if($bibliography)
+<h3>Bibliography</h3>
+<ul>
+    #foreach($bibref in $bibliography)
+        <li>
+            <a href="$bibref.url">$bibref.title</a> by $bibref.author
+            ($bibref.year)#if($bibref.publication). In: $bibref.publication#end#if($bibref.page), page $bibref.page#end
+        </li>
+    #end
+</ul>
+#end

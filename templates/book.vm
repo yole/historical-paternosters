@@ -37,4 +37,6 @@ Year of publication: $year<br/>
     </li>
 #end
 </ul>
+
+#parse("bibliography.vm")
 #end
