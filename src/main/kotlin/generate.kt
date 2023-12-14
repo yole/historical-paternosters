@@ -103,6 +103,7 @@ class Attestation {
 class BibliographyEntry {
     var title: String? = null
     var author: String? = null
+    var publication: String? = null
     var year: Int? = null
     var url: String? = null
     var page: Int? = null

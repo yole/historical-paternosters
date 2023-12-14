@@ -40,7 +40,7 @@
     <p>
         Based on <a href="/$baseSpecimen.outPath">${baseSpecimen.attestations[0].book.title}</a>
     #end
-<h3>Attested in:</h3>
+<h3>Attested In</h3>
 <ul>
     #foreach($attestation in $attestations)
         <li><a href="/$attestation.book.outPath">$attestation.book.title</a>
@@ -54,7 +54,7 @@
     <i>($attestation.description)</i>
 #end
 #if($attestation.source)
-    - $attestation.source
+    &ndash; $attestation.source
 #end
         </li>
     #end
@@ -68,10 +68,8 @@
     <ul>
         #foreach($bibref in $bibliography)
         <li>
-            <a href="$bibref.url">$bibref.title</a> by $bibref.author ($bibref.year)
-            #if($bibref.page)
-                , page $bibref.page
-            #end
+            <a href="$bibref.url">$bibref.title</a> by $bibref.author
+            ($bibref.year)#if($bibref.publication), $bibref.publication#end#if($bibref.page), page $bibref.page#end
         </li>
         #end
     </ul>
