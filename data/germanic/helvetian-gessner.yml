@@ -1,0 +1,51 @@
+language: Swiss German
+attestations:
+  - book_title: Pantographia
+    page: 140
+    description: Helvetian
+    source: Orat. Dom. p. 47
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 47
+    description: Helvetica
+    source: Gesn. f. 42.a. & 46.a. Conf. Meg. n. 18. Pist. n. 16. T.D.C.R. p. 255
+  - book_title: Gessner
+    page: 37
+    description: in lingua Germanica communi, vel Helvetica
+  - book_title: Megiser
+    number: 18
+    description: Helvetice
+text:
+  "Vatter unser[1], der du bist[2] inn[3] himmlen[4], geheiliget[5]
+   werde[6] dÿn nam[7]; zukumme[8] uns dÿn[9] rÿch[10],
+   dÿn will geschähe[11], wie im himmel, also auch
+   uff erden[12]: gib uns hütt[13] unser täglich brot: und
+   vergib uns unsere[14] schulden[15], wie auch[16] wir vergäben[17]
+   unsern[18] schuldneren; und[19] für[20] uns nit[21]
+   inn[3] versuchnuss[22], sunder erlös[23] uns von dem
+   bösen[24]. Dann din ist das Rych unnd die Chrafft unnd die
+   Herrlicheit in Ewicheit. Amen."
+footnotes:
+  1: "Gessner: vel potius: Unser Vatter"
+  2: "Oratio Dominica, Pantographia: hist"
+  3: "Megiser, Oratio Dominica, Pantographia: in"
+  4: "Megiser: himmelen"
+  5: "Megiser, Oratio Dominica, Pantographia: geheyligt"
+  6: "Megiser, Oratio Dominica, Pantographia: werd"
+  7: "Megiser: Namen"
+  8: "Megiser: Zuchomm; Oratio Dominica, Pantographia: zukumm"
+  9: "Oratio Dominica, Pantographia: dijn"
+  10: "Oratio Dominica, Pantographia: rijch"
+  11: "Megiser: geschäh"
+  12: "Megiser: uf Erden wie im Himmel"
+  13: "Megiser: hüt; Oratio Dominica, Pantographia: hyt"
+  14: "Megiser: ünsre"
+  15: "Megiser: Schuldt"
+  16: "Megiser: als"
+  17: "Megiser: vergebendt"
+  18: "Megiser: unsren"
+  19: "Pantographia: and"
+  20: "Megiser: führ; Oratio Dominica, Pantographia: fuhr"
+  21: "Oratio Dominica, Pantographia: nicht"
+  22: "Oratio Dominica, Pantographia: versuchnyss"
+  23: "Megiser: erlöse"
+  24: "Megiser: vom Uber. Gessner, Oratio Dominica, Pantographia: doxologia is not included."
