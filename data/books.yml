@@ -7,6 +7,7 @@ books:
   url: https://books.google.com/books?id=AZRXAAAAcAAJ
   author: Hieronimus Megiser
   author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
+  type: collection
 
 - title: Duret
   full_title: Thresor de L'Histoire des Langves de Cest Vnivers
@@ -15,6 +16,7 @@ books:
   image: thresor.jpeg
   author: M. Claude Duret
   author_url: https://en.wikipedia.org/wiki/Claude_Duret
+  type: collection
 
 - title: Wilkins
   full_title:
@@ -23,6 +25,7 @@ books:
   url: https://books.google.com/books/?id=BCCtZjBtiEYC
   author: John Wilkins
   author_url: https://en.wikipedia.org/wiki/John_Wilkins
+  type: collection
 
 - title: Oratio Dominica Polyglottos Polymorphos
   full_title:
@@ -30,6 +33,7 @@ books:
   year: 1713
   url: https://archive.org/details/oratiodominicapo00lipp
   image: oratiodominica.jpeg
+  type: collection
 
 - title: Chamberlayne
   full_title:
@@ -38,6 +42,7 @@ books:
   year: 1715
   url: https://books.google.com/books?id=tLZbAAAAQAAJ
   author: John Chamberlayne
+  type: collection
 
 - title: Pantographia
   full_title:
@@ -48,6 +53,7 @@ books:
   url: https://books.google.com/books?id=4OU-AAAAYAAJ
   author: Edmund Fry
   author_url: https://en.wikipedia.org/wiki/Edmund_Fry
+  type: collection
 
 - title: Du Royaume du Siam
   full_title: Du Royaume du Siam, Vol. 2
@@ -83,6 +89,7 @@ books:
   author: John Eliot
   author_url: https://en.wikipedia.org/wiki/John_Eliot_(missionary)
   image: eliot-indian-bible.jpeg
+  type: bible
 
 - title: Reland
   full_title: Hadriani Relandi Dissertationum Miscellanearum Pars Tertia
@@ -103,6 +110,7 @@ books:
   full_title: Oratio Orationum. SS. Orationis Dominicae Versiones praeter Authenticam fere Centum
   year: 1680
   url: https://books.google.com/books?id=slF_Cng8iwMC
+  type: collection
 
 - title: Brand
   full_title: Reysen durch die Marck Brandenburg, Preussen, Churland, Liefland, Pleßcovien, Groß-Naugarden, Tweerien und Moscovien
@@ -154,6 +162,7 @@ books:
   url: https://books.google.com/books?id=H-55KPskH5YC
   author: Angelo Rocca
   author_url: https://en.wikipedia.org/wiki/Angelo_Rocca
+  type: collection
 
 - title: Baldaeus
   full_title: A true and exact description of the most celebrated East-India coasts of Malabar and Coromandel; as also of the isle of Ceylon
@@ -204,6 +213,7 @@ books:
   url: https://gallica.bnf.fr/ark:/12148/bpt6k322675s
   author: Jean-Baptiste Gramaye
   author_url: https://en.wikipedia.org/wiki/Jean-Baptiste_Gramaye
+  type: collection
 
 - title: Gramaye Oratio
   full_title: Oratio Dominica dialectis centum gentium expressa
@@ -211,6 +221,7 @@ books:
   url: https://www.deutsche-digitale-bibliothek.de/item/C4V4CS3FJOPGIOYFXF3J5SNOEZG4KJED
   author: Jean-Baptiste Gramaye
   author_url: https://en.wikipedia.org/wiki/Jean-Baptiste_Gramaye
+  type: collection
 
 - title: Alderete
   full_title: Del origen y principio de la lengua castellana o romance que hoy se uso en España
@@ -227,6 +238,7 @@ books:
   year: 1555
   author: Conrad Gessner
   author_url: https://en.wikipedia.org/wiki/Conrad_Gessner
+  type: collection
 
 - title: Leizarraga
   full_title: Iesus Christ Gure Iaunaren Testamentu Berria
@@ -234,6 +246,7 @@ books:
   year: 1571
   author: Joanes Leizarraga
   author_url: https://en.wikipedia.org/wiki/Joanes_Leizarraga
+  type: bible
 
 - title: Merula
   full_title: Cosmographia generalis Libri tres
@@ -245,3 +258,4 @@ books:
 - title: Danzig Bible
   year: 1632
   url: https://polona.pl/item/biblia-swieta-to-jest-ksiegi-starego-y-nowego-przymierza-z-zydowskiego-y-greckiego-jezyka,ODA5OTU4NDk/6/#info:metadata
+  type: bible

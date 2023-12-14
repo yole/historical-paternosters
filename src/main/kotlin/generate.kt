@@ -35,6 +35,7 @@ class Book {
     var author: String? = null
     var author_url: String? = null
     var image: String? = null
+    var type: String? = null
 
     val outPath: String
         get() = "books/${titleSlug}.html"
@@ -52,6 +53,8 @@ class Book {
 class Books {
     var books: MutableList<Book> = mutableListOf()
 }
+
+class BookType(val name: String, val books: MutableList<Book> = mutableListOf())
 
 class Language {
     var name: String? = null
@@ -336,7 +339,20 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
 fun generateBooks(books: List<Book>, path: String) {
     val template = Velocity.getTemplate("books.vm")
     val context = VelocityContext()
-    context.put("books", books.sortedBy { it.year ?: 0 })
+
+    val collections = BookType("Collections")
+    val bibles = BookType("Bible Translations")
+    val other = BookType("Other Books")
+
+    for (book in books.sortedBy { it.year ?: 0 }) {
+        when (book.type) {
+            "collection" -> collections.books.add(book)
+            "bible" -> bibles.books.add(book)
+            else -> other.books.add(book)
+        }
+    }
+
+    context.put("books", listOf(collections, bibles, other))
     generateToFile(path, template, context)
 }
 

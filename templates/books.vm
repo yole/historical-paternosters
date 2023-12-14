@@ -1,7 +1,9 @@
 #parse("layout.vm")
 #@layout("Books")
 <h1>Books with Paternoster Attestations</h1>
-#foreach($book in $books)
+#foreach($bookType in $books)
+<h2>$bookType.name</h2>
+#foreach($book in $bookType.books)
     <p>
 #if($book.author)
     $book.author &ndash;
@@ -13,5 +15,6 @@
     #end
     ($book.year)
     </p>
+#end
 #end
 #end
