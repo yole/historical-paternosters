@@ -7,21 +7,26 @@ attestations:
   - book_title: Rocca
     page: 376
     description: verbis Siniacis, vel Chiniacis, sed characteribus Latinis conscripta
+  - book_title: Megiser
+    number: 46
+    description: Chiniace vel Sinensium lingua
 text:
-  "Sci gin ta fu ciu zai tien tin. Ngo iuon[1] ta fu min[2]
+  "Sci gin ta fu ciu zai[1] tien tin. Ngo iuon[2] ta fu min[3]
    ie hhien iam. Ngo iuon su gin ciuon scieú
-   cui chiai ye. Giu tien gin suo zum ta fu ngo
-   iuon ta fu fo in chu ngo. Ngo iuon ta fu
+   cui chiai ye. Giu tien gin suo[4] zum ta fu ngo
+   iuon ta fu fo in chu ngo[5]. Ngo iuon ta fu
    ssi ngo yi cie. Ngo juon ta fu cio ngo ci zui
-   gin gio hai ngo ngo[4] ie cie ci. Ngo iuon ta fu ieu
+   gin gio hai ngo ngo[6] ie cie ci. Ngo iuon ta fu ieu
    ngo guei scien pu mi zui hoh. Ngo iuon ta
-   fu[5] chien ngo cu nan. Amin."
+   fu[7] chien ngo cu nan. Amin."
 footnotes:
-  1: "Pantographia: here and below words that start with i are written with j"
-  2: "Pantographia: tafumin"
-  3: "Pantographia: foin chungo"
-  4: "Pantographia: the second 'ngo' is omitted"
-  5: "Pantographia: fa"
+  1: "Megiser: rai"
+  2: "Pantographia: here and below words that start with i are written with j"
+  3: "Pantographia: tafumin"
+  4: "Megiser: suon"
+  5: "Pantographia: foin chungo"
+  6: "Pantographia: the second 'ngo' is omitted"
+  7: "Pantographia: fa"
 notes:
   I couldn't verify this, but apparently this text comes from
   [Michele Ruggieri](https://en.wikipedia.org/wiki/Michele_Ruggieri)'s

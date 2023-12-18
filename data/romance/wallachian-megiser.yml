@@ -1,0 +1,25 @@
+language: Romanian
+attestations:
+  - book_title: Megiser
+    number: 41
+    description: Walachice seu Dacice
+text:
+  "Tatal nostru, cineresti in ceriu,
+   sfincinschase numelle teu.
+   Seuie imparacia ta.
+   Suse fie voja ta
+   cum in ceriu asa su prepo mortu.
+   Puine noa de tote zilelle
+   dene noho astazi.
+   Sune jerta gresalelle nostre,
+   cum sunoi jertam a gresitilor nostri.
+   Sunu ne duce prenoi in kale deispitra,
+   sune men tu jaste preroi de reu.
+   Amin."
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 201
