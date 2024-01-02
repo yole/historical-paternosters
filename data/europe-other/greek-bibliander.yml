@@ -1,0 +1,16 @@
+language: Koine Greek
+attestations:
+  - book_title: Bibliander
+    page: 232
+    description: Graeca
+base: europe-other/greek-byzantian
+text:
+  "Pater hemon, ho en tois uranois, hagiastheto to
+   onoma sou. Eltheto he basileia su. Gennetheto 
+   to thelema sou hos en ourano kai epì tes ges. 
+   Ton arton hemôn ton epiousion dos hemin semeron. 
+   Kai aphes hemin tà opheilemata hemon, hos kai hemeis
+   aphiemen tois opheiletais hemon. Kai mì eisenegkes
+   hemas eis peirasmon. Alla rhysai hemas apo tou ponerou.
+   Hoti sou estin he basileia, kai he dynamis, kai he doxa,
+   eis tous aionas. Amen."

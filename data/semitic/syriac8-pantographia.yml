@@ -8,6 +8,13 @@ attestations:
     page: 12
     description: Syriaca, charactere vulgato
     source: Conf. Dur. p. 405, Gesn. p. 16 b, Meg. n. 2, Pist. n. 2, Reuter n. 2, Wilk. n. 4
+  - book_title: Gessner
+    page: 15
+    description: lingua Syriaca vel Chaldaea
+    source: ex Evangelio Matthaei, Viennae impresso
+  - book_title: Bibliander
+    page: 234
+    description: Chald.
 text:
   "Abhoun dbhaschmajo. Nethkadasch schmoch
    Tithe malchouthoch. Nehve zebjonoch, ajchano

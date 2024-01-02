@@ -1,0 +1,14 @@
+language: Hebrew
+attestations:
+  - book_title: Bibliander
+    number: 234
+    description: Ebraica
+base: semitic/hebrew
+text:
+  "Abinu aschar basschamaim
+  ijkkadesch schimcha thabo malchuthcha
+  thiheiah retzoncha chemo basschamaim chen bearatz
+  lahhemenu thamid tithen lanu haijom
+  uattihssa lanu snascheotheinu chemo anahhenunoseini lehhobeinu
+  uelo thebienu lenissaion
+  ala hatzzilenu min hara. Amen."

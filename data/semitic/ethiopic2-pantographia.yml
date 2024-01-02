@@ -7,6 +7,10 @@ attestations:
   - book_title: Wilkins
     number: 5
     description: Aethiop
+  - book_title: Gessner
+    page: 6
+    description: lingua Aethiopica
+    source: ex novo Testamento Romae impresso
 text:
   "Abuna xabashamajath. Yithkadash shimacha
    Thymtsa mangystcha. Yichun phachadacha.

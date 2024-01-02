@@ -14,38 +14,48 @@ attestations:
   - book_title: Megiser
     number: 18
     description: Helvetice
+  - book_title: Bibliander
+    page: 233
+    description: German.
 text:
-  "Vatter unser[1], der du bist[2] inn[3] himmlen[4], geheiliget[5]
-   werde[6] dÿn nam[7]; zukumme[8] uns dÿn[9] rÿch[10],
-   dÿn will geschähe[11], wie im himmel, also auch
-   uff erden[12]: gib uns hütt[13] unser täglich brot: und
-   vergib uns unsere[14] schulden[15], wie auch[16] wir vergäben[17]
-   unsern[18] schuldneren; und[19] für[20] uns nit[21]
-   inn[3] versuchnuss[22], sunder erlös[23] uns von dem
-   bösen[24]. Dann din ist das Rych unnd die Chrafft unnd die
+  "Vatter[1] unser[2], der du bist[3] inn[4] himmlen[5], geheiliget[6]
+   werde[7] dÿn[8] nam[9]; zukumme[10] uns[11] dÿn[12] rÿch[13],
+   dÿn[8] will geschähe[14], wie im[15] himmel, also auch[11]
+   uff erden[16]: gib[17] uns hütt[18] unser[2] täglich brot: und
+   vergib[19] uns unsere[20] schulden[21], wie auch[22] wir vergäben[23]
+   unsern[24] schuldneren; und[25] für[26] uns nit[27]
+   inn[4] versuchnuss[28], sunder[29] erlös[30] uns von dem
+   bösen[31]. Dann din ist das Rych unnd die Chrafft unnd die
    Herrlicheit in Ewicheit. Amen."
 footnotes:
-  1: "Gessner: vel potius: Unser Vatter"
-  2: "Oratio Dominica, Pantographia: hist"
-  3: "Megiser, Oratio Dominica, Pantographia: in"
-  4: "Megiser: himmelen"
-  5: "Megiser, Oratio Dominica, Pantographia: geheyligt"
-  6: "Megiser, Oratio Dominica, Pantographia: werd"
-  7: "Megiser: Namen"
-  8: "Megiser: Zuchomm; Oratio Dominica, Pantographia: zukumm"
-  9: "Oratio Dominica, Pantographia: dijn"
-  10: "Oratio Dominica, Pantographia: rijch"
-  11: "Megiser: geschäh"
-  12: "Megiser: uf Erden wie im Himmel"
-  13: "Megiser: hüt; Oratio Dominica, Pantographia: hyt"
-  14: "Megiser: ünsre"
-  15: "Megiser: Schuldt"
-  16: "Megiser: als"
-  17: "Megiser: vergebendt"
-  18: "Megiser: unsren"
-  19: "Pantographia: and"
-  20: "Megiser: führ; Oratio Dominica, Pantographia: fuhr"
-  21: "Oratio Dominica, Pantographia: nicht"
-  22: "Oratio Dominica, Pantographia: versuchnyss"
-  23: "Megiser: erlöse"
-  24: "Megiser: vom Uber. Gessner, Oratio Dominica, Pantographia: doxologia is not included."
+  1: "Bibliander: Fatter"
+  2: "Bibliander: ünser; Gessner: vel potius: Unser Vatter"
+  3: "Oratio Dominica, Pantographia: hist"
+  4: "Megiser, Oratio Dominica, Pantographia: in"
+  5: "Megiser: himmelen"
+  6: "Bibliander: geheilget; Megiser, Oratio Dominica, Pantographia: geheyligt"
+  7: "Bibliander, Megiser, Oratio Dominica, Pantographia: werd"
+  8: "Bibliander: din"
+  9: "Megiser: Namen"
+  10: "Bibliander: zu komm; Megiser: Zuchomm; Oratio Dominica, Pantographia: zukumm"
+  11: "Bibliander: word omitted"
+  12: "Bibliander: din; Oratio Dominica, Pantographia: dijn"
+  13: "Bibliander: rich; Oratio Dominica, Pantographia: rijch"
+  14: "Bibliander: gschächi; Megiser: geschäh"
+  15: "Bibliander: imm"
+  16: "Megiser: uf Erden wie im Himmel"
+  17: "Bibliander: geb"
+  18: "Bibliander: hydd; Megiser: hüt; Oratio Dominica, Pantographia: hyt"
+  19: "Bibliander: fergeb"
+  20: "Bibliander: ünser; Megiser: ünsre"
+  21: "Megiser: Schuldt"
+  22: "Bibliander: als ouch; Megiser: als"
+  23: "Bibliander: fergend; Megiser: vergebendt"
+  24: "Megiser: unsren"
+  25: "Pantographia: and"
+  26: "Bibliander: füer; Megiser: führ; Oratio Dominica, Pantographia: fuhr"
+  27: "Oratio Dominica, Pantographia: nicht"
+  28: "Bibliander: versuochung; Oratio Dominica, Pantographia: versuchnyss"
+  29: "Bibliander: sonder"
+  30: "Megiser: erlöse"
+  31: "Bibliander: fomm übel; Megiser: vom Uber. Bibliander, Gessner, Oratio Dominica, Pantographia: doxologia is not included."

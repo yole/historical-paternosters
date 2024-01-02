@@ -16,38 +16,44 @@ attestations:
   - book_title: Gessner
     page: 57
     description: Italice
+  - book_title: Bibliander
+    page: 232
+    description: Italica
 text:
   "Padre nostro[1], che sei ne’ cieli, sia santificato[2]
    il nome tuo[3]; venga il tuo regno[4]; 
-   sia fatta la tua volunta[5], come[6] nel[7] cielo, così ancora[8] in terra[9]:
-   dacci oggi[10] il nostro pane cotidiano[11]; et[12] rimettici[13]
-   i nostri peccati[14], come[15] anchora noi[16] li[17]
-   rimettiamo a’ nostri debitori[18]: e[19] non ci indurre[20]
-   in tentatione, ma liberaci dal male[21]: perci[22]oche
+   sia fatta[5] la tua volunta[6], come[7] nel[8] cielo, così ancora[9] in terra[10]:
+   dacci oggi[11] il nostro pane cotidiano[12]; et[13] rimettici[14]
+   i nostri peccati[15], come[16] anchora noi[17] li[18]
+   rimettiamo[19] a’ nostri debitori[20]: e[21] non ci indurre[22]
+   in tentatione, ma liberaci[23] dal male[24]: perci[25]oche
    tuo è il regno & la potentia, & la gloria, ne' secoli de secoli. Amen."
 footnotes:
   1: "Gessner: nostre"
   2: "Wilkins: sanctificato"
   3: "Pantographia: il tuo nome"
-  4: "Rocca, Megiser, Wilkins: il regno tuo; Pantographia: il regno tuo venga"
-  5: "Rocca: volontà; Megiser: volontà tua; Wilkins: voluntà tua; Pantographia: la tua volunta sia fatta"
-  6: "Megiser, Wilkins, Pantographia: si come"
-  7: "Megiser, Wilkins, Pantographia: in"
-  8: "Megiser, Wilkins: word omitted; Pantographia: anche"
-  9: "Rocca: così nella terra, come nel cielo"
-  10: "Rocca, Megiser, Wilkins, Pantographia: hoggi"
-  11: "Wilkins: quotidiano"
-  12: "Rocca: word omitted; Pantographia: e"
-  13: "Megiser, Wilkins: perdonaci"
-  14: "Rocca, Megiser, Wilkins, Pantographia: debiti"
-  15: "Rocca, Megiser, Wilkins, Pantographia: si come"
-  16: "Rocca, Wilkins: noi; Pantographia: noi ancora"
-  17: "Pantographia: gli"
-  18: "Megiser, Wilkins: si come noi perdoniamo a'debitori nostri"
-  19: "Rocca: word skipped; Wilkins: et"
-  20: "Megiser, Wilkins: c'indurre; Pantographia: c'indurci"
-  21: "Pantographia: maligno. Gessner, Rocca: following phrase is missing."
-  22: "Pantographia: text is cut off at this point"
+  4: "Rocca, Megiser, Wilkins, Bibliander: il regno tuo; Pantographia: il regno tuo venga"
+  5: "Bibliander: fateta"
+  6: "Rocca: volontà; Megiser, Gessner, Bibliander: volontà tua; Wilkins: voluntà tua; Pantographia: la tua volunta sia fatta"
+  7: "Megiser, Wilkins, Pantographia: si come"
+  8: "Megiser, Wilkins, Pantographia: in"
+  9: "Bibliander: anchora; Megiser, Wilkins: word omitted; Pantographia: anche"
+  10: "Rocca: così nella terra, come nel cielo"
+  11: "Rocca, Megiser, Wilkins, Pantographia: hoggi"
+  12: "Wilkins: quotidiano, Bibliander: il nostro pane cotidieno da a noi hoggi"
+  13: "Rocca: word omitted; Pantographia: e"
+  14: "Bibliander: remetti a noi; Megiser, Wilkins: perdonaci"
+  15: "Bibliander: debiti nostri; Rocca, Megiser, Wilkins, Pantographia: debiti"
+  16: "Rocca, Megiser, Wilkins, Pantographia: si come"
+  17: "Rocca, Wilkins: noi; Pantographia: noi ancora"
+  18: "Bibliander: word omitted; Pantographia: gli"
+  19: "Bibliander: perdoniamo"
+  20: "Megiser, Wilkins: si come noi perdoniamo a'debitori nostri"
+  21: "Rocca: word skipped; Wilkins: et"
+  22: "Bibliander: inducer; Megiser, Wilkins: c'indurre; Pantographia: c'indurci"
+  23: "Bibliander: libera noi"
+  24: "Pantographia: maligno. Gessner, Rocca: following phrase is missing."
+  25: "Bibliander: perche; Pantographia: text is cut off at this point"
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

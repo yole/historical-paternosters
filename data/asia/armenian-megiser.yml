@@ -11,6 +11,12 @@ attestations:
   - book_title: Megiser
     number: 43
     description: Armenice & Persice
+  - book_title: Gessner
+    page: 10
+    description: in lingua Armenica
+  - book_title: Bibliander
+    page: 234
+    description: Armenic.
 text:
   "Hair mer or iercins des. Surb eglizzi anun
    cho. Eceszzæ archaiuthai cho. Eglizzin camch[1]

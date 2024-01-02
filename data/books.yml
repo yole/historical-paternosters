@@ -265,3 +265,11 @@ books:
   year: 1632
   url: https://polona.pl/item/biblia-swieta-to-jest-ksiegi-starego-y-nowego-przymierza-z-zydowskiego-y-greckiego-jezyka,ODA5OTU4NDk/6/#info:metadata
   type: bible
+
+- title: Bibliander
+  full_title: De ratione communi omnium linguarum et litterarum commentarius
+  url: https://books.google.com/books?id=2XITAAAAQAAJ
+  year: 1548
+  author: Theodore Bibliander
+  author_url: https://en.wikipedia.org/wiki/Theodore_Bibliander
+  type: collection

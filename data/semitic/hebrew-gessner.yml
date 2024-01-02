@@ -7,6 +7,7 @@ attestations:
     page: 47
     description: Ebraica
     source: Sebastianus Munsterus in Ebraica lingua edidit
+base: semitic/hebrew
 text:
   "Abinu schœbbeschamaim, iikkadesch schmœcha:
   thabo malchuthcha: ieasœh retzonecha

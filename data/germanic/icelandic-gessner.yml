@@ -9,13 +9,16 @@ attestations:
   - book_title: Megiser
     number: 25
     description: Islandice
+  - book_title: Bibliander
+    page: 233
+    description: Island.
 text:
   "Bader vor sun ert ai himmum[1]; helgizt bitt
   namb[2] ti. Komi[3] titt[4] rike[5], verdi tinn vile,
   suoms ai himme so ai podu[6]. Burd[7] vort daglgt
   geb tu oss i dag. Og bergeb oss skullden[8] vorn,
   suo sem[9] ui bergebun skulldun[10] vorn. Ant leid[11]
-  oss e ki[12] breisl ni helldur brelsa tu[13] oss ber illu tatz[14] sie."
+  oss e ki[12] breisl ni[13] helldur brelsa tu[14] oss ber illu tatz[15] sie."
 footnotes:
   1: "Megiser: aihimmum"
   2: "Megiser: nam"
@@ -29,5 +32,6 @@ footnotes:
   10: "Rocca: stulldun"
   11: "Megiser: leidt"
   12: "Rocca: ti"
-  13: "Megiser: word is omitted"
-  14: "Megiser: tasst"
+  13: "Bibliander: breistni"
+  14: "Megiser: word is omitted"
+  15: "Megiser: tasst"
