@@ -39,7 +39,7 @@ The effort is currently actively in progress.
   The transliteration is marked as 'based on' the original text.
 * Differences between transliterations of the same text are not annotated; only one version
   is selected as canonical.
-* Purely graphical differences ('i' vs. 'j', 'u' vs. 'v', 'ss' vs 'ß') are not annotated.
+* Purely graphical differences ('i' vs. 'j', 'u' vs. 'v', 'w' vs 'vv', 'ss' vs 'ß') are not annotated.
 * Glosses are provided only when they are present in an original attestation.
 
 [//]: # (End of index.html)
