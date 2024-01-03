@@ -201,3 +201,6 @@ languages:
 - name: Koine Greek
   family: Indo-European
   url: https://en.wikipedia.org/wiki/Koine_Greek
+- name: Church Slavonic
+  family: Indo-European/Slavic
+  url: https://en.wikipedia.org/wiki/Church_Slavonic

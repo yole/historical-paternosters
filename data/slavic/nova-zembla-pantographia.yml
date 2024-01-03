@@ -1,4 +1,4 @@
-language: Russian
+language: Church Slavonic
 attestations:
   - book_title: Pantographia
     page: 212
@@ -13,15 +13,16 @@ attestations:
     description: Novazemblice
   - book_title: Valvasor
     page: 274
+    number: 12
     description: Novazemblice
 base: slavic/russian2-pantographia
 text:
-  "Otcse naz icse zi nanabezi, Pozuetytze ime
-  tye, Pridi czarztvo tye, Budi uola tya kako
-  unebezi tako nazemli, Hlyb naz zakdan dynam
-  danacz, I odpuzi nam duge naze kako
-  imi odpuzymo doznikam nazim, i nauedi naz
-  unapazet, Da izctaui naz od zla. Amen"
+  "Otcse naz icse zi nanabezi. Pozuetytze ime
+  tye. Pridi czarztvo tye. Budi uola tya kako
+  unebezi tako nazemli. Hlyb naz zakdan dynam
+  danacz. I odpuzi nam duge naze kako
+  imi odpuzymo doznikam nazim. i nauedi naz
+  unapazet. Da izctaui naz od zla. Amen"
 text_variants:
   "Pantographia, Chamberlayne":
     "Otcse naz icse ti nanebezi, Pozuetytze ime

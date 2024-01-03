@@ -4,6 +4,10 @@ attestations:
     page: 24
     description: Carnish
     source: Wilk. Ess. p. 435
+  - book_title: Valvasor
+    page: 274
+    number: 11
+    description: Carniolice
   - book_title: Wilkins
     number: 26
     description: Carnish
@@ -51,3 +55,11 @@ text_variants:
      dulshnikom nashim. Inu neupelai
      nas v’iskushno. Tamazh reshi nass od slega.
      Sakai tvoje je krailestvu, múzh, zhhast vekoma. Amen."
+  Valvasor:
+    "Ozha nash kir si unebesih. Posuezhenu bodi
+     jime tvoje. Pridik’nam krajlestvu tvoie. S’idise
+     volja tvoja. Kakor nanebi taku nasemlij.
+     Kruh nash vsakdainji daj nam dones. Jnu
+     odpusti nam dulge nashe. Kakor tudi mi odpustimo
+     dulshnikom nashim. Inu neupelaj
+     nass v’iskushno. Tamazh reshi nass od slega. Amen."

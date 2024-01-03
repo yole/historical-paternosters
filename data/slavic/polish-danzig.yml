@@ -16,33 +16,27 @@ attestations:
   - book_title: Danzig Bible
     page: 1144
 text:
-  "Oicze[1] náss, ktorys[2] jest[3] w niebiesiech[4]. Swieć sie[5]
-   imię[6] twoje[7]. Przydz krolestvo twoje[7]. Badz
-   wola twa, jako w niebie[8], ták y[9] ná ziemi. Chlebá
-   nassego[10] powessedniego[11] daj[12] nam dziśia[13]. Y
-   odpuśċ[14] nam násze winy, jako y my[15] 
-   odpuszczamy[16] nássym winowájcom. Y nie[17] w wodz nas
-   na pokussenie[18]. Ale nas zbaw ode zlego[19]. Abowiem
-   twoje jest krolestwo, y moc, y chwałá[20], na wieki[21]. Amen."
-footnotes:
-  1: "Megiser: oycza"
-  2: "Megiser: ktory"
-  3: "Megiser: jestes"
-  4: "Megiser: niebiessich"
-  5: "Oratio Dominica, Pantographia: Swiecsie; Megiser: swieczszie"
-  6: "Oratio Dominica, Pantographia, Megiser: imic"
-  7: "Oratio Dominica, Pantographia: twoie"
-  8: "Oratio Dominica, Pantographia: wniebie"
-  9: "Oratio Dominica, Pantographia: taky"
-  10: "Oratio Dominica, Pantographia: nass ego; Megiser: nasrego"
-  11: "Megiser: powsrednie"
-  12: "Megiser, Oratio Dominica, Pantographia: day"
-  13: "Megiser: driszcay"
-  14: "Oratio Dominica, Pantographia: od pusc; Megiser: Vodpusc"
-  15: "Oratio Dominica, Pantographia: ja koymy"
-  16: "Oratio Dominica, Pantographia: od pusec zamo"
-  17: "Oratio Dominica, Pantographia: Ynie"
-  18: "Oratio Dominica, Pantographia: pokusseme"
-  19: "Oratio Dominica, Pantographia: zkego"
-  20: "Oratio Dominica, Pantographia: chwata"
-  21: "Megiser: wieki wiekom"
+  "Oicze náss, ktorys jest w niebiesiech. Swieć sie
+   imię twoje. Przydz krolestvo twoje. Badz
+   wola twa, jako w niebie, ták y ná ziemi. Chlebá
+   nassego powessedniego daj nam dziśia. Y
+   odpuśċ nam násze winy, jako y my 
+   odpuszczamy nássym winowájcom. Y nie w wodz nas
+   na pokussenie. Ale nas zbaw ode zlego. Abowiem
+   twoje jest krolestwo, y moc, y chwałá, na wieki. Amen."
+text_variants:
+  Megiser:
+    "Oycza nasz, ktory jestes w niebeissich. Swieczszie imic twoie.
+     Przydz krolestwo twoie. Badz wola twa, jako w niebie, tak y na ziemi.
+     Chleba nasrego powsrednie day nam driszcay. Vodpusc nam nasze winy,
+     jako ymy odpuszczamy naszym winowayzom. Y nie w wodz nas na pokuszenie.
+     Ale nas zbaw ode zlego. Abbowiem twoje jest kroliestwo,
+     y mocz y chwala, na wieki wiekom. Amen."
+  "Oratio Dominica, Pantographia":
+    "Oicze nass, ktorys jest w niebiesiech.
+     Swiecsie imic twoie. Przydz krolestwo twoie.
+     Badz wola twa, jako w niebie, tak y na ziemi.
+     Chleba nass ego powessedniego day nam dzisia.
+     Y od ousc nam nasze winy, ja koymy od pusec zamo nassyn winowajcom.
+     Ynie w wods nas na pokusseme. Ale nas zbaw ode zkego.
+     Abowiem twoje jest krolestwo, y moc, y chwata, na wieki. Amen."

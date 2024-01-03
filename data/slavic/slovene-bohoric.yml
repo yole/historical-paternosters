@@ -10,6 +10,7 @@ attestations:
     source: supra dictus Dominus Birndorff correxit
   - book_title: Valvasor
     page: 274
+    number: 1
     description: Cyrilice
   - book_title: Megiser
     number: 32

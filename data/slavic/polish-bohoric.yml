@@ -1,10 +1,14 @@
 language: Polish
 attestations:
+  - book_title: Valvasor
+    page: 274
+    description: Polonice
+    number: 7
   - book_title: Bohoric
     page: 36
     description: Polonica
 text:
-  "Oycze nash, ktorish jess wnjebkeszjech.
+  "Oycze nash, ktorish jess wnjebjeszjech.
   Swieczizje miono tvoe. Przidz Kroljestwo twe.
   Badez wolja twa: jako wniebje, tak i naziemi.
   Chlieb nasz powszedni daj nam dsiszjay.
@@ -12,3 +16,12 @@ text:
   winowaizom naszim. I niewodz nasz wpokuszenje.
   Aliezbaw nass ode zlego. Albo wiem twoje jest
   Kroliestwo, i mocz, i hwala, wieki wiekom. Amen."
+text_variants:
+  Valvasor:
+    "Oycze nash, ktorish jess wniebieszjech.
+    Swieczizje miono tvoe. Przidz Kroljestwo twe.
+    Budz wolja twa: jako wniebje, tak i na ziemi.
+    Chlieb nasz powszedni daj nam dsiszjay.
+    I odpusz nam winy nasze: iako j mi odpuszami
+    winowaizom naszim. I niewodz nasz wpokuszenje.
+    Alie zbaw nass ode zlego. Amen."

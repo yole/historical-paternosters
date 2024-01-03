@@ -8,6 +8,10 @@ attestations:
     page: 42
     description: Lusatica
     source: Meg. n. 38. Conf. Pist. n. 35. Reut. n. 35. Wilk. n. 33.
+  - book_title: Valvasor
+    page: 274
+    number: 9
+    description: Lusatice
   - book_title: Megiser
     number: 38
     description: Lusatice
@@ -17,7 +21,7 @@ attestations:
 text:
   "Wosch nasch, kensch sy nanebebu, wussweschone 
    bushy me twoye. Pshish knam krajlestwo
-   twooo: so stany woli twoja, takhack nanebu,
+   twooo. So stany woli twoja, takhack nanebu,
    tak heu nasemy. Klib nasch shidni day
    nam shensa. A woday nam wyni nashe, ack
    my wodawamy winikam naschim. Neweshi
@@ -28,7 +32,7 @@ text_variants:
   "Oratio Dominica":
     "Wosch nasch, kensch sy nanebebu, wss weschone 
      bushy me twove. Pos hish knam krailestwo
-     twojo: so stany woli tuoja, takhak manebu,
+     twojo. So stany woli tuoja, takhak manebu,
      tak heu nasemu. Klib nasch schidni day
      nam shensa. A woday nam wyni nashe, ack
      my wodawamij wini kam naschim. Neweshi
@@ -38,7 +42,7 @@ text_variants:
   "Pantographia":
     "Wosch nasch, kensch sy nanebebu, wss weschone 
      bushy me twove. Pos hish knam krailestwo
-     twojo: so stany woli tuoja, takhak manebu,
+     twojo. So stany woli tuoja, takhak manebu,
      tak heu nasemu. Klib nasch schidni day
      nam shensa. A woday nam wyni nashe, ack
      my wodawamij wini kam naschim. Neweshi
@@ -47,10 +51,19 @@ text_variants:
   "Megiser":
      "Wosch nasch, kensch sy nanebebu, wss weschone 
       bushy me twove. Poshish knam krailestwo
-      twojo: so stany woli twoja, takhak nanebu,
+      twojo. So stany woli twoja, takhak nanebu,
       tak heu nasemu. Klib nasch schidni day
       nam shensa. A woday nam wyni nashe, ack
       my wodawamij winikam naschim. Neweshi
       nass dospitowana. A le wimoshi nas wot slego.
       Psheto twojo jo to kralestvo a ta moz, a ta zest
       wot nymernoshik nymer nosti. Amen."
+  "Valvasor":
+    "Wosch nasch, kensch sy nanebebu, wusweschone 
+     bushy me twoye. Pshish knam krailestwo
+     twoio. Se stany woli twoja, takhack nanebu,
+     tak heu nasemy. Klib nasch shidni day
+     nam shensa. A wodoy nam wyni nashe, ack
+     my wodawamy winikam naschim. Neweshi
+     nass dospitowanya. Ale wimoshi nass wot slego.
+     Amen."

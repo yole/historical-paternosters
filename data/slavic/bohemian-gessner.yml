@@ -8,6 +8,10 @@ attestations:
     number: 32
     description: Bohemian
     source: Gesnerus
+  - book_title: Valvasor
+    page: 274
+    number: 6
+    description: Bohemice
   - book_title: Gessner
     page: 58
     description: sermone Bohemico
@@ -48,3 +52,11 @@ text_variants:
      Nuwod nass wpokusseni. Ale
      zwawiz nas odzleho. Neb twe gest kralowstwy,
      y moz, y thwala, nawiekv wiekuom. Amen."
+  Valvasor:
+    "Otzie nass, genz sy wnebesych. Oswietse
+     gmeno twe. Przid kralowstwy twe. Bud wule
+     twa yako wnebi tak y nazemi. Chleb nass
+     wezdegssy dey nam dnes. A odpust nam wini
+     nasse, jakoz y mi odpaustime winiknom nassym.
+     A nuwod nass w'pokusseni. Ale
+     zwawiz nas od zleho. Amen."

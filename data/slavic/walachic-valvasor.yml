@@ -1,0 +1,13 @@
+language: Church Slavonic
+attestations:
+  - book_title: Valvasor
+    page: 274
+    number: 13
+    description: Walachice
+base: slavic/russian2-pantographia
+text:
+  "Ozhe nash ishe iessi nanebesse. Nasuetise ime tuoye.
+   Napredet czarstuo tuoye. Dabodet uolya tuoya jako nanebessi
+   y nasemli. Hleb nash nosostni dashnam danas. Y ostaui nam dolgi
+   nashe jakoshe yme ostauliamo dolsnikom nas sim. Y nauauedi
+   nas uanapast. Naa isbaui nas o tlakouago. Amen."
