@@ -14,7 +14,7 @@ attestations:
   - book_title: Bohoric
     page: 8
     description: Exemplum Cyrilicae scripturae, unde lectionem addiscere licet
-base: slavic/russian2-pantographia
+base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce[1] nash, ishe jesi[2] v nebesih[3], posveti se[4]
    ime tvoje, pridi kralestvo[5] tvoje, budi volya

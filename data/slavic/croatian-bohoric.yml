@@ -13,7 +13,7 @@ attestations:
   - book_title: Bohoric
     page: 22
     description: Croaticae scripturae
-base: slavic/russian2-pantographia
+base: slavic/croatian-bohoric-glagolitic
 text:
   "Ozhe nash ishe esi na[1] nebesih. Svetise ime tuoe.
    Pridi cesarastvo[2] tvuoe. Budi volia tvoja
