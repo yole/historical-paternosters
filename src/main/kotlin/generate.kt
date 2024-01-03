@@ -474,7 +474,7 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
             val attestationInBook = specimen.attestations.find { a -> a.book == book }
             attestationInBook?.let { specimen to it }
         }
-        .sortedBy { it.second.page ?: it.second.number }
+        .sortedBy { it.second.page?.let { p -> p * 100 + (it.second.number ?: 0) } ?: it.second.number }
 
     context.put("specimens", specimensWithAttestations)
 
