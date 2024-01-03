@@ -35,6 +35,7 @@ The effort is currently actively in progress.
 
 * Differences between different versions of a translation are annotated as footnotes.
 * Differences in punctuation and diacritics are not annotated.
+* Punctuation is normalized so that every petition is a new sentence.
 * A text in a non-Latin script and its transliteration are presented as two different specimens.
   The transliteration is marked as 'based on' the original text.
 * Differences between transliterations of the same text are not annotated; only one version

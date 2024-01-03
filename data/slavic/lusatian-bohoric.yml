@@ -1,0 +1,56 @@
+language: Lower Sorbian
+attestations:
+  - book_title: Pantographia
+    page: 182
+    description: Lusatian
+    source: Wilk. Ess. p. 435. Orat. Dom. p. 42
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 42
+    description: Lusatica
+    source: Meg. n. 38. Conf. Pist. n. 35. Reut. n. 35. Wilk. n. 33.
+  - book_title: Megiser
+    number: 38
+    description: Lusatice
+  - book_title: Bohoric
+    page: 37
+    description: Lusatica
+text:
+  "Wosch nasch, kensch sy nanebebu, wussweschone 
+   bushy me twoye. Pshish knam krajlestwo
+   twooo: so stany woli twoja, takhack nanebu,
+   tak heu nasemy. Klib nasch shidni day
+   nam shensa. A woday nam wyni nashe, ack
+   my wodawamy winikam naschim. Neweshi
+   nass do spitowana. Ale wimoshi nass wot slego.
+   Psheto twojo jo to kralestvo a ta moz, a ta zest
+   wot nymernoshi k'nymernosti. Amen."
+text_variants:
+  "Oratio Dominica":
+    "Wosch nasch, kensch sy nanebebu, wss weschone 
+     bushy me twove. Pos hish knam krailestwo
+     twojo: so stany woli tuoja, takhak manebu,
+     tak heu nasemu. Klib nasch schidni day
+     nam shensa. A woday nam wyni nashe, ack
+     my wodawamij wini kam naschim. Neweshi
+     nass dospitowana. A le wimoshi nas wot slego.
+     Psheto twojo jo to kralestvo ata moz, ata zest
+     wot nymernoshik nymer nosti. Amen."
+  "Pantographia":
+    "Wosch nasch, kensch sy nanebebu, wss weschone 
+     bushy me twove. Pos hish knam krailestwo
+     twojo: so stany woli tuoja, takhak manebu,
+     tak heu nasemu. Klib nasch schidni day
+     nam shensa. A woday nam wyni nashe, ack
+     my wodawamij wini kam naschim. Neweshi
+     nass dospitowana. A le wimoshi nas wot slego.
+     Psheto twojo jo to kralestvo ata moz, ata zest"
+  "Megiser":
+     "Wosch nasch, kensch sy nanebebu, wss weschone 
+      bushy me twove. Poshish knam krailestwo
+      twojo: so stany woli twoja, takhak nanebu,
+      tak heu nasemu. Klib nasch schidni day
+      nam shensa. A woday nam wyni nashe, ack
+      my wodawamij winikam naschim. Neweshi
+      nass dospitowana. A le wimoshi nas wot slego.
+      Psheto twojo jo to kralestvo a ta moz, a ta zest
+      wot nymernoshik nymer nosti. Amen."

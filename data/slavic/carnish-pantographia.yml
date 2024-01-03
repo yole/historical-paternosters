@@ -11,16 +11,43 @@ attestations:
   - book_title: Megiser
     number: 33
     description: Illyrice seu Carniolanorum lingua
+  - book_title: Bohoric
+    page: 37
+    description: Carniolana
 text:
-  "Ozha nash kir si v’nebesih. Posvozhenu[1] bodi
-   iime tvoie. Pridi k’nam kraylestvu tvoie. S’idise
-   volia tvoia. Kakor nanebi taku nasemlij.
-   Kruh nash usak dainij[2] dai nam dones. Inu
+  "Ozha nash kir si v’nebesih. Posvezhénu bodi
+   jimé tvoje. Pridi k’nam kraylestvu tvoje. S’idise
+   volja tvoja. Kakor nanebi taku nasemlji.
+   Kruh nash v'sakdainji daj nam dones. Inu
    odpusti nam dulge nashe. Kakor tudi mi odpustimo
-   dulshnikom nashim. Inu neupelai
+   dulshnikom nashim. Inu neupelaj
    nas v’iskushno. Tamazh reshi nass od slega.
-   Sakai tvoje je krailestvu, múzh, zhhast veko[3]ma. Amen."
-footnotes:
-  1: "Wilkins, Pantographia: posvezhenu"
-  2: "Wilkins, Pantographia: dainii"
-  3: "Pantographia: text is cut off at this point"
+   Sakaj tvoje je krajlestvu, muzh, zhast vekoma. Amen."
+text_variants:
+  Wilkins:
+    "Ozha nash kir si v’nebesih. Posvezhenu bodi
+     iime tvoie. Pridi k’nam kraylestvu tvoie. S’idise
+     volia tvoia. Kakor nanebi taku nasemlij.
+     Kruh nash usak dainii dai nam dones. Inu
+     odpusti nam dulge nashe. Kakor tudi mi odpustimo
+     dulshnikom nashim. Inu neupelai
+     nas v’iskushno. Tamazh reshi nass od slega.
+     Sakai tvoje je krailestvu, múzh, zhhast vekoma. Amen."
+  Pantographia:
+    "Ozha nash kir si v’nebesih. Posvezhenu bodi
+     iime tvoie. Pridi k’nam kraylestvu tvoie. S’idise
+     volia tvoia. Kakor nanebi taku nasemlij.
+     Kruh nash usak dainii dai nam dones. Inu
+     odpusti nam dulge nashe. Kakor tudi mi odpustimo
+     dulshnikom nashim. Inu neupelai
+     nas v’iskushno. Tamazh reshi nass od slega.
+     Sakai tvoje je krailestvu, múzh, zhhast veko"
+  Megiser:
+    "Ozha nash kir si v’nebesih. Posvozhenu bodi
+     iime tvoie. Pridi k’nam kraylestvu tvoie. S’idise
+     volia tvoia. Kakor nanebi taku nasemlij.
+     Kruh nash usak dainij dai nam dones. Inu
+     odpusti nam dulge nashe. Kakor tudi mi odpustimo
+     dulshnikom nashim. Inu neupelai
+     nas v’iskushno. Tamazh reshi nass od slega.
+     Sakai tvoje je krailestvu, múzh, zhhast vekoma. Amen."

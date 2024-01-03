@@ -313,6 +313,12 @@ data class FootnoteDiff(val text: String) {
 class FootnoteData(val wordIndex: Int) {
     val differences = arrayListOf<FootnoteDiff>()
 
+    fun addDifference(changedText: String, sources: List<String>) {
+        val footnoteDiff = differences.find { it.text == changedText }
+            ?: FootnoteDiff(changedText).also { differences.add(it) }
+        footnoteDiff.sources.addAll(sources)
+    }
+
     fun formatAsString(): String =
         differences.joinToString("; ") {
             it.sources.joinToString(", ") + ": " + it.text
@@ -370,23 +376,36 @@ fun splitIntoWords(delta: AbstractDelta<String>): List<AbstractDelta<String>> {
 }
 
 fun compareVariants(specimen: Specimen) {
+    val footnotes = mutableListOf<FootnoteData>()
+
+    fun footnoteForWord(footnoteTargetWord: Int): FootnoteData =
+        footnotes.find { it.wordIndex == footnoteTargetWord }
+            ?: FootnoteData(footnoteTargetWord).also { footnotes.add(it) }
+
     val baseWords = specimen.text!!.split(' ')
 
-    val footnotes = mutableListOf<FootnoteData>()
     for (textVariant in specimen.text_variants) {
         val sources = textVariant.key.split(',').map { it.trim() }
         val variantWords = textVariant.value.split(' ')
         val wordDiff = DiffUtils.diff(baseWords, variantWords)
 
         for (delta in wordDiff.deltas.flatMap { splitBySentenceBoundary(it) }.flatMap { splitIntoWords(it) }) {
-            val footnoteTargetWord = delta.source.position + delta.source.lines.size - 1
-            val footnote = footnotes.find { it.wordIndex == footnoteTargetWord }
-                ?: FootnoteData(footnoteTargetWord).also { footnotes.add(it) }
-            val changedText = delta.target.lines.joinToString(" ")
-                .trimEnd(',', '.')
-            val footnoteDiff = footnote.differences.find { it.text == changedText }
-                ?: FootnoteDiff(changedText).also { footnote.differences.add(it) }
-            footnoteDiff.sources.addAll(sources)
+            if (delta.target.lines.isEmpty()) {
+                if (delta.source.position + delta.source.lines.size == baseWords.size) {
+                    val footnote = footnoteForWord(delta.source.position - 1)
+                    footnote.addDifference("text ends here", sources)
+                }
+                else {
+                    // TODO
+                }
+            }
+            else {
+                val footnoteTargetWord = delta.source.position + delta.source.lines.size - 1
+                val footnote = footnoteForWord(footnoteTargetWord)
+                val changedText = delta.target.lines.joinToString(" ")
+                    .trimEnd(',', '.')
+                footnote.addDifference(changedText, sources)
+            }
         }
     }
     footnotes.sortBy { it.wordIndex }
