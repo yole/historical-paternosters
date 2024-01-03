@@ -3,6 +3,9 @@ package page.yole.paternosters
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
 import com.github.difflib.DiffUtils
+import com.github.difflib.patch.AbstractDelta
+import com.github.difflib.patch.ChangeDelta
+import com.github.difflib.patch.Chunk
 import org.apache.velocity.Template
 import org.apache.velocity.VelocityContext
 import org.apache.velocity.app.Velocity
@@ -316,6 +319,56 @@ class FootnoteData(val wordIndex: Int) {
         }
 }
 
+fun isSimilarWord(w1: String, w2: String): Boolean {
+    val (longerWord, shorterWord) = if (w1.length > w2.length) w1 to w2 else w2 to w1
+    val differentCharacters = longerWord.toCharArray().toSet() - shorterWord.toCharArray().toSet()
+    return differentCharacters.size < w1.length / 2
+}
+
+fun splitBySentenceBoundary(delta: AbstractDelta<String>): List<AbstractDelta<String>> {
+    val sourceSentenceEnd = delta.source.lines.indexOfFirst { it.endsWith('.') }
+    val targetSentenceEnd = delta.target.lines.indexOfFirst { it.endsWith('.') }
+    if (sourceSentenceEnd != -1 && targetSentenceEnd != -1 &&
+        sourceSentenceEnd != delta.source.size() - 1 &&
+        targetSentenceEnd != delta.target.size() - 1)
+    {
+        return listOf(
+            ChangeDelta(
+                Chunk(delta.source.position, delta.source.lines.take(sourceSentenceEnd + 1)),
+                Chunk(delta.target.position, delta.target.lines.take(targetSentenceEnd + 1))
+            ),
+            ChangeDelta(
+                Chunk(
+                    delta.source.position + sourceSentenceEnd + 1,
+                    delta.source.lines.drop(sourceSentenceEnd + 1)
+                ),
+                Chunk(
+                    delta.target.position + targetSentenceEnd + 1,
+                    delta.target.lines.drop(targetSentenceEnd + 1)
+                )
+            )
+        )
+    }
+    return listOf(delta)
+}
+
+fun splitIntoWords(delta: AbstractDelta<String>): List<AbstractDelta<String>> {
+    val sourceLines = delta.source.lines.size
+    if (sourceLines != delta.target.lines.size || sourceLines == 1) {
+        return listOf(delta)
+    }
+    val pairs = delta.source.lines zip delta.target.lines
+    if (pairs.all { isSimilarWord(it.first, it.second) }) {
+        return pairs.withIndex().map { (index, pair) ->
+            ChangeDelta(
+                Chunk(delta.source.position + index, listOf(pair.first)),
+                Chunk(delta.target.position + index, listOf(pair.second))
+            )
+        }
+    }
+    return listOf(delta)
+}
+
 fun compareVariants(specimen: Specimen) {
     val baseWords = specimen.text!!.split(' ')
 
@@ -325,11 +378,12 @@ fun compareVariants(specimen: Specimen) {
         val variantWords = textVariant.value.split(' ')
         val wordDiff = DiffUtils.diff(baseWords, variantWords)
 
-        for (delta in wordDiff.deltas) {
+        for (delta in wordDiff.deltas.flatMap { splitBySentenceBoundary(it) }.flatMap { splitIntoWords(it) }) {
             val footnoteTargetWord = delta.source.position + delta.source.lines.size - 1
             val footnote = footnotes.find { it.wordIndex == footnoteTargetWord }
                 ?: FootnoteData(footnoteTargetWord).also { footnotes.add(it) }
             val changedText = delta.target.lines.joinToString(" ")
+                .trimEnd(',', '.')
             val footnoteDiff = footnote.differences.find { it.text == changedText }
                 ?: FootnoteDiff(changedText).also { footnote.differences.add(it) }
             footnoteDiff.sources.addAll(sources)

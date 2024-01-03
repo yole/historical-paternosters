@@ -10,16 +10,41 @@ attestations:
     source: Gesnerus
   - book_title: Gessner
     page: 58
-    description: sermone Bohenico
+    description: sermone Bohemico
+  - book_title: Bohoric
+    page: 37
+    description: Boêmica
 text:
   "Otozie nass, genz syna nebesich. Oszwiet se
    meno twe. Przid kralowstwii twe. Bud wule
-   twa yakona nebi tak y na zemi[1]. Chleb nasz
-   wezdeyssi dey nam dnes. Y odpust[2] nam nasse
+   twa yakona nebi tak y na zemi. Chleb nasz
+   wezdeyssi dey nam dnes. Y odpust nam nasse
    winy, yako y my odpaustime nassim winikom.
-   Y ne uwod nasz do pokussenij[3]. Ale
+   Y ne uwod nasz do pokussenij. Ale
    zbaw nas od zleho. Amen."
-footnotes:
-  1: "Pantographia: zeni"
-  2: "Pantographia: Yodpust"
-  3: "Pantographia, Wilkins: pokussenii"
+text_variants:
+  Pantographia:
+    "Otozie nass, genz syna nebesich. Oszwiet se
+     meno twe. Przid kralowstwii twe. Bud wule
+     twa yakona nebi tak y na zeni. Chleb nasz
+     wezdeyssi dey nam dnes. Yodpust nam nasse
+     winy, yako y my odpaustime nassim winikom.
+     Y ne uwod nasz do pokussenii. Ale
+     zbaw nas od zleho. Amen."
+  Wilkins:
+    "Otozie nass, genz syna nebesich. Oszwiet se
+     meno twe. Przid kralowstwii twe. Bud wule
+     twa yakona nebi tak y na zemi. Chleb nasz
+     wezdeyssi dey nam dnes. Y odpust nam nasse
+     winy, yako y my odpaustime nassim winikom.
+     Y ne uwod nasz do pokussenii. Ale
+     zbaw nas od zleho. Amen."
+  Bohoric:
+    "Otzie nass, genz sy wnebesich. Oswiet se
+     gmeno twe. Przid kralowstwy twe. Bud wule
+     twa yako wnebi tak y nazemi. Chleb nass
+     wezdegssy dey nam dnes. A odpust nam wini
+     nasse, iakoz y mi odpaustime winiknom nassym.
+     Nuwod nass wpokusseni. Ale
+     zwawiz nas odzleho. Neb twe gest kralowstwy,
+     y moz, y thwala, nawiekv wiekuom. Amen."
