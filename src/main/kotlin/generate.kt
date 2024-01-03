@@ -113,6 +113,7 @@ class Attestation {
 class Specimen {
     var path: String? = null
     var language: String? = null
+    var script: String? = null
     var base: String? = null
     var attestations: MutableList<Attestation> = mutableListOf()
     var bibliography: MutableList<BibliographyEntry> = mutableListOf()

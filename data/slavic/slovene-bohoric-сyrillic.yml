@@ -1,4 +1,5 @@
 language: Slovene
+script: Cyrillic
 attestations:
   - book_title: Bohoric
     page: 8

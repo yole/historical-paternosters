@@ -9,6 +9,9 @@
         #else
             $lang.name
         #end
+        #if($script)
+            ($script script)
+        #end
     </p>
 #end
 #if($glossed_text)

@@ -1,4 +1,5 @@
 language: Croatian
+script: Glagolitic
 attestations:
   - book_title: Bohoric
     page: 22
