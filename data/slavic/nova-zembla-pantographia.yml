@@ -11,9 +11,9 @@ attestations:
   - book_title: Reland
     page: 303
     description: Novazemblice
-  - book_title: Die Ehre dess Hertzogthums Crain
+  - book_title: Valvasor
     page: 274
-    description: Vandalice
+    description: Novazemblice
 base: slavic/russian2-pantographia
 text:
   "Otcse naz icse zi nanabezi, Pozuetytze ime

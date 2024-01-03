@@ -8,6 +8,9 @@ attestations:
     page: 81
     description: Service
     source: supra dictus Dominus Birndorff correxit
+  - book_title: Valvasor
+    page: 274
+    description: Cyrilice
   - book_title: Megiser
     number: 32
     description: "Sclavonice: Lingua Serviana & Cyrilica"
@@ -16,32 +19,39 @@ attestations:
     description: Exemplum Cyrilicae scripturae, unde lectionem addiscere licet
 base: slavic/slovene-bohoric-сyrillic
 text:
-  "Otce[1] nash, ishe jesi[2] v nebesih[3], posveti se[4]
-   ime tvoje, pridi kralestvo[5] tvoje, budi volya
-   tvoja kako v nebi i[6] i takoj[7] na zemlji[8], hlib nash
-   vsakdanji[9] dai nan danas[10], i odpuszti nam
-   duge nashe kako i mi odpuszhamo[11] dushnikom
-   nashim, j ne vauedi[12] nas[13] v napaszt, da isbavi[14]
-   nas[15] od[16] sla[17]; jako tvoje je kralestvo[5] i mozh[18]
-   i slava[19] vaueki[20]. Amen."
-footnotes:
-  1: "Megiser: Otce, Chamberlayne, Pantographia: otse"
-  2: "Chamberlayne, Pantographia: jeszi"
-  3: "Chamberlayne, Pantographia: nabeszih"
-  4: "Megiser: posvetise, Chamberlayne, Pantographia: poszueti sze"
-  5: "Megiser: krailestvo; Chamberlayne, Pantographia: kralesztvo"
-  6: "Chamberlayne, Pantographia: word omitted"
-  7: "Megiser, Chamberlayne, Pantographia: tako i"
-  8: "Megiser: nazemlij; Chamberlayne, Pantographia: na zemli"
-  9: "Megiser: vsak danij; Chamberlayne, Pantographia: ushakdanni"
-  10: "Chamberlayne, Pantographia: danasz"
-  11: "Megiser: odpushzhamo; Chamberlayne, Pantographia: odpusztamo"
-  12: "Chamberlayne, Pantographia: vovedi"
-  13: "Chamberlayne, Pantographia: nasz"
-  14: "Megiser: dais bavi; Chamberlayne, Pantographia: da izbavi"
-  15: "Megiser: nasz"
-  16: "Chamberlayne, Pantographia: odi"
-  17: "Chamberlayne, Pantographia: zla"
-  18: "Chamberlayne, Pantographia: mocz"
-  19: "Chamberlayne, Pantographia: zava"
-  20: "Chamberlayne, Pantographia: na veki"
+  "Otce nash, ishe jesi v nebesih. Posveti se
+   ime tvoje. Pridi kralestvo tvoje. Budi volya
+   tvoja kako v nebi i takoj na zemlji. Hlib nash
+   vsakdanji dai nam danas. I odpusti nam
+   duge nashe kako i mi odpuszhamo dushnikom
+   nashim. I nevavedi nas v napaszt. Da isbavi
+   nas od sla. Iako tvoje je kralestvo i mozh
+   i slava vaveki. Amen."
+text_variants:
+  Megiser:
+    "Otze nash, ishe jesi v nebesih, posvetise
+     jme tvoie. Pridi krailestvo tuoie. Budi volia
+     tuoia kako vnebi i takoi nasemlij. Hlib nash
+     vsak danij dai nan danas. Jodpusti nam
+     duge nashe kako i mi odpushzhamo dushnikom
+     nashim. Ine vauedi nas v napast. Dais bavi
+     nas od sla. Iako tvoie je krailestvo, i mozh
+     i slava vaueki. Amen."
+  Chamberlayne, Pantographia:
+    "Otse nash, ishe jeszi v nabeszih. 
+     Poszueti sze ime tvoje. 
+     Pridi kralesztvo tvoje. 
+     Budi volya tvoja kako v nebi tako i na zemli. 
+     Hlib nash ushakdanni dai nam danasz.
+     J odpuszti nam duge nashe kako i mi odpusztamo dushnikom nashim. 
+     J ne vovedi nasz v napaszt.
+     Da isbavi nasz odi sla. 
+     Jako tvoje je kralesztvo i mocz i zava na veki. Amen."
+  Valvasor:
+    "Otze nash, ishe jesi v nebesih. Posuetise
+     jme tvoje. Pridi krajlestvo tvoje. Budi volya
+     tvoja kako v nebi i takoj nasemlji. Hlib nash
+     vsakdanji dai nam danas. I odpusti nam
+     duge nashe kako i mi odpushzhamo dushnikom
+     nashim. I nevavedi nas v napaszt. Da isbavi
+     nas od sla. Amen."

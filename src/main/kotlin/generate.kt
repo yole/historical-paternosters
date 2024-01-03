@@ -395,8 +395,14 @@ fun compareVariants(specimen: Specimen) {
                     val footnote = footnoteForWord(delta.source.position - 1)
                     footnote.addDifference("text ends here", sources)
                 }
+                else if (delta.source.lines.size == 1) {
+                    val footnote = footnoteForWord(delta.source.position)
+                    footnote.addDifference("word omitted", sources)
+                }
                 else {
-                    // TODO
+                    val footnote = footnoteForWord(delta.source.position)
+                    val lastDeletedWord = delta.source.lines.last()
+                    footnote.addDifference("text until '$lastDeletedWord' omitted", sources)
                 }
             }
             else {
