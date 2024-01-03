@@ -124,6 +124,7 @@ class Specimen {
     var text: String? = null
     var notes: String? = null
     var text_variants: Map<String, String> = hashMapOf()
+    var normalize: Map<String, String> = hashMapOf()
     var footnotes: Map<String, String> = hashMapOf()
     var gloss: Map<String, String> = hashMapOf()
     var poetry: Boolean? = false
@@ -375,6 +376,15 @@ fun splitIntoWords(delta: AbstractDelta<String>): List<AbstractDelta<String>> {
     return listOf(delta)
 }
 
+fun ignoreDelta(delta: AbstractDelta<String>, normalizeMap: Map<String, String>): Boolean {
+    fun normalize(string: String) =
+        normalizeMap.entries.fold(string) { s, (key, value) -> s.replace(key, value)}
+
+    val sourceText = delta.source.lines.joinToString(" ")
+    val destinationText = delta.target.lines.joinToString(" ")
+    return normalize(sourceText) == normalize(destinationText)
+}
+
 fun compareVariants(specimen: Specimen) {
     val footnotes = mutableListOf<FootnoteData>()
 
@@ -405,7 +415,7 @@ fun compareVariants(specimen: Specimen) {
                     footnote.addDifference("text until '$lastDeletedWord' omitted", sources)
                 }
             }
-            else {
+            else if (!ignoreDelta(delta, specimen.normalize)) {
                 val footnoteTargetWord = delta.source.position + delta.source.lines.size - 1
                 val footnote = footnoteForWord(footnoteTargetWord)
                 val changedText = delta.target.lines.joinToString(" ")

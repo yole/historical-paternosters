@@ -55,3 +55,5 @@ text_variants:
      duge nashe kako i mi odpushzhamo dushnikom
      nashim. I nevavedi nas v napaszt. Da isbavi
      nas od sla. Amen."
+normalize:
+  "sz": "s"
