@@ -2,6 +2,7 @@ package page.yole.paternosters
 
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
+import com.github.difflib.DiffUtils
 import org.apache.velocity.Template
 import org.apache.velocity.VelocityContext
 import org.apache.velocity.app.Velocity
@@ -119,6 +120,7 @@ class Specimen {
     var bibliography: MutableList<BibliographyEntry> = mutableListOf()
     var text: String? = null
     var notes: String? = null
+    var text_variants: Map<String, String> = hashMapOf()
     var footnotes: Map<String, String> = hashMapOf()
     var gloss: Map<String, String> = hashMapOf()
     var poetry: Boolean? = false
@@ -301,7 +303,58 @@ fun downloadThumbnail(book: Book): String? {
     return null
 }
 
+data class FootnoteDiff(val text: String) {
+    val sources = mutableListOf<String>()
+}
+
+class FootnoteData(val wordIndex: Int) {
+    val differences = arrayListOf<FootnoteDiff>()
+
+    fun formatAsString(): String =
+        differences.joinToString("; ") {
+            it.sources.joinToString(", ") + ": " + it.text
+        }
+}
+
+fun compareVariants(specimen: Specimen) {
+    val baseWords = specimen.text!!.split(' ')
+
+    val footnotes = mutableListOf<FootnoteData>()
+    for (textVariant in specimen.text_variants) {
+        val sources = textVariant.key.split(',').map { it.trim() }
+        val variantWords = textVariant.value.split(' ')
+        val wordDiff = DiffUtils.diff(baseWords, variantWords)
+
+        for (delta in wordDiff.deltas) {
+            val footnoteTargetWord = delta.source.position + delta.source.lines.size - 1
+            val footnote = footnotes.find { it.wordIndex == footnoteTargetWord }
+                ?: FootnoteData(footnoteTargetWord).also { footnotes.add(it) }
+            val changedText = delta.target.lines.joinToString(" ")
+            val footnoteDiff = footnote.differences.find { it.text == changedText }
+                ?: FootnoteDiff(changedText).also { footnote.differences.add(it) }
+            footnoteDiff.sources.addAll(sources)
+        }
+    }
+    footnotes.sortBy { it.wordIndex }
+
+    specimen.text = baseWords.withIndex().joinToString(" ") { (index, word) ->
+        val footnoteIndex = footnotes.indexOfFirst { it.wordIndex == index }
+        if (footnoteIndex < 0)
+            word
+        else
+            "$word[${footnoteIndex + 1}]"
+    }
+
+    specimen.footnotes = footnotes.withIndex().associate { (index, footnote) ->
+        (index + 1).toString() to footnote.formatAsString()
+    }
+}
+
 fun generateSpecimen(specimen: Specimen, path: String) {
+    if (specimen.text_variants.isNotEmpty()) {
+        compareVariants(specimen)
+    }
+
     val template = Velocity.getTemplate("specimen.vm")
     val context = contextFromObject(specimen)
     context.put("text", specimen.text?.let {

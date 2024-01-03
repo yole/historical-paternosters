@@ -16,6 +16,7 @@ dependencies {
     implementation("org.jetbrains:markdown:0.5.2")
     implementation("org.slf4j:slf4j-simple:2.0.9")
     implementation("com.beust:klaxon:5.5")
+    implementation("io.github.java-diff-utils:java-diff-utils:4.12")
     testImplementation(kotlin("test"))
     implementation(kotlin("reflect"))
 }

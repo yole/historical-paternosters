@@ -16,14 +16,17 @@ attestations:
     description: Vandalice
 base: slavic/russian2-pantographia
 text:
-  "Otcse naz icse zi[1] nanabezi[2], Pozuetytze ime
-   tye, Pridi czarztvo tye, Budi uola tya kako
-   unebezi tako nazemli, Hlyb naz zakdan dynam
-   danacz, I[3] odpuzi nam duge naze kako
-   imi odpuzymo doznikam nazim, i nauedi[4] naz
-   unapazet, Da izctaui naz od zla. Amen"
-footnotes:
-  1: "Pantographia, Chamberlayne: ti"
-  2: "Pantographia, Chamberlayne: nanebezi"
-  3: "Pantographia, Chamberlayne: J"
-  4: "Pantographia, Chamberlayne: Jnauedi"
+  "Otcse naz icse zi nanabezi, Pozuetytze ime
+  tye, Pridi czarztvo tye, Budi uola tya kako
+  unebezi tako nazemli, Hlyb naz zakdan dynam
+  danacz, I odpuzi nam duge naze kako
+  imi odpuzymo doznikam nazim, i nauedi naz
+  unapazet, Da izctaui naz od zla. Amen"
+text_variants:
+  "Pantographia, Chamberlayne":
+    "Otcse naz icse ti nanebezi, Pozuetytze ime
+     tye, Pridi czarztvo tye, Budi uola tya kako
+     unebezi tako nazemli, Hlyb naz zakdan dynam
+     danacz, J odpuzi nam duge naze kako
+     imi odpuzymo doznikam nazim, Jnauedi naz
+     unapazet, Da izctaui naz od zla. Amen"
