@@ -3,6 +3,9 @@ attestations:
   - book_title: Gessner
     page: 46
     description: sermone & characteribus Graecis
+  - book_title: Rocca
+    page: 367
+    description: sermone & characteribus Graecis
   - book_title: Megiser
     number: 5
     description: Graece, communiter

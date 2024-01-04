@@ -3,6 +3,9 @@ attestations:
   - book_title: Megiser
     number: 1
     description: Ebraice Latinis Characteribus
+  - book_title: Rocca
+    page: 366
+    description: Hebraica characteribus Latinis expressa
   - book_title: Gessner
     page: 47
     description: Ebraica

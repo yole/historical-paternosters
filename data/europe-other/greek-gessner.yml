@@ -3,6 +3,9 @@ attestations:
   - book_title: Gessner
     page: 46
     description: Graeca
+  - book_title: Rocca
+    page: 367
+    description: Eadem Latinis characteribus
   - book_title: Megiser
     number: 5
     description: Graece Latinis litteris
