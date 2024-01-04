@@ -13,7 +13,7 @@
     #else
     <a href="/$book.outPath">$book.title</a>
     #end
-    ($book.year)
+    ($book.year): $book.texts.size() text#if($book.texts.size() != 1)s#end
     </p>
 #end
 #end

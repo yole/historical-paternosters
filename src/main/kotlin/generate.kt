@@ -51,6 +51,8 @@ class Book {
     var type: String? = null
     var bibliography: MutableList<BibliographyEntry> = mutableListOf()
 
+    var texts = mutableListOf<Specimen>()
+
     val outPath: String
         get() = "books/${titleSlug}.html"
 
@@ -564,6 +566,7 @@ private fun resolveReferences(
                     continue
                 }
                 attestation.book = book
+                book.texts.add(specimen)
             }
         }
         if (specimen.base != null) {
