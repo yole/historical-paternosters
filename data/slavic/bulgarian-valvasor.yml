@@ -1,0 +1,14 @@
+language: Croatian?
+attestations:
+  - book_title: Valvasor
+    page: 274
+    number: 2
+    description: Bulgarice
+base: slavic/russian2-pantographia
+text:
+  "Otskye nash, koteri ieszi u'nebeszih. Szueto ime tvoye.
+   Prid'knam czaszarasztuo tuoye. Budi uolya tuoya kako u'nebu
+   tako y nazemli. Kruh nash uszakdanij daj nam danasz.
+   J odpusesay nam dugi nashi, kako ij mi odpusesyamo
+   dusnikom nashim. J nevauedi nasz v'napaszt. Da iztavi
+   nasz od nepriazni. Amen."

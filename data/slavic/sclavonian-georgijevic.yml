@@ -8,6 +8,10 @@ attestations:
     page: 59
     description: Slavonica Charactere Hieronymiano (Lectio)
     source: Georgieviz. pag. 115. Conf. Dur. p. 744, Gesn. p. 62 a, Pist. n. 62, Reut. n. 28
+  - book_title: Valvasor
+    page: 274
+    number: 3
+    description: Dalmatice
   - book_title: Gessner
     page: 55
     description: Illyrice vel Slavonice
@@ -19,23 +23,42 @@ attestations:
     description: Sclauon. Ling.
 base: slavic/russian2-pantographia
 text:
-  "Otsse nass, ki yessi[1] na nebessi. Ssuetisse[2] ime
-   tuoie. Pridi kralyeusstuo tuoie[3], budi volia[4] tuoia, kako
-   na nebu i na[5] zemlij[6]. Kruha nassega ssagdaniega dai[7] 
-   namga danass, I odpusciainam[8] dughe
-   nasse, kako i mi odpusciamo[9] dusuikon[10]
-   nassijm[11], I nepeliai nats v[12] napast, da izbaui
+  "Otsse nass, ki yessi na nebessi. Ssuetisse ime
+   tuoie. Pridi kralyeusstuo tuoie. Budi volia tuoia, kako
+   na nebu i na zemlij. Kruha nassega ssagdaniega dai 
+   namga danass. I odpusciainam dughe
+   nasse, kako i mi odpusciamo dusuikon
+   nassijm. I nepeliai nats v napast, da izbaui
    nats od nepriazni. Amen."
-footnotes:
-  1: "Bibliander, Gessner: ky iessi"
-  2: "Oratio Dominica Polyglottos Polymorphos, Pantographia: Ssuhtisse"
-  3: "Word missing in Oratio Dominica Polyglottos Polymorphos and Pantographia. Bibliander, Gessner: tuo kralyeuss."
-  4: "Gessner, Oratio Dominica Polyglottos Polymorphos, Pantographia: uolia"
-  5: "Oratio Dominica Polyglottos Polymorphos, Pantographia: ina"
-  6: "Bibliander, Gessner: zem lij"
-  7: "Oratio Dominica Polyglottos Polymorphos, Pantographia: ssagdanigad ai"
-  8: "Bibliander, Gessner: odeuscia nam"
-  9: "Bibliander, Gessner: odpusciauam"
-  10: "Bibliander, Gessner: dusnikon"
-  11: "Bibliander, Gessner: nassim"
-  12: "Bibliander, Gessner, Oratio Dominica Polyglottos Polymorphos, Pantographia: u"
+text_variants:
+  Bibliander:
+    "Otcsse nass, ky iessi na nebessi. Ssuetisse ime
+     tuoie. Pridi tuo kralyeuss. Budi volia tuoia, kako
+     na nebu i na zem lij. Kruha nassega ssagdaniega dai 
+     namga danass. I odeuscia nam dughe
+     nasse, kako i mi odpusciauam dusnikon
+     nassim. I nepeliai nats u napast. Da izbaui
+     nats od nepriazni. Amen."
+  Gessner:
+    "Otcsse nasz, ky iessi na nebeszi. Ssuetisse ime
+     tuoie. Pridi tuo kralyeuss. Budi uolia tuoia, kako
+     na nebu i na zem lij. Kruha nassega ssagdaniega dai 
+     namga danasz. I odeuscia nam dughe
+     nasse, kako i mi odpusciauam dusnikon
+     nassim. I nepeliai nats u napast. Da izbaui
+     nats od nepriaz ni. Amen."
+  "Oratio Dominica, Pantographia":
+    "Otsse nass, ki yessi na nebessi. Ssuhtisse ime
+     tuoie. Pridi kralyeusstuo. Budi uolia tuoia, kako
+     na nebu ina zemlij. Kruha nassega ssagdanigad ai 
+     namga danass. I odpusciainam dughe
+     nasse, kako i mi odpusciamo dusuikon
+     nassijm. I nepeliai nats u napast. Da izbaui
+     nats od nepriazni. Amen."
+  Valvasor:
+    "Otsche nash, koi ieszi nanebeszih. Szvetisze ime tvoye.
+     Pridi kralyesztvo tvoye. Budi volya tvoya kako nanebu
+     tak y nazemlij. Kruha nassega szakdanyega day nam danasz.
+     J odpuscsaij nam dugi nashi, kako ij mi odpuscsyamo
+     dusnikom nassim. J nevpelyamj nasz wnapaszt.
+     Da iztaui nasz od nepriazni. Amen."

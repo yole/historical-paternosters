@@ -4,6 +4,10 @@ attestations:
     page: 48
     description: Croatian
     source: Wilk. Ess. p. 435.
+  - book_title: Valvasor
+    page: 274
+    number: 4
+    description: Croatice
   - book_title: Wilkins
     number: 29
     description: Croatian
@@ -23,15 +27,37 @@ text:
    nashim. I nevavedi nas' v'napast.[10] Naisvavi nas
    od neprijasnj.[11] Iako tvoe je Cesarastvo, i mozh, 
    i slava, vaveki. Amen."
-footnotes:
-  1: "Megiser, Wilkins: esina; Pantographia: efina"
-  2: "Wilkins, Pantographia: cesa rastvo"
-  3: "Megiser, Wilkins, Pantographia: i tako"
-  4: "Wilkins, Pantographia: nasemlij"
-  5: "Wilkins, Pantographia: usag danni"
-  6: "Megiser, Wilkins, Pantographia: Jodpusti"
-  7: "Megiser, Wilkins, Pantographia: Jaco she"
-  8: "Wilkins, Pantographia: imi"
-  9: "Megiser, Wilkins, Pantographia: dishnikom"
-  10: "Wilkins, Pantographia: Ine isbavi nas od nepriasni. Megiser: the following phrase is missing."
-  11: "Megiser: Dais bavi nas ot sla. Wilkins, Pantographia: the following phrase is missing."
+text_variants:
+  Megiser:
+    "Ozhe nash ishe esina nebesih. Svetise jme tuoe.
+     Pridi cesarastvo tvuoe. Budi volia tvoja,
+     jako na niebesih, j tako na semlij. Hlib nash
+     usagdanni dai nam danas. Jodpusti nam dlgi
+     nashe, jakoshe i mi odpushzhamo dlshnikom
+     nashim. Ine isbavi nas od nepriasni. 
+     Iako tvoje je Cesarastvo, i mozh, 
+     i slava, vaveki. Amen."
+  Valvasor:
+    "Ozhe nash ishe esi nanebesih. Suetise jme tuoe.
+     Pridi cesarastvo tvoe. Budi uolja tvoja jako
+     nanjebesih j tako nasemlij. Hlib nash
+     vsagdanni daj nam danas. J odpusti nam dlgi
+     nashe, iako she j mi odpushzhamo dlshnikom
+     nashim. J nevavedi nas v'napast. Na isbaui nas
+     od nepriasni. Amen."
+  Wilkins:
+    "Ozhe nash ishe esina nebesih. Svetise jme tuoe.
+     Pridi cesa rastvo tvuoe. Budi volia tvoja,
+     jako na niebesih, i tako nasemlij. Hlib nash
+     usag danni dai nam danas. Jodpusti nam dlgi
+     nashe, jaco she imi odpushzhamo dishnikom
+     nashim. Ine isbavi nas od nepriasni.
+     Dais bavi nas od sla."
+  Pantographia:
+    "Ozhe nash ishe efina nebesih. Svetise jme tuoe.
+     Pridi cesa rastvo tvuoe. Budi volia tvoja,
+     jako na niebesih, i tako nasemlij. Hlib nash
+     usag danni dai nam danas. Jodpusti nam dlgi
+     nashe, jaco she imi odpushzhamo dishnikom
+     nashim. Ine isbavi nas od nepriasni.
+     Dais bavi nas od sla."
