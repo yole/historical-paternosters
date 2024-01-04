@@ -33,7 +33,10 @@ Year of publication: $year<br/>
 #if($specimen.second.description)
     $specimen.second.description &ndash;
 #end
-        <a href="/$specimen.first.outPath">$specimen.first.language</a>: $specimen.first.snippet...
+        <a href="/$specimen.first.outPath">$specimen.first.language</a>
+        #if($specimen.second.page)(p. $specimen.second.page#if($specimen.second.number) n. $specimen.second.number#end)#end
+        #if($specimen.second.number && !$specimen.second.page)(n. $specimen.second.number)#end
+        : $specimen.first.snippet...
     </li>
 #end
 </ul>
