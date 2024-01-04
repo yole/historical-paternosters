@@ -1,5 +1,8 @@
 language: Arabic
 attestations:
+  - book_title: Megiser
+    number: 3
+    description: Arabice
   - book_title: Gessner
     page: 9
     description: Arabicis verbis, Latinis aute litteris
@@ -16,3 +19,14 @@ text:
   thadhhulna ththegiaribu lachine neghina
   min alschariri. Leine lecha 'm meluchu uealkauathu
   ueal maghedu ila alebdi. Amin."
+text_variants:
+  Megiser:
+    "Abana aldhi phi alfsemaveti Kadussu
+    issmeca, tati malcuteca, tacunu mesiteca
+    cema phi alfsemai, vehhale alartzhi,
+    chobezna cephaphna ahhttana phi aljomi,
+    veahhphar lana ma juchibu hhalena,
+    cema hhapharna leman ichtta elena, vela
+    tadchulna teghribu, lacine naghna mil alsariri.
+    Laneleca almacutu, vealkutu, vealmeghedu 
+    ale alebdi. Amen."

@@ -1,7 +1,7 @@
 language: Dutch
 attestations:
   - book_title: Megiser
-    page: 19
+    number: 19
     description: Belgice
 text:
   "Onse Vader die in de Hemelen syt. Gheheylicht

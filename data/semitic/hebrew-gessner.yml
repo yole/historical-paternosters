@@ -1,7 +1,7 @@
 language: Hebrew
 attestations:
   - book_title: Megiser
-    number: 2
+    number: 1
     description: Ebraice Latinis Characteribus
   - book_title: Gessner
     page: 47

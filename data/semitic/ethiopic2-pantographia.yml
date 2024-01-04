@@ -7,6 +7,9 @@ attestations:
   - book_title: Wilkins
     number: 5
     description: Aethiop
+  - book_title: Megiser
+    number: 4
+    description: Aethiopice
   - book_title: Gessner
     page: 6
     description: lingua Aethiopica
