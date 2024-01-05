@@ -3,12 +3,16 @@ attestations:
   - book_title: Megiser
     number: 3
     description: Arabice
+  - book_title: Rocca
+    page: 371
+    description: Arabicis verbis, sed Latinis litteris
   - book_title: Gessner
     page: 9
     description: Arabicis verbis, Latinis aute litteris
   - book_title: Bibliander
     page: 234
     description: Arabic.
+diff: false
 text:
   "Abana illadhi phi 's schemaua, thikaduschu
   ischmeche. thathi malchutheche. thechunu
@@ -30,3 +34,11 @@ text_variants:
     tadchulna teghribu, lacine naghna mil alsariri.
     Laneleca almacutu, vealkutu, vealmeghedu 
     ale alebdi. Amen."
+  Rocca:
+    "Abana lladi phissamauati it cades esmoca
+    tati mala cutoca tacuno mascitoca choma
+    phissamai chedhaleca ghlallardi chobzana
+    chephaphona agtona phil i aumi aghpliar
+    lena chataiana loennana naghphar leman lena
+    galaihi vua la tadcholnal' tagarabi lachen nagna
+    min ssciarriri."

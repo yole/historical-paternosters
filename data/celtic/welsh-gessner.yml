@@ -11,37 +11,52 @@ attestations:
   - book_title: Megiser
     number: 29
     description: "Cambrice seu Anglo Saxonice: vel lingua Vallica & veteri Britannica"
+  - book_title: Rocca
+    page: 371
+    description: Aramaea Latinis litteris conscripta
   - book_title: Gessner
     page: 14
     description: "lingua Vuallica seu Britannica uetere"
+normalize:
+  uu: w
 text:
-  "Eyn[1] taad rhwn[2] wytyn y nefoedodd[3]; Santeiddier
-   yr henw[4] tau. Deued y[5] dyrnas dau:
-   Gwneler[6] dywollys[7], ar y ddayar[8] megis ag yn[9] y
-   nifi[10]. Eyn bara beunyddawl[11] dyro inni heddiw[12]:
-   A maddeu[13] ynny eyn[14] deledion, megis
-   ag i[15] maddeuwn[16] in deledwyr[17] ninau[18]: Ag na[19] thowys
-   ni i[20] brofedigaeth: Namyn gwared ni[21] rhag drwg[22]. Amen."
-footnotes:
-  1: "Pantographia, Oratio Dominica: eyen"
-  2: "Pantographia, Oratio Dominica, Megiser: rhuvn"
-  3: "Pantographia, Oratio Dominica: neofoedodd"
-  4: "Megiser, Oratio Dominica: hemvu; Pantographia: hemuv"
-  5: "Pantographia, Oratio Dominica, Megiser: de vedy"
-  6: "Pantographia, Oratio Dominica, Megiser: Guueler"
-  7: "Pantographia, Oratio Dominica, Megiser: dy wollys"
-  8: "Megiser, Oratio Dominica: hemvu; Pantographia: arryddayar"
-  9: "Megiser, Oratio Dominica: hemvu; Pantographia: agyn"
-  10: "Oratio Dominica, Pantographia: nefi"
-  11: "Megiser, Oratio Dominica, Pantographia: beunydda vul"
-  12: "Megiser, Oratio Dominica, Pantographia: inniheddivu"
-  13: "Megiser: Amaddeu; Oratio Dominica, Pantographia: Ammaddeu"
-  14: "Pantographia: evn"
-  15: "Megiser, Oratio Dominica, Pantographia: ag i"
-  16: "Megiser, Oratio Dominica, Pantographia: maddevu"
-  17: "Megiser, Oratio Dominica, Pantographia: deledvvir"
-  18: "Megiser, Oratio Dominica, Pantographia: ninaw"
-  19: "Megiser, Oratio Dominica, Pantographia: Agna"
-  20: "Megiser, Oratio Dominica, Pantographia: i"
-  21: "Megiser, Oratio Dominica, Pantographia: gvvaredni. Pantographia: text is cut off at this point"
-  22: "Megiser, Oratio Dominica: drug"
+  "Eyn taad rhwn wytyn y nefoedodd. Santeiddier
+   yr henw tau. Deued y dyrnas dau.
+   Gwneler dywollys, ar y ddayar megis ag yn y
+   nifi. Eyn bara beunyddawl dyro inni heddiw.
+   A maddeu ynny eyn deledion, megis
+   ag i maddeuwn in deledwyr ninau. Ag na thowys
+   ni i brofedigaeth. Namyn gwared ni rhag drwg. Amen."
+text_variants:
+  Rocca:
+    "Eyn taad rhuun vuyt yn y nefoedd. Santeiddier
+     yr henuu tau. Deued y dyrnas dau.
+     Guu neler dyuuollys, ar y ddayar megis ag yn y
+     nifi. Eyn bara beunyddauul dyro inni heddiuu.
+     A maddeu ynny eyn deledion, megis
+     ag i maddeuvun in deleduuyr ninau. Ag na thouuys
+     ni i brofedigaeth. Namyn guuared ni rhag druug. Amen."
+  Megiser:
+    "Eyn taad rhuvn wytyn y nefoedodd. Santeiddier
+     yr hemvu tau. De vedy dyrnas dau.
+     Guueler dy wollys arryddayar megis agyn y
+     nefi. Eyn bara beunydda vul dyro inniheddivu.
+     Amaddeu ynny eyn deledion, megis
+     agi maddevu in deledwir ninaw. Agna thowys
+     ni in brofedigaeth. Namyn gwaredni rhag drug. Amen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Eyen taad rhuvn wytyn y neofoedodd. Santeiddier
+     yr hemvu tau. De vedy dyrnas dau.
+     Guueler dy wollys arryddayar megis agyn y
+     nefi. Eyn bara beunydda vul dyro inniheddivu.
+     Ammaddeu ynny eyn deledion, megis
+     agi maddevu in deledvvir ninaw. Agna thowys
+     ni in brofedigaeth. Namyn gvvaredni rhag drug. Amen."
+  Pantographia:
+    "Eyen taad rhuvn wytyn y neofoedodd. Santeiddier
+     yr hemuv tau. De vedy dyrnas dau.
+     Guueler dy wollys arryddayar megis agyn y
+     nefi. Eyn bara beunydda vul dyro inniheddivu.
+     Ammaddeu ynny evn deledion, megis
+     agi maddevu in deledvvir ninaw. Agna thowys
+     ni in brofedigaeth. Namyn gvvaredni"

@@ -12,6 +12,9 @@ attestations:
     page: 274
     number: 6
     description: Bohemice
+  - book_title: Rocca
+    page: 372
+    description: sermone Bohemico
   - book_title: Gessner
     page: 58
     description: sermone Bohemico
@@ -60,3 +63,11 @@ text_variants:
      nasse, jakoz y mi odpaustime winiknom nassym.
      A nuwod nass w'pokusseni. Ale
      zwawiz nas od zleho. Amen."
+  Rocca:
+    "Otozie nass, genz sy na nebesich. Oszwiet se
+     meno twe. Przid kralo wstwij twe. Bud vule
+     twa yakona nebi tak y na zemi. Chleb nasz
+     wezdeyssi dey nam dnes. Y odpust nam nasse
+     winy, yako y my odpausstime nassim winikom.
+     Y ne uwod nasz do pokussenij. Alc
+     zbaw nas od zleho. Amen."

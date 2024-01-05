@@ -10,6 +10,9 @@ attestations:
   - book_title: Megiser
     number: 14
     description: Gallice
+  - book_title: Rocca
+    page: 368
+    description: Gallica lingua politiori
   - book_title: Gessner
     page: 26
     description: Gallica lingua communi & tersiore
@@ -17,34 +20,47 @@ attestations:
     page: 232
     description: Gallica
 text:
-  "Nostre pere qui es és cieulx, ton nom soit sanctifié[1];
-   ton royaume adviene[2]; ta volonte soit
-   faicte, ainsi en la terre comme au ciel[3]; nostre
-   pain quotidiain donne[4] nous aviourdhuy[5];
-   et perdonne[6] nous nos[7] offences[8], ainsi que[9] nous
-   perdonnons[10] à ceulx qui nous offensent[11]; et
-   ne nous enduy[12] point[13] en tentation[14], mais[15] deliure
-   nous de mauuais.[16] Car à toi est le regne[17] et la puissance et la gloire 
-   à tousjours jamais[18]. Amen."
-footnotes:
-  1: "Pantographia: santifie"
-  2: "Bibliander: advienne; Megiser: nous adviene; Wilkins, Pantographia: advenie"
-  3: "Bibliander: ausi en cieul coment en terre; Wilkins, Pantographia: cieulx"
-  4: "Bibliander: done"
-  5: "Megiser: donne nous aviourdhuy nostre pain quotidiain"
-  6: "Bibliander, Megiser, Wilkins, Pantographia: pardonne"
-  7: "Megiser, Wilkins, Pantographia: noz"
-  8: "Bibliander: ce que deuom; Megiser, Wilkins, Pantographia: faultes"
-  9: "Bibliander, Megiser, Wilkins, Pantographia: comme"
-  10: "Bibliander, Megiser, Wilkins, Pantographia: pardonnons"
-  11: "Bibliander: a debiteurs nous; Megiser, Wilkins, Pantographia: ont offenzes"
-  12: "Bibliander: induis; Megiser, Wilkins, Pantographia: induy"
-  13: "Bibliander: word omitted"
-  14: "Bibliander: tentacion"
-  15: "Bibliander: mas"
-  16: "Megiser, Wilkins, Pantographia: mal. Following sentence is only in Megiser."
-  17: "Bibliander: royaume"
-  18: "Bibliander: tousioursmais"
+  "Nostre pere qui es és cieulx. ton nom soit sanctifié.
+   ton royaume adviene. ta volonte soit
+   faicte, ainsi en la terre comme au ciel. Nostre
+   pain quotidiain donne nous aviourdhuy.
+   et perdonne nous nos offences, ainsi que nous
+   perdonnons à ceulx qui nous offensent. Et
+   ne nous enduy point en tentation. Mais deliure
+   nous de mauuais. Car à toi est le regne et la puissance et la gloire 
+   à tousjours jamais. Amen."
+text_variants:
+  Bibliander:
+    "Nostre pere qui es es cieulx. Ton nom soit sanctifie. Aduienne ton royaume.
+     Soit faicte ta uolunte ausi en cieul coment en terre. Pain nostre quotidien
+     done nous aiourdhuy. Et pardonne nous ce que deuom, comme nous pardonnons
+     a debiteurs nous. & ne induis nous en tentacion. Mas deliure nous du mauuais.
+     Car a toy est le royaume & puissance & la glorie a tousioursmais. Amen."
+  Rocca:
+    "Nostre Pere qui es es cieulx. Ton nom soit sanctifiè. Ton royaume nous aduiene.
+     Ta volontè sout faicte ainsi en la terre, comme au ciel. Donne nous auiourdhuy 
+     nostre pain quotidien. Et pardonne nous noz offences, comme nous 
+     à ceux, qui nous ont offensè. Et nè nous induy point en tentation. 
+     Mais deluire nous du mal. Amen."
+  Megiser:
+    "Nostre Pere, qui es ès cieulx. Ton nom soit sanctifiè. Ton royaume nous aduiene.
+     Ta volontè sout faicte ainsi en la terre, comme au ciel. Donne nous aiourdhuy 
+     nostre pain quotidien. & pardonne nous noz faultes, comme nous pardonnons 
+     à ceulx, qui nous ont offensez. Et ne nous induy point en tentation. 
+     Mais deluire nous du mal. 
+     Car à toi est le regne, & la puissance, & la gloire à toujours jamais. Amen."
+  Wilkins:
+    "Nostre pere qui es és cieulx. Ton nom soit sanctifie. Ton royaume advenie.
+     Ta volunte soit facte ainsi en la terre, comme au cieulx. Nostre pain quotidiain
+     donne nous aviourdhuy. Et pardonne nous noz faultes, comme nous pardonnons
+     a ceulx qui nos ont offenzes. Et ne nous induy point en tentation. Mais deliure
+     nous de mal. Amen."
+  Pantographia:
+    "Nostre pere qui es és cieulx. Ton nom soit santifie. Ton royaume advenie.
+     Ta volunte soit facte ainsi en la terre, comme au cieulx. Nostre pain quotidiain
+     donne nous aviourdhuy. Et pardonne nous noz faultes, comme nous pardonnons
+     a ceulx qui nos ont offenzes. Et ne nous induy point en tentation. Mais deliure
+     nous de mal. Amen."
 notes:
   "According to Heinimann, the text dates back to 
   [Pierre Robert Olivetan](https://en.wikipedia.org/wiki/Pierre_Robert_Oliv%C3%A9tan)'s 

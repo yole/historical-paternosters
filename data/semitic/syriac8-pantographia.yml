@@ -11,6 +11,9 @@ attestations:
   - book_title: Megiser
     number: 2
     description: Syriace vel Chaldaice, seu Lingua Aramaa
+  - book_title: Rocca
+    page: 370
+    description: Chald. verbis, sed litteris Latinis
   - book_title: Gessner
     page: 15
     description: lingua Syriaca vel Chaldaea
