@@ -112,6 +112,7 @@ class Attestation {
     var number: Int? = null
     var description: String? = null
     var source: String? = null
+    var text_variant: String? = null
 
     var book: Book? = null
 }
@@ -130,6 +131,7 @@ class Specimen {
     var footnotes: Map<String, String> = hashMapOf()
     var gloss: Map<String, String> = hashMapOf()
     var poetry: Boolean? = false
+    var diff: Boolean? = true
 
     var baseSpecimen: Specimen? = null
     var lang: Language? = null
@@ -443,7 +445,16 @@ fun compareVariants(specimen: Specimen) {
 
 fun generateSpecimen(specimen: Specimen, path: String) {
     if (specimen.text_variants.isNotEmpty()) {
-        compareVariants(specimen)
+        if (specimen.diff != false) {
+            compareVariants(specimen)
+        }
+        for ((sources, textVariant) in specimen.text_variants) {
+            val sourceNames = sources.split(',').map { it.trim() }
+            for (sourceName in sourceNames) {
+                val attestation = specimen.attestations.find { it.book_title == sourceName }
+                attestation?.text_variant = textVariant
+            }
+        }
     }
 
     val template = Velocity.getTemplate("specimen.vm")

@@ -53,12 +53,18 @@
             #if($attestation.number)
                 n. $attestation.number
             #end
-#if($attestation.description)
-    <i>($attestation.description)</i>
-#end
-#if($attestation.source)
-    &ndash; $attestation.source
-#end
+            #if($attestation.description)
+                <i>($attestation.description)</i>
+            #end
+            #if($attestation.source)
+                &ndash; $attestation.source
+            #end
+            #if($attestation.text_variant)
+                <details>
+                    <summary>Text</summary>
+                    $attestation.text_variant
+                </details>
+            #end
         </li>
     #end
 </ul>
