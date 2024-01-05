@@ -12,6 +12,9 @@ attestations:
   - book_title: Bibliander
     page: 234
     description: Arabic.
+  - book_title: Postel
+    page: 32
+    description: Punica, Arabica'ue
 diff: false
 text:
   "Abana illadhi phi 's schemaua, thikaduschu
@@ -42,3 +45,12 @@ text_variants:
     lena chataiana loennana naghphar leman lena
     galaihi vua la tadcholnal' tagarabi lachen nagna
     min ssciarriri."
+  Postel:
+    "Abana illadhi phissemeuathi cadus ismeche,
+     tata melchuteche, techu nu mescheiteche
+     chema phissamai vala elarzi, chobzna chephaphna
+     ahthana philiaumi veahpher lanamaiugibu
+     alana chema hapharna lema ahtha alana
+     vela ta dchulnat tegiaribu lachine
+     negena min elseriri leine lechem. meluchu
+     veel cauathu veel megedu ila elebdi. Amen."

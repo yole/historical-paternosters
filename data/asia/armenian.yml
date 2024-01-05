@@ -4,6 +4,9 @@ attestations:
 - book_title: Rocca
   page: 371
   description: Armenicis sed Latinis litteris
+- book_title: Postel
+  page: 66
+  description: Armenica lingua
 text:
   "Հայր մեր որ յերկինս ես,
    սուրբ եղիցի անուն քո։

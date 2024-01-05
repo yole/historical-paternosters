@@ -21,6 +21,9 @@ attestations:
   - book_title: Bibliander
     page: 234
     description: Chald.
+  - book_title: Postel
+    page: 17
+    description: Chaldaica
 text:
   "Abhoun dbhaschmajo. Nethkadasch schmoch
    Tithe malchouthoch. Nehve zebjonoch, ajchano

@@ -280,3 +280,10 @@ books:
   year: 1584
   author: Adam Bohorič
   author_url: https://en.wikipedia.org/wiki/Adam_Bohorič
+
+- title: Postel
+  full_title: Linguarum Duodecim Characteribus Differentium Alphabetum Introductio
+  url: https://books.google.com/books?id=JQuR0Hk1qKYC
+  year: 1538
+  author: Guillaume Postel
+  author_url: https://en.wikipedia.org/wiki/Guillaume_Postel

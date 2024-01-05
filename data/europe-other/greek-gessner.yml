@@ -9,6 +9,9 @@ attestations:
   - book_title: Megiser
     number: 5
     description: Graece Latinis litteris
+  - book_title: Postel
+    page: 52
+    description: Graeca
 base: europe-other/greek-byzantian
 text:
   "Páter hemôn, ho en tîs uranis, hagiathîto tò
