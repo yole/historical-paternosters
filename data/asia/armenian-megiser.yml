@@ -23,6 +23,9 @@ attestations:
   - book_title: Postel
     page: 66
     description: Armenica lingua
+  - book_title: Schiltberger
+    page: 96
+    description: ermenisch
 base: asia/armenian
 text:
   "Hair mer or iercins des. Surb eglizzi anun

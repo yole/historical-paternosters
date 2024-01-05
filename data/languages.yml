@@ -204,3 +204,6 @@ languages:
 - name: Church Slavonic
   family: Indo-European/Slavic
   url: https://en.wikipedia.org/wiki/Church_Slavonic
+- name: Tatar
+  family: Turkic
+  url: https://en.wikipedia.org/wiki/Tatar_language

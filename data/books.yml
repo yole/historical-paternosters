@@ -287,3 +287,10 @@ books:
   year: 1538
   author: Guillaume Postel
   author_url: https://en.wikipedia.org/wiki/Guillaume_Postel
+
+- title: Schiltberger
+  full_title: The bondage and travels of Johann Schiltberger, a Native of Bavaria, in Europa, Asia, and Africa
+  url: https://digi.ub.uni-heidelberg.de/diglit/cpg216/0200/image,info,thumbs
+  year: 1480
+  author: Johannes Schiltberger
+  author_url: https://en.wikipedia.org/wiki/Johannes_Schiltberger

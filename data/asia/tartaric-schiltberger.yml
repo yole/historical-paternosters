@@ -1,0 +1,35 @@
+language: Tatar
+attestations:
+  - book_title: Megiser
+    number: 44
+    description: Tartarice
+  - book_title: Schiltberger
+    page: 96
+    description: Tartarisch
+diff: false
+text:
+  "Atcha wyzom, hhy hokta sen algusch,
+  ludor senug adongkel suom, chauluchong
+  bel sun senung arkchueg alei gier da
+  vkachtaver visungundaluch; ot mak chu
+  musen vougon; kay visum ja sachen alen
+  bisdacha kajesbe rin bisum jasoch namasin
+  datcha koima visn sunanacha; illa garta
+  visenn gemandam. Amen."
+bibliography:
+  - title: Marco Polo, Nicknamed the Million, and His “Book on the Diversity of the World”
+    author: Alexander Garkavets
+    year: 2017
+    publication: Золотоордынское обозрение. 2017. Т. 5, No. 3
+    url: https://www.academia.edu/104986559/Marco_Polo_Nicknamed_the_Million_and_His_Book_on_the_Diversity_of_the_World_
+text_variants:
+  Schiltberger:
+    "Atha wysum chy chockchta sen algusch ludur sen algush
+     ludur senūng adung kellsuū senūg han
+     luchung balsamin senung erkchung aley
+     gierda vkiokchta wer wisum gundaluch
+     ottmakchu muson wougun koy wisum Ja
+     soch ni aley wis dache coyelle nin ens ū
+     Jasochlomusni Dache koyma wisnisuna
+     macha machka Illa garthe wisni geman-
+     Dan Amen"
