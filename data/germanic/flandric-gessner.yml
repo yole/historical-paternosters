@@ -3,18 +3,30 @@ attestations:
   - book_title: Gessner
     page: 39
     description: in lingua Flandrica
+  - book_title: Rocca
+    page: 375
+    description:
+      "in lingua Flandrica: quae parum differt ab illa qua
+       Brabanti, Holandi, Zelandi, Frisii, et alii inferioris
+       Germaniae utuntur"
 text:
-  "Onse[1] vader die ghy syt in den
-  hemel / gheheelicht werdet dyn[2]
+  "Onse (oder üüse) vader die ghy syt in den
+  hemel. Gheheelicht werdet dyn (oder üuwe)
   name. Toe komme üüs dyn rycke. Dyn wille
   geschie vp erde / ghelyck in den hemel. Üüser daghelicks
   brood gheff üüs heden. Ende vergeft
   üüs üüse schülden / ghelyck wy vergheuen üüse
-  schüldenaren. Ende leet[3] üüs
+  schüldenaren. Ende leet (oder brinckt) üüs
   niet in becooringhe, maer verlost üüs van den
-  quaden[4]. Amen."
-footnotes:
-  1: "Gessner: oder üüse"
-  2: "Gessner: oder üuwe"
-  3: "Gessner: oder brinckt"
-  4: "Gessner: oder boosen"
+  quaden (oder boosen). Amen."
+text_variants:
+  Rocca:
+    "Onse (oder üüse) vader die ghy syt in den
+     hemel. Gheheelicht werdet dyn (oder üuwe)
+     name. Toe tomme üüs dyn rycle. Dyn wille
+     geschie vp erde / ghelycl in den hemel. Üüser daghelicls
+     brood gheff üüs heden. Ende vergheft
+     üüs üüse schülden / ghelycl wy vergheuen üüse
+     scüldenaren. Ende leet (oder brinclt) üüs
+     niet in becooringhe, maer verlost üüs van den
+     quaden (oder boosen). Amen."

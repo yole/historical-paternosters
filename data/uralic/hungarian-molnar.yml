@@ -8,6 +8,10 @@ attestations:
     page: 45
     description: Hungarica
     source: Albert. Molnar. Grammat. Ungar. p. 197. Conf. Gesn. f. 56.b. Meg. n. 40. Pist. n. 40. Reut. n. 36. Wilk. n. 28
+  - book_title: Rocca
+    page: 373
+    description: Hungarice
+diff: no
 text:
   "Mi Atyánc kì vagy az mennyekben, ssenteltessec
    megâ te neved: jojon elaz te orsságod
@@ -17,3 +21,12 @@ text:
    minéküne az mi vétkeinket, miképpen miis
    megboczàtunc azoknac, az kic mi ellenünc
    vetkeztenec: es ne vigy minket azkisertetbe."
+text_variants:
+  Rocca:
+    "Mi attiiank ki vagij menniegben, zenteltessek az
+     the neued, Ioion the orzagod legien the akaratod,
+     mikepen menijbenm azonkepen it az foldon, mi keniereonket
+     minden napit aggiad mi nekeonkma, es boczasd megh mi
+     nekeonk az mi vetkeijnket, mikepen mi es megh boczatunk
+     az mi elleneonk vetetteknek, es ne vigij minket az
+     kefertetben, de zabadicz minket, minden gono ztul. Amen."

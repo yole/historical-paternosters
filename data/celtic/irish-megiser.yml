@@ -3,11 +3,23 @@ attestations:
   - book_title: Megiser
     number: 30
     description: Hibernice
+  - book_title: Rocca
+    page: 374
+    description: Hibernice
 text:
-  "Air nathir ataigh air nin: nabz far hanimti:
-   tigiuh da riatiathe: deantur da
-   hoilamhuoil air nimh agis air thalamhi': air
+  "Air nathir ataigh air nin: nabz far hanimti.
+   Tigiuh da riatiathe. Deantur da
+   hoilamhuoil air nimh agis air thalamhi'. Air
    naran laidhthuil tabhair dhuin à niomh:
    agis math duin dair fhiacha ammnil agis mathum
    vid dar feuthunuim; agis na trilaic astoch
    sin anau seu, ac sar sino ole. Amen."
+text_variants:
+  Rocca:
+    "Air nathir ataigh air nin: nabzfar hanimh.
+     Tigiuh da riatiathe. Deantur da
+     hoil amhuoil air nimh agis air thalamh'. Air
+     naran laidhthuil tabhair dhuin à niomh:
+     agis math duin dair fhiacha ammnil agis mathumuid 
+     dar feuthunuim; agis na trilaic astoch
+     sin anauseu, ac sar sin o ole. Amen."

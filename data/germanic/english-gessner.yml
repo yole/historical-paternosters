@@ -3,10 +3,21 @@ attestations:
   - book_title: Gessner
     page: 8
     description: Anglice
+  - book_title: Rocca
+    page: 373
+    description: Anglice
 text:
-  "Our father whiche arte in heaven, halowed be
-   thy Name; thy kyngdome come; thy wyll be
-   done in earthe as it is in heaven; give us thys
-   day our dagly bread; and forgeve us our trespasses
-   as we forgeve our trespassers: and leade us not
-   into temptacion, but delyver us from evyll. Amen."
+  "Our father whiche arte in heaven. halowed be
+   thy Name. Thy kyngdome come; thy wyll be
+   done in earthe as it is in heaven. Give us thys
+   day our dagly bread. And forgeve us our trespasses
+   as we forgeve our trespassers. And leade us not
+   into temptacion. But delyver us from evyll. Amen."
+text_variants:
+  Rocca:
+    "Our Fater whiche arte in heaven. Halowed be
+     thy Name. Thy kyngdome come; thy wyll be
+     done in earthe as it is in heaven. Give us thys
+     day our dayby bread. And forgeve us oure trespasses
+     as we forgeve oure trespassers. And leade us not
+     into temptacion. But delyver us from evyll. So be it."
