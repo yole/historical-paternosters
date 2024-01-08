@@ -1,0 +1,19 @@
+language: Sardinian
+attestations:
+  - book_title: Rocca
+    page: 376
+    description: <Sardorum> ex communiori lingua, extra civitates
+text:
+  "Babbu nostru qui ses in sos quelos. Santifficadu siat su
+   nomine tuo. Aduengiat su rennu tou, siat fatta sa voluntade
+   tua, comente in su quelu gasi in sa terra. Su pane nostru de
+   ogni die da nos lu hoe. & perdona nos sos deppidos nostros,
+   gasi comente noij perdonamus sas deppidores nostros. &
+   non nos lasses ruer in sa tentassione, mas libera nos de male. Amen."
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+           bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 207

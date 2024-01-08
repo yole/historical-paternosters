@@ -6,6 +6,9 @@ attestations:
   - book_title: Bibliander
     page: 233
     description: Polonica
+  - book_title: Rocca
+    page: 375
+    description: Polonice
 text:
   "Ocziecz nasch ktory iestosz wnyebye,
   Swyecz sie[1] gymye twæ.
@@ -16,6 +19,22 @@ text:
   odpusczamy wynowaytzom naschym.
   Nyewodz nass napokuschenye.
   Alye zbaw nasz od zlego. Amen."
-footnotes:
-  1: "Bibliander: Swyeczsie"
-  2: "Bibliander: ze mij"
+text_variants:
+  Bibliander:
+    "Ocziecz nasch ktory iestosz wnyebye,
+     Swyeczsie[1] gymye twæ.
+     Przydzy twæ kroliestwo.
+     Bandz wolya twa, yako wnyebi, y na ze mij.
+     Chlieb nasch powschedny day nam dzy say.
+     A odpuscz nam uyny nascha, yako y my
+     odpusczamy wynowaytzom naschym.
+     Nyewodz nass napokuschenye.
+     Alye zbaw nasz od zlego. Amen."
+  Rocca:
+    "Ocziecz nasch ktory iestosz wnyebye.
+    Swyecz sie gymye twa. Przydzy twa kroliestwo.
+    Bandz wolya twa, yako wnyebi, y na zemij.
+    Chlieb nasch pow schedny day nam dzy say.
+    A odpuscz nam uyny nascha, yako y my
+    odpusczamy wynowa ytzom naschym. Nyewodsz nasz
+    napokuschenye. Alye zbaw nasz od zlego. Amen."

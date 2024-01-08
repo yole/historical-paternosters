@@ -10,6 +10,9 @@ attestations:
   - book_title: Megiser
     number: 35
     description: Dalmatice. Molitva Gozpodinava
+  - book_title: Rocca
+    page: 375
+    description: Illyrice, vel Sclavonice, Latinis litteris
 base: slavic/sclavonian-georgijevic
 text:
   "Otsce nas koyi-yessina nebissih. Szvetisse gyme
@@ -19,7 +22,19 @@ text:
    pussti naam duge nase. Kako i my odpuschyamo
    duxnikom nassim. Ine naass uvedi u-napasst[2].
    Da osslobodi naas od assla. Amen."
-footnotes:
-  1: "Pantographia, Wilkins: kralyess tvo"
-  2: "Pantographia, Wilkins: uvedi-napasst"
-
+text_variants:
+  Pantographia, Wilkins:
+    "Otsce nas koyi-yessina nebissih. Szvetisse gyme
+     tvoye. Pridi kralyess tvo tvoze. Budi volya
+     tvoya: kako na nebu, tako ina zemlyi.
+     Kruh nas ssvagdanyni day nam danass. Jod
+     pussti naam duge nase. Kako i my odpuschyamo
+     duxnikom nassim. Ine naass uvedi-napasst.
+     Da osslobodi naas od assla. Amen."
+  Rocca:
+    "Occe nas, kij iesi na nebesieh. Svetise ime tvoje.
+     Prighi kraglevstvo tvoje. Budi voglia tuoja, kako na
+     nebu, tako i na semgli. Kruh hasc sv akdani dajnamga
+     danas. I od pusti nam dughe nasce, kako i mi od pusctujemo
+     duxnikom nasciem. I ne uvedi nas u napast, da oslobodi
+     uas od sla. Amen."
