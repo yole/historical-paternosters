@@ -24,6 +24,12 @@ text:
    in tentationem. Sed libera nos a malo.[2] Quia
    tuum est regnum, et potentia, et gloria in secula
    seculorum. Amen."
-footnotes:
-  1: "Rocca: quotidianum"
-  2: "Rocca: doxologia is omitted"
+text_variants:
+  Rocca:
+    "Pater noster, qui es in cœlis. Sanctificetur nomen
+     tuum. Adveniat regnum tuum. Fiat voluntas
+     tua, sicut in cœlo, et in terra. Panem
+     nostrum quotidianum da nobis hodie.
+     Et dimitte nobis debita nostra, sicut et nos
+     dimittimus debitoribus nostris. Et ne nos inducas
+     in tentationem. Sed libera nos a malo. Amen."

@@ -8,26 +8,28 @@ attestations:
     number: 17
     description: Germanice
 text:
-  "Unser Vatter[1], der du bist im Himmel, geheiliget
-   werd dein Nahm[2]. Zukomm uns[3] dein Reich.
-   Dein Will[4] geschehe, auff Erden wie im Himmel[5]. 
-   Unser tâglich Brodt gib uns heut[6].
-   Und vergib uns unser Schuldt[7], als wir vergeben
-   unsern Schüldigern. Und[8] führ[9] uns nicht[10]
-   in Versuchung. Sondern erlöse[11] uns vom Ubel[12]. 
-   Den dein is das reich, und die krafft[13], und die
+  "Unser Vatter, der du bist im Himmel, geheiliget
+   werd dein Nahm. Zukomm uns dein Reich.
+   Dein Will geschehe, auff Erden wie im Himmel. 
+   Unser tâglich Brodt gib uns heut.
+   Und vergib uns unser Schuldt, als wir vergeben
+   unsern Schüldigern. Und führ uns nicht
+   in Versuchung. Sondern erlöse uns vom Ubel. 
+   Den dein is das reich, und die krafft, und die
    Herrligkeit im Ewigkeit. Amen."
-footnotes:
-  1: "Pantographia: Vater"
-  2: "Pantographia: name"
-  3: "Pantographia: Zukomme"
-  4: "Pantographia: Wille"
-  5: "Pantographia: wie im himmel also auch auf erden"
-  6: "Pantographia: heute"
-  7: "Pantographia: schuld"
-  8: "Pantographia: Unde"
-  9: "Pantographia: fuhre"
-  10: "Pantographia: nicht"
-  11: "Pantographia: erlô se"
-  12: "Pantographia: von dem bosen"
-  13: "Pantographia: text is cut off at this point"
+text_variants:
+  Pantographia:
+    "Unser Vater, der du bist im Himmel, geheiliget
+     werd dein name. Zukomme uns dein Reich.
+     Dein Wille geschehe, wie im himmel also auch auf erden. 
+     Unser tâglich Brodt gib uns heute.
+     Und vergib uns unser Schuld, als wir vergeben
+     unsern Schüldigern. Unde fuhre uns nicht
+     in Versuchung. Sondern erlö se uns von dem bosenl. 
+     Den dein is das reich, und die krafft"
+  Wilkins:
+    "Unser Vatter der du bist im Himmel, Geheyliget werde dein nahm.
+     Dein Reich komme. Dein Will geschehe, auf erden wie im Himmel.
+     Unser taglich brot gib uns heut. Und vergib uns unsre Schuld,
+     als wir auch vergeben unsern schuldigten.
+     Und fuhreuns nicht in versuchung, sondern erlose uns vom bosen."

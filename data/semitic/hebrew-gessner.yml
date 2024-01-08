@@ -10,6 +10,9 @@ attestations:
     page: 47
     description: Ebraica
     source: Sebastianus Munsterus in Ebraica lingua edidit
+  - book_title: Wilkins
+    number: 2
+    description: Hebrew
 base: semitic/hebrew
 text:
   "Abinu schœbbeschamaim, iikkadesch schmœcha:

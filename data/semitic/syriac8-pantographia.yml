@@ -8,6 +8,9 @@ attestations:
     page: 12
     description: Syriaca, charactere vulgato
     source: Conf. Dur. p. 405, Gesn. p. 16 b, Meg. n. 2, Pist. n. 2, Reuter n. 2, Wilk. n. 4
+  - book_title: Wilkins
+    number: 4
+    description: Syriac
   - book_title: Megiser
     number: 2
     description: Syriace vel Chaldaice, seu Lingua Aramaa

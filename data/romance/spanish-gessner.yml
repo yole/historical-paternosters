@@ -3,15 +3,28 @@ attestations:
   - book_title: Gessner
     page: 50
     description: Hispanice
+  - book_title: Wilkins
+    number: 9
+    description: Spanish
 text:
-  "Padrennestro, qui eres en los cielos, sanctificado
-   sea el tu nombre; venga el tu reyno:
-   fága se tu voluntad, assi en el cielo, como en la tierra.
+  "Padrennestro, qui eres en los cielos. Sanctificado
+   sea el tu nombre. Venga el tu reyno:
+   Fága se tu voluntad, assi en el cielo, como en la tierra.
    Nuestro pan cotidiano dad le a nosotros oy.
    Y perdona a nosotros nuestra deuda, como
    nosotros perdonamos annestros deudores.
-   Y no nos traigas en tentacion: mas libra
+   Y no nos traigas en tentacion. Mas libra
    nos de mal. Amen."
+text_variants:
+  Wilkins:
+    "Padre nuestro, que estas en loscielos. Sanctificato
+     sea el tu nombre. Venga el tu reyno.
+     Fagase tu voluntad, assy en el cielo, como
+     en la tierra. Nuestro pan cotidiano dad le a nosotros oy. 
+     Y perdona nos nuestras deudas, assi como
+     nosotros perdonamos à nuestros deudores.
+     Y no nos dexes caër en la tentation. Nas libra
+     nos de mal. Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

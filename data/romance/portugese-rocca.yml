@@ -10,15 +10,46 @@ attestations:
   - book_title: Rocca
     page: 374
     description: Lusitanica
+  - book_title: Wilkins
+    number: 10
+    description: Porteguese
 text:
-  "Padre nosso, que stas[1] nos ceos, santificado[2] seia
-   o teu[3] nome; venha à nos o teu reino, seja ferta[4]
-   à tua vontade[5], assi nos ceos, come na terra.
-   O pao nosso[6] de cadadia, dano lo[7] oie nesto[8]
-   dia, e perdoa nos[9] sennor as nossas dividas,
-   assi como nos perdoamos aos nossos dividores;
-   e nao[10] nos dexes cahir in tentacao[11], mas libra
+  "Padre nosso, que stas nos ceos, santificado seia
+   o teu nome. Venha à nos o teu reino, seja ferta
+   à tua vontade, assi nos ceos, come na terra.
+   O pao nosso de cadadia, dano lo oie nesto
+   dia. E perdoa nos sennor as nossas dividas,
+   assi como nos perdoamos aos nossos dividores.
+   E nao nos dexes cahir in tentacao, mas libra
    nos do mal. Amen."
+text_variants:
+  Pantographia:
+    "Padre nosso, questas nos ceos, sanctificado seia
+     otu nome. Venha à nos o teu reino, seja feita
+     à tua voluntade, assi nos ceos, come na terra.
+     Opao nosson de cadadia, da nolo oie nestro
+     dia. E perdoa a nos sennor as nossas dividas,
+     assi como nos perdoamos aos nossos dividores.
+     E naon nos dexes cahir in tentacaon, mas libra
+     nos do mal. Amen."
+  Megiser:
+    "Padre nosso, que stas nos ceos, santificado seia
+     o teu nome. Venha à nos o teu reino, seja ferta
+     à tua volontade, assi nos ceos, come na terra.
+     O pao nosso de cadadia, dano lo oie nesto
+     dia. E perdoa nos sennor as nossas dividas,
+     assi como nos perdoamos aos nossos dividores.
+     E nao nos dexes cahir in tentacao, mas libra
+     nos do mal. Amen."
+  Wilkins:
+    "Padre nosso, que stas nos ceos, sanctificado seja
+     o teu nome. Venna à nos o teu reyno, seja ferta
+     à tua voluntade, assi nos ceos, come na terra.
+     O pao no sso de cadadia, dano lo oie nesto
+     dia. E perdoa nos sennoras nossas dividas,
+     assi como nos perdoamos aos nossos dividores.
+     E nao nos dexes cahir in tentacao, mas libra
+     nos do mal. Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
@@ -26,16 +57,3 @@ bibliography:
     year: 1988
     url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
     page: 175
-footnotes:
-  1: "Pantographia: questas"
-  2: "Pantographia: sanctificado"
-  3: "Pantographia: otu"
-  4: "Pantographia: sea feita"
-  5: "Megiser: volontade; Pantographia: voluntade"
-  6: "Pantographia: Opao nosson"
-  7: "Pantographia: da nolo"
-  8: "Pantographia: nestro"
-  9: "Pantographia: a nos"
-  10: "Pantographia: naon"
-  11: "Pantographia: tentacaon"
-

@@ -9,6 +9,9 @@ attestations:
   - book_title: Megiser
     number: 22
     description: Antiqua Germanorum lingua, scripta circa Annum 870
+  - book_title: Wilkins
+    number: 17
+    description: Germ. ancient
 text:
   "Fater ünser, du in himele bist.
    Din namo werde geheiligot.
@@ -40,6 +43,13 @@ text_variants:
      Vnde vnsere sculde belaz ijns als auch vuir belasend
      vnseren sculdigen. Vnd in chorunga nit leitest du vnsich.
      Nun belose vnsich sone ubele."
+  Wilkins:
+    "Pater unser du in himel bist. Din namo werde geheyligot.
+     Din riche chome. Din willo gescehe in erde also in Himele.
+     Unser tagolicha brot cib uns hinto.
+     Unde unsere sculde belas uns, als auch wer belasendt
+     unseren sculdigen. Und in chorunga nit leitest du unsich.
+     Un belose unsich sone ubele."
 notes:
   According to [Althochdeutsches Lesebuch](https://archive.org/details/althochdeutsche00brau/page/34/mode/2up)
   this text comes from [Notker](https://en.wikipedia.org/wiki/Notker_Labeo)'s Psalter.

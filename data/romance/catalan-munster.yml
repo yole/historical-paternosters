@@ -3,6 +3,9 @@ attestations:
   - book_title: Gessner
     page: 65
     description: Sardorum oppidanorum lingua
+  - book_title: Wilkins
+    number: 14
+    description: Sardinian of the City
 text:
   "Pare nostre che ses en loscels, sia santificat lo
   nom teu. Venga lo regne teu. Fasase la uoluntat tua,
@@ -13,6 +16,15 @@ text:
   la tentatio. Mas liura nos del mal. Perche teu es
   lo regne, la gloria, i lo imperii en los sigles de 
   le sigles. Amen."
+text_variants:
+  Wilkins:
+    "Pare nostre che ses en loscels, sia santificat lo
+    nom teu. Venga lo regne teu. Fasase la uoluntat tua,
+    axicom en lo cel, i en la terra. Lo pa nostre
+    cotidia dona anosaltres hui. I dexia anosaltres
+    losdeutres nostres, axicom i nosaltres dexiam
+    als deutois nostres. I no nos induescas en
+    la tentatio. Mas liura nos del mal."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

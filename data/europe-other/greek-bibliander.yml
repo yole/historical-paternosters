@@ -3,6 +3,9 @@ attestations:
   - book_title: Bibliander
     page: 232
     description: Graeca
+  - book_title: Wilkins
+    number: 6
+    description: Greek
 base: europe-other/greek-byzantian
 text:
   "Pater hemon, ho en tois uranois, hagiastheto to

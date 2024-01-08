@@ -3,13 +3,25 @@ attestations:
   - book_title: Bibliander
     description: Latina
     page: 232
+  - book_title: Wilkins
+    number: 8
+    description: Latin
 text:
   "Pater noster, qui es in cœlis: sanctificetur nomen
-   tuum: adveniat regnum tuum, fiat voluntas
-   tua, sicut in cœlo, sic in terra; panem
-   nostrum quotidianum da nobis hodie:
-   et remitte nobis debita nostra, sicut et nos
-   remittimus debitoribus nostris: et ne inducas nos 
-   in tentationem, sed libera nos a malo, quia
+   tuum. Adveniat regnum tuum. Fiat voluntas
+   tua, sicut in cœlo, sic in terra. Panem
+   nostrum quotidianum da nobis hodie.
+   Et remitte nobis debita nostra, sicut et nos
+   remittimus debitoribus nostris. Et ne inducas nos 
+   in tentationem. Sed libera nos a malo. Quia
    tuum est regnum, et potentia, et gloria in secula
    seculorum. Amen."
+text_variants:
+  Wilkins:
+    "Pater noster, qui es in cœlis. Sanctificetur nomen
+     tuum. Adveniat regnum tuum. Fiat voluntas
+     tua, sicut in cœlo, sic etiam in terra. Panem
+     nostrum quotidianum da nobis hodie.
+     Et remitte nobis debita nostra, sicut et nos
+     remittimus debitoribus nostris. Et ne nos inducas
+     in tentationem. Sed libera nos a malo. Amen."

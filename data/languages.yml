@@ -207,3 +207,6 @@ languages:
 - name: Tatar
   family: Turkic
   url: https://en.wikipedia.org/wiki/Tatar_language
+- name: Old English
+  family: Indo-European/Germanic
+  url: https://en.wikipedia.org/wiki/Old_English
