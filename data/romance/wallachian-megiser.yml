@@ -3,6 +3,10 @@ attestations:
   - book_title: Megiser
     number: 41
     description: Walachice seu Dacice
+  - book_title: Wilkins
+    number: 31
+    description: Walachian
+    source: Megiserus
 text:
   "Tatal nostru, cineresti in ceriu,
    sfincinschase numelle teu.
@@ -16,6 +20,20 @@ text:
    Sunu ne duce prenoi in kale deispitra,
    sune men tu jaste preroi de reu.
    Amin."
+text_variants:
+  Wilkins:
+    "Tatal nostru, cineresti in ceriu,
+     sfincinschase numelle teu.
+     Seuie imparacia ta.
+     Suse fie voia ta
+     cum in ceriu asa prepo mortu.
+     Puine noa de tote zilelle
+     dene noho astazi.
+     Sunc jerta gresalelle nostre,
+     cum sunoi jerta ma gresitilor nostri.
+     Sunu ne duce prenoi in kale deispirra,
+     sune men tu jaste preroi de reu.
+     Amin."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

@@ -6,17 +6,37 @@ attestations:
   - book_title: Megiser
     number: 42
     description: Turcice
+  - book_title: Wilkins
+    number: 39
+    description: Turkish
 text:
   "Babamoz, hanghe gugtesson chuduss
-   olssun[1] ssenungh, adun gelsson ssenung
-   memlechetun, olssum ssenungh[2] isstedgunh
+   olssun ssenungh, adun gelsson ssenung
+   memlechetun, olssum ssenungh isstedgunh
    nycse gugthe vle gyrde.
    Echamegumozi hergunon vere bize
    bu gun, hem bassa bize borsligomozi,
    nycse bizde baslaruz borsetigleremozi.
-   hem yedma byzegeheneme[3], de
+   Hem yedma byzegeheneme, de
    churtule bizy iaramazdan, Amen."
-footnotes:
-  1: "Megiser: olssum"
-  2: "Megiser: sshenung"
-  3: "Megiser: bize geheneme"
+text_variants:
+  Megiser:
+    "Babamoz, hanghe gugtesson chuduss
+     olssum ssenungh, adun gelsson ssenung
+     memlechetun, olssum sshenung isstedgunh
+     nycse gugthe vle gyrde.
+     Echamegumozi hergunon vere bize
+     bu gun, hem bassa bize borsligomozi,
+     nycse bizde baslaruz borsetigleremozi.
+     Hem yedma bize geheneme, de
+     churtule bizy iaramazdan, Amen."
+  Wilkins:
+    "Babamoz, hanghe gugtesson chuduss
+     olssum ssenungh, adun gelsson ssenung
+     memlechetun, olssum sshenung issted gunh
+     nicse gugthe ule gyrde.
+     Echame gumozi hergun on vere bize
+     bugun, hem bassa bize borsligomozi,
+     nycse bizde baslaruz borse tigleremozi.
+     Hem yedma bizege heneme, de
+     churtule bizy jaramazdan, Amen."

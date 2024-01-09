@@ -8,23 +8,49 @@ attestations:
     page: 42
     description: Livonica
     source: Meg. n. 39. Conf. Dur. p. 869. Munst. Chron. T. III c. 183 p. 1124. Pist. n. 32. Reut. n. 41. Wilk. n. 36
+  - book_title: Wilkins
+    number: 36
+    description: Livonian
   - book_title: Megiser
     number: 39
     description: Livonice & Werulorum lingua
 text:
   "Tabes mus, kas tu es eck sckan debbessis;
-   schwetitz[1] tows waarcz: enack mums tows
-   walstibe; tows praatz buska, ksch kan debbes,
-   ta wursan summes: musse denische mayse duth[2]
-   mums schodeen; pammate mums musse
-   grake, ka mess pammart musse parradveken[3]:
-   ne wedde mums louna badeckle:
-   pett passatza mums nu wusse[4] loune. Amen."
-footnotes:
-   1: "Pantographia, Oratio Dominica: schwe titz"
-   2: "Pantographia: du th"
-   3: "Pantographia, Oratio Dominica: parradueken"
-   4: "Pantographia, Oratio Dominica: nu'wusse"
+   schwetitz tows waarcz. Enack mums tows
+   walstibe. Tows praatz buska, ksch kan debbes,
+   ta wursan summes. Musse denische mayse duth
+   mums schodeen. Pammate mums musse
+   grake, ka mess pammart musse parradveken.
+   Ne wedde mums louna badeckle:
+   pett passatza mums nu wusse loune. Amen."
+text_variants:
+  "Oratio Dominica Polyglottos Polymorphos":
+    "Tabes mus, kas tu es eck sckan debbessis;
+     schwe titz tows waarcz. Enack mums tows
+     walstibe. Tows praatz buska, ksch kan debbes,
+     ta wursan summes. Musse denische mayse duth
+     mums schodeen. Pammate mums musse
+     grake, ka mess pammart musse parradueken.
+     Ne wedde mums louna badeckle:
+     pett passatza mums nu'wusse loune. Amen."
+  Pantographia:
+    "Tabes mus, kas tu es eck sckan debbessis;
+     schwe titz tows waarcz. Enack mums tows
+     walstibe. Tows praatz buska, ksch kan debbes,
+     ta wursan summes. Musse denische mayse du th
+     mums schodeen. Pammate mums musse
+     grake, ka mess pammart musse parradueken.
+     Ne wedde mums louna badeckle:
+     pett passatza mums nu'wusse loune. Amen."
+  Wilkins:
+    "Abes mus, kas tu es eek sckan debbessis;
+     schwetitz tows waarcz. Enack mums tows
+     walstibe. Tows praatz buska, kasch kan debbes,
+     ta wursan summes. Musse denische mayse duth
+     mums schodeen. Pamniate mums musse
+     grake, ka mess pammart musse partadveken.
+     Ne wedde mums louna badeckle:
+     pet passatza mums nuwusse loune. Amen."
 notes:
   "'Werulorum lingua' may refer to [Heruli](https://en.wikipedia.org/wiki/Heruli)"
 gloss:

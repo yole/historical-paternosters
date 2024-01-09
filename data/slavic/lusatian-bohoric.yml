@@ -12,6 +12,9 @@ attestations:
     page: 274
     number: 9
     description: Lusatice
+  - book_title: Wilkins
+    number: 33
+    description: Lusatian
   - book_title: Megiser
     number: 38
     description: Lusatice
@@ -66,4 +69,13 @@ text_variants:
      nam shensa. A wodoy nam wyni nashe, ack
      my wodawamy winikam naschim. Neweshi
      nass dospitowanya. Ale wimoshi nass wot slego.
+     Amen."
+  "Wilkins":
+    "Wosch nasch, kensch sy nanebebu, wss weschone 
+     bushy me twove. Poshish knam krailestwo
+     twojo. Sostany woli twoia, takhak nanebu,
+     tak heu nasemu. Klib nasch schidni day
+     nam shensa. Awoday nam wyni nashe, ack
+     my wodawamij winikam naschim. Neweshi
+     nass dospi towana. A le wimoshi nas wot slego.
      Amen."

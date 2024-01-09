@@ -8,6 +8,10 @@ attestations:
     page: 44
     description: Lapponica
     source: Meg. n. 41. Confer. Dur. p. 869. Pist. n. 34. Reut. n. 39. Wilk. n. 23
+  - book_title: Wilkins
+    number: 23
+    description: Lappian
+    source: Megiserus
   - book_title: Megiser
     number: 41
     description: Finnonice, vel lingua silvestrium Laporum.
@@ -15,29 +19,52 @@ attestations:
     page: 620
     description: "in Finlendischer und Pilappener sprach deren sich ettlich Lysiender gebrauchen"
 text:
-  "Isa meidhen, joko oledh taju ahissa[1]; puhettu
-   olkohon siun nimesi: tulkohon[2] siun waltakuntasi[3];
+  "Isa meidhen, joko oledh taju ahissa[1]. puhettu
+   olkohon siun nimesi. tulkohon[2] siun waltakuntasi[3];
    olkohon siun tahtosi, kuwin[4] taivahissa[5],
    nyn manpallâ, meidhen[6] jokapaivven leipä
    anna meilen[7] tânâpâiwâne[8], ja anna anteixe
    meiden syndia; kuwin[9] môe annamma meden[10] vastahan
    rickoillen: ja âle[11] sata meitâ[12] kinsauxen[13];
    mutta paasta meitâ[14] pahasta. Amen."
-footnotes:
-  1: "Pantographia, Oratio Dominica: tajuahissa"
-  2: "Pantographia, Oratio Dominica: tul kohon"
-  3: "Megiser, Pantographia, Oratio Dominica: vvaltakunta si"
-  4: "Megiser, Pantographia, Oratio Dominica: kvvuin"
-  5: "Megiser, Pantographia, Oratio Dominica: tai vahissa"
-  6: "Pantographia, Oratio Dominica: meiden"
-  7: "Pantographia, Oratio Dominica: mehilen"
-  8: "Megiser, Pantographia, Oratio Dominica: tâna pâivvane"
-  9: "Megiser, Pantographia, Oratio Dominica: kvvuin"
-  10: "Pantographia, Oratio Dominica: word is omitted"
-  11: "Megiser, Pantographia, Oratio Dominica: âle"
-  12: "Megiser, Pantographia, Oratio Dominica: mei tâ"
-  13: "Megiser, Pantographia, Oratio Dominica: kin sauxen. Pantographia: text is cut off at this point"
-  14: "Megiser, Pantographia, Oratio Dominica: meite"
+text_variants:
+  Megiser:
+    "Isa meidhen, joko oledh taju ahissa. Puhettu olkohon
+     siun nimesi. Tulkohon siun waltakunta. Si 
+     olkohon sin tahtosi. Kwuin tai vahissa, nyn man'
+     pailâ. Meidhen jokapaiwen leipa anna mehilen tâna
+     pâiwane. Ja anna anteixe meiden syndia. Kwuin
+     moe annamma meden vastahan rickoillen. Ja âle
+     sara mettâ kin sauxen, mutta paasta meite pahasta.
+     Amen."
+  Pantographia:
+     "Isa meidhen, joko oledh tajuahissa. Puhettu
+      olkohon siun nimesi. Tul kohon siun vvaltakunta.
+      Si olkohon siun tahtosi, kvvuin tai vahissa,
+      nyn man'palla. Meiden jokapaivven leipa
+      anna mehilen tâna pâivvane. Ja anna anteixe
+      meiden syndia, kwuin môe annamma vastahan
+      rickoillen. Ja âle sata mei tâ kin sauxen"
+  "Oratio Dominica Polyglottos Polymorphos":
+    "Isa meidhen, joko oledh tajuahissa. Puhettu
+      olkohon siun nimesi. Tul kohon siun vvaltakunta.
+      Si olkohon siun tahtosi, kvvuin tai vahissa,
+      nyn man'palla. Meiden jokapaivven leipa
+      anna mehilen tâna pâivvane. Ja anna anteixe
+      meiden syndia, kwuin môe annamma vastahan
+      rickoillen. Ja âle sata mei tâ kin sauxen.
+      Mutta paasta meite pahasta. Amen."
+  Wilkins:
+    "Isa meidhen joko oledh taju ahissa.
+     Puitettu olkohon siun nimesi.
+     Tulkohon siun waltakunta.
+     Si olkohon siun tahiosi.
+     Kwuin tai vahissa nyn man' palla.
+     Meidhen joka paiwen leipa mehilen tana paiwane.
+     Ja anna anteixe meiden syndia, kwin moe annamma
+     vastahan rickoillen.
+     Ja ale sata mei ta kin sauxen.
+     Mutta paasta meite pahasta."
 gloss:
   "Isa": "Pater"
   "meidhen": "noster"

@@ -12,6 +12,9 @@ attestations:
     page: 130
     description: Lingua Virginiana
     source: Bibl. Virgin. Cantabrig. Nov. Angl. 1663
+  - book_title: Wilkins
+    number: 49
+    description: New England
   - book_title: Eliot Indian Bible
 text:
   "Nooshun kesukquot, quittiana tamunach koowesuonk[1]; 

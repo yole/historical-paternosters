@@ -8,14 +8,34 @@ attestations:
     page: 43
     description: Lituanica
     source: Wilk. n. 35. Conf. Bibl. Lituan. Lond. 1660
+  - book_title: Wilkins
+    number: 35
+    description: Lithuanian
 text:
   "Tewe musu kursey esi danguy, szweskis wardas
-   tawo; ateyk karaliste tawo, buk walatawo[1]
-   kayp and dangaus teyp ir andziam es: donos
-   musu wisu dienu dok mumus szedien; ir
+   tawo. Ateyk karaliste tawo, buk walatawo
+   kayp and dangaus teyp ir andziam es. Donos
+   musu wisu dienu dok mumus szedien. Ir
    atlayisk mums musu kaltes kayp ir mes atlaydziam
-   sawiemus kaltiemus: ir newesk musu
+   sawiemus kaltiemus. Ir newesk musu
    ing pagundynima; bet giaf bekmus nog pikto.
    Amen."
-footnotes:
-  1: "Pantographia: wala tawo"
+text_variants:
+  Pantographia:
+    "Tewe musu kursey esi danguy, szweskis wardas
+     tawo. Ateyk karaliste tawo, buk wala tawo
+     kayp and dangaus teyp ir andziam es. Donos
+     musu wisu dienu dok mumus szedien. Ir
+     atlayisk mums musu kaltes kayp ir mes atlaydziam
+     sawiemus kaltiemus. Ir newesk musu
+     ing pagundynima; bet giaf bekmus nog pikto.
+     Amen."
+  Wilkins:
+    "Tewe musu kursey esi danguy, szweskis wardas
+     tawo. Ateyk karaliste tawo, buk wala tawo
+     kayp and dangaus teyp ir andziam es. Donos
+     musu wisu dienu dok mumus szedien. Ir
+     atlayisk mums musu kaltes kayp ir mes atlaydziam
+     sawiemus kaltiemus. Ir newesk musu
+     ing pagundynima; bet giaf bekmus nog pikto.
+     Amen."

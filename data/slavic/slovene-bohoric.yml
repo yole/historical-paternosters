@@ -18,6 +18,10 @@ attestations:
   - book_title: Bohoric
     page: 8
     description: Exemplum Cyrilicae scripturae, unde lectionem addiscere licet
+  - book_title: Wilkins
+    number: 30
+    description: Servian
+    source: Megiserus
 base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce nash, ishe jesi v nebesih. Posveti se
@@ -56,5 +60,12 @@ text_variants:
      duge nashe kako i mi odpushzhamo dushnikom
      nashim. I nevavedi nas v napaszt. Da isbavi
      nas od sla. Amen."
+  Wilkins:
+    "Otze nash ishe jesi v' nebesih. Posvetise jme twoje.
+     Pridi Krailestvo tuoie. Budi volia tuoia
+     kako vnebi i takos nasemlij. Hlib nash usak danii
+     dai nam danas. Jodpusti nam duge nashe, kako imi
+     otpushzhamo dushnikom nashim. Ine vauedi nas v' napast.
+     Dais bavi nas od sla."
 normalize:
   "sz": "s"

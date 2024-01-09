@@ -8,19 +8,25 @@ attestations:
     page: 45
     description: Hungarica
     source: Albert. Molnar. Grammat. Ungar. p. 197. Conf. Gesn. f. 56.b. Meg. n. 40. Pist. n. 40. Reut. n. 36. Wilk. n. 28
+  - book_title: Wilkins
+    number: 28
+    description: Hungarian
   - book_title: Rocca
     page: 373
     description: Hungarice
 diff: no
 text:
   "Mi Atyánc kì vagy az mennyekben, ssenteltessec
-   megâ te neved: jojon elaz te orsságod
+   megâ te neved. Jojon elaz te orsságod
    legyen megâ te akaratod, mint az menyben,
-   ugy itt ez foldonis ; az mi mindennappi kenyerünket
-   add meg neéküncma ; es boczásd meg
+   ugy itt ez foldonis. Az mi mindennappi kenyerünket
+   add meg neéküncma. Es boczásd meg
    minéküne az mi vétkeinket, miképpen miis
-   megboczàtunc azoknac, az kic mi ellenünc
-   vetkeztenec: es ne vigy minket azkisertetbe."
+   megboczàtunc azoknac. Az kic mi ellenünc
+   vetkeztenec. Es ne vigy minket azkisertetbe.
+   De ssabadits meg minket az gonostól.
+   Mert tiéd az orssag, az hatalom, és â diczoseg,
+   mind orocké. Amen."
 text_variants:
   Rocca:
     "Mi attiiank ki vagij menniegben, zenteltessek az
@@ -28,5 +34,23 @@ text_variants:
      mikepen menijbenm azonkepen it az foldon, mi keniereonket
      minden napit aggiad mi nekeonkma, es boczasd megh mi
      nekeonk az mi vetkeijnket, mikepen mi es megh boczatunk
-     az mi elleneonk vetetteknek, es ne vigij minket az
+     az mi elleneonk vetetteknek. Es ne vigij minket az
      kefertetben, de zabadicz minket, minden gono ztul. Amen."
+  Wilkins:
+    "Miattynack ki vagy azmenyegbe. Megh stentel tessek az te newed.
+     Jujonel az te orssagod. Legyen te akaratod,
+     mi keben menyben azon kepen it ez fe old ounis.
+     Mikenyerunk & minden napyat edgyad neke unh ma.
+     Es bochasdmegh neck eunkaz mi vetkeynketmi,
+     kepen meg bochatunk ellen wnck vetetteknek.
+     Es ne vigy mynket az kefertet. Ben de szabaditz megh
+     minket azgonosztul."
+  Pantographia:
+    "Mi Atyánc kì vagy az mennyekben, ssenteltessec
+     megâ te neved. Jojon elaz te orsságod
+     legyen megâ te akaratod, mint az menyben,
+     ugy itt ez foldonis. Az mi mindennappi kenyerünket
+     add meg neéküncma. Es boczásd meg
+     minéküne az mi vétkeinket, miképpen miis
+     megboczàtunc azoknac. Az kic mi ellenünc
+     vetkeztenec. Es ne vigy minket azkisertetbe."

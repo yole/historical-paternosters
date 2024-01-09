@@ -9,11 +9,14 @@ attestations:
   - book_title: Rocca
     page: 375
     description: Polonice
+  - book_title: Wilkins
+    number: 34
+    description: Polonian
 text:
   "Ocziecz nasch ktory iestosz wnyebye,
-  Swyecz sie[1] gymye twæ.
+  Swyecz sie gymye twæ.
   Przydzy twæ kroliestwo.
-  Bandz wolya twa, yako wnyebi, y na zemij[2].
+  Bandz wolya twa, yako wnyebi, y na zemij.
   Chlieb nasch powschedny day nam dzy say.
   A odpuscz nam uyny nascha, yako y my
   odpusczamy wynowaytzom naschym.
@@ -22,7 +25,7 @@ text:
 text_variants:
   Bibliander:
     "Ocziecz nasch ktory iestosz wnyebye,
-     Swyeczsie[1] gymye twæ.
+     Swyeczsie gymye twæ.
      Przydzy twæ kroliestwo.
      Bandz wolya twa, yako wnyebi, y na ze mij.
      Chlieb nasch powschedny day nam dzy say.
@@ -38,3 +41,13 @@ text_variants:
     A odpuscz nam uyny nascha, yako y my
     odpusczamy wynowa ytzom naschym. Nyewodsz nasz
     napokuschenye. Alye zbaw nasz od zlego. Amen."
+  Wilkins:
+    "Ocziecz nasch ktory jestosz wniebye,
+    Swyecz sie gymye twa.
+    Przydzy twa kroliestwo.
+    Bandz wolya twa, yako wniebi, y na zemii.
+    Chlieb nasch pow schedny day nam dzy say.
+    A odpuscz nam uyny nascha, yako y my
+    odpusczamy winowaytzom naschym.
+    Nyewodz nasz napokus chenye.
+    Alye zbaw nasz od zlego. Amen."

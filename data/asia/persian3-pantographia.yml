@@ -8,6 +8,10 @@ attestations:
     page: 17
     description: Persica.
     source: Wilkins n. 41. Confer. Meg. num. 43
+  - book_title: Wilkins
+    number: 41
+    description: Persian
+diff: no
 text:
   "Ei padere ma kih der osmon. Pak basched
    nâm tou. Beyayed padschahi tou. Schwad
@@ -19,5 +23,13 @@ text:
    kun mara ez scherire. Beraj ankih melcut
    wunirumendi w’a-tsemet ez on toust vuta
    ebed ebedi ’lebedi. Amin."
-footnotes:
-  1: "Pantographia: Wodar"
+text_variants:
+  Wilkins:
+    "Ai pader makeh dar osmân. Pàk baschoud nâm tou.
+    Bayaīd padshah tou. Shoud howást tou.
+    Hamzienánkeh dar osmân niz dar zamin.
+    Bedih marah amrouz nân kefaf rouz mara.
+    Wodar kedsar mara konáhan ma, chenankeh
+    ma niz mikedsarim ormân mata. 
+    Wodar azmaïsh minadâr mara. Leikan halats kon
+    mára az sharir. Amin."

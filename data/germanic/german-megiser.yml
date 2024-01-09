@@ -7,6 +7,9 @@ attestations:
   - book_title: Megiser
     number: 17
     description: Germanice
+  - book_title: Wilkins
+    number: 18
+    description: Germ. modern
 text:
   "Unser Vatter, der du bist im Himmel, geheiliget
    werd dein Nahm. Zukomm uns dein Reich.

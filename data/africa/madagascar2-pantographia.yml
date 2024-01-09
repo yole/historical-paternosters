@@ -8,23 +8,40 @@ attestations:
     page: 32
     description: Madagascarica
     source: Sr. de Flacourt Hist. Madagasc. l. 47. Conf. Wilk. n. 47
+  - book_title: Wilkins
+    number: 47
+    description: Madagascar
   - book_title: Flacourt
     page: 187
     description: langue Madecasse
 text:
   "Amproy antsica izau hanautangh andanghitsi
    angharanau hofissahots, vahoüachanau hoaui
-   aminay, fitejannaû hoefaizanghe[1] an tane toua
-   andangithsi; mahoumehohanau[2] anrou aniou
-   abinaihane antsica, amahanaumanghafaca[3] hanay
-   ota antsica; touazahai[4] manghafaca hota
-   anreo mauouanay: amanhanau aca manhatetseanay[5]
+   aminay, fitejannaû hoefaizanghe an tane toua
+   andangithsi; mahoumehohanau anrou aniou
+   abinaihane antsica, amahanaumanghafaca hanay
+   ota antsica; touazahai manghafaca hota
+   anreo mauouanay: amanhanau aca manhatetseanay
    abin fiuetseuetsie ratsi, feha hanau mete
-   zahahanay tabin haratsijan[6] abi. Amin."
-footnotes:
-  1: "Pantographia, Oratio Dominica: hoefaizangh"
-  2: "Pantographia, Oratio Dominica: mahou mehohanau"
-  3: "Pantographia, Oratio Dominica: amahanau manghafaca"
-  4: "Pantographia, Oratio Dominica: tonazahai"
-  5: "Pantographia, Oratio Dominica: mahatetseanay"
-  6: "Pantographia, Oratio Dominica: haratsi an"
+   zahahanay tabin haratsijan abi. Amin."
+text_variants:
+  "Pantographia, Oratio Dominica Polyglottos Polymorphos":
+    "Amproy antsica izau hanautangh andanghitsi
+     angharanau hofissahots, vahoüachanau hoaui
+     aminay, fitejannaû hoefaizangh an tane toua
+     andangithsi; mahou mehohanau anrou aniou
+     abinaihane antsica, amahanau manghafaca hanay
+     ota antsica; tonazahai manghafaca hota
+     anreo mauouanay: amanhanau aca mahatetseanay
+     abin fiuetseuetsie ratsi, feha hanau mete
+     zahahanay tabin haratsi an abi. Amin."
+  Wilkins:
+    "Amproy antsica izau hanautangh and anghitsi
+     angharanau hofissahots, vahoijachanau hoaui
+     aminay, fiteiannaû hoefaizangh an tanetona
+     and anghitsi; mahou mehohanau anrou aniou
+     abinaihane antsica, amanhanau manghafaca hanay
+     ota antsica; tonazahai manghafaca hota
+     anreomauouanay: aman hanau aca mahatetseanay
+     abin fivetsevetse ratsi, feha hanau 
+     metezahahanay tabin haratsian abi. Amin."

@@ -6,12 +6,15 @@ attestations:
   - book_title: Schiltberger
     page: 96
     description: Tartarisch
+  - book_title: Wilkins
+    number: 38
+    description: Tartarian
 diff: false
 text:
-  "Atcha wyzom, hhy hokta sen algusch,
-  ludor senug adongkel suom, chauluchong
-  bel sun senung arkchueg alei gier da
-  vkachtaver visungundaluch; ot mak chu
+  "Atcha wyzom, hhy hokta sen algusch.
+  Ludor senug adongkel suom. Chauluchong
+  bel sun senung arkchueg. Alei gier da
+  vkachtaver visungundaluch. Ot mak chu
   musen vougon; kay visum ja sachen alen
   bisdacha kajesbe rin bisum jasoch namasin
   datcha koima visn sunanacha; illa garta
@@ -33,3 +36,12 @@ text_variants:
      Jasochlomusni Dache koyma wisnisuna
      macha machka Illa garthe wisni geman-
      Dan Amen"
+  Wilkins:
+    "Atcha wyzom, hhy hokta sen algusch.
+    Ludor senug adongkel suom. Chanluchong
+    bel sun senung arkchueg. Alei gier dauk
+    achtaver visungundaluch. Ot mak chu
+    musen vougon; kay visum ja sachen alen
+    bisdacha kaielbe rin bisum jasoch namasin
+    datcha koima visn sunan acha; illa garta
+    visenn gemandam. Amen."
