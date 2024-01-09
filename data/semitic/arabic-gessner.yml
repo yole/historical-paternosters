@@ -15,6 +15,10 @@ attestations:
   - book_title: Postel
     page: 32
     description: Punica, Arabica'ue
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 16
+    description: Arabica Lectio
+    source: Conf. Dur. p. 405. Gesn. p. 10 b. Meg. n. 3. Reut. n. 3. Wilk. n. 3.
 diff: false
 text:
   "Abana illadhi phi 's schemaua, thikaduschu
@@ -54,3 +58,14 @@ text_variants:
      vela ta dchulnat tegiaribu lachine
      negena min elseriri leine lechem. meluchu
      veel cauathu veel megedu ila elebdi. Amen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Aboúna lledhsi phi' ssemaváti,
+     Ljutekaddesi smuka.
+     Litati melkcoutuka.
+     Litekun meschijituka kema phi' ssemá vealei 'lardshi.
+     Chubzena kephaphena âthina phi' ljeumi.
+     Vaghpher lena chathajána kema neghpheru nahhno limen achtaa ileina.
+     Vela tadchilna 'ttegsareba.
+     Lekin neggina mine 'schscheriri.
+     Lianna leka 'lmulka, va'lkowwata va'lmegsda ile 'lébedi.
+     Amina."

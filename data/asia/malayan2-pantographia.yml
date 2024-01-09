@@ -12,6 +12,10 @@ attestations:
     page: 23
     description: Bengalice
     source: "ego litteris genti huic propiis, lingua autem Malaica expressi"
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 20
+    description: Malaica
+    source: N. Test. Mal. Ed. Oxon. 1677
 text:
   "Bappa kita, jang adda de surga, namma mou
    jadi bersakti, radjat-mu[1] mendarang, kandhatimu[2]

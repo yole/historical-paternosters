@@ -1,4 +1,5 @@
 language: Croatian
+script: Cyrillic
 attestations:
   - book_title: Rocca
     page: 375

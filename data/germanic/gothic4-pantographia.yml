@@ -17,6 +17,7 @@ attestations:
     description: Gothice
   - book_title: De Lingua Getarum
     page: 35
+base: germanic/gothic
 text:
   "Atta unsar thu in himinam; veihnai namo
    thein; Quimai thiudinassus theins, vairthai

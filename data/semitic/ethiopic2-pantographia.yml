@@ -14,6 +14,10 @@ attestations:
     page: 6
     description: lingua Aethiopica
     source: ex novo Testamento Romae impresso
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 14
+    description: Aethopica
+    source: J. Ludolf l.c. Conf. Crines. Babel. 7.8. G. p. 7 W. n. 5. P. 4. M. 4. D'Av. 521. Reut. n. 4
 text:
   "Abuna xabashamajath. Yithkadash shimacha
    Thymtsa mangystcha. Yichun phachadacha.
