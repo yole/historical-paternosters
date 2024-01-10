@@ -3,10 +3,22 @@ attestations:
   - book_title: Megiser
     number: 36
     description: Bohemice
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 58
+    description: Bohemica
+    source: Meg. n. 36. Conf. Bibl. Bohem. 1596. 1613. Gesn. 61 b. Pist. n. 29. Reut. n. 30. Wilk. n. 32.
 text:
-  "Otzie hass, kteryz gsy wnebesych. Oswet se gmene twe.
+  "Otzie nass, kteryz gsy wnebesych. Oswet se gmene twe.
   Prizid Kralo wstwy twe. Byd wle twa, yako wnebi, tak y
-  na zemi. Chleb nas vucz degssy day nam dnes. A odpust
+  na zemi. Chleb nas vuez degssy day nam dnes. A odpust
   nam vuinnynasse, jakoz y my odpausstijme winny kuom nassym.
   Nywod nass wpokussenij. Alezwawiz nas od zleho. Nebo twe
   gest kralowstwy a moc, y slawe, na weky. Amen."
+text_variants:
+  Oratio Dominica Polyglottos Polymorphos:
+    "Otzie nass, kteryz gsy wnebesych. Oswet se gmene twe.
+     Prizid Kralo wstwy twe. Byd wle twa, yako wnebi, taky
+     nazemi. Chleb nas vuez degssy day nam dnes. A odpust
+     nam vuinnynasse, jakoz y my odpaus stiime winny kuom nassym.
+     Nuwod nass wpokussenij. Alezwawiz nas od zleho. Nebo twe
+     gest kralowstwy a moc, y slaawe, naweky. Amen."

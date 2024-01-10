@@ -15,6 +15,10 @@ attestations:
   - book_title: Wilkins
     number: 49
     description: New England
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 62
+    description: Virginiana
+    source: Wilk. n. 49. Conf. Bibl. Virgin. Cantabrig. Nov. Angl. 1663
   - book_title: Eliot Indian Bible
 text:
   "Nooshun kesukquot, quittiana tamunach koowesuonk[1]; 

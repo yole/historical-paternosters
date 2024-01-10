@@ -7,15 +7,39 @@ attestations:
   - book_title: Wilkins
     number: 20
     description: Dutch
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 49
+    description: Belgica
+    source:
+      "Bibl. Belg. Lugd. de Anno 1639. Conf. Meg. n. 19. Pist. n. 17. 
+       Reut. n. 24. TDER p. 258. Wilk. n. 20."
 text:
-  "Onse vader die in den hemelin sijt[1]; uwen naem
-   werde geheylight; uw coninckrijcke icome;
-   uwen wille geschiede, gelijck in den hemel
-   oockop der aerden; ons daghelijcks broot
-   gheeft ons heden; ende vergheeft ons onse
+  "Onse vader die in den hemelin sijt; uwen naem
+   werde geheylight. Uw coninckrijcke icome.
+   Uwen wille geschiede, gelijck in den hemel
+   oockop der aerden. Ons daghelijcks broot
+   gheeft ons heden. Ende vergheeft ons onse
    scoulden, gelijck vock wy vergheven onsen
-   schuldenaren; ende en leydtons nict in 
-   ver[2]weekinghe[3], naer verlost ons van den bosen."
-footnotes:
-  1: "Pantographia: this word is omitted"
-  2: "Pantographia: text is cut off at this point"
+   schuldenaren. Ende en leydtons nict in 
+   verweekinghe, naer verlost ons van den bosen."
+text_variants:
+  Pantographia:
+    "Onse vader die in den hemelin sijt; uwen naem
+     werde geheylight; uw coninckrijcke icome.
+     Uwen wille geschiede, gelijck in den hemel
+     oockop der aerden. Ons daghelijcks broot
+     gheeft ons heden. Ende vergheeft ons onse
+     scoulden, gelijck vock wy vergheven onsen
+     schuldenaren. Ende en leydtons nict in 
+     ver-"
+  Oratio Dominica Polyglottos Polymorphos:
+    "Onse vader die in de hemelen. Uwen naem
+     werde geheylight. Uw coninckrycke kome.
+     Uwen wille geschiede, gelyck in den hemel
+     oock op der aerden. Ons daghhelicks broodt
+     geeft ons heeden. Ende vergeeft ons onse
+     schulden, gelyck oock wy vergeben onsen
+     schuldenaren. Ende enleydt ons nict in 
+     versoeckinge, naer verlost ons van den bosen.
+     Want uw' is het Coninckrycke, ende de Tracht,
+     ende de Heerlicheydt in der Eeuwicheyt. Amen."

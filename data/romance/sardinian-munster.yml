@@ -13,6 +13,10 @@ attestations:
   - book_title: Wilkins
     number: 15
     description: Sardinian of the Countrey
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 37
+    description: Sardica ut in Pagis
+    source: Meg. n. 13. Conf. Gesn. l. c. Pist. n. 12. Reut. n. 13. Roch. n. 22. Stiernh. n. 7. Wilk. n. 15.
 text:
   "Babbu nostru, sughale ses in soschelus: santusiada
    su nomine tuo: bengiad su rennu tuo:
@@ -26,9 +30,9 @@ text:
    sos seculos de sos secolos. Amen."
 text_variants:
   Megiser:
-    "Babbu nostru, sughale ses in sos chelus: santusiada
-     su nomine tuo: bengiad su rennu tou:
-     faciad si sa voluntade tua, comenti en chelo,
+    "Babbu nostru, sughale ses in sos chelus. Santusiada
+     su nomine tuo. Bengiad su rennu tou.
+     Faciad si sa voluntade tua, comenti en chelo,
      gasi in sa terra. Su pane nostru de ogniedie
      da nos lu hoæ. Et lassa à nosateros is deppidos
      nostrus, gasi comente è nosateros lassaos à sos
@@ -55,6 +59,17 @@ text_variants:
      nostrus, comente è nosateros à
      isdebitores nostrus. E no nos portis in sa
      tentatione. Impero libera nos da su male."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Babbu nostru, sughale ses in sos chelus. Santufiada
+     su nomine tuo. Bengiad su rennu tuo.
+     Faciad si sa voluntade tua, comenti en chelo,
+     gasi in sa terra. Su pane nostru de ogniedie
+     da nos lu hoæ. Et lassa à nosateros is deppidos
+     nostrus, gasi comente è nosateros lassaos à sos
+     deppidores nostrus. E non nos portis in sa
+     tentassione. Impero libera nos da su male.
+     Poiteo tuo esti su rennu, sa gloria è su imperiu, in
+     sos seculos de sos secolos. Gasi siat."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

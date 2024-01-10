@@ -10,6 +10,10 @@ attestations:
   - book_title: Rocca
     page: 368
     description: Hispanice
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 36
+    description: Hispanica
+    source: Cypr. de Valera N. Test. Hisp. Amsteld. 1625. Conf. Gesn. f. 55 b. Meg. n. 15. Pist. n. 11. Reut. n. 10. Roch. n. 4. Stiernh. n. 3. Wilk. n. 9.
 text:
   "Padre nuestro, que estas en los cielos. Sanctificato
    sea el tu nombre. Venga à nos el tu reyno.
@@ -32,11 +36,21 @@ text_variants:
      nos de mal. Amen."
   Pantographia:
     "Padre nuestro, que estas en los cielos. Sanctificado
-     sea el tu nombre. Venga à nos el tu reyno:
+     sea el tu nombre. Venga à nos el tu reyno.
      Fagase tu voluntad, assi en la tierra, como
      en el cielo. El pan nuestro de cada dia da nos
-     lo oy: y perdona nos nuestras deudas, assi como
+     lo oy. Y perdona nos nuestras deudas, assi como
      nostros perdonamos à nuestros deudores.
+     Y no nos dexes caër en la tentation. Mas libra
+     nos de mal. Porgue tuyo es el reyno, y la
+     potentia, y la gloria, por todos los siglos. Amen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Padre nuestro, que estas en los cielos. Sanctificado
+     sea el tu nombre. Venga à nos el tu reyno.
+     Fagase tu voluntad, assi en la tierra, como
+     en el cielo. El pan nuestro de cada dia da nos
+     lo oy. Y perdona nos nuestras deudas, assi como
+     nosotros perdonamos à nuestros deudores.
      Y no nos dexes caër en la tentation. Mas libra
      nos de mal. Porgue tuyo es el reyno, y la
      potentia, y la gloria, por todos los siglos. Amen."

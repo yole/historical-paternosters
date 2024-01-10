@@ -22,6 +22,10 @@ attestations:
     number: 30
     description: Servian
     source: Megiserus
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 41
+    description: Servica
+    source: Meg. n. 32. Conf. Wilk. n. 30.
 base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce nash, ishe jesi v nebesih. Posveti se
@@ -67,5 +71,13 @@ text_variants:
      dai nam danas. Jodpusti nam duge nashe, kako imi
      otpushzhamo dushnikom nashim. Ine vauedi nas v' napast.
      Dais bavi nas od sla."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Otze nash ishe jesi v' nebesih. Posvetise jme tuoie.
+     Pridi Krailestuo tuoie. Budi volia tuoia
+     kako unebi, i takoi nasemlii. Hlib nash usak danij
+     dai nam danas. Jod pústi nam duge nashe, kako imi
+     otpushz hamo dushnikom nashim. Ine vavedi nas v' napast.
+     Dais bavi nas odisla. Jako tuoje je krailestuo, i mozh,
+     i slava vaueki."
 normalize:
   "sz": "s"

@@ -4,16 +4,31 @@ attestations:
     page: 198
     description: Manks
     source: Bishop Wilson's Works, Vol. 1 p. 460
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 66
+    description: Monensis, sive Lingua vernacula Incolarum Monae
+    source: Ex Enchirid. Reverendiss. Tho. Wilson hujus Insulae Episcop. Digniss. Lond. 1709
 text:
-  "Ayr ain, t’ayns Niau; Casherick dy rou dt’ennym,
-   Dy jigg dty Reereeaght: Dt’aigney dy
+  "Ayr ain, t’ayns Niau. Casherick dy rou dt’ennym.
+   Dy jigg dty Reereeaght. Dt’aigney dy
    rou jeant er y Talloo myr ta ayns Niau. Cur
    dooin nyn Arran jiu as gagh laa. As leih dooin
    nyn Loghtyn myr ta shin leih dauesyn ta
    janoo loghtyn ny noi shin. As ny leeid shin
-   ayns Miolagh. Agh livrey shin veih olk: Son
+   ayns Miolagh. Agh livrey shin veih olk. Son
    liats y Reereeaght y Phooar as y Ghloyr son
    dy bragh as dy bragh. Amen."
+text_variants:
+  Oratio Dominica Polyglottos Polymorphos:
+    "Ayr ain, t’ayns Niau. Casherick dy rou dt’ennym.
+     Di jig dty Reereeaght. Dt’aigney dy
+     rou jeant er y Talloo myr ta ayns Niau. Cur
+     dooin nyn Arran jiu as gagh laa. As leih dooin
+     nyn Loghtyn myr ta shin leih dauesyn ta
+     janoo loghtyn ny noi shin. As ny leeid shin
+     ayns Miolagh. Agh livrey shin veih olk. Son
+     liats y Reereeaght y Phooar as y Ghloyr son
+     dy bragh as dy bragh. Amen."
 notes:
   Volume 1 of [Bishop Wilson](https://en.wikipedia.org/wiki/Thomas_Wilson_(bishop))'s Works doesn't seem to be 
   available online, so I couldn't verify the source.

@@ -13,6 +13,10 @@ attestations:
   - book_title: Rocca
     page: 375
     description: Illyrice, vel Sclavonice, Latinis litteris
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 40
+    description: Dalmatica
+    source: Meg. n. 35. Conf. Pist. n. 26. Reut. n. 33. Wilk. n. 27.
 base: slavic/sclavonian-georgijevic
 text:
   "Otsce nas koyi-yessina nebissih. Szvetisse gyme
@@ -38,3 +42,11 @@ text_variants:
      danas. I od pusti nam dughe nasce, kako i mi od pusctujemo
      duxnikom nasciem. I ne uvedi nas u napast, da oslobodi
      uas od sla. Amen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Otcse naskoyi-yessina nebessih. Szvetisse gyme
+     tvoye. Pridi kralyesstvo tvoze. Budivolya
+     tvoya: kako na nebu, tako ina zemsyi.
+     Kruh nas ssvagdanyni day nam danass. Jod
+     pussti naam duge nase. Kako i my odpuschyamo
+     duxnikom nassim. Ine naass uvediu napasst.
+     Da osslobodi naas od assla. Amen."

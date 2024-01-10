@@ -17,15 +17,19 @@ attestations:
   - book_title: Bohoric
     page: 22
     description: Croaticae scripturae
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 40
+    description: Croatica
+    source: Meg. n. 34. Conf. Pist. n. 38. Wilk. n. 29.
 base: slavic/croatian-bohoric-glagolitic
 text:
-  "Ozhe nash ishe esi na[1] nebesih. Svetise ime tuoe.
-   Pridi cesarastvo[2] tvuoe. Budi volia tvoja
-   Jako na niebesih i[3] na semlij[4]. Hlib nash
-   usagdanni[5] dai nam danas. I odpusti[6] nam dlgi
-   nashe. Iacoshe[7] i mi[8] odpushzhamo dlshnikom[9]
-   nashim. I nevavedi nas' v'napast.[10] Naisvavi nas
-   od neprijasnj.[11] Iako tvoe je Cesarastvo, i mozh, 
+  "Ozhe nash ishe esi na nebesih. Svetise ime tuoe.
+   Pridi cesarastvo tvuoe. Budi volia tvoja
+   Jako na niebesih i na semlij. Hlib nash
+   usagdanni dai nam danas. I odpusti nam dlgi
+   nashe. Iacoshe i mi odpushzhamo dlshnikom
+   nashim. I nevavedi nas' v'napast. Naisvavi nas
+   od neprijasnj. Iako tvoe je Cesarastvo, i mozh, 
    i slava, vaveki. Amen."
 text_variants:
   Megiser:
@@ -61,3 +65,11 @@ text_variants:
      nashe, jaco she imi odpushzhamo dishnikom
      nashim. Ine isbavi nas od nepriasni.
      Dais bavi nas od sla."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Ozhe nash ishe efina nebesih. Svetise jme tuoe.
+     Pridi cesarastvo tvuoe. Budi volia tuoja,
+     jako na niebesih, j tako nasemlii. Hlib nash
+     usagdanni dai nam danas. Jod pusti nam dlgi
+     nashe, jako she i mi odpushzamo dishinikom
+     nashim. Ine isbavi nas od ne priasni.
+     Iako tuoje je Cesarastvo. I mozh, islava, vaveki. Amen."

@@ -7,24 +7,44 @@ attestations:
   - book_title: Megiser
     number: 12
     description: Sardorum Oppidanorum Linguâ
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 37
+    description: Sardica, ut in Oppidis loqu.
+    source: Meg. n. 12. Conf. Gesn. f. 74 a. Pist. n. 10. Reut. n. 12. Roch. n. 21. Stiernh. n. 6.
 text:
   "Pare nostru, qui istas in sos quelos, siat sanctificadu
   su nomen teu: vengat à nois su regnu
-  teu. Fasase sa voluntat tua, axicomen[1] su
+  teu. Fasase sa voluntat tua, axicomen su
   quelu, gasi en la terra. Lo pa nostru de dognia
-  die da nos hoc, I dexia à nos altres sos depitos[2]
-  nostros, comentenos[3] ateros dexiam als
+  die da nos hoc. I dexia à nos altres sos depitos
+  nostros, comentenos ateros dexiam als
   deppitores nostros. Ino nos induescas in sa
-  tentatio : mas liura[4] nos de male.[5] 
+  tentatio. Mas liura nos de male. 
   Parche teu es so regne, sa gloria, i so imperii en sos sigles
   de se sigles.
   Amen."
-footnotes:
-  1: "Fry: axi comen"
-  2: "Fry: deppitos"
-  3: "Fry: comente nos"
-  4: "Fry: livra"
-  5: Following sentence is missing in Fry.
+text_variants:
+  Pantographia:
+    "Pare nostru, qui istas in sos quelos, siat sanctificadu
+    su nomen teu: vengat à nois su regnu
+    teu. Fasase sa voluntat tua, axi comen su
+    quelu, gasi en la terra. Lo pa nostru de dognia
+    die da nos hoc. I dexia à nos altres sos deppitos
+    nostros, comente nos ateros dexiam als
+    deppitores nostros. Ino nos induescas in sa
+    tentatio. Mas livra nos de male."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Pare nostru, qui istas in sos quelos. Siat sanctificadu
+    su nomen teu. Vengat à nois su regnu
+    teu. Fasase sa voluntat tua, axi comen su
+    quelu, gasi en la terra. Lo pa nostru de dognia
+    die da nos hoc. I dexia à nos altres sos deppitos
+    nostros, comente nos ateros dexiam als
+    deppitores nostros. Ino nos induescas in sa
+    tentatio. Mas liura nos de male.
+    Parche teu es so regne, sa gloria, i so imperii en sos sigles
+    de se sigles.
+    Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

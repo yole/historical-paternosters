@@ -7,6 +7,12 @@ attestations:
 - book_title: Postel
   page: 66
   description: Armenica lingua
+- book_title: Oratio Dominica Polyglottos Polymorphos
+  page: 61
+  description: Armenica
+  source:
+    "Alphabetum Armenicum Rom. p. 10. Conf. Bibl. Armenic. AMst. A. 1666. 
+     Peir. Paul. Doctr. Chr. Arm. p. 77. Rivol. Gr. IV 14 p. 294"
 text:
   "Հայր մեր որ յերկինս ես,
    սուրբ եղիցի անուն քո։

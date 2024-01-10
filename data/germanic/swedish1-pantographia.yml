@@ -10,9 +10,15 @@ attestations:
   - book_title: Wilkins
     number: 24
     description: Swedish
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 48
+    description: Svecica
+    source:
+      "Bibl. Svec. Stockholm. 1674. Conf. Dur. p. 869. Meg. n. 26. 
+      Micr. p. 123. Munst. Cosmograph. IV 31. Pist. n. 21. Reut. n. 15. Wilk. n. 24"
 text:
   "Fadher war som est i himlom, helghat warde
-   titt nampn. Tillkomme titt ricke, skee tin wilie
+   titt nampn. Tillkomme titt ricke. Skee tin wilie
    så lom i himmelen så ock på jordenne. Wart dagligha
    brod giff oss idagh. Och forlat oss wara
    skuld sa som ock wi forlate them oss skyldege 
@@ -21,7 +27,7 @@ text:
 text_variants:
   Pantographia:
     "Fader war som ast i himmelen, helgat warde
-     titt nampn. Till komme titt ricke, skei tin wilie
+     titt nampn. Till komme titt ricke. Skei tin wilie
      sa pa jordenne som i himmelen. Wart dagliga
      brod giff oss i dagh. Och forlat oss wara
      skulder sa som ock wi forlaten them oss skyldege 
@@ -35,3 +41,12 @@ text_variants:
      skuld sasom ock wy forlate them oss skyldigh 
      aro. Och inleedh oss ickei frestelse; uchan
      frels oss ifram ondo."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Fader war som ast i himmelen, helgat warde
+     titt nampn. Till komme titt ricke. Skei tin wilie
+     sa pa jordenne som i himmelen. Wart dagliga
+     brod giff oss i dagh. Och forlat oss wara
+     skulder sa som ock wi forlaten them oss skyldege 
+     aro. Och in leed oss icke i frestelse; ut an
+     frals oss i fra ondo. Tii riiket ar titt, 
+     och machten, och varligheteu i ewigheet. Amen"

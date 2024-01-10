@@ -7,6 +7,10 @@ attestations:
     number: 31
     description: Walachian
     source: Megiserus
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 39
+    description: Valachica
+    source: Meg. 31. Conf. Wilk. 31.
 text:
   "Tatal nostru, cineresti in ceriu,
    sfincinschase numelle teu.
@@ -17,8 +21,8 @@ text:
    dene noho astazi.
    Sune jerta gresalelle nostre,
    cum sunoi jertam a gresitilor nostri.
-   Sunu ne duce prenoi in kale deispitra,
-   sune men tu jaste preroi de reu.
+   Sunu ne duce prenoi in kale deispitra.
+   Sune men tu jaste preroi de reu.
    Amin."
 text_variants:
   Wilkins:
@@ -27,12 +31,25 @@ text_variants:
      Seuie imparacia ta.
      Suse fie voia ta
      cum in ceriu asa prepo mortu.
-     Puine noa de tote zilelle
+     Puine noa de tote zilelle,
      dene noho astazi.
      Sunc jerta gresalelle nostre,
      cum sunoi jerta ma gresitilor nostri.
-     Sunu ne duce prenoi in kale deispirra,
-     sune men tu jaste preroi de reu.
+     Sunu ne duce prenoi in kale deispirra.
+     Sune men tu jaste preroi de reu.
+     Amin."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Tatal nostru, cineresti in ceriu,
+     sfincinschase numelle teu.
+     Sevie imparacia ta.
+     Sust fie voja ta
+     cum in ceriu asa su prepo mortu.
+     Puine noa de tote zilelle,
+     dene noho astazi.
+     Sune jerta gresalelle nostre,
+     cum sunoi jertam à gresitilor nostri.
+     Sunu ne duce prenoi in kale deispitra.
+     Sune men tu jaste preroi dereu.
      Amin."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 

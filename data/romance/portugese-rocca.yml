@@ -13,6 +13,10 @@ attestations:
   - book_title: Wilkins
     number: 10
     description: Porteguese
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 38
+    description: Lusitanica
+    source: Megis. n. 16. Conf. Pist. n. 13. Reut. n. 11. Roch. n. 18. Wilk. n. 10.
 text:
   "Padre nosso, que stas nos ceos, santificado seia
    o teu nome. Venha à nos o teu reino, seja ferta
@@ -25,7 +29,7 @@ text:
 text_variants:
   Pantographia:
     "Padre nosso, questas nos ceos, sanctificado seia
-     otu nome. Venha à nos o teu reino, seja feita
+     otu nome. Venha à nos o teu reino. Seja feita
      à tua voluntade, assi nos ceos, come na terra.
      Opao nosson de cadadia, da nolo oie nestro
      dia. E perdoa a nos sennor as nossas dividas,
@@ -34,7 +38,7 @@ text_variants:
      nos do mal. Amen."
   Megiser:
     "Padre nosso, que stas nos ceos, santificado seia
-     o teu nome. Venha à nos o teu reino, seja ferta
+     o teu nome. Venha à nos o teu reino. Seja ferta
      à tua volontade, assi nos ceos, come na terra.
      O pao nosso de cadadia, dano lo oie nesto
      dia. E perdoa nos sennor as nossas dividas,
@@ -43,12 +47,21 @@ text_variants:
      nos do mal. Amen."
   Wilkins:
     "Padre nosso, que stas nos ceos, sanctificado seja
-     o teu nome. Venna à nos o teu reyno, seja ferta
+     o teu nome. Venna à nos o teu reyno. Seja ferta
      à tua voluntade, assi nos ceos, come na terra.
      O pao no sso de cadadia, dano lo oie nesto
      dia. E perdoa nos sennoras nossas dividas,
      assi como nos perdoamos aos nossos dividores.
      E nao nos dexes cahir in tentacao, mas libra
+     nos do mal. Amen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Padre nosso, questas nos ceos. Sanctificado seia
+     otu nome. Venha à nos o teu reino. Sea feita
+     à tua voluntade, assi nos ceos, come na terra.
+     Opao nosson de cadadia, da nolo oie nestro
+     dia. E perdoa a nos sennor as nossas dividas,
+     assi como nos perdoamos aos nossos dividores.
+     E naon nos dexes cahir in tentacaon, mas libra
      nos do mal. Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 

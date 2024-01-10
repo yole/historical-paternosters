@@ -10,37 +10,58 @@ attestations:
   - book_title: Megiser
     number: 31
     description: Cantabrice
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 38
+    description: Biscaina, sive Cantabrica
+    source: Wilk. n. 45. Conf. Meg. 31. Reut. n. 20.
   - book_title: Leizarraga
     page: 10
 text:
-  "Gure aita ceruëtan[1] aicena. Sanctifica bedi
-   hire icena[2]. Ethor[3] bedi hire resumá[4]. Eguin
-   bedi hire vorondatea[5] ceruän beçala[6] lurrean
-   ere. Gure eguneco[7] oguia iguc[8] egun. Eta 
-   quitta[9] ietzaguc[10] gure çorrac[11]: Nola gucere[12] gure
-   çordunéy[13] quittatzen baitrauegu[14]. Eta 
-   ezgaitzála sar[15] eraci[16] tentationetan[17]. Baina deliura[18]
-   gaitzac gaichtotic[19]."
-footnotes:
-  1: "Megiser, Wilkins, Pantographia: cerue tan"
-  2: "Pantographia: ieeena"
-  3: "Megiser: et hor; Wilkins, Pantographia: et hoz"
-  4: "Megiser, Wilkins, Pantographia: rehuma"
-  5: "Wilkins, Pantographia: vozondatea"
-  6: "Wilkins, Pantographia: cervan be cala"
-  7: "Pantographia: egoneco"
-  8: "Megiser, Wilkins, Pantographia: igue"
-  9: "Pantographia: quit ta"
-  10: "Megiser, Wilkins, Pantographia: jetrague"
-  11: "Pantographia: cozrac"
-  12: "Megiser, Wilkins: guere; Pantographia: gucre"
-  13: "Pantographia: cozduney"
-  14: "Megiser, Wilkins, Pantographia: baitra vegu"
-  15: "Wilkins: ezgai zala sar, Pantographia: ezgai zalasar"
-  16: "Pantographia: eracitenta"
-  17: "Pantographia: tentacione tan"
-  18: "Megiser, Wilkins: delivra, Pantographia: delibza"
-  19: "Megiser, Wilkins, Pantographia: gaich totic"
+  "Gure aita ceruëtan aicena. Sanctifica bedi
+   hire icena. Ethor bedi hire resumá. Eguin
+   bedi hire vorondatea ceruän beçala lurrean
+   ere. Gure eguneco oguia iguc egun. Eta 
+   quitta ietzaguc gure çorrac. Nola gucere gure
+   çordunéy quittatzen baitrauegu. Eta 
+   ezgaitzála sar eraci tentationetan. Baina deliura
+   gaitzac gaichtotic."
+text_variants:
+  Megiser:
+    "Gure aita cerue tan aicena. Sanctifica bedi
+     hire icena. Et hor bedi hire rehuma. Eguin
+     bedi hire vorondatea cervan becala lurrean
+     ere. Gure eguneco oguia igue egun. Eta 
+     quitta jetrague gure corrac. Nola guere gure
+     corduney quittatzen baitra vegu. Eta 
+     ezgaitzála sar eraci tentationetan. Baina delivra
+     gaitzac gaich totic."
+  Wilkins:
+    "Gure aita cerue tan aicena. Sanctifica bedi
+     hire icena. Et hoz bedi hire rehuma. Eguin
+     bedi hire vozondatea cervan be cala lurrean
+     ere. Gure eguneco oguia igue egun. Eta 
+     quitta jetrague gure corrac. Nola guere gure
+     corduney quittatzen baitra vegu. Eta 
+     ezgai zala sar eraci tentationetan. Baina delivra
+     gaitzac gaich totic."
+  Pantographia:
+    "Gure aita cerue tan aicena. Sanctifica bedi
+     hire ieena. Et hoz bedi hire rehuma. Eguin
+     bedi hire vozondatea cervan be cala lurrean
+     ere. Gure egoneco oguia igue egun. Eta 
+     quit ta jetrague gure cozrac. Nola gucre gure
+     cozduney quittatzen baitra vegu. Eta 
+     ezgai zala sar eracitenta tentatione tan. Baima delibza
+     gaitzac gaich totic."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Gure aita cerue tan aicena. Sanctifica bedi
+     hire icena. Et hoz bedi hire rehúma. E guin
+     bedi hire vozondatea cervan be cala lurrean
+     ere. Gure eguneco oguia igue egun. Eta 
+     quitta jetrague gure cozrac. Nola gúcre gûre
+     cozduney quittatzen baitra vegu. Eta 
+     ezgai zalasar eracitenta tentatione tan. Baima delibza
+     gaitzac gaich totic."
 bibliography:
   - title: Vicisitudes de un Padrenuestro en vasco en el siglo XVII
     author: Francisco J. Oroz Arizcuren

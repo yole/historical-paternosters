@@ -11,21 +11,46 @@ attestations:
   - book_title: Megiser
     number: 20
     description: Frisice
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 56
+    description: Frisica
+    source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulo. p. 98.
 text:
-  "Ws Haita duu[1] derstu biste yne hymil, dyn
-   name wird heiligt, dyn ryck to komme[2], dyn
+  "Ws Haita duu derstu biste yne hymil, dyn
+   name wird heiligt, dyn ryck to komme, dyn
    wille moet schoen, opt yrtryck as yne hymil.
-   Ws deilix bræ jov ws jwed[3]; in verjou
-   ws, ws[4] schylden, as wy vejac ws schyldnirs;
+   Ws deilix bræ jov ws jwed. In verjou
+   ws, ws schylden, as wy vejac ws schyldnirs.
    In lied ws nact in versieking: Din fry ws
-   vin it quæd: Dan dyn is it ryck, de macht,[5]
+   vin it quæd. Dan dyn is it ryck, de macht,
    in de heerlickheyt, yn yewicheyt. So mœttet wese."
-footnotes:
-  1: "Wilkins: word is omitted"
-  2: "Pantographia: tokomme"
-  3: "Pantographia: juved"
-  4: "Wilkins, Pantographia: vvs"
-  5: "Pantographia: text is cut off at this point"
+text_variants:
+  Wilkins:
+    "Ws Haita derstu biste yne hymil. Dyn
+     name wird heiligt, dyn ryck to komme. Dyn
+     wille moet schoen, opt yrtryck as yne hymil.
+     Ws deilix bræ jov ws jwed. In verjou
+     ws, vvs schylden, as wy vejac ws schyldnirs.
+     In lied ws nact in versieking. Din fry ws
+     vin it quæd. Dan dyn is it ryck, de macht,
+     in de heerlickheyt, yn yewicheyt. So mœttet wese."
+  Pantographia:
+    "Ws Haita duu derstu biste yne hymil. Dyn
+     name wird heiligt, dyn ryck tokomme. Dyn
+     wille moet schoen, opt yrtryck as yne hymil.
+     Ws deilix bræ jov ws juved. In verjou
+     ws, vvs schylden, as wy vejac ws schyldnirs.
+     In lied ws nact in versieking. Din fry ws
+     vin it quæd. Dan dyn is it ryck, de macht,"
+  Oratio Dominica Polyglottos Polymorphos:
+    "Ws Haita duu derstu biste yne hymil. Dyn
+     name wird heiligt, dyn ryck tokomme. Dyn
+     wille moet schoen, opt yrtryck as yne hymil.
+     Ws deilix bræ jov ws jwed. In verjou
+     ws, ws schylden, as wy vejac ws schyldnirs.
+     In lied ws nact in versieking. Din fry ws
+     vin it quæd. Dan dyn is it ryck, de macht,
+     in de heerlickheit, yn yewicheit. So mœttet wese."
 bibliography:
   - title: Frysk út Hieronymus Megiserus syn wurken út 1603
     author: T.B. Hoekema

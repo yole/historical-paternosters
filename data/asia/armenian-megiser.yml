@@ -23,6 +23,10 @@ attestations:
   - book_title: Postel
     page: 66
     description: Armenica lingua
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 61
+    description: Armenica
+    source: Dur. 727. Gesn. p. 11. a. Meg. n. 43. Pist. n. 36. Schildb. p. ult. Wilk. n. 40.
   - book_title: Schiltberger
     page: 96
     description: ermenisch

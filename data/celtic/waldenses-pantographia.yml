@@ -7,14 +7,26 @@ attestations:
   - book_title: Chamberlayne
     page: 39
     description: Waldense
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 52
+    description: Waldensis
 text:
   "Our narme ata air neamb’. Beanich atanim
-   gu diga do riogda gu denta du hoill, air talm'
-   in mar ta ar neamb' tabhar d’im an míigh ar
-   naran limb’ ail, agus mai d’uíne ar fiach ambail
+   gu diga do riogda. Gu denta du hoill, air talm'
+   in mar ta ar neamb'. Tabhar d’im an míigh ar
+   naran limb’ ail. Agus mai d’uíne ar fiach ambail
    near marhmhid ar fiacha. Na leig si’n
    amb’ aribh ach soarsa shin on. Ole or sletsa
    rioghta combta agns gloir gnsibhiri. Amen."
+text_variants:
+  Oratio Dominica Polyglottos Polymorphos:
+    "Our narme ata air neamb’. Beanich atanim
+     gu diga do riogda. Gu denta du hoill, air talm'
+     in mar ta ar neamb'. Tabbar d’im an míigh ar
+     naran limb’ ail. Agus mai d’uíne ar fiach amhail
+     near marhmhid ar fiacha. Na leig si’n
+     amb’ aribh ach soarsa shin on. Ole or sletsa
+     rioghta comhta agns gloir gn sibhiri. Amen."
 notes:
   "Waldensian literature was written in the [Old Occitan](https://en.wikipedia.org/wiki/Old_Occitan)
   language but the text is not in that language."

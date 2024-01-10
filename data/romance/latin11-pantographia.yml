@@ -4,6 +4,9 @@ attestations:
     page: 178
     description: Latin 11
     source: Castellio’s Biblia Sacra. Frankf. 1697,
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 33
+    description: Latina, Alia Versio, a Seb. Castalione
 text:
   "Pater noster, qui es in cœlis, sancte colatur
    nomen tuum; veniat regnum tuum ; fiat voluntas
