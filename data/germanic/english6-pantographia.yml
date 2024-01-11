@@ -4,11 +4,24 @@ attestations:
     page: 66
     description: English 6
     source: Wickliffe’s translation of the New Testament in the year 1380. Martin's Inst. p. 15
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 66
+    description: Anglica Vetus
+    source: John Wicleff. circa an. 1380
 text:
-  "Oure Fadir that art in Hevenes, halowid be
+  "Oure Fadir that art in Hevenes. Halowid be
    thi Name. Thi Kingdom come to. Be thi
-   Will doon in erthe as in hevene: Geve to us
+   Will doon in erthe as in hevene. Geve to us
    this dai our breed over othir Substance. And
    forgeve to us our dettis as we forgeven to our
    dettouris. And lede us not into Temptacionn
    but deliver us from yvel. Amen."
+text_variants:
+  Oratio Dominica Polyglottos Polymorphos:
+    "Our fadir that art in hevenes. Halowid
+     be thy name. Thy kingdom come to. Be thy
+     will done as in heven and in eryth to.
+     Yis us yis day our breede our daily substance.
+     And forgive to ous our debtis, as we forgiven
+     to our debtours. And lead ous not into temptation,
+     but deliver ous from yvel. Amen."

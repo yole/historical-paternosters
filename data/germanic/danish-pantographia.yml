@@ -10,17 +10,41 @@ attestations:
   - book_title: Megiser
     number: 23
     description: Danice
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 55
+    description: Danica
+    source: N. T. Hutt. Norib. 1599. Conf. Meg. n. 23. Micr. p. 123. Pist. n. 24. Reut. n. 16. Wilk. n. 21.
 text:
   "Pader vor du som est i himmelen. Helligt
    vorde dit naffn. Til komme dit rige. Borde
-   din bilie[1]; saa paa jorden som hand er i himmelen.
+   din bilie; saa paa jorden som hand er i himmelen.
    Giff oz i dag vort daglige brod. Oc
-   forlad oz vor[2] skyld; som wi forlade vore skyldener.
+   forlad oz vor skyld; som wi forlade vore skyldener.
    Oc leed oz icke voi fristelse. Men frels oz
-   fraont[3]. Thi rigit er dit, oc krafft, oc herlighed i[4]
+   fraont. Thi rigit er dit, oc krafft, oc herlighed i
    ewighed. Amen."
-footnotes:
-  1: "Pantographia: Billie"
-  2: "Pantographia: word is omitted"
-  3: "Pantographia, Wilkins: fra ont. Wilkins: text is cut off at this point."
-  4: "Pantographia: herligved; 'i' is omitted"
+text_variants:
+  Wilkins:
+    "Pader vor du som est i himmelen. Helligt
+     vorde dit naffn. Til komme dit rige. Borde
+     din bilie; saa paa jorden som hand er i himmelen.
+     Giff oz i dag vort daglige brod. Oc
+     forlad oz vor skyld; som wi forlade vore skyldener.
+     Oc leed oz icke voi fristelse. Men frels oz
+     fra ont."
+  Pantographia:
+    "Pader vor du som est i himmelen. Helligt
+     vorde dit naffn. Til komme dit rige. Borde
+     din billie; saa paa jorden som hand er i himmelen.
+     Giff oz i dag vort daglige brod. Oc
+     forlad oz skyld; som wi forlade vore skyldener.
+     Oc leed oz icke voi fristelse. Men frels oz
+     fra ont. Thi rigit er dit, oc krafft, oc herligved
+     ewighed. Amen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Uor Fader i himmelen. Helligt vorde dit naffn.
+     Tilkomme dit rige. Worde din Willie, paa jorden sam
+     i himmelen. Giff oss i dag vort daglige brod.
+     Oc forlad oss vor Skyld, som wi forlade vore Skyldener.
+     Oc leed oss icke i firstelse. Men frelss oss fra ont.
+     Thi Rigit er dit, oc krafft, oc Herlighed i ewighed. Amen."

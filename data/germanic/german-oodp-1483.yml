@@ -1,0 +1,16 @@
+language: German
+attestations:
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 46
+    description: Germanica Antiqua
+    source: Bibl. Germ. de Anno 1483. Norib. Conf. Meg. n. 17. Pist. n. 15. Reut. n. 14. Wilk. n. 18.
+text:
+  "Vater unser der du bist in den Hymeln.
+   Geheyliget werd dein Nam.
+   Zukumm dein Reych.
+   Den Will der werd, als im Hymel, und in der Erd.
+   Unser teglich Brot gib uns heut.
+   Und vergib uns unser Schuld, als unn wir vergeben unseren Sculdigern.
+   Unn nit fur uns in Versuchung.
+   Sunder erlose uns von Ubel.
+   Amen."

@@ -10,6 +10,10 @@ attestations:
   - book_title: Wilkins
     number: 18
     description: Germ. modern
+  - book_title: Oratio Dominica Polyglottos Polymorphos
+    page: 47
+    description: Germanica Hodierna
+    source: Catech. Luth. Tom. IV Altenb. p. 468. Conf. Dur. p. 868. Meg. n. 17. Pist. n. 15. Reut. n. 14. Roch. n. 10. Wilk. n. 17.
 text:
   "Unser Vatter, der du bist im Himmel, geheiliget
    werd dein Nahm. Zukomm uns dein Reich.
@@ -36,3 +40,12 @@ text_variants:
      Unser taglich brot gib uns heut. Und vergib uns unsre Schuld,
      als wir auch vergeben unsern schuldigten.
      Und fuhreuns nicht in versuchung, sondern erlose uns vom bosen."
+  Oratio Dominica Polyglottos Polymorphos:
+    "Vater unser der du bist im Himmel. Geheiliget werde dein Name.
+     Dein Reich komme. Dein Wille geschehe wie im Himmel, also auch auff Erden.
+     Unser taglich Brodt gib uns heute.
+     Und verlasse uns unser Schulde, als wir verlassen unsern Schuldigern.
+     Und fuhre uns nicht in Versuchung.
+     Sondern erlose uns von dem Uberl.
+     Denn dein ist das Reich, und die Krafft, und die Herrlichkeit in Ewigkeit.
+     Amen."
