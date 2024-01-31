@@ -43,6 +43,17 @@ The effort is currently actively in progress.
 * Purely graphical differences ('i' vs. 'j', 'u' vs. 'v', 'w' vs 'vv', 'ss' vs 'ß') are not annotated.
 * Glosses are provided only when they are present in an original attestation.
 
+### Bibliography
+
+The references covering individual books or texts are provided in the pages for these books or texts.
+The following references cover the phenomenon of Lord's Prayer collections in general:
+
+ * Schmidt-Riese, Roland (2003): Ordnung nach Babylon. Frühzeitliche Spracheninventare in Frankreich
+   und Deutschland. In: Sammeln, Ordnen, Veranschaulichen: Zum Wissenskompilatorik in der Frühen Neuzeit.
+   Frank Büttner, Markus Friedrich, Helmut Zedelmaier (eds.) Lit Verlag Münster
+ * Trabant, Jürgen (1998): [Mithridates: De Gesner jusqu'à Adelung et Vater](https://www.jstor.org/stable/27758558). 
+   In: Cahiers Ferdinand de Saussure, No. 51, pp. 95-111.
+
 [//]: # (End of index.html)
 
 ### This Repository
