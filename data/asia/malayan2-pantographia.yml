@@ -20,6 +20,11 @@ attestations:
     page: 132
     number: 64
     description: Lingua Bengala
+  - book_title: Adelung Part 1
+    page: 105
+    number: 10
+    description: Malayisch
+    source: Aus Justi Heurnii vier Evangelisten, von 1651
 text:
   "Bappa kita, jang adda de surga, namma mou
    jadi bersakti, radjat-mu[1] mendarang, kandhatimu[2]

@@ -9,6 +9,11 @@ attestations:
   - book_title: Wilkins
     number: 38
     description: Tartarian
+  - book_title: Adelung Part 1
+    page: 477
+    number: 66
+    description: Tatarisch
+    source: Aus Jo. Schildbergers Reise am Ende
 diff: false
 text:
   "Atcha wyzom, hhy hokta sen algusch.

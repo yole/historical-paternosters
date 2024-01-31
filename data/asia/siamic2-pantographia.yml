@@ -11,6 +11,10 @@ attestations:
   - book_title: Du Royaume du Siam
     page: 94
     description: Le Pater Noster en Siamois
+  - book_title: Adelung Part 1
+    page: 95
+    description: Siamisch
+    source: Aus des la Loubere Royaume de Siam, Th. 2, S. 94
 text:
   "Po raou you savang, scheu pra hai prakot
    touk heng kon tang tai: touai pra pon. Meuang

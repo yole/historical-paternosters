@@ -8,6 +8,11 @@ attestations:
     page: 31
     description: Gjorganica
     source: Magg. II. 137
+  - book_title: Adelung Part 1
+    page: 434
+    number: 61
+    description: Gelehrt Georgisch
+    source: Aus der Bibel, Moskau, 1743, fol.
 text:
   "Mamao cjueno romeli chbar zzahta sciua.
    Tzmida ikachn sa-chheli sceni. Sceni movedin

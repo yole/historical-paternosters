@@ -15,6 +15,11 @@ attestations:
     page: 156
     number: 101
     description: Lingua Persiana
+  - book_title: Adelung Part 1
+    page: 287
+    number: 40
+    description: Persisch
+    source: Aus Whelocs vier Evangelisten
 diff: no
 text:
   "Ei padere ma kih der osmon. Pak basched

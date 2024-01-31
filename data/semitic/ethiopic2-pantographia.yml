@@ -18,6 +18,11 @@ attestations:
     page: 14
     description: Aethopica
     source: J. Ludolf l.c. Conf. Crines. Babel. 7.8. G. p. 7 W. n. 5. P. 4. M. 4. D'Av. 521. Reut. n. 4
+  - book_title: Adelung Part 1
+    page: 408
+    number: 53
+    description: Aethiopisch
+    source: Aus Jobi Ludolfi Grammat. Aethiop. London. 1661, 4, S. 10
 base: semitic/geez
 text:
   "Abuna xabashamajath. Yithkadash shimacha

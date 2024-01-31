@@ -30,6 +30,11 @@ attestations:
   - book_title: Chamberlayne
     page: 3
     description: Chaldaice
+  - book_title: Adelung Part 1
+    page: 340
+    number: 44
+    description: Syrisch
+    source: Aus Gutbier's N. T. 1664
 text:
   "Abhoun dbhaschmajo. Nethkadasch schmoch
    Tithe malchouthoch. Nehve zebjonoch, ajchano

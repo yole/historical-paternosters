@@ -11,6 +11,11 @@ attestations:
     page: 133
     number: 67
     description: Altro dialetto Cinese
+  - book_title: Adelung Part 1
+    page: 59
+    number: 2
+    description: Dasselbe [Mandarinen-Chinesisch]
+    source: Von dem Jesuiten Mart. Martinius in Andr. Müllers Orat. domin. Sin.
 text:
   "Caí tien ngò tem fú chè ngò tem yuén. Ul
    mîm c’hîm xím. Ul qué lin. Kéi (laî) ùl chì

@@ -7,6 +7,11 @@ attestations:
   - book_title: Oratio Dominica Polyglottos Polymorphos
     page: 11
     description: Chaldaica
+  - book_title: Adelung Part 1
+    page: 374
+    number: 46
+    description: Chaldäisch
+    source: Aus Thom. Lüdeken (Andr. Müllers) Samml. S. 11
 text:
   "Abhouna debhischmaija; jithkaddasch schemach; 
    tethe malchouthach; jehěveh tsibhjanach

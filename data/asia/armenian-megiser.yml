@@ -30,6 +30,11 @@ attestations:
   - book_title: Schiltberger
     page: 96
     description: ermenisch
+  - book_title: Adelung Part 1
+    page: 426
+    number: 59
+    description: Gelehrt Armenisch
+    source: Aus Chamberlayne, S. 15
 base: asia/armenian
 text:
   "Hair mer or iercins des. Surb eglizzi anun
