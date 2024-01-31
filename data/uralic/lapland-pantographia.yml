@@ -18,6 +18,10 @@ attestations:
   - book_title: Cosmographia
     page: 620
     description: "in Finlendischer und Pilappener sprach deren sich ettlich Lysiender gebrauchen"
+  - book_title: Hervas
+    page: 161
+    number: 116
+    description: Dialetti Lapponesi
 text:
   "Isa meidhen, joko oledh taju ahissa[1]. puhettu
    olkohon siun nimesi. tulkohon[2] siun waltakuntasi[3];

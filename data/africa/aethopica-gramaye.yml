@@ -12,6 +12,10 @@ attestations:
     page: 23
     description: Aethopica
     source: meus mihi Aethiops interpretatus est
+  - book_title: Hervas
+    page: 224
+    number: 303
+    description: Altra orazione in Angolano
 text:
   "Tata[1] a monte hosa azure macla agysa[2] anfomsa[3] ara
   queraola[4] azureta o amano. A fonnimonte[5] iouro toma mont

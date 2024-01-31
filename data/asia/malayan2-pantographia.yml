@@ -16,6 +16,10 @@ attestations:
     page: 20
     description: Malaica
     source: N. Test. Mal. Ed. Oxon. 1677
+  - book_title: Hervas
+    page: 132
+    number: 64
+    description: Lingua Bengala
 text:
   "Bappa kita, jang adda de surga, namma mou
    jadi bersakti, radjat-mu[1] mendarang, kandhatimu[2]

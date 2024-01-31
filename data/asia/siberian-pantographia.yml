@@ -7,6 +7,10 @@ attestations:
   - book_title: Noord en Oost Tartarye
     page: 687
     description: Joekagirsche
+  - book_title: Hervas
+    page: 158
+    number: 105
+    description: Jukagira
 bibliography:
   - title: A Historical Dictionary of Yukaghir
     author: Irina Nikolaeva

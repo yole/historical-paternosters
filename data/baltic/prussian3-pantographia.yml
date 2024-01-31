@@ -7,6 +7,10 @@ attestations:
 - book_title: Chamberlayne
   page: 86
   description: Prussice, ex Simone Grunovio
+- book_title: Hervas
+  page: 164
+  number: 121
+  description: Prussiana
 base: baltic/prussian-grunau
 text:
   "Nossen thewes cur tu es delbes. Sehwiz gesger

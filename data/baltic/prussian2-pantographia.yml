@@ -10,6 +10,10 @@ attestations:
     source: ex Chr. Hartknochii Dissert. 5 de Ling. vet. Prus. pag. 86. 87
   - book_title: Hartknoch
     page: 93
+  - book_title: Hervas
+    page: 164
+    number: 127
+    description: Prutenica
 text:
   "Thawe nouson kas thou æsse ændengon[1]. Swintits[2]
    wirse twais emmens. Pareysey[3] noumans[4]

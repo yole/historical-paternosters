@@ -20,6 +20,9 @@ attestations:
     description: Virginiana
     source: Wilk. n. 49. Conf. Bibl. Virgin. Cantabrig. Nov. Angl. 1663
   - book_title: Eliot Indian Bible
+  - book_title: Hervas
+    page: 126
+    description: Virginese
 text:
   "Nooshun kesukquot, quittiana tamunach koowesuonk[1]; 
    peyaumooutch kukketassootamoonk,

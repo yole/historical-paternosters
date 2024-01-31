@@ -14,6 +14,10 @@ attestations:
   - book_title: Megiser
     number: 39
     description: Livonice & Werulorum lingua
+  - book_title: Hervas
+    page: 164
+    number: 120
+    description: Herula
 text:
   "Tabes mus, kas tu es eck sckan debbessis;
    schwetitz tows waarcz. Enack mums tows

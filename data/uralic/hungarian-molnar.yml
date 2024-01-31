@@ -14,6 +14,10 @@ attestations:
   - book_title: Rocca
     page: 373
     description: Hungarice
+  - book_title: Hervas
+    page: 161
+    number: 109
+    description: Lingua Ungherese
 diff: no
 text:
   "Mi Atyánc kì vagy az mennyekben, ssenteltessec

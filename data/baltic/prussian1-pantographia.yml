@@ -10,6 +10,10 @@ attestations:
     source: ex Chr. Hartknochii Dissert. 5 de Ling. vet. Prus. pag. 86. 87
   - book_title: Hartknoch
     page: 93
+  - book_title: Hervas
+    page: 164
+    number: 126
+    description: Prutenica
 text:
   "Thawe nuson kas thu asse andangon, swintints[1]
    wirst tais Emmens, pergeis twais laeims, twais

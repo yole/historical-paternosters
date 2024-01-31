@@ -8,6 +8,10 @@ attestations:
     page: 10
     description: Percice. Charactere Jaguthi
     source: ex Mss. Ciar. Chamberlaynii charactere Jaghuthi scripto.
+  - book_title: Hervas
+    page: 156
+    number: 102
+    description: Dialetto Persino
 text:
   "Namoz Hasrath Issa. Ei peder moh ki der aosmoni.
    Nahm ssetthuda kiarda sheued padeschahi

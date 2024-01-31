@@ -8,6 +8,10 @@ attestations:
     page: 22
     description: Siamice
     source: Exinde ad manus Clar. Lacrosii pervenit qui eam mecum communicavit operi huic inferendam
+  - book_title: Hervas
+    page: 135
+    number: 69
+    description: Lingua Siamese
 text:
   "Poo orao giou sowen, thiou pra hai pra chot
    tob hayn con tang laë tovaë pra pon moang,

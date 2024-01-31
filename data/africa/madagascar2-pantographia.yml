@@ -14,6 +14,10 @@ attestations:
   - book_title: Flacourt
     page: 187
     description: langue Madecasse
+  - book_title: Hervas
+    page: 225
+    number: 306
+    description: Dialetto Madagascaro de'paesi del nord del Madagascar
 text:
   "Amproy antsica izau hanautangh andanghitsi
    angharanau hofissahots, vahoüachanau hoaui

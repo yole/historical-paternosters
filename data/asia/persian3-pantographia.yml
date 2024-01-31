@@ -11,6 +11,10 @@ attestations:
   - book_title: Wilkins
     number: 41
     description: Persian
+  - book_title: Hervas
+    page: 156
+    number: 101
+    description: Lingua Persiana
 diff: no
 text:
   "Ei padere ma kih der osmon. Pak basched

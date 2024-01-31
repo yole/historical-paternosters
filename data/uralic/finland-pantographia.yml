@@ -11,6 +11,10 @@ attestations:
   - book_title: Micraelius
     page: 77
     description: Finnish
+  - book_title: Hervas
+    page: 161
+    number: 115
+    description: Finnica
 text:
   "Isa meiden joca olet taivvaisa, pyhittetty stolcon
    sinum nymes; la he stulcon[1] sinum vvaldacunda,
