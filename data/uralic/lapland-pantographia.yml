@@ -22,15 +22,18 @@ attestations:
     page: 161
     number: 116
     description: Dialetti Lapponesi
+  - book_title: Thevet Part 2
+    page: 882
+    description: En Lappon & Finnois
 text:
-  "Isa meidhen, joko oledh taju ahissa[1]. puhettu
-   olkohon siun nimesi. tulkohon[2] siun waltakuntasi[3];
-   olkohon siun tahtosi, kuwin[4] taivahissa[5],
-   nyn manpallâ, meidhen[6] jokapaivven leipä
-   anna meilen[7] tânâpâiwâne[8], ja anna anteixe
-   meiden syndia; kuwin[9] môe annamma meden[10] vastahan
-   rickoillen: ja âle[11] sata meitâ[12] kinsauxen[13];
-   mutta paasta meitâ[14] pahasta. Amen."
+  "Isa meidhen, joko oledh taju ahissa. puhettu
+   olkohon siun nimesi. tulkohon siun waltakuntasi;
+   olkohon siun tahtosi, kuwin taivahissa,
+   nyn manpallâ, meidhen jokapaivven leipä
+   anna meilen tânâpâiwâne, ja anna anteixe
+   meiden syndia; kuwin môe annamma meden vastahan
+   rickoillen: ja âle sata meitâ kinsauxen;
+   mutta paasta meitâ pahasta. Amen."
 text_variants:
   Megiser:
     "Isa meidhen, joko oledh taju ahissa. Puhettu olkohon
@@ -69,6 +72,15 @@ text_variants:
      vastahan rickoillen.
      Ja ale sata mei ta kin sauxen.
      Mutta paasta meite pahasta."
+  Thevet Part 2:
+    "Isa meidhen, ioko oledh taiu ahissa. Pühettu
+     olkohon siun nimesi. tulkohon siun waltakunta si;
+     olkohon siun tahtosi, kuwin taivahissa,
+     nyn manpallâ. Meidhen iokapaiwen leipä
+     anna mehilen tänäpäiwäne. Ia anna anteixe
+     meiden syndiä; kuwin möe annamma meden vastahan
+     rickoillen: ja äle sata meitä kinsauxen;
+     mutta päästä meitä pahasta. Amen."
 gloss:
   "Isa": "Pater"
   "meidhen": "noster"

@@ -18,6 +18,9 @@ attestations:
     page: 164
     number: 120
     description: Herula
+  - book_title: Thevet Part 2
+    page: 882
+    description: En Liuonien
 text:
   "Tabes mus, kas tu es eck sckan debbessis;
    schwetitz tows waarcz. Enack mums tows
@@ -55,6 +58,15 @@ text_variants:
      grake, ka mess pammart musse partadveken.
      Ne wedde mums louna badeckle:
      pet passatza mums nuwusse loune. Amen."
+  Thevet Part 2:
+    "Mus tabes, kas tu es ecksckan debbessis;
+     schwetitz tows waartz. Enack mums tows
+     walstibe. Tows praatz bus eka kschkan debbes,
+     ta vursan semmes. Musse denische maise duth
+     mums schodeen. Pammate mums musse
+     grake, ka mess pammart musse parradueken.
+     Ne ewedde mums iouna badeckle:
+     pett passarga mums nu wusse ioune. Amen."
 notes:
   "'Werulorum lingua' may refer to [Heruli](https://en.wikipedia.org/wiki/Heruli)"
 gloss:

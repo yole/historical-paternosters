@@ -19,6 +19,9 @@ attestations:
     page: 16
     description: Arabica Lectio
     source: Conf. Dur. p. 405. Gesn. p. 10 b. Meg. n. 3. Reut. n. 3. Wilk. n. 3.
+  - book_title: Thevet Volume 1
+    page: 339
+    description: en langue Arabesque
 diff: false
 text:
   "Abana illadhi phi 's schemaua, thikaduschu

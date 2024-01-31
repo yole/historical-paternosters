@@ -14,6 +14,9 @@ attestations:
     number: 65
     description: Ein Türkischer Dialect
     source: Aus Georgiewiz de Turcat. moribus.
+  - book_title: Thevet Volume 1
+    page: 339
+    description: en langue Turquesque
 text:
   "Babamoz, hanghe gugtesson chuduss
    olssun ssenungh, adun gelsson ssenung

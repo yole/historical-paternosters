@@ -295,7 +295,15 @@ books:
   author: Johannes Schiltberger
   author_url: https://en.wikipedia.org/wiki/Johannes_Schiltberger
 
-- title: Thevet
+- title: Thevet Volume 1
+  full_title: "La Cosmographie Universelle d'Andre Thevet Cosmographe dv Roy. Illvstree de diverses figvres des 
+    choses plvs remarqvables veves par l'auteur, & incogneues de noz anciens & modernes. (Volume 1)"
+  url: https://books.google.com/books?id=uHRoAAAAcAAJ
+  year: 1575
+  author: André Thevet
+  author_url: https://en.wikipedia.org/wiki/André_Thevet
+
+- title: Thevet Volume 2
   full_title: "La Cosmographie Universelle d'Andre Thevet Cosmographe dv Roy. Illvstree de diverses figvres des 
     choses plvs remarqvables veves par l'auteur, & incogneues de noz anciens & modernes. (Volume 2)"
   url: https://books.google.com/books?id=7HRoAAAAcAAJ

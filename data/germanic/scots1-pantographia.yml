@@ -11,10 +11,20 @@ attestations:
   - book_title: Megiser
     number: 28
     description: Scotice
+  - book_title: Thevet Part 2
+    page: 668
+    description: Escoçois
 text:
-  "Our fader, vhilk ar in hevin : hallovit be thy
-   name : thy kingdon cum : thy vil be doin in
+  "Our fader, vhilk ar in hevin. Hallovit be thy
+   name. Thy kingdon cum. Thy vil be doin in
    erth, as it is in hevin. Gif uss yijs day our daily
    bred, and forgif us our sinnis, as we forgif
    them that sin agains us. Et led us not into
    tentation: bot delyver us from evil. Amen."
+text_variants:
+  Thevet Part 2:
+    "Our fader quihilk ar in heuvin. Hallouit be thy name.
+    Thy kingdom cum. Thy vil be doin in erth as it is in heuin.
+    Gif uss yis day our daily bred, and forgif vs our synnis
+    as ve forgif yame that synnis aganis vs. & led vs not in tentation,
+    bot delyuer vs from euil. Sa be it."
