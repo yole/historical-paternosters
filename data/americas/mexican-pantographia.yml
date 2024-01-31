@@ -11,18 +11,37 @@ attestations:
   - book_title: Megiser
     number: 47
     description: Americanorum silvestrium Lingua
+  - book_title: Thevet
+    page: 925
+    description: en Sauuage
+  - book_title: Hervas
+    page: 97
+    description: Dialetto Guaranì
 text:
-  "Ore rure u bacpe Ereico: Toicoap pavemga
-   tu a va. Ubu jagatou oquoa vae. Charai bàmo
-   derera reco Oreroso leppè wacpe. Toge
-   mognanga dere mi potare vbupè wacpe ige
-   monangiave. Ara ia vion ore remiou zimeeng
-   cori oreve: de guron orevo ore come moa sara
-   supe oregiron javé; Eipotarume[1] aignang
-   orememoauge; Pipea pauem gne ba ememoan
-   ore suy. Emona."
+  "Ore rure ubacpé Ereico: Toicoap pavemgatu 
+   aua ubu lagatou oquoauae charai b'amo
+   derera reco. Oreroso leppé vuacpé. 
+   Togemognanga deremipotare ubupé 
+   vuacpé igemonang iaué. 
+   Araiauion ore remiou Zimëeng
+   cori oreue. De guron oréuo orememoan
+   angai paue supé, orerecomemoa-sara
+   supe oregiron jaué. 
+   Eipotarume aignang orememoaugé. 
+   Eipea pauemgne ba ememoam ore suy. 
+   Emona né toico, Iesus."
+text_variants:
+  Megiser:
+    "Ore rure u bacpe Ereico: Toicoap pavemga
+     tu a va. Ubu jagatou oquoa vae. Charai bàmo
+     derera reco Oreroso leppè wacpe. Toge
+     mognanga dere mi potare vbupè wacpe ige
+     monangiave. Ara ia vion ore remiou zimeeng
+     cori oreve: de guron orevo ore come moa sara
+     supe oregiron javé; Eipotarume[1] aignang
+     orememoauge; Pipea pauem gne ba ememoan
+     ore suy. Emona."
 notes:
-  According to [Saggio pratico delle lingue](https://books.google.de/books?id=9Hhy2obkC04C&pg=PA97&lpg=PA97&dq=%22ore+rure+ubacpe%22&source=bl&ots=Fzulw_4x2q&sig=ACfU3U0pxVAmxmyWU6FN981vgSra1BDcDg&hl=en&sa=X&ved=2ahUKEwix9vv8t92CAxVqZ_EDHXanCRkQ6AF6BAgJEAM) 
-  (1787), p. 97, this Pater Noster translation is in a Guaraní dialect.
+  According to Hervas, this Pater Noster translation is in a Guaraní dialect.
 footnotes:
   1: "Oratio Dominica, Pantographia: Epipotarume"
