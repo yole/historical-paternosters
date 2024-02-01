@@ -19,6 +19,9 @@ attestations:
   - book_title: Bibliander
     page: 232
     description: Gallica
+  - book_title: Merula
+    page: 431
+    description: Francice
 text:
   "Nostre pere qui es és cieulx. ton nom soit sanctifié.
    ton royaume adviene. ta volonte soit
@@ -61,6 +64,13 @@ text_variants:
      donne nous aviourdhuy. Et pardonne nous noz faultes, comme nous pardonnons
      a ceulx qui nos ont offenzes. Et ne nous induy point en tentation. Mais deliure
      nous de mal. Amen."
+  Merula:
+    "Nostre Pere, qui es es cieux, Ton Nom soit sanctifié.
+     Ton Regne advienne.
+     Ta volonté soit faicte en la Terre comme au Ciel.
+     Done nous aujourd'huy nostre pain quotidien.
+     Pardonne nous nos Offenses, comme nous pardonnons a ceux, qui nous ont offensez.
+     Et ne nous induy point en Tentation, mais delivre nous du Mal. Amen."
 notes:
   "According to Heinimann, the text dates back to 
   [Pierre Robert Olivetan](https://en.wikipedia.org/wiki/Pierre_Robert_Oliv%C3%A9tan)'s 

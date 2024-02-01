@@ -22,18 +22,46 @@ attestations:
     description: Eben dasselbe <Romanisch>, angeblich nach der Mundart im Flecken Tusis
     source: Aus Gesner, S. 65, und des Rues, S. 343
 text:
-  "Bab nos quæl tu[1] ist in eschil, santifichio saia
+  "Bab nos quæl tu ist in eschil, santifichio saia
    ilgtes num; ilgtes ariginam uigna ter nus, la
-   thia uoeglia d’uainta[2], in terra sco la fo in eschil; 
-   do a nus nos paun houtz & in münchia[3]
+   thia uoeglia d’uainta, in terra sco la fo in eschil; 
+   do a nus nos paun houtz & in münchia
    di; parduna à nus nos dbits, sco nus fain à
-   nos dbitaduors[4]; nun ens mener in mel aprouaimaint; 
+   nos dbitaduors; nun ens mener in mel aprouaimaint; 
    dimpersemaing spendra nus da tuots mels. Amen."
-footnotes:
-  1: "Rocca, Wilkins, Pantographia: tii"
-  2: "Rocca: vainta"
-  3: "Rocca, Megiser, Wilkins, Pantographia: miinchia"
-  4: "Rocca: dbitaduos"
+text_variants:
+  Rocca:
+    "Bab nos quæl tii ist in eschil, santifichio saia
+     ilgtes num; ilgtes ariginam uigna ter nus, la
+     thia uoeglia d’vainta, in terra sco la fo in eschil; 
+     do a nus nos paun houtz & in miinchia
+     di; parduna à nus nos dbits, sco nus fain à
+     nos dbitaduos; nun ens mener in mel aprouaimaint; 
+     dimpersemaing spendra nus da tuots mels. Amen."
+  Megiser:
+    "Bab nos quæl tu ist in eschil, santifichio saia
+     ilgtes num; ilgtes ariginam uigna ter nus, la
+     thia uoeglia d’uainta, in terra sco la fo in eschil; 
+     do a nus nos paun houtz & in miinchia
+     di; parduna à nus nos dbits, sco nus fain à
+     nos dbitaduors; nun ens mener in mel aprouaimaint; 
+     dimpersemaing spendra nus da tuots mels. Amen."
+  Wilkins, Pantographia:
+    "Bab nos quæl tii ist in eschil, santifichio saia
+     ilgtes num; ilgtes ariginam uigna ter nus, la
+     thia uoeglia d’uainta, in terra sco la fo in eschil; 
+     do a nus nos paun houtz & in miinchia
+     di; parduna à nus nos dbits, sco nus fain à
+     nos dbitaduors; nun ens mener in mel aprouaimaint; 
+     dimpersemaing spendra nus da tuots mels. Amen."
+  Merula:
+    "Bab nos quael tu ist in chesil. Santifichio saia
+     ilg tes num. Ilg tes ariginam vigna. 
+     La thia voeglia d’vainta, in terra scola fo in chesil. 
+     Da a nus nos paun houts & in miinchia di. 
+     Parduna a nus nos dbits, sco nus fain à nos dbitadours. 
+     Nun eus mener in mel aprovaimaint. 
+     Dim persemaing spendra nus da tuots mels. Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

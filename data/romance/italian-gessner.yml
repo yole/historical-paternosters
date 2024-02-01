@@ -28,6 +28,9 @@ attestations:
     number: 216
     description: Heutiges Italiänisch
     source: aus des Giov. Diodati Bibel, der Ausgabe von 1757
+  - book_title: Merula
+    page: 800
+    description: Italorum
 text:
   "Padre nostro, che sei ne’ cieli, sia santificato
    il nome tuo; venga il tuo regno; 
@@ -96,6 +99,16 @@ text_variants:
      E non c'indurci in tentatione.
      Ma liberaci dal Maligno.
      Percioche tuo è il regno, e la potenza, e la gloria, in sempiterno. Amen."
+  Merula:
+    "Padre nostro, che sei ne cieli.
+     Sia santificato il tuo nome.
+     Venga il tuo regno.
+     Sia fatta la tua voluntà, si come in cielo, cosi ancora in terra.
+     Dacci hoggi il nostro pane cotidiano.
+     E rimettici nostri debiti, si come ancor noi gli rimettiamo à i nostri debitori.
+     E non ci indurre in tentatione.
+     Ma liberaci dal Male.
+     Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"

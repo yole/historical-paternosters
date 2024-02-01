@@ -19,6 +19,9 @@ attestations:
     number: 223
     description: Friaulisch oder Furlano
     source: Aus Megiser, des Rues, Wilkins un den übrigen Sammlern
+  - book_title: Merula
+    page: 800
+    description: Foroiuliensium
 text:
   "Pari nestri ch’ees in cijl, see santificaat lu to
    nom; vigna lu to ream, see fatta la too voluntaat,
@@ -29,7 +32,7 @@ text:
    libora nus dal mal. Amen."
 text_variants:
   Wilkins:
-    "Pari nestri ch’ees in cijl, see santificaat[1] la to
+    "Pari nestri ch’ees in cijl, see santificaat la to
      nom; vigna lu to ream, see fatta la too voluntaat,
      sice’ in cijl, et in tierra: Da nus hu’el 
      nestri pan cotidian; et perdonni nus glu
@@ -50,6 +53,14 @@ text_variants:
      sich in cijl, et in tiarra. Da nus hu’el 
      nestri pan cotidian. Et perdoni nus glu
      nestris debiz, sicu noo perduin agel nestris debetoors.
+     E no nus menaa in tentation; mà
+     libora nus dal mal. Amen."
+  Merula:
+    "Pari nestri ch’ees in cyl. Santificaat lu to
+     nom. Vigna lu to ream. See fatta la too volontaat,
+     sich in cyl, ed in tiarra. Danus hue'l 
+     nestri pan cotidian. Et perdoni nus glu
+     nestris debiz, sicu noo perdunin agl nestris debetoors.
      E no nus menaa in tentation; mà
      libora nus dal mal. Amen."
 bibliography:

@@ -22,6 +22,9 @@ attestations:
     number: 241
     description: Portugiesisch
     source: Aus Bern. Aldrete Origen de la lengua Castellana, S. 259
+  - book_title: Merula
+    page: 301
+    description: Portugallice
 text:
   "Padre nosso, que stas nos ceos, santificado seia
    o teu nome. Venha à nos o teu reino, seja ferta
@@ -68,6 +71,16 @@ text_variants:
      assi como nos perdoamos aos nossos dividores.
      E naon nos dexes cahir in tentacaon, mas libra
      nos do mal. Amen."
+  Merula:
+    "Padre nosso, que stas nos Ceos.
+     Santificado seia o teu Nome.
+     Venha a nos o teu Reino.
+     Seia ferta a tua volontade, assi nos Ceos, come na terra.
+     O Pao nosso de cadadia dano lo oie nesto dia.
+     Et perdoa nos sennor as nossas dividas,
+     assi comme nos perdoamos aos nossos dividores.
+     Et nao nos dexes cahir in tentacao: mas libra nos do mal.
+     Amen."
 bibliography:
   - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
