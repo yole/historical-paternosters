@@ -24,6 +24,9 @@ attestations:
     number: 103
     description: In Dialect von Unter-Navarra oder Labour.
     source: Aus des Jean de Liçarrague von Briscous übersetzen N. T. Rochelle, 1571, 8.
+  - book_title: De Lingua Getarum
+    page: 92
+    description: Cantabrice
 text:
   "Gure aita ceruëtan aicena. Sanctifica bedi
    hire icena. Ethor bedi hire resumá. Eguin
