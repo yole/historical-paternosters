@@ -15,6 +15,11 @@ attestations:
     page: 56
     description: Frisica
     source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulo. p. 98.
+  - book_title: Adelung Part 2
+    page: 235
+    number: 146
+    description: Friesisch
+    source: Aus Bonav. Vulcanius de litteris et lingua Getarum, Leiden, 1597, S. 98, und daraus die späten Sammler
 text:
   "Ws Haita duu derstu biste yne hymil, dyn
    name wird heiligt, dyn ryck to komme, dyn

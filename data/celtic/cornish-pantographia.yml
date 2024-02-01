@@ -7,6 +7,11 @@ attestations:
   - book_title: Oratio Dominica Polyglottos Polymorphos
     page: 52
     description: Cornubica
+  - book_title: Adelung Part 2
+    page: 156
+    number: 116
+    description: Cornisch
+    source: Aus der Sammlung London, 1700, und Chamberlayne, S. 50
 text:
   "Ny taz ez yn neau. Bonegas yw tha hanaw.
    Tha Gwlakath doaz. Tha bonogath bogweez

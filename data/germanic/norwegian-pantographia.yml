@@ -11,6 +11,11 @@ attestations:
   - book_title: Micraelius
     page: 77
     description: Norwegisch
+  - book_title: Adelung Part 2
+    page: 303
+    number: 180
+    description: Norwegisch
+    source: Aus Jo. Micrälii alten Pommerland, S. 124
 text:
   "Wor fader du som est y himmelen, gehailiget
    worde dit nafn; tilkomma os riga dit, din wilia

@@ -8,6 +8,11 @@ attestations:
     page: 57
     description: Hibernica
     source: Matth. vi. Bibl. Hibernica, Lond. 1690.
+  - book_title: Adelung Part 2
+    page: 91
+    number: 107
+    description: Irisch
+    source: Aus Will. Bedells Irischen Bibel, London, 1685, 4, und 1690, 8
 text:
   "Ar nathair atá ar neamh[1], naomhthar hainm:
    tigeadh do rioghachd, deúntar do thoil ar an

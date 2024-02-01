@@ -13,6 +13,11 @@ attestations:
       popularibus edisceretur, circa Annum 1156."
   - book_title: Remains Concerning Britain
     page: 17
+  - book_title: Adelung Part 2
+    page: 334
+    number: 198
+    description: Von dem Papst Adrian, in Reimen um 1156.
+    source: Aus Camden's Remains S. 32
 text: |
   Ure fadyr in heaven rich.
   Thy name be halyed[1] everlich[2].

@@ -18,6 +18,11 @@ attestations:
     page: 161
     number: 109
     description: Lingua Ungherese
+  - book_title: Adelung Part 2
+    page: 786
+    number: 328
+    description: Ungarisch
+    source: Aus der Ungarischen Bibel, 1776, 8.
 diff: no
 text:
   "Mi Atyánc kì vagy az mennyekben, ssenteltessec

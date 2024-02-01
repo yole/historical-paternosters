@@ -26,6 +26,11 @@ attestations:
     page: 41
     description: Servica
     source: Meg. n. 32. Conf. Wilk. n. 30.
+  - book_title: Adelung Part 2
+    page: 651
+    number: 272
+    description: Kroatisch
+    source: Aus Trubers Kroatischem Katechismus 1561, 8.
 base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce nash, ishe jesi v nebesih. Posveti se

@@ -21,6 +21,11 @@ attestations:
   - book_title: Bohoric
     page: 37
     description: Lusatica
+  - book_title: Adelung Part 2
+    page: 686
+    number: 294
+    description: Nieder-Lausitzisch
+    source: Aus Bohorizh Litterat. Carniol. S. 37
 text:
   "Wosch nasch, kensch sy nanebebu, wussweschone 
    bushy me twoye. Pshish knam krajlestwo

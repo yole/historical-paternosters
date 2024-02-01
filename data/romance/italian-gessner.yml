@@ -23,6 +23,11 @@ attestations:
     page: 34
     description: Italica
     source: Bibl. Giov. Diodat. Genev. 1607. Confer. Gesn. 64 a Meg. n. 9. Pist. n. 7. Roch. n. 2. Stiernh. n. 2. Reut. n. 8. Wilk. n. 12.
+  - book_title: Adelung Part 2
+    page: 495
+    number: 216
+    description: Heutiges Italiänisch
+    source: aus des Giov. Diodati Bibel, der Ausgabe von 1757
 text:
   "Padre nostro, che sei ne’ cieli, sia santificato
    il nome tuo; venga il tuo regno; 

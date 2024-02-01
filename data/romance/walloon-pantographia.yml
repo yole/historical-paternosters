@@ -8,6 +8,11 @@ attestations:
     page: 45
     description: Wallica
     source: "Stiernh. n. 8. Conf. Bibl. Wall. Lond. 1588. 1620. N. T. Wallic. Lond. 1567"
+  - book_title: Adelung Part 2
+    page: 734
+    number: 310
+    description: Walachisch
+    source: Aus Ge. Stiernhelms Ulphila, nach Hervas Verbesserung
 text:
   "Pærinthele nostru cela ce esti en cheri. Svintzas
    cæse numele teu. Vie enperetziæ ta. Facæse

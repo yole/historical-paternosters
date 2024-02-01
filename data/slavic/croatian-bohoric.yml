@@ -21,6 +21,11 @@ attestations:
     page: 40
     description: Croatica
     source: Meg. n. 34. Conf. Pist. n. 38. Wilk. n. 29.
+  - book_title: Adelung Part 2
+    page: 651
+    number: 273
+    description: Dasselbe <Kroatisch>
+    source: Aus Bohorizh Litterat. Carniol., S. 22 und 36
 base: slavic/croatian-bohoric-glagolitic
 text:
   "Ozhe nash ishe esi na nebesih. Svetise ime tuoe.

@@ -7,6 +7,15 @@ attestations:
     page: 54
     description: Anglo-Saxonica altera vetustior
     source: Reut. n. 19. Conf. Wilk. n. 19.
+  - book_title: Adelung Part 2
+    page: 332
+    number: 193
+    description: Wahrscheinlich die vorige [Dänisch-Sächsisch] in einer andern Mundart
+    source: Aus Will. Camden's Remains, S. 30
+  - book_title: Remains Concerning Britain
+    page: 15
+    description: antient Saxon
+    source: Eadfride the eight Bishop of Lindisfarne
 text:
   "Uren vader thic arth in heofnas. Sic gehalgud thin noma.
    To cymeth thin rye. Sic thin Willa sue, Is in heofnas and

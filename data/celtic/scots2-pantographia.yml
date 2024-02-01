@@ -8,6 +8,11 @@ attestations:
     page: 49
     description: Scotice. Superiorum Provinciarum
     source: Reverendus admodum Praæsul Episcopus Carliolensis Ampl. Domino Chamberlayno tradidit
+  - book_title: Adelung Part 2
+    page: 102
+    number: 110
+    description: Hochländisch oder Galisch
+    source: aus Chamberlayne S. 49
 text:
   "Ar nathairne ata ar neamh, goma beannuigte
    hainmsa, gu deig do rioghachdsa, dentaa do iholfi

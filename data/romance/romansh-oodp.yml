@@ -4,6 +4,11 @@ attestations:
     page: 35
     description: Rhaetica seu Grisonum
     source: Gessner f. 72 b. Conf. Meg. n. 10. Pist. n. 8. Reut. n. 34. Roch. n. 16. Stiernh. n. 5. Wilk. n. 16. V. Catech. Rhaet. Bifrontis, & Campetti
+  - book_title: Adelung Part 2
+    page: 608
+    number: 265
+    description: Eben dasselbe <Romanisch>
+    source: Aus Megiser, Lüdeken etc.
 text:
   "Pap noass, to quel chi êsch in ls tschels.
    Fatt saingk vênnga ilg teis nuom.

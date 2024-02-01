@@ -19,6 +19,11 @@ attestations:
   - book_title: Hervas
     page: 210
     number: 260
+  - book_title: Adelung Part 2
+    page: 28
+    number: 103
+    description: In Dialect von Unter-Navarra oder Labour.
+    source: Aus des Jean de Liçarrague von Briscous übersetzen N. T. Rochelle, 1571, 8.
 text:
   "Gure aita ceruëtan aicena. Sanctifica bedi
    hire icena. Ethor bedi hire resumá. Eguin

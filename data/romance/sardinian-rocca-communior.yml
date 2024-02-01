@@ -3,6 +3,11 @@ attestations:
   - book_title: Rocca
     page: 376
     description: <Sardorum> ex communiori lingua, extra civitates
+  - book_title: Adelung Part 2
+    page: 533
+    number: 232
+    description: Dasselbe <Sardinisch auf dem Lande>
+    source: Nach dem Roccha, S. 376
 text:
   "Babbu nostru qui ses in sos quelos. Santifficadu siat su
    nomine tuo. Aduengiat su rennu tou, siat fatta sa voluntade

@@ -14,6 +14,11 @@ attestations:
     page: 164
     number: 127
     description: Prutenica
+  - book_title: Adelung Part 2
+    page: 704
+    number: 302
+    description: Alt-Preussisch
+    source: In Samländischen Dialect nach der zweyten Ausgabe, von eben dem Jahre <1545>
 text:
   "Thawe nouson kas thou æsse ændengon[1]. Swintits[2]
    wirse twais emmens. Pareysey[3] noumans[4]

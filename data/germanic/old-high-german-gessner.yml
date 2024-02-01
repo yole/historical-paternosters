@@ -12,6 +12,13 @@ attestations:
   - book_title: Wilkins
     number: 17
     description: Germ. ancient
+  - book_title: Adelung Part 2
+    page: 196
+    number: 128
+    description: Notker um 1000
+    source:
+      "Am Ende seiner Psalmen-Übersetzung nach der Wiener Handschrift,
+       aus Lambecius, B. 2, Kap. 5, der sie aber irrig dem Otfrid zuschrieb"
 text:
   "Fater ünser, du in himele bist.
    Din namo werde geheiligot.
@@ -50,6 +57,16 @@ text_variants:
      Unde unsere sculde belas uns, als auch wer belasendt
      unseren sculdigen. Und in chorunga nit leitest du unsich.
      Un belose unsich sone ubele."
+  Adelung Part 2:
+    "Vater unsir, du in Himile bist.
+     Din Namo werde geheiligot.
+     Din Riche chome.
+     Din Wille geskehe in Erda, also in Himile.
+     Unsir tagelichich Prot gib uns hiuto.
+     Unde unsere Sculde belazh uns, also ouch wir firlazhen
+     unseren Sculdenaren.
+     Unde in dia Chorunga ne leitist du unsih.
+     Suntir irlose unsih sona dem Ubile."
 notes:
   According to [Althochdeutsches Lesebuch](https://archive.org/details/althochdeutsche00brau/page/34/mode/2up)
   this text comes from [Notker](https://en.wikipedia.org/wiki/Notker_Labeo)'s Psalter.

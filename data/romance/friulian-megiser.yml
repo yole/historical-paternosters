@@ -14,6 +14,11 @@ attestations:
     page: 35
     description: Forojuliana
     source: Meg. n. 11. Conf. Pist. n. 9. Wilk. n. 13
+  - book_title: Adelung Part 2
+    page: 512
+    number: 223
+    description: Friaulisch oder Furlano
+    source: Aus Megiser, des Rues, Wilkins un den übrigen Sammlern
 text:
   "Pari nestri ch’ees in cijl, see santificaat lu to
    nom; vigna lu to ream, see fatta la too voluntaat,

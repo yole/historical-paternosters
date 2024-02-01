@@ -10,6 +10,11 @@ attestations:
   - book_title: Account of the Islands of Orkney
     page: 68
     description: Norns
+  - book_title: Adelung Part 2
+    page: 304
+    number: 182
+    description: Mundart auf den Orkneys
+    source: Aus James Wallace's account of the Islands of Orkneys, Lond. 1700, S. 68
 text:
   "Favor i ir i[1] chimrie, helleur ir i nam thite, gilla
    cosdum thite cumma, veya thine mota vara

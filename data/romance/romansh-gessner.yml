@@ -16,6 +16,11 @@ attestations:
   - book_title: Gessner
     page: 65
     description: in vernaculo Rhaetorum sermone, quem ipsi vulgo Romanum appellant, nostri Churwelsch
+  - book_title: Adelung Part 2
+    page: 607
+    number: 263
+    description: Eben dasselbe <Romanisch>, angeblich nach der Mundart im Flecken Tusis
+    source: Aus Gesner, S. 65, und des Rues, S. 343
 text:
   "Bab nos quæl tu[1] ist in eschil, santifichio saia
    ilgtes num; ilgtes ariginam uigna ter nus, la

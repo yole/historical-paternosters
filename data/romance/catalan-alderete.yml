@@ -11,6 +11,11 @@ attestations:
   - book_title: Alderete
     page: 62
     description: Catalan
+  - book_title: Adelung Part 2
+    page: 553
+    number: 236
+    description: Catalonisch
+    source: Aus Bern. Aldrete del Origen de la Lengua Castellana
 text:
   "Pare nostro, que estau en lo cel. Sanctificat
    sea el vostro sant nom. Vinga en nos altres

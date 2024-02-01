@@ -7,6 +7,11 @@ attestations:
   - book_title: Oratio Dominica Polyglottos Polymorphos
     page: 39
     description: Berriensis
+  - book_title: Adelung Part 2
+    page: 594
+    number: 249
+    description: Provençalisch zu Berry
+    source: Aus den ältern Sammlungen
 text:
   "Nouestre pére que sias dins l’ou Ciel, vouestre
    nom siet santifia. Que vouestre royame nous

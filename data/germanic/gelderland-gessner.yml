@@ -14,6 +14,11 @@ attestations:
   - book_title: Gessner
     page: 44
     description: Geldrice
+  - book_title: Adelung Part 2
+    page: 251
+    number: 161
+    description: Geldrische Mundart
+    source: Aus Conr. Gesners Mithridates S. 44, und daraus in den folgenden Sammlungen
 text:
   "Onse Vayer, die ghey seit in den hemel;
    geheilicht[1] sey uwen naem; wu reyck ons toecoem,

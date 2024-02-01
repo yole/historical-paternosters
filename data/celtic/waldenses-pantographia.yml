@@ -10,6 +10,11 @@ attestations:
   - book_title: Oratio Dominica Polyglottos Polymorphos
     page: 52
     description: Waldensis
+  - book_title: Adelung Part 2
+    page: 103
+    number: 112
+    description: In der Mundart des Fleckens Walden in Essex
+    source: Aus Chamberlayne S. 39
 text:
   "Our narme ata air neamb’. Beanich atanim
    gu diga do riogda. Gu denta du hoill, air talm'
@@ -29,4 +34,5 @@ text_variants:
      rioghta comhta agns gloir gn sibhiri. Amen."
 notes:
   "Waldensian literature was written in the [Old Occitan](https://en.wikipedia.org/wiki/Old_Occitan)
-  language but the text is not in that language."
+   language but the text is not in that language. [Saffron Walden](https://en.wikipedia.org/wiki/Saffron_Walden),
+   to which Adelung refers, does not seem to have had a population of Celtic-speaking people."

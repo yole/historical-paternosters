@@ -11,6 +11,13 @@ attestations:
   - book_title: Merula
     page: 432
     description: Britannice apud Aremoricos in Galliis
+  - book_title: Adelung Part 2
+    page: 166
+    number: 121
+    description: In der Mundart Trecorienne
+    source:
+      "Aus des Franc. des Rues Description du Royaume de France,
+       um 1610, am Ende, unter dem Nahmen Breton"
 text:
   "Hon tad pehuny[1] sou en efaou,
    Da hanou bezet sanctifiet,

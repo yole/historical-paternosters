@@ -24,6 +24,11 @@ attestations:
   - book_title: Thevet Part 2
     page: 778
     description: Esclauon.
+  - book_title: Adelung Part 2
+    page: 652
+    number: 275
+    description: Dalmatisch-Kroatisch
+    source: Aus Valvasor's Ehre des Herzogthums Krain, Th. 2, S. 274
 base: slavic/russian2-pantographia
 text:
   "Otsse nass, ki yessi na nebessi. Ssuetisse ime

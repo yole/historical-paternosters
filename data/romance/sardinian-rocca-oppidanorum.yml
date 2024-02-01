@@ -3,6 +3,11 @@ attestations:
   - book_title: Rocca
     page: 376
     description: Sardorum Oppidanorum lingua
+  - book_title: Adelung Part 2
+    page: 532
+    number: 230
+    description: Sardinisch in den Städten
+    source: Aus des Roccha Bibliotheca Vaticana, S. 376
 text:
   "Padre nostru qui istas in sos quelos. Siat sanctificadu su
    nomen teu. Vengat a nois su regnu tou, siat fatta sa voluntade

@@ -17,6 +17,11 @@ attestations:
   - book_title: Gessner
     page: 14
     description: "lingua Vuallica seu Britannica uetere"
+  - book_title: Adelung Part 2
+    page: 152
+    number: 114
+    description: Alt-Wallisisch
+    source: Aus Gesners Mithridates, S. 13
 normalize:
   uu: w
 text:

@@ -14,6 +14,11 @@ attestations:
     page: 55
     description: Danica
     source: N. T. Hutt. Norib. 1599. Conf. Meg. n. 23. Micr. p. 123. Pist. n. 24. Reut. n. 16. Wilk. n. 21.
+  - book_title: Adelung Part 2
+    page: 301
+    number: 178
+    description: Danisch von 1599
+    source: Aus Hutters Neuem Testament
 text:
   "Pader vor du som est i himmelen. Helligt
    vorde dit naffn. Til komme dit rige. Borde

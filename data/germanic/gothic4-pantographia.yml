@@ -17,6 +17,11 @@ attestations:
     description: Gothice
   - book_title: De Lingua Getarum
     page: 35
+  - book_title: Adelung Part 2
+    page: 185
+    number: 123
+    description: Gothisch von 360
+    source: Aus dem Ulphila, Matth. 6.
 base: germanic/gothic
 text:
   "Atta unsar thu in himinam; veihnai namo

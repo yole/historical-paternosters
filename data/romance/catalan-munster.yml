@@ -6,6 +6,11 @@ attestations:
   - book_title: Wilkins
     number: 14
     description: Sardinian of the City
+  - book_title: Adelung Part 2
+    page: 531
+    number: 229
+    description: Sardinisch in den Städten
+    source: Aus Gesners Mithridates, S. 66, und Duret Thresor, S. 818
 text:
   "Pare nostre che ses en loscels, sia santificat lo
   nom teu. Venga lo regne teu. Fasase la uoluntat tua,

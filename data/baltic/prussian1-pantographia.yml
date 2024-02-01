@@ -14,6 +14,11 @@ attestations:
     page: 164
     number: 126
     description: Prutenica
+  - book_title: Adelung Part 2
+    page: 704
+    number: 301
+    description: Alt-Preussisch
+    source: In gemischter Mundart, aus dem Katechismo von 1545 nach der ersten Ausgabe
 text:
   "Thawe nuson kas thu asse andangon, swintints[1]
    wirst tais Emmens, pergeis twais laeims, twais

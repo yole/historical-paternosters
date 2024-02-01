@@ -17,6 +17,11 @@ attestations:
     page: 38
     description: Lusitanica
     source: Megis. n. 16. Conf. Pist. n. 13. Reut. n. 11. Roch. n. 18. Wilk. n. 10.
+  - book_title: Adelung Part 2
+    page: 556
+    number: 241
+    description: Portugiesisch
+    source: Aus Bern. Aldrete Origen de la lengua Castellana, S. 259
 text:
   "Padre nosso, que stas nos ceos, santificado seia
    o teu nome. Venha à nos o teu reino, seja ferta

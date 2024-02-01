@@ -14,6 +14,11 @@ attestations:
   - book_title: Thevet Part 2
     page: 668
     description: Escoçois
+  - book_title: Adelung Part 2
+    page: 338
+    number: 205
+    description: Süd-Schottischer Dialekt
+    source: Aus Thevet Cosmogr. B. 16, Kap. 2, Duret Thresor, S. 874, und Chamberl. S. 48, überall fehlerhaft abgetheilt
 text:
   "Our fader, vhilk ar in hevin. Hallovit be thy
    name. Thy kingdon cum. Thy vil be doin in

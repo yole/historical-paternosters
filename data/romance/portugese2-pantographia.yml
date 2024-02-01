@@ -8,6 +8,11 @@ attestations:
     page: 46
     description: Lusitanice
     source: ex. N. T. Lusitanico impresso Amst. 4to
+  - book_title: Adelung Part 2
+    page: 557
+    number: 242
+    description: Dasselbe <Portugiesisch>
+    source: Aus dem N. T. Amsterdam, 1681
 text:
   "Pae nosso que estás n’os ceos, sanctificado sega
    o teu nome, venna o teu reyno, seja feita

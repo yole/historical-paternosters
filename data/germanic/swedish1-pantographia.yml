@@ -16,6 +16,10 @@ attestations:
     source:
       "Bibl. Svec. Stockholm. 1674. Conf. Dur. p. 869. Meg. n. 26. 
       Micr. p. 123. Munst. Cosmograph. IV 31. Pist. n. 21. Reut. n. 15. Wilk. n. 24"
+  - book_title: Adelung Part 2
+    page: 313
+    number: 186
+    description: Heutiges Schwedisch
 text:
   "Fadher war som est i himlom, helghat warde
    titt nampn. Tillkomme titt ricke. Skee tin wilie

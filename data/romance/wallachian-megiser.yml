@@ -11,6 +11,11 @@ attestations:
     page: 39
     description: Valachica
     source: Meg. 31. Conf. Wilk. 31.
+  - book_title: Adelung Part 2
+    page: 736
+    number: 313
+    description: Walachisch
+    source: Aus Megiser und Chamberlayne, nach der Verbesserung im Ungar. Magazine, Th. 4, S. 195
 text:
   "Tatal nostru, cineresti in ceriu,
    sfincinschase numelle teu.

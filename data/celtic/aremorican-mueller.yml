@@ -7,6 +7,11 @@ attestations:
   - book_title: Oratio Dominica Polyglottos Polymorphos
     page: 51
     description: Britannica Aremoricana
+  - book_title: Adelung Part 2
+    page: 167
+    number: 122
+    description: In einer andern unbenannten Mundart
+    source: Im Chamberlayne, S. 51
 text:
   "Hon tat pehing son in acou’n. Oth hano bezet
    sanctifiet. De vel de ompho rouantelez.

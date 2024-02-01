@@ -4,6 +4,13 @@ attestations:
     page: 274
     number: 13
     description: Walachice
+  - book_title: Adelung Part 2
+    page: 646
+    number: 269
+    description: Uskokisch
+    source:
+      "Unter dem Nahmen Wallachisch in Valvasor's Ehre des Herzogth. Krain, Th. 2, S. 274,
+       vergl. mit S. 490, und Ulmans altes Mähren, Th. 2, S. 5"
 base: slavic/russian2-pantographia
 text:
   "Ozhe nash ishe iessi nanebesse. Nasuetise ime tuoye.
@@ -11,3 +18,5 @@ text:
    y nasemli. Hleb nash nosostni dashnam danas. Y ostaui nam dolgi
    nashe jakoshe yme ostauliamo dolsnikom nas sim. Y nauauedi
    nas uanapast. Naa isbaui nas o tlakouago. Amen."
+notes:
+  "Uskokisch" refers to [Uskoks](https://en.wikipedia.org/wiki/Uskoks).

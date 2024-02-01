@@ -8,6 +8,11 @@ attestations:
     page: 66
     description: Monensis, sive Lingua vernacula Incolarum Monae
     source: Ex Enchirid. Reverendiss. Tho. Wilson hujus Insulae Episcop. Digniss. Lond. 1709
+  - book_title: Adelung Part 2
+    page: 103
+    number: 113
+    description: In der Mundart der Insel Man
+    source: Aus des Bischof Thom. Wilson Works, Th. 1, S. 460
 text:
   "Ayr ain, t’ayns Niau. Casherick dy rou dt’ennym.
    Dy jigg dty Reereeaght. Dt’aigney dy

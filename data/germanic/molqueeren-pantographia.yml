@@ -8,6 +8,11 @@ attestations:
     page: 88
     description: Molquerane
     source: sed quoniam mihi tradita est à Cl. Hemsterhusio
+  - book_title: Adelung Part 2
+    page: 237
+    number: 149
+    description: Molkwerisch
+    source: So wie es Hemsterhuis dem Chamberlayne mitgetheilet hatte, S. 88
 text:
   "Oes Veer der iin de hiim’len binne. Jimme
    nemme word heil’ge. Jimme keuniink-riike
@@ -22,3 +27,4 @@ footnotes:
   1: "Pantographia: text is cut off at 'keuniink'"
 notes:
   The language name refers to the village of [Molkwerum](https://en.wikipedia.org/wiki/Molkwerum).
+  The source of the text is probably [Tiberius Hemsterhuis](https://en.wikipedia.org/wiki/Tiberius_Hemsterhuis).

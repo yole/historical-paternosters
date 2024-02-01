@@ -4,6 +4,10 @@ attestations:
     page: 72
     description: English 14
     source: Bibles and Testaments now published in our Universities, Gospel of St. Matthew, chap. VI. v. 9
+  - book_title: Adelung Part 2
+    page: 337
+    number: 204
+    description: Heutige Sprache
 text:
   "Our father which art in heaven, hallowed be
    thy Name; thy kingdom come; thy will be

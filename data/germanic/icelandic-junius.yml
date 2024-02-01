@@ -8,6 +8,11 @@ attestations:
     page: 23
     description: Islandica
     source: Fr. Junius F. F.
+  - book_title: Adelung Part 2
+    page: 308
+    number: 183
+    description: Isländisch
+    source: Aus der Isländischen Bibel von 1584, und so noch jetzt
 text:
   "Fader vor thu som ert a himnum, helgest thitt
    nafn; tilkome thitt riike, verde thinn vilie, so

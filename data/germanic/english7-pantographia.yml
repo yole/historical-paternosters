@@ -6,6 +6,11 @@ attestations:
     source: "About the year 1430, in the reign of Henry VI. as appears
       by a large MS. vellum Bible in the Oxford Library,
       which was given by this King to the Carthusians, at London. Wilk. Ess. p. 8"
+  - book_title: Adelung Part 2
+    page: 336
+    number: 202
+    description: Englisch um 1430
+    source: Aus einer Handschrift zu Oxford in John Wilkins Essay, S. 8
 text:
   "Oure Fadir that art in Hevenes, halewid be thi
    Name, thi Kingdom com to thee, be thi will

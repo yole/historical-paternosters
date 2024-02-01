@@ -20,6 +20,11 @@ attestations:
   - book_title: Postel
     page: 52
     description: Graeca
+  - book_title: Adelung Part 2
+    page: 446
+    number: 207
+    description: Alt-Griechisch
+    source: Nach Matth. 6, nach der Griesbachischen Ausgabe
 text:
   "πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς,
   ἁγιασθήτω τὸ ὄνομά σου,
