@@ -22,7 +22,7 @@ attestations:
     page: 161
     number: 116
     description: Dialetti Lapponesi
-  - book_title: Thevet Part 2
+  - book_title: Thevet Volume 2
     page: 882
     description: En Lappon & Finnois
 text:
@@ -72,7 +72,7 @@ text_variants:
      vastahan rickoillen.
      Ja ale sata mei ta kin sauxen.
      Mutta paasta meite pahasta."
-  Thevet Part 2:
+  Thevet Volume 2:
     "Isa meidhen, ioko oledh taiu ahissa. Pühettu
      olkohon siun nimesi. tulkohon siun waltakunta si;
      olkohon siun tahtosi, kuwin taivahissa,

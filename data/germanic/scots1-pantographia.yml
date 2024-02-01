@@ -11,7 +11,7 @@ attestations:
   - book_title: Megiser
     number: 28
     description: Scotice
-  - book_title: Thevet Part 2
+  - book_title: Thevet Volume 2
     page: 668
     description: Escoçois
   - book_title: Adelung Part 2
@@ -27,7 +27,7 @@ text:
    them that sin agains us. Et led us not into
    tentation: bot delyver us from evil. Amen."
 text_variants:
-  Thevet Part 2:
+  Thevet Volume 2:
     "Our fader quihilk ar in heuvin. Hallouit be thy name.
     Thy kingdom cum. Thy vil be doin in erth as it is in heuin.
     Gif uss yis day our daily bred, and forgif vs our synnis
