@@ -20,6 +20,9 @@ attestations:
     number: 318
     description: Finnisch
     source: Aus der Bibel, Stockh. 1642, fol., un dem N. T. 1740, 12
+  - book_title: Chamberlayne
+    page: 82
+    description: Finnice
 text:
   "Isa meiden joca olet taivvaisa, pyhittetty stolcon
    sinum nymes; la he stulcon[1] sinum vvaldacunda,

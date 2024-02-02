@@ -18,6 +18,9 @@ attestations:
     page: 225
     number: 306
     description: Dialetto Madagascaro de'paesi del nord del Madagascar
+  - book_title: Chamberlayne
+    page: 33
+    description: Madagascarice
 text:
   "Amproy antsica izau hanautangh andanghitsi
    angharanau hofissahots, vahoüachanau hoaui

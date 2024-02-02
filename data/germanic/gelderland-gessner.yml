@@ -19,6 +19,9 @@ attestations:
     number: 161
     description: Geldrische Mundart
     source: Aus Conr. Gesners Mithridates S. 44, und daraus in den folgenden Sammlungen
+  - book_title: Chamberlayne
+    page: 67
+    description: Geldrice
 text:
   "Onse Vayer, die ghey seit in den hemel;
    geheilicht[1] sey uwen naem; wu reyck ons toecoem,

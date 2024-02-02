@@ -18,6 +18,9 @@ attestations:
     source:
       "Aus des Franc. des Rues Description du Royaume de France,
        um 1610, am Ende, unter dem Nahmen Breton"
+  - book_title: Chamberlayne
+    page: 51
+    description: <Britannice Aremoricane> Aliter
 text:
   "Hon tad pehuny[1] sou en efaou,
    Da hanou bezet sanctifiet,

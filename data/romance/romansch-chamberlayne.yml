@@ -1,0 +1,20 @@
+language: Romansch
+attestations:
+  - book_title: Chamberlayne
+    page: 40
+    description: Rhaetice, Lingua Rumanscha
+  - book_title: Adelung Part 2
+    page: 610
+    number: 267
+    description: Eben dasselbe <Romanisch im Unter-Engadin>
+    source: Aus der Bibel, 1743
+text:
+  "Bap nos chi est n'ils tschels.
+   Fat sanct vegna teis Nom.
+   Teis Reginom vegna naun pro.
+   Tia voglia dvainta, sc'on tschel, usche eir in terra.
+   Nos paun d'imminchiadi da a nus hoz.
+   E perduna'ns nos debits, sco eir nus ils perdunam à nos debittaduors.
+   E nu'ns manar in provamaint,
+   Mo spendra'ns dal mal.
+   Perche chia teis ais il reginom è la pussaunza è la gloria in eternum. Amen."

@@ -3,6 +3,9 @@ attestations:
   - book_title: Bibliander
     number: 234
     description: Ebraica
+  - book_title: Duret
+    page: 405
+    description: Hebraique
 base: semitic/hebrew
 text:
   "Abinu aschar basschamaim

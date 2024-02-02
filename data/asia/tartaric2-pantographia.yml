@@ -17,6 +17,9 @@ attestations:
     number: 68
     description: Tatarisch
     source: Aus Chamberlayne, S. 12
+  - book_title: Chamberlayne
+    page: 12
+    description: Tartarice
 text:
   "Yâ[1] Atamùz ki yûksèk ghiôghdá sen, aadin âri
    olsoun, pâdishâh-líghin ghelsoun, boiruklérin

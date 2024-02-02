@@ -23,6 +23,9 @@ attestations:
     number: 53
     description: Aethiopisch
     source: Aus Jobi Ludolfi Grammat. Aethiop. London. 1661, 4, S. 10
+  - book_title: Chamberlayne
+    page: 27
+    description: Aethiopica Lectio
 base: semitic/geez
 text:
   "Abuna xabashamajath. Yithkadash shimacha

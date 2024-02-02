@@ -22,6 +22,9 @@ attestations:
     number: 231
     description: Sardinisch auf dem Lande
     source: Aus Megiser, Gesner und andern
+  - book_title: Chamberlayne
+    page: 42
+    description: Sardice, ut in Pagis
 text:
   "Babbu nostru, sughale ses in soschelus: santusiada
    su nomine tuo: bengiad su rennu tuo:

@@ -35,6 +35,9 @@ attestations:
     number: 59
     description: Gelehrt Armenisch
     source: Aus Chamberlayne, S. 15
+  - book_title: Chamberlayne
+    page: 15
+    description: Armenice
 base: asia/armenian
 text:
   "Hair mer or iercins des. Surb eglizzi anun

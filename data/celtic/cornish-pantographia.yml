@@ -12,6 +12,9 @@ attestations:
     number: 116
     description: Cornisch
     source: Aus der Sammlung London, 1700, und Chamberlayne, S. 50
+  - book_title: Chamberlayne
+    page: 50
+    description: Cornubice Alia Dialecto
 text:
   "Ny taz ez yn neau. Bonegas yw tha hanaw.
    Tha Gwlakath doaz. Tha bonogath bogweez

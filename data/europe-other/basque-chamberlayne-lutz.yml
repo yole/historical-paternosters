@@ -1,0 +1,18 @@
+language: Basque
+attestations:
+  - book_title: Chamberlayne
+    page: 44
+    description: Cantabrice, stylo Incolarum St. Johannis de Lutz
+  - book_title: Adelung Part 2
+    page: 29
+    number: 105
+    description: In Dialect von S. Jean de Luz in Labour.
+    source: Im Chamberlayne, S. 44, der es von einem Inländer hatte.
+text:
+  "Goure' aïta cerietan cirena.
+   Santificatudela çoure' icena.
+   Çoure' erresuma heldadila çoure' borondatia eguindadila lurrian cerien beçala.
+   Emaneçaguçu egun eguneco oguia.
+   Barkhaçaguçu goure' bekhatiac guc goure' ofenfaçaler barkhacendugun beçala.
+   Eta esquitçaceula utci tentationétala errortera.
+   Bena deliberaguit çacçu gaïtcetarik. Halabiç."

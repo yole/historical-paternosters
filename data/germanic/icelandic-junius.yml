@@ -13,6 +13,9 @@ attestations:
     number: 183
     description: Isländisch
     source: Aus der Isländischen Bibel von 1584, und so noch jetzt
+  - book_title: Chamberlayne
+    page: 69
+    description: Islandice
 text:
   "Fader vor thu som ert a himnum, helgest thitt
    nafn; tilkome thitt riike, verde thinn vilie, so

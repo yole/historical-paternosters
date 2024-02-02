@@ -1,0 +1,20 @@
+language: Basque
+attestations:
+  - book_title: Chamberlayne
+    page: 44
+    description: Cantabrice, stylo comuni.
+  - book_title: Adelung Part 2
+    page: 30
+    number: 106
+    description: Noch eine Formel. <Cantabrice>
+    source: Im Chamberlayne, S. 44, wo er sie 'stilo communi' nennt
+text:
+  "Gure Aita keruétan caréña.
+   Erabilbedi fainduqui çure Jcena.
+   Ethorbedi çure Erressuma.
+   Eguinbedi çure Borondatea çeru’an becala lurre’an ere.
+   Emandieçagucu egun gure egunorozco oguia.
+   Eta barkhadietcagutçu gure çorrac gucere gure cordunei barkhatcendiotçaguten becala.
+   Eta ezgaitçatcu utc tentacionétan erortcerat.
+   Aitçitic beguiragaitcatçu gaitc gucietaric.
+   Halabiz."

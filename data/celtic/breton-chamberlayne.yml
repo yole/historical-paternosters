@@ -1,0 +1,22 @@
+language: Breton
+attestations:
+  - book_title: Chamberlayne
+    page: 52
+    description: Britannice Aremoricane Alia Dialecto
+  - book_title: Adelung Part 2
+    page: 165
+    number: 119
+    description: In eben derselben Mundart <S. Paul de Leon>
+    source:
+      "Aus des Quiquer de Roskoff Dictionnaire von 1626, im Chamberlayne, S. 52,
+       und John Tolands several Pieces, Th. 1, S. 223"
+text:
+  "Hon Tat pehiny so en Euffaou.
+   Hozhano bezet santifiet.
+   Devet deomp ho Rovantelez.
+   Ho volontez bezet gret euel en euff hac en dovar.
+   Roit deomp hezieu hon bara pemdenhiek.
+   Ha pardonet deomp hon offansou euel ma pardonom
+   da nep en deves ny offanset.
+   Ha na permetet quet ez couezem en tentation.
+   Hoguen hon delivret a pechet."

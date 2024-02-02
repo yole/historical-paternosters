@@ -1,0 +1,20 @@
+language: West Frisian
+attestations:
+  - book_title: Chamberlayne
+    page: 68
+    description: Frisice communi stylo
+  - book_title: Adelung Part 2
+    page: 236
+    number: 147
+    description: Gemein Friesisch
+    source: Aus Chamberlayne S. 68, der es von einem gelehrten Friesen hatte. Er nennt es communi stilo.
+text:
+  "Oo! uiz ejne Hejte, derst uw biste ienne Hiemmel.
+   Dien Namme mut hollig wezze.
+   Dien Keuningdom mut neeakje.
+   Dien Wolle mut schien op d'ierde, alliek az ienne Hiemmel.
+   Jow uis joed uiz dejz Breea.
+   Scheld uiz uiz Schielden kwiet, alliek az wy uiz Schieldners kwietscheldje.
+   Bring uiz naat ien Bekooring.
+   Mar ferloz ujz fen it Oncke.
+   Om dat dienz iz it Keuningdom, de Krefft, in de Glaans ien iewigheit. Ammen."

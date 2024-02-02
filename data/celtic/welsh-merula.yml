@@ -13,6 +13,9 @@ attestations:
   - book_title: Merula
     page: 432
     description: Britannice apud Cambrobritannos in Anglia
+  - book_title: Chamberlayne
+    page: 52
+    description: Cambro-Britannice
 text:
   "Ein tâd yr hwn ydwyt yn y nefoedd. Sancteiddier
    dy enw. Deled dy deyrnas. Bydded dy ewyllys

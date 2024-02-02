@@ -1,0 +1,20 @@
+language: Sardinian
+attestations:
+  - book_title: Chamberlayne
+    page: 43
+    description: Sardice stylo Rustico
+  - book_title: Adelung Part 2
+    page: 533
+    number: 233
+    description: Dasselbe <Sardinisch auf dem Lande>
+    source: Aus Chamberlayne, S. 43, dem es Wanley verschafft hatte
+text:
+  "Babu nostra qui estas in sos chelus.
+   Sanctificadu sia su nomini tuo.
+   Begada su renno tuo.
+   Fagassi sa volontadi tua comenti in chelo, eé in sa terra.
+   Sa pane nostra d'ogni die dona a nosatros.
+   E' perdona nostro debitos comenti nosatros perdonamos nostro debitores.
+   E' non nos portis in tentatione.
+   Pero liberanos de male.
+   Amen."

@@ -16,6 +16,9 @@ attestations:
     number: 228
     description: Sardinisch in den Städten
     source: Aus Megiser, Andr. Müller und Chamberlayne
+  - book_title: Chamberlayne
+    page: 42
+    description: Sardice ut in oppidis loquuntur
 text:
   "Pare nostru, qui istas in sos quelos, siat sanctificadu
   su nomen teu: vengat à nois su regnu

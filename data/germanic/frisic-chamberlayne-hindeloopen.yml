@@ -1,0 +1,20 @@
+language: West Frisian
+attestations:
+  - book_title: Chamberlayne
+    page: 69
+    description: Frisice Hindelopensi dialecto
+  - book_title: Adelung Part 2
+    page: 238
+    number: 151
+    description: Hindelopisch
+    source: Aus Chamberlayne S. 68, der es von einem gelehrten Friesen hatte.
+text:
+  "Oo! Oejz ienne Feer, der jie ienne Hiemmel binne.
+   Jiez Nemme mut hall'ge wezze.
+   Jiez Kooniengdom mut naaikje.
+   Jiez Woalle mut scheen op d'Erde, lieth az ienne Hiemmel.
+   Jów aejz joea oejz deiz Brra.
+   Scheld oejz oejz Schiolden kwiet, liek az wie oejz Schioldners kwietschelde.
+   Brieng oejz naat ien Bekoorieng.
+   Mar los oejz fan its Oeunck.
+   Om dat jiez iez Kooniengdom, de Kreft, en de Gleanz ien iewiegheit. Amen"

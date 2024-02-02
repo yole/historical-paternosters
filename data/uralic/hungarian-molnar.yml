@@ -23,6 +23,9 @@ attestations:
     number: 328
     description: Ungarisch
     source: Aus der Ungarischen Bibel, 1776, 8.
+  - book_title: Chamberlayne
+    page: 88
+    description: Hungarice
 diff: no
 text:
   "Mi Atyánc kì vagy az mennyekben, ssenteltessec

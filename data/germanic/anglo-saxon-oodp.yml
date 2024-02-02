@@ -14,6 +14,9 @@ attestations:
     number: 197
     description: Dänisch-Sächsisch
     source: Aus den von Franc. Junius und Thom. Marshal zu Utrecht 1685 heraus gegebenen vier Evangelisten, Matth. 6
+  - book_title: Chamberlayne
+    page: 55
+    description: Anglo-Saxonice
 text:
   "Faether ure thu the eart on heofenum.
    Si thin nama gehalgod.

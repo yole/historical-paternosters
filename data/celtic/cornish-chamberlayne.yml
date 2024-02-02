@@ -1,0 +1,19 @@
+language: Cornish
+attestations:
+  - book_title: Chamberlayne
+    page: 50
+    description: Cornubice
+  - book_title: Adelung Part 2
+    page: 156
+    number: 117
+    description: Dasselbe <Cornisch> in einer andern Mundart, aus Chamberlayne, l.c.
+text:
+  "Nei Taz ba oz en nêv.
+   Bonegas boez tha Hano.
+   Tha glasgarn doaz.
+   Tha Bonogath bogweez en nôr pokara en nêv.
+   Dreu dho nei dithma gen kenevyn bara.
+   Ha givians nei gen pêhou kara nei givians gele.
+   Ha na lêdia nei idn tentation.
+   Byz dilver nei thart thart drôg.
+   Amen."

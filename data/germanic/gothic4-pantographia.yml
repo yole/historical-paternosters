@@ -22,6 +22,9 @@ attestations:
     number: 123
     description: Gothisch von 360
     source: Aus dem Ulphila, Matth. 6.
+  - book_title: Chamberlayne
+    page: 53
+    description: <Gothice> Lectio
 base: germanic/gothic
 text:
   "Atta unsar thu in himinam; veihnai namo

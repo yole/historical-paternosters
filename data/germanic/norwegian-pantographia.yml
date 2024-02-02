@@ -16,6 +16,9 @@ attestations:
     number: 180
     description: Norwegisch
     source: Aus Jo. Micrälii alten Pommerland, S. 124
+  - book_title: Chamberlayne
+    page: 71
+    description: Norwegice
 text:
   "Wor fader du som est y himmelen, gehailiget
    worde dit nafn; tilkomma os riga dit, din wilia

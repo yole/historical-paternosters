@@ -182,7 +182,7 @@ languages:
   family: Indo-European/Slavic
   url: https://en.wikipedia.org/wiki/Czech_language
 - name: Berrichon
-  family: Indo-European/Romance
+  family: Indo-European/Romance/French Dialects
   url: https://en.wikipedia.org/wiki/Berrichon_dialect
 - name: Breton
   family: Indo-European/Celtic
@@ -210,3 +210,18 @@ languages:
 - name: Old English
   family: Indo-European/Germanic
   url: https://en.wikipedia.org/wiki/Old_English
+- name: Sinhala
+  family: Indo-European/Iranian
+  url: https://en.wikipedia.org/wiki/Sinhala_language
+- name: Shilha
+  family: Afro-Asiatic/Berber
+  url: https://en.wikipedia.org/wiki/Shilha_language
+- name: Gascon
+  family: Indo-European/Romance/French Dialects
+  url: https://en.wikipedia.org/wiki/Gascon_dialect
+- name: Walloon
+  family: Indo-European/Romance
+  url: https://en.wikipedia.org/wiki/Walloon_language
+- name: Northern Sámi
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Northern_Sámi

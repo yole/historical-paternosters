@@ -1,0 +1,20 @@
+language: Walloon
+attestations:
+  - book_title: Chamberlayne
+    page: 67
+    description: Leodice sive Vallonice
+  - book_title: Adelung Part 2
+    page: 597
+    number: 255
+    description: Lüttichisch oder Wallonisch
+    source: Aus Chamberlayne
+text:
+  "Nos Peer, ki es a Cir.
+   Vos sen No seú'ye santifii.
+   Vos Roame nos adveigne.
+   Vos Volte seú'ye faite el Ter, kom a Cir.
+   Dine no ajourdou nos Pan quotidien.
+   Pardone no nos Ofence, kom no le pardonan a ciki nos on ofencé.
+   Ni no duhé nen diven de Tentacion.
+   Mai dilivre no di to Ma. 
+   Ensi seú'ye ti."

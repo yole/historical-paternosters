@@ -25,6 +25,9 @@ attestations:
     number: 207
     description: Alt-Griechisch
     source: Nach Matth. 6, nach der Griesbachischen Ausgabe
+  - book_title: Chamberlayne
+    page: 34
+    description: Graece
 text:
   "πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς,
   ἁγιασθήτω τὸ ὄνομά σου,

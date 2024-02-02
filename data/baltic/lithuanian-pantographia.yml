@@ -11,6 +11,9 @@ attestations:
   - book_title: Wilkins
     number: 35
     description: Lithuanian
+  - book_title: Chamberlayne
+    page: 87
+    description: Lithvanice
 text:
   "Tewe musu kursey esi danguy, szweskis wardas
    tawo. Ateyk karaliste tawo, buk walatawo

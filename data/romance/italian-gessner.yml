@@ -31,6 +31,9 @@ attestations:
   - book_title: Merula
     page: 800
     description: Italorum
+  - book_title: Chamberlayne
+    page: 41
+    description: Italice
 text:
   "Padre nostro, che sei ne’ cieli, sia santificato
    il nome tuo; venga il tuo regno; 

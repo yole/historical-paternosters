@@ -22,6 +22,9 @@ attestations:
     number: 114
     description: Alt-Wallisisch
     source: Aus Gesners Mithridates, S. 13
+  - book_title: Chamberlayne
+    page: 47
+    description: Britannice, veteri stylo
 normalize:
   uu: w
 text:

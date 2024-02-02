@@ -21,6 +21,12 @@ attestations:
   - book_title: Thevet Volume 2
     page: 882
     description: En Liuonien
+  - book_title: Chamberlayne
+    page: 87
+    description: Werulice
+  - book_title: Chamberlayne
+    page: 83
+    description: Livonice
 text:
   "Tabes mus, kas tu es eck sckan debbessis;
    schwetitz tows waarcz. Enack mums tows

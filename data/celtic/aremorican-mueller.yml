@@ -12,6 +12,9 @@ attestations:
     number: 122
     description: In einer andern unbenannten Mundart
     source: Im Chamberlayne, S. 51
+  - book_title: Chamberlayne
+    page: 51
+    description: Britannice Aremoricane
 text:
   "Hon tat pehing son in acou’n. Oth hano bezet
    sanctifiet. De vel de ompho rouantelez.

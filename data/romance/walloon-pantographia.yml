@@ -13,6 +13,9 @@ attestations:
     number: 310
     description: Walachisch
     source: Aus Ge. Stiernhelms Ulphila, nach Hervas Verbesserung
+  - book_title: Chamberlayne
+    page: 47
+    description: Wallice
 text:
   "Pærinthele nostru cela ce esti en cheri. Svintzas
    cæse numele teu. Vie enperetziæ ta. Facæse

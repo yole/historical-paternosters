@@ -9,6 +9,9 @@ attestations:
     description: Bengallee
     source: Orat. Dom. Amst. p. 23
   - book_title: Chamberlayne
+    page: 18
+    description: Malaice
+  - book_title: Chamberlayne
     page: 23
     description: Bengalice
     source: "ego litteris genti huic propiis, lingua autem Malaica expressi"

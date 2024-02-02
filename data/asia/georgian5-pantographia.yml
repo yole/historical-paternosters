@@ -13,6 +13,12 @@ attestations:
     number: 61
     description: Gelehrt Georgisch
     source: Aus der Bibel, Moskau, 1743, fol.
+  - book_title: Chamberlayne
+    page: 16
+    description: Georgiane
+  - book_title: Chamberlayne
+    page: 17
+    description: Iberice
 text:
   "Mamao cjueno romeli chbar zzahta sciua.
    Tzmida ikachn sa-chheli sceni. Sceni movedin

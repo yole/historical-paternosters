@@ -13,6 +13,9 @@ attestations:
     number: 113
     description: In der Mundart der Insel Man
     source: Aus des Bischof Thom. Wilson Works, Th. 1, S. 460
+  - book_title: Chamberlayne
+    page: 49
+    description: Manice
 text:
   "Ayr ain, t’ayns Niau. Casherick dy rou dt’ennym.
    Dy jigg dty Reereeaght. Dt’aigney dy

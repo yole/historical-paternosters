@@ -1,0 +1,22 @@
+language: Gascon
+attestations:
+  - book_title: Chamberlayne
+    page: 39
+    description: Vascovine
+  - book_title: Adelung Part 2
+    page: 595
+    number: 251
+    description: Gascognisch
+    source: Aus Chamberlayne, S. 39
+text:
+  "Nostré pairé qu'és al cél.
+   Toun Nou sio sanctificat.
+   Toun Régné béngo.
+   Ta boulountat sio facho én la térro coumo al cél.
+   Douno nous agoüéi nostré padé quado joun.
+   E perdouno-nous nostros ouffénsos coumo nous autrés
+   pérdounan én d'aquélis que nous au ouffensats.
+   E nou nous éndusuïésqués pas en téntacïeou.
+   Maï délïouro-nous del malin.
+   Car à Tu apértén lou Régné, la pouïsénso, é la glorio
+   als siéglés d'als siéglés. Atal siogo."

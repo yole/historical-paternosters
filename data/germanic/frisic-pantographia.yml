@@ -23,7 +23,9 @@ attestations:
   - book_title: De Lingua Getarum
     page: 98
     description: Lingua Frisica
-
+  - book_title: Chamberlayne
+    page: 68
+    description: Frisice
 text:
   "Ws Haita duu derstu biste yne hymil, dyn
    name wird heiligt, dyn ryck to komme, dyn
