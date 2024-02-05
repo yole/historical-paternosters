@@ -13,6 +13,9 @@ attestations:
     source:
       "Bibl. Belg. Lugd. de Anno 1639. Conf. Meg. n. 19. Pist. n. 17. 
        Reut. n. 24. TDER p. 258. Wilk. n. 20."
+  - book: Chamberlayne
+    page: 66
+    description: Belgice, Moderno stylo
 text:
   "Onse vader die in den hemelin sijt; uwen naem
    werde geheylight. Uw coninckrijcke icome.
@@ -43,3 +46,15 @@ text_variants:
      versoeckinge, naer verlost ons van den bosen.
      Want uw' is het Coninckrycke, ende de Tracht,
      ende de Heerlicheydt in der Eeuwicheyt. Amen."
+  Chamberlayne:
+    "Onse Vader die in de Hemelen zyt.
+     Uwen Naem werde geheylight.
+     Uw Koninckrycke kome.
+     Uwen Willie geschiede gelyck in den Hemel alzoo op der aerden.
+     Ons daegelicke Broodt geeft ons heden.
+     Ende vergeeft ons onse Schulden,
+     gelyck oock we vergeven onsen Schuldenaren.
+     Ende en leydt ons niet in versoekinge.
+     Maer verlost ons van den boosen.
+     Want uw' is het Koninckrycke endt de Macht ende de 
+     Heerlikheydt in der Eeuwigheydt. Amen."

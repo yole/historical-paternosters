@@ -19,6 +19,9 @@ attestations:
     number: 178
     description: Danisch von 1599
     source: Aus Hutters Neuem Testament
+  - book: Chamberlayne
+    page: 70
+    description: Danice
 text:
   "Pader vor du som est i himmelen. Helligt
    vorde dit naffn. Til komme dit rige. Borde
@@ -53,3 +56,14 @@ text_variants:
      Oc forlad oss vor Skyld, som wi forlade vore Skyldener.
      Oc leed oss icke i firstelse. Men frelss oss fra ont.
      Thi Rigit er dit, oc krafft, oc Herlighed i ewighed. Amen."
+  Chamberlayne:
+    "Vor Fader som er i Himmelen.
+     Helligt vorde dit Nafn.
+     Tilkomme dit Rige.
+     Vorde din villie paa Jorden som i Himmelen.
+     Gif os i dag vort daglige brod.
+     Og forlad os vor skyld som vi forlade vore skyldener.
+     Og leed os icke i fristelse.
+     Men frels os fra ont.
+     Thi Riget er dit og kraft og hevlighed i evighed.
+     Amen."

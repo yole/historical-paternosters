@@ -18,31 +18,56 @@ attestations:
     number: 198
     description: Von dem Papst Adrian, in Reimen um 1156.
     source: Aus Camden's Remains S. 32
+  - book: Chamberlayne
+    page: 71
+    description: Anglice, seculi XIImi
 text: |
   Ure fadyr in heaven rich.
-  Thy name be halyed[1] everlich[2].
+  Thy name be halyed everlich.
   Thou bring us thy michell blisse:
-  Als hit in heaven y[3]-doe,
-  Evar[4] in yearth beene it also[5].
-  That holy bread[6] that lasteth[7] ay.
-  Thou send it ous[8] this ilke[9] day.
-  Forgive ous[8] all that we havith[10] don.
-  As we forgivet[11] uch other mon[12]:
+  Als hit in heaven y-doe,
+  Evar in yearth beene it also.
+  That holy bread that lasteth ay.
+  Thou send it ous this ilke day.
+  Forgive ous all that we havith don.
+  As we forgivet uch other mon:
   Ne let ous fall into no founding,
-  Ac[13] sheild[14] ous fro the fowle thing. Amen.
+  Ac sheild ous fro the fowle thing. Amen.
+text_variants:
+  London: |
+    Ure fadyr in heaven rich.
+    Thy name be halyed ever lich.
+    Thou bring us thy michell blise:
+    Als vit in heveny doe,
+    Euear in yearth been it alsoe.
+    That holy breade that lasteith ay.
+    Thou send us this like day.
+    Forgive us all that we have don.
+    As we forgive uch other on:
+    Ne let ous fall into no founding,
+    Ne sheld ous fro the foule thing. Amen.
+  Pantographia: |
+    Ure fadyr in heaven rich.
+    Thy name be hallyed ever lich.
+    Thou bring us thy michell blisse:
+    Als hit in heaven y doe,
+    Evar in yearth beene it also.
+    That holy bread that lasteth ay.
+    Thou send it ous this ilke day.
+    Forgive ous all that we have don.
+    As we forgivet uch other mon:
+    Ne let ous fall into no founding,
+    Ac shield ous fro the fowle thing. Amen.
+  Chamberlayne: |
+    Ure fadyr in heauen rich.
+    Thy name be halyed ever lich.
+    Thou bring us thy michell bliese:
+    Als vit in heaveny doe,
+    Euear in yearth been it alsoe.
+    That holy breade that lasteith ay.
+    Thou send us this ilke day.
+    Forgive us all that we have don.
+    As we forgive uch other mon:
+    Ne let ous fall into no founding,
+    Ne sheld ous fro the foule thing. Amen.
 poetry: true
-footnotes:
-  1: "Pantographia: hallyed"
-  2: "Pantographia, London: ever lich"
-  3: "London: heveny"
-  4: "London: euear"
-  5: "London: been it alsoe"
-  6: "London: breade"
-  7: "London: lasteith"
-  8: "London: us"
-  9: "London: like"
-  10: "Pantographia, London: have"
-  11: "London: forgive"
-  12: "London: on"
-  13: "London: ne"
-  14: "London: sheld, Pantographia: shield"
