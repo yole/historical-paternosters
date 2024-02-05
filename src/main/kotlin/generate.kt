@@ -483,9 +483,9 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
     val template = Velocity.getTemplate("book.vm")
     val context = contextFromObject(book)
     val specimensWithAttestations = allSpecimens
-        .mapNotNull { specimen ->
-            val attestationInBook = specimen.attestations.find { a -> a.book == book }
-            attestationInBook?.let { specimen to it }
+        .flatMap { specimen ->
+            val attestationInBook = specimen.attestations.filter { a -> a.book == book }
+            attestationInBook.map { specimen to it }
         }
         .sortedBy { it.second.page?.let { p -> p * 100 + (it.second.number ?: 0) } ?: it.second.number }
 
