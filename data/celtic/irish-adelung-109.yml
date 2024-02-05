@@ -1,0 +1,21 @@
+language: Irish
+attestations:
+  - book: Adelung Part 2
+    page: 95
+    number: 109
+    description: Noch eine Formel <Irisch>
+    source:
+      "Aus eben demselben <Hervas Saggio prattico> No. 249, 
+       und Küttners Briefen über Ireland, S. 368"
+text:
+  "Air n'Arm ata air Neambh,
+   Beannaichear t'Anim.
+   Go ttigèa da Rioghacda.
+   Go deantar do Thoil air Talmhan, mar ta ar Neambh.
+   Tabhair dhuinn aniugh ar Naran laethamhail.
+   Agus maith dhuine ar Fiach, amhail mar maithmhidne ar Fiacha.
+   Na leig sinn Ambhuaribh.
+   Acht saorsa sinn on Olc.
+   Oir is leatsa Rioghacta, Cumhacta, agus
+   Gloir go'n Siarraidhe. Amen"
+  

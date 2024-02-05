@@ -1,0 +1,19 @@
+language: Irish
+attestations:
+  - book: Adelung Part 2
+    page: 94
+    number: 108
+    description: Eine andere Formel <Irisch>
+    source: Aus Hervas Saggio prattico No. 245
+text:
+  "Ar Athairne ta annsa Neamh.
+   Coisreachtha go ro Dtainin.
+   Go thig do Righereacht.
+   Dtaigini go ro deanta ar a Thallamh, mar
+   ta annsa Neamh.
+   Cuir dhuinn an Arran aniu is gach la.
+   Is leig dhuinn ar Lochtana, marata sinn
+   leig dhoibsean ata dheanadh Lochdan
+   an aigh sinn.
+   Is ni leigh sinn annsa Milliuidh.
+   Achd leabhara sinn bhe Olc."
