@@ -1,9 +1,9 @@
 language: Sardinian
 attestations:
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 43
     description: Sardice stylo Rustico
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 533
     number: 233
     description: Dasselbe <Sardinisch auf dem Lande>

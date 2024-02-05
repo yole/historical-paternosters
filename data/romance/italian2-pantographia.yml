@@ -1,6 +1,6 @@
 language: Italian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 168
     description: Italian 2
     source: the modern reading of the Lord's Prayer

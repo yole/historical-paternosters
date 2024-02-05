@@ -1,9 +1,9 @@
 language: Swedish
 attestations:
-  - book_title: Cosmographia
+  - book: Cosmographia
     page: 620
     description: "in Schweder sprach"
-  - book_title: Thevet Volume 2
+  - book: Thevet Volume 2
     page: 882
     description: En Suece
 text:

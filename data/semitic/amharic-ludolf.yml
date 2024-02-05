@@ -1,17 +1,17 @@
 language: Amharic
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 2
     description: Amharic
     source: Orat. Dom. p. 15
-  - book_title: London
+  - book: London
     page: 15
     description: Amharica
     source: J. Ludolf Gr. Aeth. p. 44 Conf. Meg. n. 3 Pist. n. 3 Wilk. n. 3
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 28
     description: Amharice Lectio
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 411
     number: 54
     description: Amharisch

@@ -1,19 +1,19 @@
 language: Prekmurje Slovene (?)
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 50
     description: Dalmatian 2
     source: Wilk. Ess. p. 435.
-  - book_title: Wilkins
+  - book: Wilkins
     number: 27
     description: Dalmatian
-  - book_title: Megiser
+  - book: Megiser
     number: 35
     description: Dalmatice. Molitva Gozpodinava
-  - book_title: Rocca
+  - book: Rocca
     page: 375
     description: Illyrice, vel Sclavonice, Latinis litteris
-  - book_title: London
+  - book: London
     page: 40
     description: Dalmatica
     source: Meg. n. 35. Conf. Pist. n. 26. Reut. n. 33. Wilk. n. 27.

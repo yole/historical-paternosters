@@ -1,28 +1,28 @@
 language: Portuguese
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 238
     description: Portuguese 1
     source: Guthrie, p. 813
-  - book_title: Megiser
+  - book: Megiser
     number: 16
     description: Lusitanice
-  - book_title: Rocca
+  - book: Rocca
     page: 374
     description: Lusitanica
-  - book_title: Wilkins
+  - book: Wilkins
     number: 10
     description: Porteguese
-  - book_title: London
+  - book: London
     page: 38
     description: Lusitanica
     source: Megis. n. 16. Conf. Pist. n. 13. Reut. n. 11. Roch. n. 18. Wilk. n. 10.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 556
     number: 241
     description: Portugiesisch
     source: Aus Bern. Aldrete Origen de la lengua Castellana, S. 259
-  - book_title: Merula
+  - book: Merula
     page: 301
     description: Portugallice
 text:

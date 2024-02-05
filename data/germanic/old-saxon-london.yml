@@ -1,15 +1,15 @@
 language: Old English
 attestations:
-  - book_title: London
+  - book: London
     page: 49
     description: Saxonica Antiqua
     source: Freber. Conf. Urs. Antiq. E. G. 133.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 332
     number: 194
     description: Dänisch-Sächsisch um 900
     source: Aus Will l'Isle Saxon Monuments und Camden's Remains, S. 31
-  - book_title: Remains Concerning Britain
+  - book: Remains Concerning Britain
     page: 16
 text:
   "Thu ure Fader, the eart on heofenum.

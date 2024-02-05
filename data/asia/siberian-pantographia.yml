@@ -1,13 +1,13 @@
 language: Kolyma Yukaghir
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 274
     description: Siberian
     source: Witsius's Description of Tartary
-  - book_title: Noord en Oost Tartarye
+  - book: Noord en Oost Tartarye
     page: 687
     description: Joekagirsche
-  - book_title: Hervas
+  - book: Hervas
     page: 158
     number: 105
     description: Jukagira

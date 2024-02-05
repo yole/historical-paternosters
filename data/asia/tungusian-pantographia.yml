@@ -1,21 +1,21 @@
 language: Evenki
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 296
     description: Tungusian
     source: Witsius' description of Tartary; Orat. Dom. Amst. p. 14
-  - book_title: Noord en Oost Tartarye
+  - book: Noord en Oost Tartarye
     page: 654
     description: Toengoesche
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 14
     description: Tungusiane
     source: ex singulari favore <...> Witsii accepi
-  - book_title: Hervas
+  - book: Hervas
     page: 155
     number: 100
     description: Kalmuko-Tongusa
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 529
     number: 81
     description: Tungusisch

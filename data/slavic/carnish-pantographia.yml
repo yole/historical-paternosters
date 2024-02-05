@@ -1,28 +1,28 @@
 language: Slovene
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 24
     description: Carnish
     source: Wilk. Ess. p. 435
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 11
     description: Carniolice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 26
     description: Carnish
     source: M.
-  - book_title: Megiser
+  - book: Megiser
     number: 33
     description: Illyrice seu Carniolanorum lingua
-  - book_title: Bohoric
+  - book: Bohoric
     page: 37
     description: Carniolana
-  - book_title: London
+  - book: London
     page: 41
     description: Carnorum
     source: Prim. Truber. Catech. p. 24. Meg. n. 33. Conf. Pist. n 27. Reut. n. 31. Wilk. n. 26.
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 81
     description: Carnice
 text:

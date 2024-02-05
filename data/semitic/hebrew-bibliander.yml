@@ -1,9 +1,9 @@
 language: Hebrew
 attestations:
-  - book_title: Bibliander
+  - book: Bibliander
     number: 234
     description: Ebraica
-  - book_title: Duret
+  - book: Duret
     page: 405
     description: Hebraique
 base: semitic/hebrew

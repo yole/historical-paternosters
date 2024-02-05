@@ -1,19 +1,19 @@
 language: Irish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 168
     description: Irish 7
     source: Biblia Hibernica, Lond. 1690. Orat. Dom. p. 57. Vallancey, p. 62.
-  - book_title: London
+  - book: London
     page: 57
     description: Hibernica
     source: Matth. vi. Bibl. Hibernica, Lond. 1690.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 91
     number: 107
     description: Irisch
     source: Aus Will. Bedells Irischen Bibel, London, 1685, 4, und 1690, 8
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 48
     description: Hibernice
 text:

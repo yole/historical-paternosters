@@ -1,22 +1,22 @@
 language: Romansh
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 104
     description: Grisons
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 16
     description: Grysons
-  - book_title: Megiser
+  - book: Megiser
     number: 10
     description: Rhatice, Lingua Curvalica
-  - book_title: Rocca
+  - book: Rocca
     page: 374
     description: vernaculo Rhetorum sermone conscripta, quem vulgo Romanum appellant
-  - book_title: Gessner
+  - book: Gessner
     page: 65
     description: in vernaculo Rhaetorum sermone, quem ipsi vulgo Romanum appellant, nostri Churwelsch
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 607
     number: 263
     description: Eben dasselbe <Romanisch>, angeblich nach der Mundart im Flecken Tusis

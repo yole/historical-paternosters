@@ -1,10 +1,10 @@
 language: Polish
 attestations:
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     description: Polonice
     number: 7
-  - book_title: Bohoric
+  - book: Bohoric
     page: 36
     description: Polonica
 text:

@@ -1,22 +1,22 @@
 language: Catalan
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 24
     description: Catalonian
     source: Orat. Dom. p. 36
-  - book_title: London
+  - book: London
     page: 36
     description: Catalanica
     source: Bern. Aldret. lib. 2 cap. 8.
-  - book_title: Alderete
+  - book: Alderete
     page: 62
     description: Catalan
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 553
     number: 236
     description: Catalonisch
     source: Aus Bern. Aldrete del Origen de la Lengua Castellana
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 45
     description: Catalanice
 text:

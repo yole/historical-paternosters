@@ -1,12 +1,12 @@
 language: Catalan
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 65
     description: Sardorum oppidanorum lingua
-  - book_title: Wilkins
+  - book: Wilkins
     number: 14
     description: Sardinian of the City
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 531
     number: 229
     description: Sardinisch in den Städten

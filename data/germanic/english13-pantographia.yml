@@ -1,6 +1,6 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 72
     description: English 13
     source: Anthony Purver’s new and literal translation of the Old and New Testament, published in 1764

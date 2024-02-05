@@ -1,6 +1,6 @@
 language: German
 attestations:
-  - book_title: London
+  - book: London
     page: 46
     description: Germanica alia
     source: Bibl. Germ. de Anno 1494. Lubec.

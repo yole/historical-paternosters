@@ -1,15 +1,15 @@
 language: Polish
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 56
     description: Polish
-  - book_title: Bibliander
+  - book: Bibliander
     page: 233
     description: Polonica
-  - book_title: Rocca
+  - book: Rocca
     page: 375
     description: Polonice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 34
     description: Polonian
 text:

@@ -107,14 +107,14 @@ class LanguageFamily(
 }
 
 class Attestation {
-    var book_title: String? = null
+    var book: String? = null
     var page: Int? = null
     var number: Int? = null
     var description: String? = null
     var source: String? = null
     var text_variant: String? = null
 
-    var book: Book? = null
+    var bookRef: Book? = null
 }
 
 class Specimen {
@@ -143,7 +143,7 @@ class Specimen {
         get() = footnoteRegex.replace(toSnippet(text, 5), "")
 
     val earliestAttestation: Attestation
-        get() = attestations.sortedBy { it.book?.year ?: Int.MAX_VALUE }.first()
+        get() = attestations.sortedBy { it.bookRef?.year ?: Int.MAX_VALUE }.first()
 }
 
 fun loadSpecimen(path: Path): Specimen {
@@ -451,7 +451,7 @@ fun generateSpecimen(specimen: Specimen, path: String) {
         for ((sources, textVariant) in specimen.text_variants) {
             val sourceNames = sources.split(',').map { it.trim() }
             for (sourceName in sourceNames) {
-                val attestation = specimen.attestations.find { it.book_title == sourceName }
+                val attestation = specimen.attestations.find { it.book == sourceName }
                 attestation?.text_variant = textVariant
             }
         }
@@ -484,7 +484,7 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
     val context = contextFromObject(book)
     val specimensWithAttestations = allSpecimens
         .flatMap { specimen ->
-            val attestationInBook = specimen.attestations.filter { a -> a.book == book }
+            val attestationInBook = specimen.attestations.filter { a -> a.bookRef == book }
             attestationInBook.map { specimen to it }
         }
         .sortedBy { it.second.page?.let { p -> p * 100 + (it.second.number ?: 0) } ?: it.second.number }
@@ -568,15 +568,15 @@ private fun resolveReferences(
 
     for (specimen in allSpecimens) {
         for (attestation in specimen.attestations) {
-            if (attestation.book_title == null) {
+            if (attestation.book == null) {
                 errors.add("No book title specified for attestation in ${specimen.path}")
             } else {
-                val book = books.find { it.title == attestation.book_title }
+                val book = books.find { it.title == attestation.book }
                 if (book == null) {
-                    errors.add("Unknown book ${attestation.book_title} in ${specimen.path}")
+                    errors.add("Unknown book ${attestation.book} in ${specimen.path}")
                     continue
                 }
-                attestation.book = book
+                attestation.bookRef = book
                 book.texts.add(specimen)
             }
         }
@@ -594,7 +594,7 @@ private fun resolveReferences(
             findOrCreateUncertainLanguage(language)
         }
         if (errors.isEmpty()) {
-            specimen.attestations.sortBy { it.book!!.year }
+            specimen.attestations.sortBy { it.bookRef!!.year }
         }
     }
 

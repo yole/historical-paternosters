@@ -1,6 +1,6 @@
 language: French
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 90
     description: French 3
     source: Guthrie, p. 849.

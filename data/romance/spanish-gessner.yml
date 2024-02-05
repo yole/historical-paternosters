@@ -1,9 +1,9 @@
 language: Spanish
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 50
     description: Hispanice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 9
     description: Spanish
 text:

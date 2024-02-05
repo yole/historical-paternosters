@@ -1,12 +1,12 @@
 language: Irish
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 30
     description: Hibernice
-  - book_title: Rocca
+  - book: Rocca
     page: 374
     description: Hibernice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 44
     description: Irish
 text:

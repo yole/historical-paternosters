@@ -1,26 +1,26 @@
 language: Swedish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 276
     description: Swedish 1
     source: The Lord's Prayer, from a bible in this language, Stockh. 1674; Wilk. Ess. p. 435
-  - book_title: Megiser
+  - book: Megiser
     number: 26
     description: Svetice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 24
     description: Swedish
-  - book_title: London
+  - book: London
     page: 48
     description: Svecica
     source:
       "Bibl. Svec. Stockholm. 1674. Conf. Dur. p. 869. Meg. n. 26. 
       Micr. p. 123. Munst. Cosmograph. IV 31. Pist. n. 21. Reut. n. 15. Wilk. n. 24"
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 313
     number: 186
     description: Heutiges Schwedisch
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 70
     description: Suecice
 text:

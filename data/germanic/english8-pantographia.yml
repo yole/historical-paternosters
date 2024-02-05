@@ -1,6 +1,6 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 68
     description: English 8
     source: Tyndale's translation, in the year 1526. Martin's Inst. p. 16.

@@ -1,9 +1,9 @@
 language: Walloon
 attestations:
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 67
     description: Leodice sive Vallonice
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 597
     number: 255
     description: Lüttichisch oder Wallonisch

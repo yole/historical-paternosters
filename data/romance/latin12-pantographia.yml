@@ -1,6 +1,6 @@
 language: Latin
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 178
     description: Latin 12
     source: Beza's folio edition, Genev. 1598

@@ -1,17 +1,17 @@
 language: Romanian
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 41
     description: Walachice seu Dacice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 31
     description: Walachian
     source: Megiserus
-  - book_title: London
+  - book: London
     page: 39
     description: Valachica
     source: Meg. 31. Conf. Wilk. 31.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 736
     number: 313
     description: Walachisch

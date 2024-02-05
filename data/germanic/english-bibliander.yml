@@ -1,6 +1,6 @@
 language: English
 attestations:
-  - book_title: Bibliander
+  - book: Bibliander
     page: 233
     description: Anglica
 text:

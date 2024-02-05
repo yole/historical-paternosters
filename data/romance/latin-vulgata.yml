@@ -1,17 +1,17 @@
 language: Latin
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 176
     description: Latin 9
     source: from the celebrated vulgate edition of St. Jerom. Orat. Dom. p. 33.
-  - book_title: London
+  - book: London
     page: 33
     description: Latina
     source: Vulgat. ex Ed. Sixti V. Papae Antwep 1603 p. 764. Conf. Meg. 8. Pist. 6. Reut. 7. Stiernh. n. ? Wilk. 8
-  - book_title: Megiser
+  - book: Megiser
     description: Latine
     number: 8
-  - book_title: Rocca
+  - book: Rocca
     description: Latine conscripta
     page: 367
 text:

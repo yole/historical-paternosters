@@ -1,22 +1,22 @@
 language: Old English
 attestations:
-  - book_title: Wilkins
+  - book: Wilkins
     number: 19
     description: Old Saxon
-  - book_title: London
+  - book: London
     page: 54
     description: Anglo-Saxonica altera vetustior
     source: Reut. n. 19. Conf. Wilk. n. 19.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 332
     number: 193
     description: Wahrscheinlich die vorige [Dänisch-Sächsisch] in einer andern Mundart
     source: Aus Will. Camden's Remains, S. 30
-  - book_title: Remains Concerning Britain
+  - book: Remains Concerning Britain
     page: 15
     description: antient Saxon
     source: Eadfride the eight Bishop of Lindisfarne
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 56
     description: Anglo-Saxonice, dialecto vetustiori
 text:

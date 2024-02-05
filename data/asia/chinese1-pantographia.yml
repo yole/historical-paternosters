@@ -1,10 +1,10 @@
 language: Chinese
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 42
     description: Chinese 1
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 42
     description: Chinish
 text:

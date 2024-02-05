@@ -1,7 +1,7 @@
 language: Slovene
 script: Cyrillic
 attestations:
-  - book_title: Bohoric
+  - book: Bohoric
     page: 8
     description: Exemplum Cyrilicae scripturae, unde lectionem addiscere licet
 text:

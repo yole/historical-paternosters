@@ -1,15 +1,15 @@
 language: Koine Greek
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 46
     description: Graeca
-  - book_title: Rocca
+  - book: Rocca
     page: 367
     description: Eadem Latinis characteribus
-  - book_title: Megiser
+  - book: Megiser
     number: 5
     description: Graece Latinis litteris
-  - book_title: Postel
+  - book: Postel
     page: 52
     description: Graeca
 base: europe-other/greek-byzantian

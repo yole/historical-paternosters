@@ -1,21 +1,21 @@
 language: Polish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 216
     description: Polish
     source: From a bible in this language, Dantz. 1632. Wilk. Ess. p. 435. Orat. Dom. p. 58
-  - book_title: London
+  - book: London
     page: 58
     description: Polonica
     source:
       "Bibl. Polon. Dant. 1632. Conf. N.T. Polon. Thorun. 1585. Dur. p. 869. Gesn. p. 62. Meg. n. 37. Pist. n. 30.
        Reut. n. 29. Wilk. n. 34"
-  - book_title: Megiser
+  - book: Megiser
     number: 37
     description: Polonice
-  - book_title: Danzig Bible
+  - book: Danzig Bible
     page: 1144
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 670
     number: 286
     description: Polnisch

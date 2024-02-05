@@ -1,13 +1,13 @@
 language: Armenian
 script: Armenian
 attestations:
-- book_title: Rocca
+- book: Rocca
   page: 371
   description: Armenicis sed Latinis litteris
-- book_title: Postel
+- book: Postel
   page: 66
   description: Armenica lingua
-- book_title: London
+- book: London
   page: 61
   description: Armenica
   source:

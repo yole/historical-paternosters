@@ -1,6 +1,6 @@
 language: Portuguese
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 240
     description: Portuguese 4
     source: a gentleman well acquainted with the language

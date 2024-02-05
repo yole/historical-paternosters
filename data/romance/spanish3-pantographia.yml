@@ -1,6 +1,6 @@
 language: Spanish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 276
     description: Spanish 3
     source: The reading of the Lord's Prayer in modern Spanish, communicated to me by a learned gentleman.

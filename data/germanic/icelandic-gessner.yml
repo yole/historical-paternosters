@@ -1,18 +1,18 @@
 language: Icelandic
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 48
     description: Islandica
-  - book_title: Rocca
+  - book: Rocca
     page: 374
     description: Islandice
-  - book_title: Megiser
+  - book: Megiser
     number: 25
     description: Islandice
-  - book_title: Bibliander
+  - book: Bibliander
     page: 233
     description: Island.
-  - book_title: Wilkins
+  - book: Wilkins
     number: 22
     description: Island
     source: Megiserus

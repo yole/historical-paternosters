@@ -1,16 +1,16 @@
 language: Spanish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 274
     description: Spanish 1
     source: From the New Testament in this language, Amst. 1625; Wilk. Ess. p. 435
-  - book_title: Megiser
+  - book: Megiser
     number: 15
     description: Hispanice
-  - book_title: Rocca
+  - book: Rocca
     page: 368
     description: Hispanice
-  - book_title: London
+  - book: London
     page: 36
     description: Hispanica
     source: Cypr. de Valera N. Test. Hisp. Amsteld. 1625. Conf. Gesn. f. 55 b. Meg. n. 15. Pist. n. 11. Reut. n. 10. Roch. n. 4. Stiernh. n. 3. Wilk. n. 9.

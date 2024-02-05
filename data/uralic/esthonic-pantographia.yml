@@ -1,19 +1,19 @@
 language: Estonian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 80
     description: Esthonic
     source: Orat. Dom. p. 43
-  - book_title: London
+  - book: London
     page: 43
     description: Esthonica
     source: Henr. Stahlius Hand-Buch P. I. p. 4. Conf. Reut. n. 40
-  - book_title: Stahl
+  - book: Stahl
     page: 25
-  - book_title: Hervas
+  - book: Hervas
     page: 161
     number: 118
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 85
     description: Esthonice
 text:

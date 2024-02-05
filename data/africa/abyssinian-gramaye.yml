@@ -1,20 +1,20 @@
 language: Fake?
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 2
     description: Abyssinian
     source: Orat. Dom. p. 26
-  - book_title: London
+  - book: London
     page: 26
     description: Abessinorum in Camara propre Goam
     source: Grammaye ap. D'Avity Afr. p. 471
-  - book_title: Gramaye Oratio
+  - book: Gramaye Oratio
     page: 5
     description: Sic orant Abyssini-Canarij.
-  - book_title: Hervas
+  - book: Hervas
     page: 149
     description: Lingua Abissino-Indostana
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 33
     description: Habyssinice, stylo Camarensi prope Goam
 text:

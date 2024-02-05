@@ -1,17 +1,17 @@
 language: Thai
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 272
     description: Siamic 2
     source: Orat. Dom. p. 32
-  - book_title: London
+  - book: London
     page: 32
     description: Siamica
     source: Legat. de Loubere
-  - book_title: Du Royaume du Siam
+  - book: Du Royaume du Siam
     page: 94
     description: Le Pater Noster en Siamois
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 95
     description: Siamisch
     source: Aus des la Loubere Royaume de Siam, Th. 2, S. 94

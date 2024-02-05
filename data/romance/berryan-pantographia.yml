@@ -1,13 +1,13 @@
 language: Berrichon
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 18
     description: Berryan
     source: Orat. Dom. p. 39
-  - book_title: London
+  - book: London
     page: 39
     description: Berriensis
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 594
     number: 249
     description: Provençalisch zu Berry

@@ -1,10 +1,10 @@
 language: Church Slavonic
 attestations:
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 13
     description: Walachice
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 646
     number: 269
     description: Uskokisch

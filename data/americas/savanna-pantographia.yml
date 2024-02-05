@@ -1,14 +1,14 @@
 language: Savanna (not existent)
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 258
     description: Savanna
     source: Orat. Dom. Amst. p. 89
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 89
     description: Savahanice
     source: Misit Reverendus Doctor le Jau, V. D., Minister S. Jacobi in Caroli- am Meridionali
-  - book_title: Hervas
+  - book: Hervas
     page: 52
     description: Shavanna, o Shawanniha
 bibliography:

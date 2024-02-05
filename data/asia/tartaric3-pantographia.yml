@@ -1,13 +1,13 @@
 language: Khanty (?)
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 288
     description: Tartaric 3
     source: Witsius’s description of Tartary, Vol. 2. p. 633,
-  - book_title: Noord en Oost Tartarye
+  - book: Noord en Oost Tartarye
     page: 633
     description: de Spaeke van d'Ostiaki
-  - book_title: Hervas
+  - book: Hervas
     page: 161
     number: 114
     description: Ostiaka

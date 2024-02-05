@@ -1,17 +1,17 @@
 language: Chinese (?)
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 196
     description: Mandarine 1
     source: Orat. Dom. p. 30
-  - book_title: London
+  - book: London
     page: 30
     description: Mandarinica
-  - book_title: Hervas
+  - book: Hervas
     page: 133
     number: 67
     description: Altro dialetto Cinese
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 59
     number: 2
     description: Dasselbe [Mandarinen-Chinesisch]

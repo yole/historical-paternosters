@@ -1,10 +1,10 @@
 language: Spanish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 276
     description: Spanish 2
     source: Orat. Dom. Amst. p. 45
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 45
     description: Hispanice
 text:

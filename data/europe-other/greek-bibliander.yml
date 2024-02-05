@@ -1,9 +1,9 @@
 language: Koine Greek
 attestations:
-  - book_title: Bibliander
+  - book: Bibliander
     page: 232
     description: Graeca
-  - book_title: Wilkins
+  - book: Wilkins
     number: 6
     description: Greek
 base: europe-other/greek-byzantian

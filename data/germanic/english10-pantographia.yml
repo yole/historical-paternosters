@@ -1,12 +1,12 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 70
     description: English 10
     source:
       "a translation by Sir John Cheke, Professor of Greek in the University of Cambridge, 
       in the reign of Edward VI. Orat. Dom. p. 69"
-  - book_title: London
+  - book: London
     page: 69
     description: Versio Cl. Viri Jo Checi, Edvardi VI. Praeceptoris Erudissimi
 text:

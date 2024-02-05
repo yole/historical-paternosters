@@ -1,20 +1,20 @@
 language: German
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 52
     description: High Dutch
     source: Guthrie, p. 746.
-  - book_title: Megiser
+  - book: Megiser
     number: 17
     description: Germanice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 18
     description: Germ. modern
-  - book_title: London
+  - book: London
     page: 47
     description: Germanica Hodierna
     source: Catech. Luth. Tom. IV Altenb. p. 468. Conf. Dur. p. 868. Meg. n. 17. Pist. n. 15. Reut. n. 14. Roch. n. 10. Wilk. n. 17.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 285
     number: 177
     description: Heutige Form des V.U.

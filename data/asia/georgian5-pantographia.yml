@@ -1,22 +1,22 @@
 language: Georgian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 98
     description: Georgian 5
     source: Orat. Dom. p. 31
-  - book_title: London
+  - book: London
     page: 31
     description: Gjorganica
     source: Magg. II. 137
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 434
     number: 61
     description: Gelehrt Georgisch
     source: Aus der Bibel, Moskau, 1743, fol.
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 16
     description: Georgiane
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 17
     description: Iberice
 text:

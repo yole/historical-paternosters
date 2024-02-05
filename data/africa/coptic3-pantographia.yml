@@ -1,18 +1,18 @@
 language: Fake
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 46
     description: Coptic 3
     source: Orat. Dom. p. 25
-  - book_title: London
+  - book: London
     page: 25
     description: Coptica quasi Antiqua
     source: Grammaye ap. D'Avity Afr. 297
-  - book_title: Gramaye Specimen
+  - book: Gramaye Specimen
     page: 18
     description: Aegyptiaco & Nilotico sermone
     source: Bapt. Fererius communicavit
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 30
     description: Coptice stylo ut dicitur antiquo
 text:

@@ -1,25 +1,25 @@
 language: Arabic
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 3
     description: Arabice
-  - book_title: Rocca
+  - book: Rocca
     page: 371
     description: Arabicis verbis, sed Latinis litteris
-  - book_title: Gessner
+  - book: Gessner
     page: 9
     description: Arabicis verbis, Latinis aute litteris
-  - book_title: Bibliander
+  - book: Bibliander
     page: 234
     description: Arabic.
-  - book_title: Postel
+  - book: Postel
     page: 32
     description: Punica, Arabica'ue
-  - book_title: London
+  - book: London
     page: 16
     description: Arabica Lectio
     source: Conf. Dur. p. 405. Gesn. p. 10 b. Meg. n. 3. Reut. n. 3. Wilk. n. 3.
-  - book_title: Thevet Volume 1
+  - book: Thevet Volume 1
     page: 339
     description: en langue Arabesque
 diff: false

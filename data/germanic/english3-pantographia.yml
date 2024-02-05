@@ -1,19 +1,19 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 64
     description: English 3
     source: "About 1160, in the reign of King Henry II. the annexed
      Lord’s Prayer was rendered in rhyme, and sent from
      Rome by Pope Adrian, an Englishman. Wilk. Ess. p. 7. Orat. Dom. p. 68."
-  - book_title: London
+  - book: London
     page: 68
     description: "Anglica altera Vetustior ab Adriano Pontifice
       (ex Anglorum gente oriundo) concinnata, ut a junioribus suis
       popularibus edisceretur, circa Annum 1156."
-  - book_title: Remains Concerning Britain
+  - book: Remains Concerning Britain
     page: 17
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 334
     number: 198
     description: Von dem Papst Adrian, in Reimen um 1156.

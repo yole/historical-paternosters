@@ -1,16 +1,16 @@
 language: Scottish Gaelic (?)
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 302
     description: Waldenses
     source: Orat. Dom. Amst. p. 39
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 39
     description: Waldense
-  - book_title: London
+  - book: London
     page: 52
     description: Waldensis
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 103
     number: 112
     description: In der Mundart des Fleckens Walden in Essex

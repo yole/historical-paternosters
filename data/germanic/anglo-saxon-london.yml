@@ -1,20 +1,20 @@
 language: Old English
 attestations:
-  - book_title: London
+  - book: London
     page: 53
     description: Anglo-Saxonica
     source: Fr. Junii Goth. & Angl. Saxon. Vers.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 331
     number: 191
     description: Dänisch-Sächsisch um 875
     source: Wie es König Alfred übersetzt haben soll, aus John Wilkins Essay towards a real Character, S. 7
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 334
     number: 197
     description: Dänisch-Sächsisch
     source: Aus den von Franc. Junius und Thom. Marshal zu Utrecht 1685 heraus gegebenen vier Evangelisten, Matth. 6
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 55
     description: Anglo-Saxonice
 text:

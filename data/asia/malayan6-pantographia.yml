@@ -1,14 +1,14 @@
 language: Malay
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 196
     description: Malayan 6
     source: Orat. Dom. Amst. p. 19
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 19
     description: Malaice. alia Dialecto.
     source: à Reverendi Viri Domini Francifci Valentini filia, Domina Cornelia Valentinia
-  - book_title: Hervas
+  - book: Hervas
     page: 132
     number: 63
     description: Secondo Dialetto Malayo

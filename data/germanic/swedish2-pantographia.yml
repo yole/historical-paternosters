@@ -1,6 +1,6 @@
 language: Swedish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 278
     description: Swedish 2
     source:

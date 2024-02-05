@@ -1,10 +1,10 @@
 language: Syriac
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 284
     description: Syriac 9
     source: The reading of the Lord's Prayer in the Stranghelo style; Orat. Dom. Amst. p. 9
-  - book_title: London
+  - book: London
     page: 12
     description: Syriace. Charactere Estrangelo
 text:

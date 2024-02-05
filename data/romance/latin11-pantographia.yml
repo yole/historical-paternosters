@@ -1,10 +1,10 @@
 language: Latin
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 178
     description: Latin 11
     source: Castellio’s Biblia Sacra. Frankf. 1697,
-  - book_title: London
+  - book: London
     page: 33
     description: Latina, Alia Versio, a Seb. Castalione
 text:

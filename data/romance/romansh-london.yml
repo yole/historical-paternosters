@@ -1,13 +1,13 @@
 language: Romansh
 attestations:
-  - book_title: London
+  - book: London
     page: 35
     description: Rhaetica seu Grisonum
     source: Gessner f. 72 b. Conf. Meg. n. 10. Pist. n. 8. Reut. n. 34. Roch. n. 16. Stiernh. n. 5. Wilk. n. 16. V. Catech. Rhaet. Bifrontis, & Campetti
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 40
     description: Rhaetice seu Grisonum stylo communi
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 608
     number: 265
     description: Eben dasselbe <Romanisch>

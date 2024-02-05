@@ -41,12 +41,12 @@
 #end
     #if($baseSpecimen)
     <p>
-        Based on <a href="/$baseSpecimen.outPath">${baseSpecimen.attestations[0].book.title}</a>
+        Based on <a href="/$baseSpecimen.outPath">${baseSpecimen.attestations[0].bookRef.title}</a>
     #end
 <h3>Attested In</h3>
 <ul>
     #foreach($attestation in $attestations)
-        <li><a href="/$attestation.book.outPath">$attestation.book.title</a>
+        <li><a href="/$attestation.bookRef.outPath">$attestation.bookRef.title</a>
             #if($attestation.page)
                 p. $attestation.page
             #end

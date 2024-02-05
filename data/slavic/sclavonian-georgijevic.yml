@@ -1,30 +1,30 @@
 language: Prekmurje Slovene (?)
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 268
     description: Sclavonian 3
     source: Duret, p. 744; Orat. Dom. p. 59
-  - book_title: London
+  - book: London
     page: 59
     description: Slavonica Charactere Hieronymiano (Lectio)
     source: Georgieviz. pag. 115. Conf. Dur. p. 744, Gesn. p. 62 a, Pist. n. 62, Reut. n. 28
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 3
     description: Dalmatice
-  - book_title: Gessner
+  - book: Gessner
     page: 55
     description: Illyrice vel Slavonice
-  - book_title: Bibliander
+  - book: Bibliander
     page: 233
     description: Illyrica
-  - book_title: De Turcarum moribus epitome
+  - book: De Turcarum moribus epitome
     page: 104
     description: Sclauon. Ling.
-  - book_title: Thevet Volume 2
+  - book: Thevet Volume 2
     page: 778
     description: Esclauon.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 652
     number: 275
     description: Dalmatisch-Kroatisch

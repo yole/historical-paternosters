@@ -1,21 +1,21 @@
 language: Norn
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 216
     description: Orcadian
     source: Orat. Dom. p. 65
-  - book_title: London
+  - book: London
     page: 65
     description: Orcadica
-  - book_title: Account of the Islands of Orkney
+  - book: Account of the Islands of Orkney
     page: 68
     description: Norns
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 304
     number: 182
     description: Mundart auf den Orkneys
     source: Aus James Wallace's account of the Islands of Orkneys, Lond. 1700, S. 68
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 74
     description: Orcadice
 text:

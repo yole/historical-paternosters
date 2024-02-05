@@ -1,20 +1,20 @@
 language: Danish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 50
     description: Danish
     source: Wilk. Ess. p. 435. Orat. Dom. p. 55.
-  - book_title: Wilkins
+  - book: Wilkins
     number: 21
     description: Danish
-  - book_title: Megiser
+  - book: Megiser
     number: 23
     description: Danice
-  - book_title: London
+  - book: London
     page: 55
     description: Danica
     source: N. T. Hutt. Norib. 1599. Conf. Meg. n. 23. Micr. p. 123. Pist. n. 24. Reut. n. 16. Wilk. n. 21.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 301
     number: 178
     description: Danisch von 1599

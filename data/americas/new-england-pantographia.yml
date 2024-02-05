@@ -1,29 +1,29 @@
 language: Massachusett
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 58
     description: New England
     source: Wilk. Ess. p. 435
-  - book_title: Pantographia
+  - book: Pantographia
     page: 300
     description: Virginian
     source: Orat. Dom. p. 64
-  - book_title: Lutheri Catechismus Virginiske Spraket
+  - book: Lutheri Catechismus Virginiske Spraket
     page: 130
     description: Lingua Virginiana
     source: Bibl. Virgin. Cantabrig. Nov. Angl. 1663
-  - book_title: Wilkins
+  - book: Wilkins
     number: 49
     description: New England
-  - book_title: London
+  - book: London
     page: 62
     description: Virginiana
     source: Wilk. n. 49. Conf. Bibl. Virgin. Cantabrig. Nov. Angl. 1663
-  - book_title: Eliot Indian Bible
-  - book_title: Hervas
+  - book: Eliot Indian Bible
+  - book: Hervas
     page: 126
     description: Virginese
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 90
     description: Virginice
 text:

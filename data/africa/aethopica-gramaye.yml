@@ -1,22 +1,22 @@
 language: Fake?
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 2
     description: Angolan
     source: Orat. Dom. p. 25
-  - book_title: London
+  - book: London
     page: 25
     description: Angolana
     source: Grammaye ap. D'Avity Afr. p. 471
-  - book_title: Gramaye Specimen
+  - book: Gramaye Specimen
     page: 23
     description: Aethopica
     source: meus mihi Aethiops interpretatus est
-  - book_title: Hervas
+  - book: Hervas
     page: 224
     number: 303
     description: Altra orazione in Angolano
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 32
     description: Angolane
 text:

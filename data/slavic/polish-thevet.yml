@@ -1,6 +1,6 @@
 language: Polish
 attestations:
-  - book_title: Thevet Volume 2
+  - book: Thevet Volume 2
     page: 882
     description: Polonoise
 text:

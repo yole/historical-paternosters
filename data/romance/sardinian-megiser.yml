@@ -1,22 +1,22 @@
 language: Sardinian/Catalan
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 256
     description: Sardinian 1
     source: Duret, p. 818
-  - book_title: Megiser
+  - book: Megiser
     number: 12
     description: Sardorum Oppidanorum Linguâ
-  - book_title: London
+  - book: London
     page: 37
     description: Sardica, ut in Oppidis loqu.
     source: Meg. n. 12. Conf. Gesn. f. 74 a. Pist. n. 10. Reut. n. 12. Roch. n. 21. Stiernh. n. 6.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 531
     number: 228
     description: Sardinisch in den Städten
     source: Aus Megiser, Andr. Müller und Chamberlayne
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 42
     description: Sardice ut in oppidis loquuntur
 text:

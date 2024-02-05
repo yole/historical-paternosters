@@ -1,16 +1,16 @@
 language: Manchu
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 288
     description: Tartaric 4
     source: Orat. Dom. Amst. p. 13
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 13
     description: Tartarice. Tartarorum Sinensium stylo.
     source:
       "Hanc ex autographo Epistolae J. Bouvet Jesuitae ad lllustrem Dn. Leibnitium 
       mihi misit Eruditiilimus Dominus Lacrosius"
-  - book_title: Hervas
+  - book: Hervas
     page: 151
     description: Mongolo-Cinese
 text:

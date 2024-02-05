@@ -1,28 +1,28 @@
 language: Welsh
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 20
     description: Ancient British 1
     source: Orat. Dom. p. 50
-  - book_title: London
+  - book: London
     page: 50
     description: Britannica Vetus.
     source: Meg. n. 29. Conf. Gesn. p. <?> Pist. n. 25
-  - book_title: Megiser
+  - book: Megiser
     number: 29
     description: "Cambrice seu Anglo Saxonice: vel lingua Vallica & veteri Britannica"
-  - book_title: Rocca
+  - book: Rocca
     page: 371
     description: Aramaea Latinis litteris conscripta
-  - book_title: Gessner
+  - book: Gessner
     page: 14
     description: "lingua Vuallica seu Britannica uetere"
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 152
     number: 114
     description: Alt-Wallisisch
     source: Aus Gesners Mithridates, S. 13
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 47
     description: Britannice, veteri stylo
 normalize:

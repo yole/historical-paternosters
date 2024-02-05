@@ -1,32 +1,32 @@
 language: Slovene
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 272
     description: Servian 4
     source: Orat. Dom. Amst. p. 81
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 81
     description: Service
     source: supra dictus Dominus Birndorff correxit
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 1
     description: Cyrilice
-  - book_title: Megiser
+  - book: Megiser
     number: 32
     description: "Sclavonice: Lingua Serviana & Cyrilica"
-  - book_title: Bohoric
+  - book: Bohoric
     page: 8
     description: Exemplum Cyrilicae scripturae, unde lectionem addiscere licet
-  - book_title: Wilkins
+  - book: Wilkins
     number: 30
     description: Servian
     source: Megiserus
-  - book_title: London
+  - book: London
     page: 41
     description: Servica
     source: Meg. n. 32. Conf. Wilk. n. 30.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 651
     number: 272
     description: Kroatisch

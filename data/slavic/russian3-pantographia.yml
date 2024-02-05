@@ -1,10 +1,10 @@
 language: Russian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 248
     description: Russian 3
     source: Orat. Dom. Amst. p. 78
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 78
     description: Moscovitice
     source: "Nobilissimus Dnus Birndorff Ablegatus Hungariae et Transylvaniae Ecclesiarum <...> pro Dno. Chamberlaynio accurate conscripsit"

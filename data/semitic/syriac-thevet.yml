@@ -1,6 +1,6 @@
 language: Syriac
 attestations:
-  - book_title: Thevet Volume 1
+  - book: Thevet Volume 1
     page: 339
     description: en langue Syriaque
 text:

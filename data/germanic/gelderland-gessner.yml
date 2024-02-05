@@ -1,25 +1,25 @@
 language: Dutch
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 104
     description: Guelderland
     source: Orat. Dom. p. 56
-  - book_title: London
+  - book: London
     page: 56
     description: Geldrica
     source: Meg. n. 21. Conf. Gesn. f. 49a. Pist. n. 18. Reut. n. 25
-  - book_title: Megiser
+  - book: Megiser
     number: 21
     description: Geldrice
-  - book_title: Gessner
+  - book: Gessner
     page: 44
     description: Geldrice
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 251
     number: 161
     description: Geldrische Mundart
     source: Aus Conr. Gesners Mithridates S. 44, und daraus in den folgenden Sammlungen
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 67
     description: Geldrice
 text:

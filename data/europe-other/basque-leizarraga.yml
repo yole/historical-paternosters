@@ -1,36 +1,36 @@
 language: Basque
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 20
     description: Biscayan
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 45
     description: Biscan
-  - book_title: Megiser
+  - book: Megiser
     number: 31
     description: Cantabrice
-  - book_title: London
+  - book: London
     page: 38
     description: Biscaina, sive Cantabrica
     source: Wilk. n. 45. Conf. Meg. 31. Reut. n. 20.
-  - book_title: Leizarraga
+  - book: Leizarraga
     page: 10
-  - book_title: Hervas
+  - book: Hervas
     page: 210
     number: 260
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 28
     number: 103
     description: In Dialect von Unter-Navarra oder Labour.
     source: Aus des Jean de Liçarrague von Briscous übersetzen N. T. Rochelle, 1571, 8.
-  - book_title: De Lingua Getarum
+  - book: De Lingua Getarum
     page: 92
     description: Cantabrice
-  - book_title: Merula
+  - book: Merula
     page: 302
     description: Cantabrice
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 43
     description: Cantabrice
 text:

@@ -1,11 +1,11 @@
 language: Ge'ez
 script: Ge'ez
 attestations:
-  - book_title: London
+  - book: London
     page: 14
     description: Aethiopica
     source: J. Ludolf. Gr. Aeth. p. 11. Conf. N. T. Aeth. ll. cc.
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 27
     description: Aethiopice
 text:

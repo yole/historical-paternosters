@@ -1,14 +1,14 @@
 language: Arabic
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 200
     description: Melindana
     source: Orat. Dom. p. 26
-  - book_title: London
+  - book: London
     page: 26
     description: Melindana
     source: Grammaye ap. D'Avity Afr. p. 497. Est hæc versio plane Arabico, Ideóque è superioribus corrigenda.
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 32
     description: Melindane
 text:

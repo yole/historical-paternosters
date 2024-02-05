@@ -1,11 +1,11 @@
 language: Gothic
 script: Gothic
 attestations:
-  - book_title: London
+  - book: London
     page: 21
     description: Gothica
     source: N. Test. Goth. Stiernh. Lim. Gloss. Goth. Conf. Meg. n. 24. Pist. n. 22. Vulcan. de Lit. & Lingu. Get. p. 33
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 53
     description: Gothice
 text:

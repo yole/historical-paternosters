@@ -1,24 +1,24 @@
 language: Czech
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 20
     description: Bohemian
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 32
     description: Bohemian
     source: Gesnerus
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 6
     description: Bohemice
-  - book_title: Rocca
+  - book: Rocca
     page: 372
     description: sermone Bohemico
-  - book_title: Gessner
+  - book: Gessner
     page: 58
     description: sermone Bohemico
-  - book_title: Bohoric
+  - book: Bohoric
     page: 37
     description: Boêmica
 text:

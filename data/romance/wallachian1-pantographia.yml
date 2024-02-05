@@ -1,10 +1,10 @@
 language: Romanian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 302
     description: Wallachian 1
     source: Orat. Dom. Amst. p. 77
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 77
     description: Walachice
     source: "Nobilissimus Dnus Birndorff Ablegatus Hungariae et Transylvaniae Ecclesiarum <...> pro Dno. Chamberlaynio accurate conscripsit"

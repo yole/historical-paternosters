@@ -1,25 +1,25 @@
 language: French
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 90
     description: French 2
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 11
     description: French
-  - book_title: Megiser
+  - book: Megiser
     number: 14
     description: Gallice
-  - book_title: Rocca
+  - book: Rocca
     page: 368
     description: Gallica lingua politiori
-  - book_title: Gessner
+  - book: Gessner
     page: 26
     description: Gallica lingua communi & tersiore
-  - book_title: Bibliander
+  - book: Bibliander
     page: 232
     description: Gallica
-  - book_title: Merula
+  - book: Merula
     page: 431
     description: Francice
 text:

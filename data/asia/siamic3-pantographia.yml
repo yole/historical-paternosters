@@ -1,14 +1,14 @@
 language: Thai
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 274
     description: Siamic 3
     source: Orat. Dom. Amst. p. 22
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 22
     description: Siamice
     source: Exinde ad manus Clar. Lacrosii pervenit qui eam mecum communicavit operi huic inferendam
-  - book_title: Hervas
+  - book: Hervas
     page: 135
     number: 69
     description: Lingua Siamese

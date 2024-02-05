@@ -1,6 +1,6 @@
 language: German
 attestations:
-  - book_title: Rocca
+  - book: Rocca
     page: 373
     description: Helvetice
 text:

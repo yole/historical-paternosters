@@ -1,6 +1,6 @@
 language: Hungarian
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 40
     description: Hungarice
 text:

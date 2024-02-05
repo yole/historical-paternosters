@@ -1,6 +1,6 @@
 language: Hungarian
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 51
     description: Hungarice
 text:

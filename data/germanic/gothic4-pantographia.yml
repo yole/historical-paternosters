@@ -1,28 +1,28 @@
 language: Gothic
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 102
     description: Gothic 4
     source: Orat. Dom. p. 21. Wilk. Ess. p. 435
-  - book_title: London
+  - book: London
     page: 21
     description: Gothica
     source: N. Test. Goth. Stiernh. Lim. Gloss. Goth. Conf. Meg. n. 24. Pist. n. 22. Vulcan. de Lit. & Lingu. Get. p. 33 Reut. n. 22. T.S.E.R. p. 250
-  - book_title: Wilkins
+  - book: Wilkins
     number: 25
     description: Gothic
     source: Megiserus
-  - book_title: Megiser
+  - book: Megiser
     number: 24
     description: Gothice
-  - book_title: De Lingua Getarum
+  - book: De Lingua Getarum
     page: 35
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 185
     number: 123
     description: Gothisch von 360
     source: Aus dem Ulphila, Matth. 6.
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 53
     description: <Gothice> Lectio
 base: germanic/gothic

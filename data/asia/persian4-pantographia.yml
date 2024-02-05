@@ -1,10 +1,10 @@
 language: Persian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 222
     description: Persian 4
     source: Orat. Dom. Amst. p. 9
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 9
     description: Percice. stylo communi
     source: ex Exemplaribus impressis

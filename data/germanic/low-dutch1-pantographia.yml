@@ -1,13 +1,13 @@
 language: Dutch
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 52
     description: Low Dutch 1
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 20
     description: Dutch
-  - book_title: London
+  - book: London
     page: 49
     description: Belgica
     source:

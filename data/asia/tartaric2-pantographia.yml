@@ -1,23 +1,23 @@
 language: Turkish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 288
     description: Tartaric 2
     source: Orat. Dom. p. 19
-  - book_title: London
+  - book: London
     page: 19
     description: Tartarica
     source: Vide Schildb. p. ult. Conf. Meg. n. 44. Wilk. n. 38
-  - book_title: Hervas
+  - book: Hervas
     page: 154
     number: 98
     description: Dialetto Tartaro
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 478
     number: 68
     description: Tatarisch
     source: Aus Chamberlayne, S. 12
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 12
     description: Tartarice
 text:

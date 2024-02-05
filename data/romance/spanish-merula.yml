@@ -1,6 +1,6 @@
 language: Spanish
 attestations:
-  - book_title: Merula
+  - book: Merula
     page: 299
     description: Hispanice
 text:

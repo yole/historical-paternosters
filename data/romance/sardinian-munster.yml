@@ -1,28 +1,28 @@
 language: Sardinian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 256
     description: Sardinian 2
     source: Duret, p. 818
-  - book_title: Megiser
+  - book: Megiser
     number: 13
     description: Sardorum communiori lingua
-  - book_title: Gessner
+  - book: Gessner
     page: 66
     description: in Sardorum communiori lingua, extra civitates
-  - book_title: Wilkins
+  - book: Wilkins
     number: 15
     description: Sardinian of the Countrey
-  - book_title: London
+  - book: London
     page: 37
     description: Sardica ut in Pagis
     source: Meg. n. 13. Conf. Gesn. l. c. Pist. n. 12. Reut. n. 13. Roch. n. 22. Stiernh. n. 7. Wilk. n. 15.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 532
     number: 231
     description: Sardinisch auf dem Lande
     source: Aus Megiser, Gesner und andern
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 42
     description: Sardice, ut in Pagis
 text:

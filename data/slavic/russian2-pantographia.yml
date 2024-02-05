@@ -1,6 +1,6 @@
 language: Russian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 247
     description: Russian 2
     source: The Lord’s Prayer, as used at the present day in the public service of the church in Russia.

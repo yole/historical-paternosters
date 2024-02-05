@@ -1,17 +1,17 @@
 language: Lower Sorbian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 300
     description: Vandal
     source: Orat. Dom. Amst. p. 80*
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 80
     description: Vandalice Aliter
     source: "Ex Appendice Tom. 3 Dissert. Misc. Cl. Relandi descripsi"
-  - book_title: Reland
+  - book: Reland
     page: 302
     description: Vandalice
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 8
     description: Vandalice

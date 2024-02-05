@@ -1,6 +1,6 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 70
     description: English 12
     source: In 1610 <...> we find it in a Bible, printed at London by Barker

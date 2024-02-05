@@ -1,29 +1,29 @@
 language: Malay
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 192
     description: Malayan 2
     source: "from the Malay Testament, Edit. Oxf. 1677, in the author’s possession."
-  - book_title: Pantographia
+  - book: Pantographia
     page: 312
     description: Bengallee
     source: Orat. Dom. Amst. p. 23
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 18
     description: Malaice
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 23
     description: Bengalice
     source: "ego litteris genti huic propiis, lingua autem Malaica expressi"
-  - book_title: London
+  - book: London
     page: 20
     description: Malaica
     source: N. Test. Mal. Ed. Oxon. 1677
-  - book_title: Hervas
+  - book: Hervas
     page: 132
     number: 64
     description: Lingua Bengala
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 105
     number: 10
     description: Malayisch

@@ -1,31 +1,31 @@
 language: Koine Greek
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 46
     description: sermone & characteribus Graecis
-  - book_title: Rocca
+  - book: Rocca
     page: 367
     description: sermone & characteribus Graecis
-  - book_title: Megiser
+  - book: Megiser
     number: 5
     description: Graece, communiter
-  - book_title: Pantographia
+  - book: Pantographia
     page: 134
     description: Greek 34
     source: Orat. Dom. p. 5
-  - book_title: London
+  - book: London
     page: 5
     description: Orationis Dominicae Textus Authenticus
     source: Matth. VI 9 seqq. Edit Reg Antv. Conf. Gesn. f. 52. Meg. n. 5. Pist. n. 5. Reut. n. 5.
-  - book_title: Postel
+  - book: Postel
     page: 52
     description: Graeca
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 446
     number: 207
     description: Alt-Griechisch
     source: Nach Matth. 6, nach der Griesbachischen Ausgabe
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 34
     description: Graece
 text:

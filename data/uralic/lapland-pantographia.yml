@@ -1,28 +1,28 @@
 language: Finnish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 180
     description: Lapland
     source: Duret, p. 869. Wilk. Ess. p. 435. Orat. Dom. p. 44
-  - book_title: London
+  - book: London
     page: 44
     description: Lapponica
     source: Meg. n. 41. Confer. Dur. p. 869. Pist. n. 34. Reut. n. 39. Wilk. n. 23
-  - book_title: Wilkins
+  - book: Wilkins
     number: 23
     description: Lappian
     source: Megiserus
-  - book_title: Megiser
+  - book: Megiser
     number: 41
     description: Finnonice, vel lingua silvestrium Laporum.
-  - book_title: Cosmographia
+  - book: Cosmographia
     page: 620
     description: "in Finlendischer und Pilappener sprach deren sich ettlich Lysiender gebrauchen"
-  - book_title: Hervas
+  - book: Hervas
     page: 161
     number: 116
     description: Dialetti Lapponesi
-  - book_title: Thevet Volume 2
+  - book: Thevet Volume 2
     page: 882
     description: En Lappon & Finnois
 text:

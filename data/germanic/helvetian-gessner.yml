@@ -1,23 +1,23 @@
 language: Swiss German
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 140
     description: Helvetian
     source: Orat. Dom. p. 47
-  - book_title: London
+  - book: London
     page: 47
     description: Helvetica
     source: Gesn. f. 42.a. & 46.a. Conf. Meg. n. 18. Pist. n. 16. T.D.C.R. p. 255
-  - book_title: Gessner
+  - book: Gessner
     page: 37
     description: in lingua Germanica communi, vel Helvetica
-  - book_title: Megiser
+  - book: Megiser
     number: 18
     description: Helvetice
-  - book_title: Bibliander
+  - book: Bibliander
     page: 233
     description: German.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 203
     number: 139
     description: Schweizerisch

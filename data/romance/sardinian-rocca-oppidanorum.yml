@@ -1,9 +1,9 @@
 language: Sardinian
 attestations:
-  - book_title: Rocca
+  - book: Rocca
     page: 376
     description: Sardorum Oppidanorum lingua
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 532
     number: 230
     description: Sardinisch in den Städten

@@ -1,20 +1,20 @@
 language: Old Prussian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 242
     description: Prussian 1
     source: Orat. Dom. Amst. p. 85
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 85
     description: Prutenice. ex. Chr. Hartknochio
     source: ex Chr. Hartknochii Dissert. 5 de Ling. vet. Prus. pag. 86. 87
-  - book_title: Hartknoch
+  - book: Hartknoch
     page: 93
-  - book_title: Hervas
+  - book: Hervas
     page: 164
     number: 126
     description: Prutenica
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 704
     number: 301
     description: Alt-Preussisch

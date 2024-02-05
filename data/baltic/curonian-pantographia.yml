@@ -1,14 +1,14 @@
 language: Latvian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 314
     description: Courlandic
     source: Orat. Dom. Amst. p. 84
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 84
     description: Curlandice
     source: ex Brandtii itinerario per illas regiones hausi
-  - book_title: Brand
+  - book: Brand
     page: 74
     description: Churländisch
 text:

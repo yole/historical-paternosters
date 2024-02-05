@@ -1,24 +1,24 @@
 language: Breton
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 14
     description: Aremorican 2
     source: Orat. Dom. p. 51
-  - book_title: London
+  - book: London
     page: 51
     description: Britannica Aremoricana (Alia Versio)
     source: P. Merulae Cosmograph. pag. 331
-  - book_title: Merula
+  - book: Merula
     page: 432
     description: Britannice apud Aremoricos in Galliis
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 166
     number: 121
     description: In der Mundart Trecorienne
     source:
       "Aus des Franc. des Rues Description du Royaume de France,
        um 1610, am Ende, unter dem Nahmen Breton"
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 51
     description: <Britannice Aremoricane> Aliter
 text:

@@ -1,24 +1,24 @@
 language: Malagasy
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 184
     description: Madagascar 2
     source: From Fiacourt’s history of Madagascar. Wilk. Ess. p. 435. Orat. Dom. p. 32
-  - book_title: London
+  - book: London
     page: 32
     description: Madagascarica
     source: Sr. de Flacourt Hist. Madagasc. l. 47. Conf. Wilk. n. 47
-  - book_title: Wilkins
+  - book: Wilkins
     number: 47
     description: Madagascar
-  - book_title: Flacourt
+  - book: Flacourt
     page: 187
     description: langue Madecasse
-  - book_title: Hervas
+  - book: Hervas
     page: 225
     number: 306
     description: Dialetto Madagascaro de'paesi del nord del Madagascar
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 33
     description: Madagascarice
 text:

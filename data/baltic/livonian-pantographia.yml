@@ -1,30 +1,30 @@
 language: Latvian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 182
     description: Livonian
     source: Duret, p. 869. Orat. Dom. p. 42
-  - book_title: London
+  - book: London
     page: 42
     description: Livonica
     source: Meg. n. 39. Conf. Dur. p. 869. Munst. Chron. T. III c. 183 p. 1124. Pist. n. 32. Reut. n. 41. Wilk. n. 36
-  - book_title: Wilkins
+  - book: Wilkins
     number: 36
     description: Livonian
-  - book_title: Megiser
+  - book: Megiser
     number: 39
     description: Livonice & Werulorum lingua
-  - book_title: Hervas
+  - book: Hervas
     page: 164
     number: 120
     description: Herula
-  - book_title: Thevet Volume 2
+  - book: Thevet Volume 2
     page: 882
     description: En Liuonien
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 87
     description: Werulice
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 83
     description: Livonice
 text:

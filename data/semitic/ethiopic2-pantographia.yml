@@ -1,29 +1,29 @@
 language: Ge'ez
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 82
     description: Ethiopic 2
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 5
     description: Aethiop
-  - book_title: Megiser
+  - book: Megiser
     number: 4
     description: Aethiopice
-  - book_title: Gessner
+  - book: Gessner
     page: 6
     description: lingua Aethiopica
     source: ex novo Testamento Romae impresso
-  - book_title: London
+  - book: London
     page: 14
     description: Aethopica
     source: J. Ludolf l.c. Conf. Crines. Babel. 7.8. G. p. 7 W. n. 5. P. 4. M. 4. D'Av. 521. Reut. n. 4
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 408
     number: 53
     description: Aethiopisch
     source: Aus Jobi Ludolfi Grammat. Aethiop. London. 1661, 4, S. 10
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 27
     description: Aethiopica Lectio
 base: semitic/geez

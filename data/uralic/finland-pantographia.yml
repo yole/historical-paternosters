@@ -1,26 +1,26 @@
 language: Finnish
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 84
     description: Finland
     source: Duret, p. 868. Orat. Dom. p. 44
-  - book_title: London
+  - book: London
     page: 44
     description: Finnonica
     source: Micr. p. 124. Conf. Bibl. Finn. Math. Judic. Corpusc. Doctrin. Finn. Duret. p. 869. Meg. n. 41. Munst. Cosm. IV. 31. Pist. n. 34. Reut. n. 30
-  - book_title: Micraelius
+  - book: Micraelius
     page: 77
     description: Finnish
-  - book_title: Hervas
+  - book: Hervas
     page: 161
     number: 115
     description: Finnica
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 757
     number: 318
     description: Finnisch
     source: Aus der Bibel, Stockh. 1642, fol., un dem N. T. 1740, 12
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 82
     description: Finnice
 text:

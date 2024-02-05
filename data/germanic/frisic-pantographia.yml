@@ -1,29 +1,29 @@
 language: West Frisian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 90
     description: Frisic
     source: Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 46
     description: Frisian
     source: M.
-  - book_title: Megiser
+  - book: Megiser
     number: 20
     description: Frisice
-  - book_title: London
+  - book: London
     page: 56
     description: Frisica
     source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulo. p. 98.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 235
     number: 146
     description: Friesisch
     source: Aus Bonav. Vulcanius de litteris et lingua Getarum, Leiden, 1597, S. 98, und daraus die späten Sammler
-  - book_title: De Lingua Getarum
+  - book: De Lingua Getarum
     page: 98
     description: Lingua Frisica
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 68
     description: Frisice
 text:

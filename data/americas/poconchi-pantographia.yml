@@ -1,23 +1,23 @@
 language: Poqomchi'
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 224
     description: Poconchi
     source: Wilk. Ess. p. 435. Orat. Dom. p. 63
-  - book_title: London
+  - book: London
     page: 61
     description: Poconchi
     source: Thom. Gage p. 473 Conf. Wilk. n. 48
-  - book_title: Wilkins
+  - book: Wilkins
     number: 48
     description: Poconchi
-  - book_title: Gage
+  - book: Gage
     page: 473
     description: Poconchi
-  - book_title: Hervas
+  - book: Hervas
     page: 113
     description: Poconchi, o Pocoman, detta ancora Guatemalese
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 92
     description: Poconchine
 text:

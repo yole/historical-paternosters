@@ -1,6 +1,6 @@
 language: Spanish
 attestations:
-  - book_title: Bibliander
+  - book: Bibliander
     page: 232
     description: Hispanica
 text:

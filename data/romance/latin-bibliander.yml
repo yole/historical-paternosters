@@ -1,9 +1,9 @@
 language: Latin
 attestations:
-  - book_title: Bibliander
+  - book: Bibliander
     description: Latina
     page: 232
-  - book_title: Wilkins
+  - book: Wilkins
     number: 8
     description: Latin
 text:

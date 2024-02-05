@@ -2,7 +2,7 @@
 #@layout($name)
 <h1>Pater Noster Attestations in $name</h1>
     #foreach($specimen in $specimens)
-        <a href="/$specimen.outPath">$specimen.snippet...</a> (<a href="/$specimen.earliestAttestation.book.outPath">$specimen.earliestAttestation.book.title</a>)
+        <a href="/$specimen.outPath">$specimen.snippet...</a> (<a href="/$specimen.earliestAttestation.bookRef.outPath">$specimen.earliestAttestation.bookRef.title</a>)
         <br/>
     #end
 #end

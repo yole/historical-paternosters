@@ -1,36 +1,36 @@
 language: Syriac
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 282
     description: Syriac 8
     source: The literal reading of the Lord's Prayer, from a new testament in this language, Hamb. 1663; Orat. Dom. p. 12
-  - book_title: London
+  - book: London
     page: 12
     description: Syriaca, charactere vulgato
     source: Conf. Dur. p. 405, Gesn. p. 16 b, Meg. n. 2, Pist. n. 2, Reuter n. 2, Wilk. n. 4
-  - book_title: Wilkins
+  - book: Wilkins
     number: 4
     description: Syriac
-  - book_title: Megiser
+  - book: Megiser
     number: 2
     description: Syriace vel Chaldaice, seu Lingua Aramaa
-  - book_title: Rocca
+  - book: Rocca
     page: 370
     description: Chald. verbis, sed litteris Latinis
-  - book_title: Gessner
+  - book: Gessner
     page: 15
     description: lingua Syriaca vel Chaldaea
     source: ex Evangelio Matthaei, Viennae impresso
-  - book_title: Bibliander
+  - book: Bibliander
     page: 234
     description: Chald.
-  - book_title: Postel
+  - book: Postel
     page: 17
     description: Chaldaica
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 3
     description: Chaldaice
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 340
     number: 44
     description: Syrisch

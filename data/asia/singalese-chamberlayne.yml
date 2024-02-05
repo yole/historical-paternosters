@@ -1,6 +1,6 @@
 language: Sinhala
 attestations:
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 26
     description: Singalæe
     source: Clar. Relandus ex Musneo Clar. Ruardi Andalae; Rev. Dominus Petrus Croonenburgh

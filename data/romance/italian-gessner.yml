@@ -1,37 +1,37 @@
 language: Italian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 168
     description: Italian 1
     source: Edit. Genev. 1607. Wilk. Ess. p. 435
-  - book_title: Wilkins
+  - book: Wilkins
     number: 12
     description: Italian
-  - book_title: Megiser
+  - book: Megiser
     number: 9
     description: Italice
-  - book_title: Rocca
+  - book: Rocca
     page: 368
     description: Italice
-  - book_title: Gessner
+  - book: Gessner
     page: 57
     description: Italice
-  - book_title: Bibliander
+  - book: Bibliander
     page: 232
     description: Italica
-  - book_title: London
+  - book: London
     page: 34
     description: Italica
     source: Bibl. Giov. Diodat. Genev. 1607. Confer. Gesn. 64 a Meg. n. 9. Pist. n. 7. Roch. n. 2. Stiernh. n. 2. Reut. n. 8. Wilk. n. 12.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 495
     number: 216
     description: Heutiges Italiänisch
     source: aus des Giov. Diodati Bibel, der Ausgabe von 1757
-  - book_title: Merula
+  - book: Merula
     page: 800
     description: Italorum
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 41
     description: Italice
 text:

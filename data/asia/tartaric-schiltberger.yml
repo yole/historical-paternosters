@@ -1,15 +1,15 @@
 language: Tatar
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 44
     description: Tartarice
-  - book_title: Schiltberger
+  - book: Schiltberger
     page: 96
     description: Tartarisch
-  - book_title: Wilkins
+  - book: Wilkins
     number: 38
     description: Tartarian
-  - book_title: Adelung Part 1
+  - book: Adelung Part 1
     page: 477
     number: 66
     description: Tatarisch

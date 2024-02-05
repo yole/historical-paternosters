@@ -1,6 +1,6 @@
 language: Dutch
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 52
     description: Low Dutch 2
     source: Guthrie, p. 728

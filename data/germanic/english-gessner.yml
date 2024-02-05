@@ -1,9 +1,9 @@
 language: English
 attestations:
-  - book_title: Gessner
+  - book: Gessner
     page: 8
     description: Anglice
-  - book_title: Rocca
+  - book: Rocca
     page: 373
     description: Anglice
 text:

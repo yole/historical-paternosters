@@ -1,9 +1,9 @@
 language: Sardinian
 attestations:
-  - book_title: Rocca
+  - book: Rocca
     page: 376
     description: <Sardorum> ex communiori lingua, extra civitates
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 533
     number: 232
     description: Dasselbe <Sardinisch auf dem Lande>

@@ -1,6 +1,6 @@
 language: Slovene
 attestations:
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 10
     description: Moscovitice

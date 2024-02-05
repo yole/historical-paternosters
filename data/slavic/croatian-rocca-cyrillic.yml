@@ -1,7 +1,7 @@
 language: Croatian
 script: Cyrillic
 attestations:
-  - book_title: Rocca
+  - book: Rocca
     page: 375
     description: Illyrice, vel Sclavonice
 text:

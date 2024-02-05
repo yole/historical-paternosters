@@ -1,6 +1,6 @@
 language: Dutch
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 19
     description: Belgice
 text:

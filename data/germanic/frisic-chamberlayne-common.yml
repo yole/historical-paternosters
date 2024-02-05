@@ -1,9 +1,9 @@
 language: West Frisian
 attestations:
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 68
     description: Frisice communi stylo
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 236
     number: 147
     description: Gemein Friesisch

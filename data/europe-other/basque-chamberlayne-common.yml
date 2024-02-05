@@ -1,9 +1,9 @@
 language: Basque
 attestations:
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 44
     description: Cantabrice, stylo comuni.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 30
     number: 106
     description: Noch eine Formel. <Cantabrice>

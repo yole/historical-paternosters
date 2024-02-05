@@ -1,6 +1,6 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 68
     description: English 9
     source: Bible translated by Thomas Mathew. Wilk. Ess. p. 8

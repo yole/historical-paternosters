@@ -1,6 +1,6 @@
 language: English
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 70
     description: English 11
     source: Archbishop Cranmer’s Bible <...> which was printed in 1575

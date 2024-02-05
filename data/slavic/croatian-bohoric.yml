@@ -1,27 +1,27 @@
 language: Croatian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 48
     description: Croatian
     source: Wilk. Ess. p. 435.
-  - book_title: Valvasor
+  - book: Valvasor
     page: 274
     number: 4
     description: Croatice
-  - book_title: Wilkins
+  - book: Wilkins
     number: 29
     description: Croatian
-  - book_title: Megiser
+  - book: Megiser
     number: 34
     description: Croatice, Ruthenice, Moscovitice
-  - book_title: Bohoric
+  - book: Bohoric
     page: 22
     description: Croaticae scripturae
-  - book_title: London
+  - book: London
     page: 40
     description: Croatica
     source: Meg. n. 34. Conf. Pist. n. 38. Wilk. n. 29.
-  - book_title: Adelung Part 2
+  - book: Adelung Part 2
     page: 651
     number: 273
     description: Dasselbe <Kroatisch>

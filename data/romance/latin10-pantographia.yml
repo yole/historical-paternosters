@@ -1,6 +1,6 @@
 language: Latin
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 178
     description: Latin 10
     source: Novum Testamentum Jesu Christi filii Dei, ex Versione Erasmi. Basil. 1570.

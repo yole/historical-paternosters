@@ -1,16 +1,16 @@
 language: Hebrew
 attestations:
-  - book_title: Megiser
+  - book: Megiser
     number: 1
     description: Ebraice Latinis Characteribus
-  - book_title: Rocca
+  - book: Rocca
     page: 366
     description: Hebraica characteribus Latinis expressa
-  - book_title: Gessner
+  - book: Gessner
     page: 47
     description: Ebraica
     source: Sebastianus Munsterus in Ebraica lingua edidit
-  - book_title: Wilkins
+  - book: Wilkins
     number: 2
     description: Hebrew
 base: semitic/hebrew

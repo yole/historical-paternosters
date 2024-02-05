@@ -1,14 +1,14 @@
 language: Latvian
 attestations:
-  - book_title: Pantographia
+  - book: Pantographia
     page: 180
     description: Lettice
     source: Orat. Dom. Amst. p. 84
-  - book_title: Chamberlayne
+  - book: Chamberlayne
     page: 84
     description: Lettice
     source: ex Brandtii itinerario per illas regiones hausi
-  - book_title: Hervas
+  - book: Hervas
     page: 164
     number: 125
     description: Lettese, o Rustica-Livonese
