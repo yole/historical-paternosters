@@ -8,6 +8,9 @@ attestations:
     page: 66
     description: Anglica Vetus
     source: John Wicleff. circa an. 1380
+  - book_title: Chamberlayne
+    page: 73
+    description: Anglice seculi XIVti
 text:
   "Oure Fadir that art in Hevenes. Halowid be
    thi Name. Thi Kingdom come to. Be thi
@@ -17,7 +20,7 @@ text:
    dettouris. And lede us not into Temptacionn
    but deliver us from yvel. Amen."
 text_variants:
-  Oratio Dominica Polyglottos Polymorphos:
+  Oratio Dominica Polyglottos Polymorphos, Chamberlayne:
     "Our fadir that art in hevenes. Halowid
      be thy name. Thy kingdom come to. Be thy
      will done as in heven and in eryth to.

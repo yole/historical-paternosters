@@ -7,6 +7,9 @@ attestations:
     page: 58
     description: Bohemica
     source: Meg. n. 36. Conf. Bibl. Bohem. 1596. 1613. Gesn. 61 b. Pist. n. 29. Reut. n. 30. Wilk. n. 32.
+  - book_title: Chamberlayne
+    page: 79
+    description: Bohemice
 text:
   "Otzie nass, kteryz gsy wnebesych. Oswet se gmene twe.
   Prizid Kralo wstwy twe. Byd wle twa, yako wnebi, tak y
@@ -22,3 +25,15 @@ text_variants:
      nam vuinnynasse, jakoz y my odpaus stiime winny kuom nassym.
      Nuwod nass wpokussenij. Alezwawiz nas od zleho. Nebo twe
      gest kralowstwy a moc, y slaawe, naweky. Amen."
+  Chamberlayne:
+    "Ottse nash kterish isi v nyebeszih.
+     O svety sze jmeno tve.
+     Prsid seralyovsztvi tve.
+     Budy vule tva jako v'nebi tak i na zemi.
+     Hleb nash vezdejshi dei nam dnyesz.
+     A odpuszty nam vini nashe jakosh i mi odpusthyime
+     vinyikum nashim.
+     Ne uvody nasz v pokushenyi.
+     Alye zbavish nasz ode zleho.
+     Nebo tve jeszt kralyovsztvi, i mocz i szlava na veki.
+     Amen."

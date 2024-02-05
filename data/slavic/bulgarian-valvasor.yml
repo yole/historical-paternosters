@@ -4,6 +4,9 @@ attestations:
     page: 274
     number: 2
     description: Bulgarice
+  - book_title: Chamberlayne
+    page: 80
+    description: Bulgarice
 base: slavic/russian2-pantographia
 text:
   "Otskye nash, koteri ieszi u'nebeszih. Szueto ime tvoye.

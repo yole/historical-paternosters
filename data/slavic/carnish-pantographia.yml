@@ -22,6 +22,9 @@ attestations:
     page: 41
     description: Carnorum
     source: Prim. Truber. Catech. p. 24. Meg. n. 33. Conf. Pist. n 27. Reut. n. 31. Wilk. n. 26.
+  - book_title: Chamberlayne
+    page: 81
+    description: Carnice
 text:
   "Ozha nash kir si v’nebesih. Posvezhénu bodi
    jimé tvoje. Pridi k’nam kraylestvu tvoje. S’idise
@@ -76,3 +79,14 @@ text_variants:
      dulshnikom nashim. Inu neupelai
      nas v’iskushno. Tamazh reshi nass od slega.
      Sakai tvoje je krailestvu, múzh, zhhast vekoma. Amen."
+  Chamberlayne:
+    "Otze nash kir szi v nebeszih.
+     Poszueszenu bodi ime tvoje.
+     Pridi k nam kralyesztvu tvoje.
+     Z idi sze volya tvoja kako na nebi tak u na zemlyi.
+     Kruh nash usakdainyi dai nam donesz.
+     U odpuszti nam dulge nashe kako tudi mi odpusztimo dulshnikom nashim.
+     U ne upelaj nasz v iszkushno.
+     Tamasz reshi nasz od zlego.
+     Shake tvoje je kralyesztvu, mutz cseszt vekoma.
+     Amen."
