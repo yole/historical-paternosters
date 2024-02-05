@@ -1,7 +1,7 @@
 language: Church Slavonic
 script: Cyrillic
 attestations:
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 24
     description: Slavonica, charactere Cyrulico, s. Russica
     source: H. W. Ludolf. Conf. Catech. Russ. MS. Biblia Moscov. Ostrobiae 1581.

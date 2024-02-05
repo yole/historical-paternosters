@@ -4,7 +4,7 @@ attestations:
     page: 104
     description: Guelderland
     source: Orat. Dom. p. 56
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 56
     description: Geldrica
     source: Meg. n. 21. Conf. Gesn. f. 49a. Pist. n. 18. Reut. n. 25
@@ -32,17 +32,17 @@ text:
    in becoringhe[11]; sondern[12] verloest ons van allen
    quaden. Amen."
 footnotes:
-  1: "Megiser, Oratio Dominica, Pantographia: geheylicht"
-  2: "Megiser, Oratio Dominica, Pantographia: will"
-  3: "Megiser, Oratio Dominica, Pantographia: geschieh"
+  1: "Megiser, London, Pantographia: geheylicht"
+  2: "Megiser, London, Pantographia: will"
+  3: "Megiser, London, Pantographia: geschieh"
   4: "Pantographia: de"
-  5: "Megiser, Oratio Dominica: geefft"
-  6: "Pantographia, Oratio Dominica: heyen"
-  7: "Megiser, Oratio Dominica: vergeefft"
-  8: "Megiser, Oratio Dominica, Pantographia: sculdt"
-  9: "Megiser, Oratio Dominica, Pantographia: sculdengers"
+  5: "Megiser, London: geefft"
+  6: "Pantographia, London: heyen"
+  7: "Megiser, London: vergeefft"
+  8: "Megiser, London, Pantographia: sculdt"
+  9: "Megiser, London, Pantographia: sculdengers"
   10: "Pantographia: met"
-  11: "Megiser, Oratio Dominica, Pantographia: becooringhe"
-  12: "Megiser, Oratio Dominica, Pantographia: sondern"
+  11: "Megiser, London, Pantographia: becooringhe"
+  12: "Megiser, London, Pantographia: sondern"
 notes:
   The attested language name refers to the province of [Gelderland](https://en.wikipedia.org/wiki/Gelderland).

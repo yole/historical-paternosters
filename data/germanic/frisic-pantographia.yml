@@ -11,7 +11,7 @@ attestations:
   - book_title: Megiser
     number: 20
     description: Frisice
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 56
     description: Frisica
     source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulo. p. 98.
@@ -53,7 +53,7 @@ text_variants:
      ws, vvs schylden, as wy vejac ws schyldnirs.
      In lied ws nact in versieking. Din fry ws
      vin it quæd. Dan dyn is it ryck, de macht,"
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Ws Haita duu derstu biste yne hymil. Dyn
      name wird heiligt, dyn ryck tokomme. Dyn
      wille moet schoen, opt yrtryck as yne hymil.

@@ -4,7 +4,7 @@ attestations:
     page: 216
     description: Orcadian
     source: Orat. Dom. p. 65
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 65
     description: Orcadica
   - book_title: Account of the Islands of Orkney
@@ -27,7 +27,7 @@ text:
    tumtation[3], min delivera vus fro olt ilt. Amen,[4]
    Or, On sa meteth vera."
 footnotes:
-  1: "Pantographia, Oratio Dominica Polyglottos Polymorphos: 'iri' instead of 'ir i'"
-  2: "Pantographia, Oratio Dominica Polyglottos Polymorphos: 'us &' instead of 'vus'"
-  3: "Pantographia, Oratio Dominica Polyglottos Polymorphos: 'tuntation"
+  1: "Pantographia, London: 'iri' instead of 'ir i'"
+  2: "Pantographia, London: 'us &' instead of 'vus'"
+  3: "Pantographia, London: 'tuntation"
   4: "Pantographia: text is cut off at this point"

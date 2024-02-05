@@ -6,7 +6,7 @@ attestations:
     source: "About 1160, in the reign of King Henry II. the annexed
      Lord’s Prayer was rendered in rhyme, and sent from
      Rome by Pope Adrian, an Englishman. Wilk. Ess. p. 7. Orat. Dom. p. 68."
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 68
     description: "Anglica altera Vetustior ab Adriano Pontifice
       (ex Anglorum gente oriundo) concinnata, ut a junioribus suis
@@ -33,16 +33,16 @@ text: |
 poetry: true
 footnotes:
   1: "Pantographia: hallyed"
-  2: "Pantographia, Oratio Dominica: ever lich"
-  3: "Oratio Dominica: heveny"
-  4: "Oratio Dominica: euear"
-  5: "Oratio Dominica: been it alsoe"
-  6: "Oratio Dominica: breade"
-  7: "Oratio Dominica: lasteith"
-  8: "Oratio Dominica: us"
-  9: "Oratio Dominica: like"
-  10: "Pantographia, Oratio Dominica: have"
-  11: "Oratio Dominica: forgive"
-  12: "Oratio Dominica: on"
-  13: "Oratio Dominica: ne"
-  14: "Oratio Dominica: sheld, Pantographia: shield"
+  2: "Pantographia, London: ever lich"
+  3: "London: heveny"
+  4: "London: euear"
+  5: "London: been it alsoe"
+  6: "London: breade"
+  7: "London: lasteith"
+  8: "London: us"
+  9: "London: like"
+  10: "Pantographia, London: have"
+  11: "London: forgive"
+  12: "London: on"
+  13: "London: ne"
+  14: "London: sheld, Pantographia: shield"

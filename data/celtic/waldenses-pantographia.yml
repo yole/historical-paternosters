@@ -7,7 +7,7 @@ attestations:
   - book_title: Chamberlayne
     page: 39
     description: Waldense
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 52
     description: Waldensis
   - book_title: Adelung Part 2
@@ -24,7 +24,7 @@ text:
    amb’ aribh ach soarsa shin on. Ole or sletsa
    rioghta combta agns gloir gnsibhiri. Amen."
 text_variants:
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Our narme ata air neamb’. Beanich atanim
      gu diga do riogda. Gu denta du hoill, air talm'
      in mar ta ar neamb'. Tabbar d’im an míigh ar

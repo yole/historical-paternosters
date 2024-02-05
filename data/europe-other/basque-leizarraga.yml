@@ -10,7 +10,7 @@ attestations:
   - book_title: Megiser
     number: 31
     description: Cantabrice
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 38
     description: Biscaina, sive Cantabrica
     source: Wilk. n. 45. Conf. Meg. 31. Reut. n. 20.
@@ -70,7 +70,7 @@ text_variants:
      cozduney quittatzen baitra vegu. Eta 
      ezgai zala sar eracitenta tentatione tan. Baima delibza
      gaitzac gaich totic."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Gure aita cerue tan aicena. Sanctifica bedi
      hire icena. Et hoz bedi hire rehúma. E guin
      bedi hire vozondatea cervan be cala lurrean

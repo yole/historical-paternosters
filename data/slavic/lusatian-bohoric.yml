@@ -4,7 +4,7 @@ attestations:
     page: 182
     description: Lusatian
     source: Wilk. Ess. p. 435. Orat. Dom. p. 42
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 42
     description: Lusatica
     source: Meg. n. 38. Conf. Pist. n. 35. Reut. n. 35. Wilk. n. 33.
@@ -37,7 +37,7 @@ text:
    Psheto twojo jo to kralestvo a ta moz, a ta zest
    wot nymernoshi k'nymernosti. Amen."
 text_variants:
-  "Oratio Dominica":
+  "London":
     "Wosch nasch, kensch sy nanebebu, wss weschone 
      bushy me twove. Pos hish knam krailestwo
      twojo. So stany woli tuoja, takhak manebu,

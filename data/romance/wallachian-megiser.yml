@@ -7,7 +7,7 @@ attestations:
     number: 31
     description: Walachian
     source: Megiserus
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 39
     description: Valachica
     source: Meg. 31. Conf. Wilk. 31.
@@ -43,7 +43,7 @@ text_variants:
      Sunu ne duce prenoi in kale deispirra.
      Sune men tu jaste preroi de reu.
      Amin."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Tatal nostru, cineresti in ceriu,
      sfincinschase numelle teu.
      Sevie imparacia ta.
@@ -57,7 +57,7 @@ text_variants:
      Sune men tu jaste preroi dereu.
      Amin."
 bibliography:
-  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+  - title: "London Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
     author: Siegfried Heinimann
     year: 1988

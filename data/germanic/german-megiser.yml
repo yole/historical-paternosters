@@ -10,7 +10,7 @@ attestations:
   - book_title: Wilkins
     number: 18
     description: Germ. modern
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 47
     description: Germanica Hodierna
     source: Catech. Luth. Tom. IV Altenb. p. 468. Conf. Dur. p. 868. Meg. n. 17. Pist. n. 15. Reut. n. 14. Roch. n. 10. Wilk. n. 17.
@@ -44,7 +44,7 @@ text_variants:
      Unser taglich brot gib uns heut. Und vergib uns unsre Schuld,
      als wir auch vergeben unsern schuldigten.
      Und fuhreuns nicht in versuchung, sondern erlose uns vom bosen."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Vater unser der du bist im Himmel. Geheiliget werde dein Name.
      Dein Reich komme. Dein Wille geschehe wie im Himmel, also auch auff Erden.
      Unser taglich Brodt gib uns heute.

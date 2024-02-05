@@ -3,7 +3,7 @@ attestations:
   - book_title: Wilkins
     number: 19
     description: Old Saxon
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 54
     description: Anglo-Saxonica altera vetustior
     source: Reut. n. 19. Conf. Wilk. n. 19.
@@ -26,7 +26,7 @@ text:
    And forgef us scylda urna, sut we forgefen scyldgum urum.
    And no inlead usich in custnung. Ab gefrig urich from ifle."
 text_variants:
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Uren fader thic arth in heofnas. Sic gehalgud thin noma.
      To cymeth thin ryc. Sic thin Willa sue, Is in heofnas and
      in eortho. Uren hlaf ofer wirtlic sel us to daeg.

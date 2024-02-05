@@ -4,7 +4,7 @@ attestations:
     page: 140
     description: Helvetian
     source: Orat. Dom. p. 47
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 47
     description: Helvetica
     source: Gesn. f. 42.a. & 46.a. Conf. Meg. n. 18. Pist. n. 16. T.D.C.R. p. 255
@@ -35,22 +35,22 @@ text:
 footnotes:
   1: "Bibliander: Fatter"
   2: "Bibliander: ünser; Gessner: vel potius: Unser Vatter"
-  3: "Oratio Dominica, Pantographia: hist"
-  4: "Megiser, Oratio Dominica, Pantographia: in"
+  3: "London, Pantographia: hist"
+  4: "Megiser, London, Pantographia: in"
   5: "Megiser: himmelen"
-  6: "Bibliander: geheilget; Megiser, Oratio Dominica, Pantographia: geheyligt"
-  7: "Bibliander, Megiser, Oratio Dominica, Pantographia: werd"
+  6: "Bibliander: geheilget; Megiser, London, Pantographia: geheyligt"
+  7: "Bibliander, Megiser, London, Pantographia: werd"
   8: "Bibliander: din"
   9: "Megiser: Namen"
-  10: "Bibliander: zu komm; Megiser: Zuchomm; Oratio Dominica, Pantographia: zukumm"
+  10: "Bibliander: zu komm; Megiser: Zuchomm; London, Pantographia: zukumm"
   11: "Bibliander: word omitted"
-  12: "Bibliander: din; Oratio Dominica, Pantographia: dijn"
-  13: "Bibliander: rich; Oratio Dominica, Pantographia: rijch"
+  12: "Bibliander: din; London, Pantographia: dijn"
+  13: "Bibliander: rich; London, Pantographia: rijch"
   14: "Bibliander: gschächi; Megiser: geschäh"
   15: "Bibliander: imm"
   16: "Megiser: uf Erden wie im Himmel"
   17: "Bibliander: geb"
-  18: "Bibliander: hydd; Megiser: hüt; Oratio Dominica, Pantographia: hyt"
+  18: "Bibliander: hydd; Megiser: hüt; London, Pantographia: hyt"
   19: "Bibliander: fergeb"
   20: "Bibliander: ünser; Megiser: ünsre"
   21: "Megiser: Schuldt"
@@ -58,9 +58,9 @@ footnotes:
   23: "Bibliander: fergend; Megiser: vergebendt"
   24: "Megiser: unsren"
   25: "Pantographia: and"
-  26: "Bibliander: füer; Megiser: führ; Oratio Dominica, Pantographia: fuhr"
-  27: "Oratio Dominica, Pantographia: nicht"
-  28: "Bibliander: versuochung; Oratio Dominica, Pantographia: versuchnyss"
+  26: "Bibliander: füer; Megiser: führ; London, Pantographia: fuhr"
+  27: "London, Pantographia: nicht"
+  28: "Bibliander: versuochung; London, Pantographia: versuchnyss"
   29: "Bibliander: sonder"
   30: "Megiser: erlöse"
-  31: "Bibliander: fomm übel; Megiser: vom Uber. Bibliander, Gessner, Oratio Dominica, Pantographia: doxologia is not included."
+  31: "Bibliander: fomm übel; Megiser: vom Uber. Bibliander, Gessner, London, Pantographia: doxologia is not included."

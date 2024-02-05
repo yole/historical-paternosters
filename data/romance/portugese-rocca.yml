@@ -13,7 +13,7 @@ attestations:
   - book_title: Wilkins
     number: 10
     description: Porteguese
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 38
     description: Lusitanica
     source: Megis. n. 16. Conf. Pist. n. 13. Reut. n. 11. Roch. n. 18. Wilk. n. 10.
@@ -62,7 +62,7 @@ text_variants:
      assi como nos perdoamos aos nossos dividores.
      E nao nos dexes cahir in tentacao, mas libra
      nos do mal. Amen."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Padre nosso, questas nos ceos. Sanctificado seia
      otu nome. Venha à nos o teu reino. Sea feita
      à tua voluntade, assi nos ceos, come na terra.
@@ -82,7 +82,7 @@ text_variants:
      Et nao nos dexes cahir in tentacao: mas libra nos do mal.
      Amen."
 bibliography:
-  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+  - title: "London Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
     author: Siegfried Heinimann
     year: 1988

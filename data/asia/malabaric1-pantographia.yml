@@ -4,7 +4,7 @@ attestations:
     page: 186
     description: Malabaric 1
     source: Orat. Dom. p. 27
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 27
     description: Malabarica
     source: Baldeus introduct. in Ling. Malab. Belg. Amstelod.
@@ -24,7 +24,7 @@ text:
    ottáde engalucù: polângn varámal 7.
    Amen."
 footnotes:
-  1: "Pantographia, Oratio Dominica: pi dàve"
+  1: "Pantographia, London: pi dàve"
   2: "Pantographia: na mam"
 gloss:
   "Vanan": "In"

@@ -4,7 +4,7 @@ attestations:
     page: 2
     description: Amharic
     source: Orat. Dom. p. 15
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 15
     description: Amharica
     source: J. Ludolf Gr. Aeth. p. 44 Conf. Meg. n. 3 Pist. n. 3 Wilk. n. 3
@@ -26,4 +26,4 @@ text:
    ziaka jyy’ti mengy’st hajl wasybhat laalama a"
 footnotes:
   1: "Pantographia: bamydram"
-  2: "Oratio Dominica: text is cut off at this point"
+  2: "London: text is cut off at this point"

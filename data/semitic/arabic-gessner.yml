@@ -15,7 +15,7 @@ attestations:
   - book_title: Postel
     page: 32
     description: Punica, Arabica'ue
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 16
     description: Arabica Lectio
     source: Conf. Dur. p. 405. Gesn. p. 10 b. Meg. n. 3. Reut. n. 3. Wilk. n. 3.
@@ -61,7 +61,7 @@ text_variants:
      vela ta dchulnat tegiaribu lachine
      negena min elseriri leine lechem. meluchu
      veel cauathu veel megedu ila elebdi. Amen."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Aboúna lledhsi phi' ssemaváti,
      Ljutekaddesi smuka.
      Litati melkcoutuka.

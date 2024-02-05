@@ -4,7 +4,7 @@ attestations:
     page: 158
     description: Icelandic 1
     source: Guthrie, p. 454. Orat. Dom. p. 23.
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 23
     description: Islandica
     source: Fr. Junius F. F.
@@ -26,4 +26,4 @@ text:
    oss fra illu; thuiad thitt et riiked, og maatr,
    og dyrd, in alld er allda. Amen."
 footnotes:
-  1: "Oratio Dominica Polyglottos Polymorphos: fierergiefum"
+  1: "London: fierergiefum"

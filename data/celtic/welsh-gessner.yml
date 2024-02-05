@@ -4,7 +4,7 @@ attestations:
     page: 20
     description: Ancient British 1
     source: Orat. Dom. p. 50
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 50
     description: Britannica Vetus.
     source: Meg. n. 29. Conf. Gesn. p. <?> Pist. n. 25
@@ -52,7 +52,7 @@ text_variants:
      Amaddeu ynny eyn deledion, megis
      agi maddevu in deledwir ninaw. Agna thowys
      ni in brofedigaeth. Namyn gwaredni rhag drug. Amen."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Eyen taad rhuvn wytyn y neofoedodd. Santeiddier
      yr hemvu tau. De vedy dyrnas dau.
      Guueler dy wollys arryddayar megis agyn y

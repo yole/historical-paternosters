@@ -7,7 +7,7 @@ attestations:
   - book_title: Wilkins
     number: 20
     description: Dutch
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 49
     description: Belgica
     source:
@@ -32,7 +32,7 @@ text_variants:
      scoulden, gelijck vock wy vergheven onsen
      schuldenaren. Ende en leydtons nict in 
      ver-"
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Onse vader die in de hemelen. Uwen naem
      werde geheylight. Uw coninckrycke kome.
      Uwen wille geschiede, gelyck in den hemel

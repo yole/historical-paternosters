@@ -19,7 +19,7 @@ attestations:
   - book_title: Bibliander
     page: 232
     description: Italica
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 34
     description: Italica
     source: Bibl. Giov. Diodat. Genev. 1607. Confer. Gesn. 64 a Meg. n. 9. Pist. n. 7. Roch. n. 2. Stiernh. n. 2. Reut. n. 8. Wilk. n. 12.
@@ -92,7 +92,7 @@ text_variants:
      pane cotidiano. E rimettici i nostri debiti, si come noi anchora gli
      rimettiamo a’ nostri debitori. E non c’indurci
      in tentatione, ma liberaci dal maligno. Perci"
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Padre nostro, che sei ne' cieli.
      Sia santificato il tuo nome.
      Il tuo regno venga.
@@ -113,7 +113,7 @@ text_variants:
      Ma liberaci dal Male.
      Amen."
 bibliography:
-  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+  - title: "London Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
     author: Siegfried Heinimann
     year: 1988

@@ -7,7 +7,7 @@ attestations:
   - book_title: Wilkins
     number: 7
     description: Copti
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 13
     source: Andreas Müllerus Greiffenhagius, Epist. ad Job. Ludolphum. Conf. Wilkins n. 7
   - book_title: Chamberlayne
@@ -23,7 +23,7 @@ text:
    Ouo omper tenechou epirasmos. Alla nah
    menebolch enpipethmou."
 text_variants:
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Banjû'd adchân nifaût.
      Marafdúvu ansjâdakmadúru.
      Badahnâk` marafschúbi amibrádi chân idbe nam hisjân` bikahi.

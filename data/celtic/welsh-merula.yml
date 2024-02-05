@@ -7,7 +7,7 @@ attestations:
   - book_title: Wilkins
     number: 43
     description: Welsh
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 50
     description: Britannica Moderna
   - book_title: Merula
@@ -41,7 +41,7 @@ text_variants:
       Amad deu i ni ein dyledion, fel a maddeuwn ni in
       dyledwgr. Ac nac arwain ni i brofe digaeth.
       Eithr gwared ni rhag drwg. Amen."
-   Oratio Dominica Polyglottos Polymorphos:
+   London:
      "Ein tâd yr hwn wytl yn y nefoedd. Sancteiddier
       dy enw. Deued dy deyrnas. Bid dy ewyllys
       ar yddaiar, megis y mae yn y nefoed.

@@ -4,7 +4,7 @@ attestations:
     page: 200
     description: Mexican
     source: Orat. Dom. p. 63. Duret p. 944
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 61
     description: Mexicana
     source: Meg. n. 47. Conf. Dur. p. 944. Pist. n. 38
@@ -47,4 +47,4 @@ text_variants:
 notes:
   According to Hervas, this Pater Noster translation is in a Guaraní dialect.
 footnotes:
-  1: "Oratio Dominica, Pantographia: Epipotarume"
+  1: "London, Pantographia: Epipotarume"

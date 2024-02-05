@@ -4,7 +4,7 @@ attestations:
     page: 2
     description: Abyssinian
     source: Orat. Dom. p. 26
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 26
     description: Abessinorum in Camara propre Goam
     source: Grammaye ap. D'Avity Afr. p. 471
@@ -24,8 +24,8 @@ text:
    phlegonaos. nehiblickan[3] scepikha[4]. Erupn
    ihapsa.[5] Amen."
 footnotes:
-  1: "Oratio Dominica, Pantographia: spirsa"
-  2: "Oratio Dominica, Pantographia: ischir"
-  3: "Oratio Dominica, Pantographia: ne hibli kan"
-  4: "Oratio Dominica, Pantographia: scepikha"
+  1: "London, Pantographia: spirsa"
+  2: "London, Pantographia: ischir"
+  3: "London, Pantographia: ne hibli kan"
+  4: "London, Pantographia: scepikha"
   5: "Pantographia: repeats the text from the beginning at this point"

@@ -4,7 +4,7 @@ attestations:
     page: 102
     description: Gothic 4
     source: Orat. Dom. p. 21. Wilk. Ess. p. 435
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 21
     description: Gothica
     source: N. Test. Goth. Stiernh. Lim. Gloss. Goth. Conf. Meg. n. 24. Pist. n. 22. Vulcan. de Lit. & Lingu. Get. p. 33 Reut. n. 22. T.S.E.R. p. 250
@@ -57,7 +57,7 @@ text_variants:
      Jah ni briggais uns in fraistubngai. Ak
      lausei uns af thamma ubilin. Unte theina ist
      thiudangardi, jah mahs gag vulthus, in aivins. Amen"
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Atta unsar thu in himinam. Veihnai namo
      thein. Quimai thiudinassus theins. Vairthai
      vilja theins, sve in himina, jah ana airthai.

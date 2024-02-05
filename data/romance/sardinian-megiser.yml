@@ -7,7 +7,7 @@ attestations:
   - book_title: Megiser
     number: 12
     description: Sardorum Oppidanorum Linguâ
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 37
     description: Sardica, ut in Oppidis loqu.
     source: Meg. n. 12. Conf. Gesn. f. 74 a. Pist. n. 10. Reut. n. 12. Roch. n. 21. Stiernh. n. 6.
@@ -41,7 +41,7 @@ text_variants:
     nostros, comente nos ateros dexiam als
     deppitores nostros. Ino nos induescas in sa
     tentatio. Mas livra nos de male."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Pare nostru, qui istas in sos quelos. Siat sanctificadu
     su nomen teu. Vengat à nois su regnu
     teu. Fasase sa voluntat tua, axi comen su
@@ -54,7 +54,7 @@ text_variants:
     de se sigles.
     Amen."
 bibliography:
-  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+  - title: "London Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
     author: Siegfried Heinimann
     year: 1988

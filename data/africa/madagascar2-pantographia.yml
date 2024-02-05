@@ -4,7 +4,7 @@ attestations:
     page: 184
     description: Madagascar 2
     source: From Fiacourt’s history of Madagascar. Wilk. Ess. p. 435. Orat. Dom. p. 32
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 32
     description: Madagascarica
     source: Sr. de Flacourt Hist. Madagasc. l. 47. Conf. Wilk. n. 47
@@ -32,7 +32,7 @@ text:
    abin fiuetseuetsie ratsi, feha hanau mete
    zahahanay tabin haratsijan abi. Amin."
 text_variants:
-  "Pantographia, Oratio Dominica Polyglottos Polymorphos":
+  "Pantographia, London":
     "Amproy antsica izau hanautangh andanghitsi
      angharanau hofissahots, vahoüachanau hoaui
      aminay, fitejannaû hoefaizangh an tane toua

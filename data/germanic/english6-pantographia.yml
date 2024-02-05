@@ -4,7 +4,7 @@ attestations:
     page: 66
     description: English 6
     source: Wickliffe’s translation of the New Testament in the year 1380. Martin's Inst. p. 15
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 66
     description: Anglica Vetus
     source: John Wicleff. circa an. 1380
@@ -20,7 +20,7 @@ text:
    dettouris. And lede us not into Temptacionn
    but deliver us from yvel. Amen."
 text_variants:
-  Oratio Dominica Polyglottos Polymorphos, Chamberlayne:
+  London, Chamberlayne:
     "Our fadir that art in hevenes. Halowid
      be thy name. Thy kingdom come to. Be thy
      will done as in heven and in eryth to.

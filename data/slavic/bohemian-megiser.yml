@@ -3,7 +3,7 @@ attestations:
   - book_title: Megiser
     number: 36
     description: Bohemice
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 58
     description: Bohemica
     source: Meg. n. 36. Conf. Bibl. Bohem. 1596. 1613. Gesn. 61 b. Pist. n. 29. Reut. n. 30. Wilk. n. 32.
@@ -18,7 +18,7 @@ text:
   Nywod nass wpokussenij. Alezwawiz nas od zleho. Nebo twe
   gest kralowstwy a moc, y slawe, na weky. Amen."
 text_variants:
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Otzie nass, kteryz gsy wnebesych. Oswet se gmene twe.
      Prizid Kralo wstwy twe. Byd wle twa, yako wnebi, taky
      nazemi. Chleb nas vuez degssy day nam dnes. A odpust

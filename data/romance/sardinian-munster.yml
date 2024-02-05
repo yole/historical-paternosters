@@ -13,7 +13,7 @@ attestations:
   - book_title: Wilkins
     number: 15
     description: Sardinian of the Countrey
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 37
     description: Sardica ut in Pagis
     source: Meg. n. 13. Conf. Gesn. l. c. Pist. n. 12. Reut. n. 13. Roch. n. 22. Stiernh. n. 7. Wilk. n. 15.
@@ -67,7 +67,7 @@ text_variants:
      nostrus, comente è nosateros à
      isdebitores nostrus. E no nos portis in sa
      tentatione. Impero libera nos da su male."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Babbu nostru, sughale ses in sos chelus. Santufiada
      su nomine tuo. Bengiad su rennu tuo.
      Faciad si sa voluntade tua, comenti en chelo,
@@ -79,7 +79,7 @@ text_variants:
      Poiteo tuo esti su rennu, sa gloria è su imperiu, in
      sos seculos de sos secolos. Gasi siat."
 bibliography:
-  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+  - title: "London Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
             bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
     author: Siegfried Heinimann
     year: 1988

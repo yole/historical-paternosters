@@ -10,7 +10,7 @@ attestations:
   - book_title: Megiser
     number: 23
     description: Danice
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 55
     description: Danica
     source: N. T. Hutt. Norib. 1599. Conf. Meg. n. 23. Micr. p. 123. Pist. n. 24. Reut. n. 16. Wilk. n. 21.
@@ -46,7 +46,7 @@ text_variants:
      Oc leed oz icke voi fristelse. Men frels oz
      fra ont. Thi rigit er dit, oc krafft, oc herligved
      ewighed. Amen."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Uor Fader i himmelen. Helligt vorde dit naffn.
      Tilkomme dit rige. Worde din Willie, paa jorden sam
      i himmelen. Giff oss i dag vort daglige brod.

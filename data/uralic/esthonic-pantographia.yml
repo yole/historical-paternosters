@@ -4,7 +4,7 @@ attestations:
     page: 80
     description: Esthonic
     source: Orat. Dom. p. 43
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 43
     description: Esthonica
     source: Henr. Stahlius Hand-Buch P. I. p. 4. Conf. Reut. n. 40
@@ -28,8 +28,8 @@ text:
    kurjast. Sest sunno on se rickus, ninck[5]
    se weggi, ninck[5] se auw, iggawest. Amen."
 footnotes:
-  1: "Oratio Dominica, Pantographia: nink"
-  2: "Oratio Dominica, Pantographia: meile andix"
-  3: "Oratio Dominica, Pantographia: satameid"
-  4: "Oratio Dominica, Pantographia: erhapehsta"
+  1: "London, Pantographia: nink"
+  2: "London, Pantographia: meile andix"
+  3: "London, Pantographia: satameid"
+  4: "London, Pantographia: erhapehsta"
   5: "Pantographia: nink"

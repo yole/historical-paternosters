@@ -4,7 +4,7 @@ attestations:
     page: 182
     description: Livonian
     source: Duret, p. 869. Orat. Dom. p. 42
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 42
     description: Livonica
     source: Meg. n. 39. Conf. Dur. p. 869. Munst. Chron. T. III c. 183 p. 1124. Pist. n. 32. Reut. n. 41. Wilk. n. 36
@@ -37,7 +37,7 @@ text:
    Ne wedde mums louna badeckle:
    pett passatza mums nu wusse loune. Amen."
 text_variants:
-  "Oratio Dominica Polyglottos Polymorphos":
+  "London":
     "Tabes mus, kas tu es eck sckan debbessis;
      schwe titz tows waarcz. Enack mums tows
      walstibe. Tows praatz buska, ksch kan debbes,

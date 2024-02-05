@@ -4,7 +4,7 @@ attestations:
     page: 2
     description: Angolan
     source: Orat. Dom. p. 25
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 25
     description: Angolana
     source: Grammaye ap. D'Avity Afr. p. 471
@@ -25,12 +25,12 @@ text:
   iouro[6] a fouco[7]. O augamont plechamont[8] almont augamos[9] plechomont
   ouan-mont-cault plutech si-auermont moiue."
 footnotes:
-  1: "Oratio Dominica, Pantographia: tota"
-  2: "Oratio Dominica, Pantographia: agisa"
-  3: "Oratio Dominica, Pantographia: anfonsa"
-  4: "Oratio Dominica, Pantographia: quereola"
+  1: "London, Pantographia: tota"
+  2: "London, Pantographia: agisa"
+  3: "London, Pantographia: anfonsa"
+  4: "London, Pantographia: quereola"
   5: "Pantographia: afonnimonte"
-  6: "Oratio Dominica, Pantographia: montiouro"
-  7: "Oratio Dominica, Pantographia: fauco"
-  8: "Oratio Dominica, Pantographia: plecha mon"
-  9: "Oratio Dominica: augomos; Pantographia: augumos"
+  6: "London, Pantographia: montiouro"
+  7: "London, Pantographia: fauco"
+  8: "London, Pantographia: plecha mon"
+  9: "London: augomos; Pantographia: augumos"

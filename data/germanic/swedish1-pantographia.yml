@@ -10,7 +10,7 @@ attestations:
   - book_title: Wilkins
     number: 24
     description: Swedish
-  - book_title: Oratio Dominica Polyglottos Polymorphos
+  - book_title: London
     page: 48
     description: Svecica
     source:
@@ -48,7 +48,7 @@ text_variants:
      skuld sasom ock wy forlate them oss skyldigh 
      aro. Och inleedh oss ickei frestelse; uchan
      frels oss ifram ondo."
-  Oratio Dominica Polyglottos Polymorphos:
+  London:
     "Fader war som ast i himmelen, helgat warde
      titt nampn. Till komme titt ricke. Skei tin wilie
      sa pa jordenne som i himmelen. Wart dagliga
