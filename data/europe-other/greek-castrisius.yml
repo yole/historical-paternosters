@@ -1,0 +1,25 @@
+language: Greek
+attestations:
+  - book: London
+    page: 7
+    description: Græca Barbara Alia
+    source: Dan. Castribus M.S.
+  - book: Chamberlayne
+    page: 35
+    description: <Græce Barbare> Aliter
+  - book: Adelung Part 2
+    page: 446
+    number: 208
+    description: Neu-Griechisch
+    source: Nach Dan. Castrisii handschriftlichen Übersetzung in Andr. Müller's Samml. S. 8
+text:
+  "Πατέρα μας, ὁποῦ εἶσαι εὶς τοὺς οὐρανοὺς.
+   Ἄς εἶναι ἁγιασμένον τὸ ὀνομά σου.
+   Ἄς ἔλθη ἡ βασιλεία σου.
+   Ἄς γένη τὸ θελημά σου, ὡσὰν γίνεται εἰς τὸν οὐρανὸν, ἔτζι καὶ εἰς τὴν γῆν.
+   Δὸς μας, σήμερον τὸ καθημερινὸν μας ψωμί.
+   Καὶ συμπάθησαί μας τὰ χρέη μας, ὡσὰν καὶ ἐμεῖς συμπαθοῦμεν ἐκείνους ὁποῦ μας χρεοσοῦσι.
+   Καὶ μὴ μᾶς βάλλεις εἰς πειρασμὸν.
+   Αλλὰ ἐλευθέρωσε μας ἀπὸ τὸν πονηρὸν.
+   Διατί ἐδικὴ σου εἶναι ἡ βασιλεία , καὶ ἡ δύναμις,
+   καὶ ἡ δόξα εἰς τοὺς αἰῶνας. Αμήν."

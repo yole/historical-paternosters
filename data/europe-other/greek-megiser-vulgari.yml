@@ -1,0 +1,26 @@
+language: Greek
+attestations:
+  - book: Megiser
+    number: 7
+    description: Oratio Dominica, Graeca Lingua Vulgari
+  - book: Chamberlayne
+    page: 35
+    description: Graece Barbare
+  - book: London
+    page: 6
+    description: Graeca Barbara
+    source: Meg. n. 7.
+  - book: Adelung Part 2
+    page: 447
+    number: 210
+    description: Neu-Griechisch
+    source: Aus Megiser (n. 7)
+text:
+  "Πατερ ημας, οποιος ισε εης της ουρανους.
+   Αγιαθιτω το ονομα σου.
+   Να ερτι η βασιλεια σου.
+   Το θελημα σου να γινεται ιτζου εν τη γη, ως εις τον ουρανον.
+   Το ψωμι ημας δοσε ημας σιμερον.
+   Και συχορασε ημας τα κριματα ημων, ιτζου και εμης σιχορασομεν εκεινους, οπου μας αδικουν.
+   Και μεν πτερνης ημας εις το πειρασμο.
+   Αλλα σοσον ημας απο το κακο. Αμην."

@@ -1,0 +1,24 @@
+language: Greek
+attestations:
+  - book: London
+    page: 7
+    description: <Graeca Barbara> Alia
+    source: Maximi Gallipolitæ, Edit. Venet.
+  - book: Chamberlayne
+    page: 36
+    description: Graece, stylo vulgari
+  - book: Adelung Part 2
+    page: 446
+    number: 209
+    description: Neu-Griechisch
+    source: Aus des Maximi Calliopolitä Neuem Testamente
+text:
+  "Ω Πατέρα μας, ὁ ποῦ εἶσαι εἰς τοὺς οὐρανοὺς.
+   Ἄς ἁγιασθῆ τὸ ὄνομά σου.
+   Ἂς ἔλθη ἡ βασιλεία σου.
+   Ἄς γένη τὸ θέλημά σου, καθῶς εἰς τὸν οὐρανὸν, ἔτζι καὶ εἰς τὴν γῆν.
+   Τὸ ψωμί μας τὸ καθημερινὸν δὸς μας τὸ σήμερον.
+   Καὶ συγχώρησέ μας τὰ χρέη μας, καθὼς καὶ ἐμεῖς συγχωροῦμεν τοὺς χρεοφειλήτας μας.
+   Καὶ μὴν μᾶς φέρεις εἰς πειρασμὸν.
+   Ἀλλὰ ἐλευθέρωσέ μας ἀπὸ τὸν πονηρὸν.
+   Ὄτι ἐδική σου εἶναι ἡ βασιλεία, καὶ ἡ δύναμις, καὶ ἡ δόξα, εἰς τοὺς αἰῶνας. Αμήν."

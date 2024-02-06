@@ -225,3 +225,6 @@ languages:
 - name: Northern Sámi
   family: Uralic
   url: https://en.wikipedia.org/wiki/Northern_Sámi
+- name: Greek
+  family: Indo-European
+  url: https://en.wikipedia.org/wiki/Greek_language
