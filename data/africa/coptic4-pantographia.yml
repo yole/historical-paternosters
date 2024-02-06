@@ -7,12 +7,20 @@ attestations:
   - book: Wilkins
     number: 7
     description: Copti
-  - book: London
-    page: 13
-    source: Andreas Müllerus Greiffenhagius, Epist. ad Job. Ludolphum. Conf. Wilkins n. 7
   - book: Chamberlayne
     page: 31
     description: Coptice, stylo literisque hodiernis
+  - book: Adelung Part 3
+    page: 92
+    number: 338
+    description: Koptisch
+    source:
+      Aus Chamberlayne's Sammlung, aber abgetheilt nach La Croze's in der Bartschischen Sammlung befindlichen Handschrift
+  - book: Adelung Part 3
+    page: 98
+    number: 349
+    description: Dasselbe <Koptisch>
+    source: Aus Fry's Pantograph. 46.
 diff: no
 text:
   "Peniot etchennipheoui. Mareftoubonje pecran.
@@ -22,13 +30,3 @@ text:
    nanebolmphretitio. Tenchoebol neete.
    Ouo omper tenechou epirasmos. Alla nah
    menebolch enpipethmou."
-text_variants:
-  London:
-    "Banjû'd adchân nifaût.
-     Marafdúvu ansjâdakmadúru.
-     Badahnâk` marafschúbi amibrádi chân idbe nam hisjân` bikahi.
-     Banôik` andaráschdi mêifnân amfúu.
-     Ouoh kaniadarûn` nân aûûl' amibrádi hûn` adankù aûûl annia dâuûn dân arúu.
-     Ouo ambarandân` achûn` abirasmûs.
-     Allà nahmân` aûûl habibadhúu.
-     Chân Bichristus jsûs banscheûs."

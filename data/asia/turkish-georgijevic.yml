@@ -17,6 +17,11 @@ attestations:
   - book: Thevet Volume 1
     page: 339
     description: en langue Turquesque
+  - book: Adelung Part 4
+    page: 166
+    number: 30
+    description: Ein Türkischer Dialekt
+    source: Georgiewicz de Turcarum moribus
 text:
   "Babamoz, hanghe gugtesson chuduss
    olssun ssenungh, adun gelsson ssenung

@@ -12,6 +12,11 @@ attestations:
     page: 135
     number: 69
     description: Lingua Siamese
+  - book: Adelung Part 4
+    page: 42
+    number: 6
+    description: Siamisch
+    source: Hervas S. 135 Nr. 69
 text:
   "Poo orao giou sowen, thiou pra hai pra chot
    tob hayn con tang laë tovaë pra pon moang,

@@ -14,6 +14,11 @@ attestations:
     number: 66
     description: Tatarisch
     source: Aus Jo. Schildbergers Reise am Ende
+  - book: Adelung Part 4
+    page: 173
+    number: 35
+    description: Tatarisch
+    source: Megiser Nr. 44
 diff: false
 text:
   "Atcha wyzom, hhy hokta sen algusch.

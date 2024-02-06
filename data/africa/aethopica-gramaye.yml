@@ -19,6 +19,11 @@ attestations:
   - book: Chamberlayne
     page: 32
     description: Angolane
+  - book: Adelung Part 3
+    page: 224
+    number: 357
+    description: Aus Angola
+    source: Nach Hervas
 text:
   "Tata[1] a monte hosa azure macla agysa[2] anfomsa[3] ara
   queraola[4] azureta o amano. A fonnimonte[5] iouro toma mont

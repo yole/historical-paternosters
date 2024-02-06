@@ -11,6 +11,11 @@ attestations:
   - book: Chamberlayne
     page: 32
     description: Melindane
+  - book: Adelung Part 4
+    page: 112
+    number: 17
+    description: Melindanisch, Arabischer Dialekt im Norden von Nieder-Äthopien
+    source: Londoner (1700. 4.)
 text:
   "Aban ladi fissan auari; It cades esmoctacti.
    Mala cutoca. Tacuna mascitoca coma fissame

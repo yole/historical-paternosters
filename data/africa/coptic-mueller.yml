@@ -1,0 +1,19 @@
+language: Coptic
+attestations:
+  - book: London
+    page: 13
+    source: Andreas Müllerus Greiffenhagius, Epist. ad Job. Ludolphum. Conf. Wilkins n. 7
+  - book: Adelung Part 3
+    page: 94
+    number: 341
+    description: Dasselbe <Koptisch>
+    source: Aus Andr. Mülleri Epist. ad Job. Ludolfum
+text:
+  "Banjû'd adchân nifaût.
+   Marafdúvu ansjâdakmadúru.
+   Badahnâk` marafschúbi amibrádi chân idbe nam hisjân` bikahi.
+   Banôik` andaráschdi mêifnân amfúu.
+   Ouoh kaniadarûn` nân aûûl' amibrádi hûn` adankù aûûl annia dâuûn dân arúu.
+   Ouo ambarandân` achûn` abirasmûs.
+   Allà nahmân` aûûl habibadhúu.
+   Chân Bichristus jsûs banscheûs."

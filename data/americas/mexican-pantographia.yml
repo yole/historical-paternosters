@@ -20,6 +20,11 @@ attestations:
   - book: Chamberlayne
     page: 91
     description: Mexicane
+  - book: Adelung Part 3
+    page: 450
+    number: 371
+    description: Brasilianisch oder Guaranisch
+    source: Aus Duret Thrés. de L. S. 944.
 text:
   "Ore rure ubacpé Ereico: Toicoap pavemgatu 
    aua ubu lagatou oquoauae charai b'amo

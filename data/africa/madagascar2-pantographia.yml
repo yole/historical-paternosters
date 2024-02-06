@@ -21,6 +21,16 @@ attestations:
   - book: Chamberlayne
     page: 33
     description: Madagascarice
+  - book: Adelung Part 3
+    page: 260
+    number: 358
+    description: Madagascarisch
+    source: Aus Flacourt, Allgem. Histor. d. Reis. Bd. VIII. S. 596
+  - book: Adelung Part 3
+    page: 260
+    number: 360
+    description: Dasselbe <Madagascarisch>
+    source: Nach Spanischer Orthographie bey Hervas, n. 306
 text:
   "Amproy antsica izau hanautangh andanghitsi
    angharanau hofissahots, vahoüachanau hoaui

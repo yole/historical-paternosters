@@ -11,6 +11,11 @@ attestations:
   - book: Hervas
     page: 140
     description: Malabaro-Tamulica
+  - book: Adelung Part 4
+    page: 75
+    number: 9
+    description: Tamulisch
+    source: Chamberlayne
 text:
   "Paramandalang gellile irukkira engel pidawe.
    Ummudejia namum artschikka padduwadaga.

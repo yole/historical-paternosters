@@ -12,6 +12,11 @@ attestations:
     page: 156
     number: 102
     description: Dialetto Persino
+  - book: Adelung Part 4
+    page: 99
+    number: 12
+    description: Persisch
+    source: Chamberlayne
 text:
   "Namoz Hasrath Issa. Ei peder moh ki der aosmoni.
    Nahm ssetthuda kiarda sheued padeschahi

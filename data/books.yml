@@ -334,3 +334,19 @@ books:
   author: Johann Christoph Adelung
   author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
   type: collection
+
+- title: Adelung Part 3
+  full_title: Mithridates, oder allgemeine Sprachenkunde. Dritter Theil
+  url: https://books.google.com/books?id=bQ9LAQAAMAAJ
+  year: 1812
+  author: Johann Christoph Adelung
+  author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+  type: collection
+
+- title: Adelung Part 4
+  full_title: Mithridates, oder allgemeine Sprachenkunde. Vierter Theil
+  url: https://books.google.com/books?id=ZK4tB7I2C78C
+  year: 1817
+  author: Johann Christoph Adelung
+  author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+  type: collection

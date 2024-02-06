@@ -4,6 +4,11 @@ attestations:
     page: 30
     description: Shilhice
     source: Clar. Dominus Jonesius
+  - book: Adelung Part 3
+    page: 54
+    number: 337
+    description: Berberisch
+    source: Jones
 text:
   "Amazeaghna Baba Erby ghi y ginna.
    Berkat ysmanick.
