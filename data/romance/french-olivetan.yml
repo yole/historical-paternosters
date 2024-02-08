@@ -22,6 +22,11 @@ attestations:
   - book: Merula
     page: 431
     description: Francice
+  - book: Adelung Part 2
+    page: 591
+    number: 244
+    description: Französisch
+    source: Aus der Bibel, Antwerpen, 1530, fol.
 text:
   "Nostre pere qui es és cieulx. ton nom soit sanctifié.
    ton royaume adviene. ta volonte soit

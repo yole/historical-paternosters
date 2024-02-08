@@ -1,0 +1,21 @@
+language: Turkish
+attestations:
+  - book: Chamberlayne
+    page: 11
+    description: Turcice
+  - book: Adelung Part 1
+    page: 467
+    number: 63
+    description: Türkisch
+    source: Aus Wilh. Seamans N. T.
+text:
+  "Bizum atamuz ki gó'glerdá' sin.
+   Senung adung mukadas olsun.
+   Senung melcutung gielsun.
+   Senung iradetung olsun niaakim gó'gdá' dachi jerdá'
+   Hergiunki bizum etmegimuz uer bizá' bugiun.
+   Vá' bizum borg'lerumi biza bagischlá' nitakim biz dachi bizum bor g'lerimuzá' bagisleruz.
+   Vá' bizaá' tag'ribá' adchal etmá'.
+   Lá'kin scherirden bizi ná'gat eilá'.
+   Zira senungdur melcut vá' sultanet vá' megdi ta ebed.
+   Amin."

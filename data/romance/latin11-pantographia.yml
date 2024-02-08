@@ -7,6 +7,9 @@ attestations:
   - book: London
     page: 33
     description: Latina, Alia Versio, a Seb. Castalione
+  - book: Chamberlayne
+    page: 37
+    description: Latine juxta versionem Seb. Castalionis
 text:
   "Pater noster, qui es in cœlis, sancte colatur
    nomen tuum; veniat regnum tuum ; fiat voluntas

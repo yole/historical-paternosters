@@ -28,15 +28,15 @@ attestations:
     page: 17
     description: Chaldaica
   - book: Chamberlayne
-    page: 3
-    description: Chaldaice
+    page: 5
+    description: Syriace, Charactere vulgari
   - book: Adelung Part 1
     page: 340
     number: 44
     description: Syrisch
     source: Aus Gutbier's N. T. 1664
 text:
-  "Abhoun dbhaschmajo. Nethkadasch schmoch
+  "Abhoun dbhaschmajo. Nethkadasch schmoch.
    Tithe malchouthoch. Nehve zebjonoch, ajchano
    dbhaschmajo, oph b’ar’ho. Habh lan lach
    mo dsunkonan jaumono. Vaschbouk lan chav

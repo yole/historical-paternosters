@@ -7,6 +7,9 @@ attestations:
   - book: London
     page: 12
     description: Syriace. Charactere Estrangelo
+  - book: Chamberlayne
+    page: 6
+    description: Syriace. Charactere Estrangelo
 text:
   "Abûn dbhascmaja: netquadasch scmoch: thethe
    malkuthoch: nehva zebjonoch aikano dbhascmaja

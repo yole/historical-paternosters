@@ -14,6 +14,9 @@ attestations:
   - book: Rocca
     description: Latine conscripta
     page: 367
+  - book: Chamberlayne
+    page: 37
+    description: Latine. ex versione B. Hieronymi
 text:
   "Pater noster, qui es in cœlis. Sanctificetur nomen
    tuum. Adveniat regnum tuum. Fiat voluntas
