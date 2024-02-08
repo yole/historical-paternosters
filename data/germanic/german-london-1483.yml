@@ -4,6 +4,9 @@ attestations:
     page: 46
     description: Germanica Antiqua
     source: Bibl. Germ. de Anno 1483. Norib. Conf. Meg. n. 17. Pist. n. 15. Reut. n. 14. Wilk. n. 18.
+  - book: Chamberlayne
+    page: 63
+    description: Germanice. E superious euis Cod.
 text:
   "Vater unser der du bist in den Hymeln.
    Geheyliget werd dein Nam.

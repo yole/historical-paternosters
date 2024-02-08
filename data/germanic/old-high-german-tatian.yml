@@ -1,0 +1,29 @@
+language: Old High German
+attestations:
+  - book: Chamberlayne
+    page: 61
+    description: Franco-Theotisce. Ex Tatiano
+  - book: Adelung Part 2
+    page: 195
+    number: 127
+    description: Ein Ungenannter 890
+    source: Aus dessen Übersetzung der Harmonie Tatians, nach Palthens Ausgabe, Kap. 34
+text:
+  "Fater unser, thu thar bist in Himile.
+   Si geheilagot thin Namo.
+   Queme thin Rihhi.
+   Si thin Willo so her in Himile ist, o si her iu Erdu.
+   Unsar Brot tagalihhaz gib uns huitu.
+   Inti furlaz uns nusara Sculdi, so wir furlazemes unsaron Sculdigon.
+   Inti ni gileitest unsih in Costunga;
+   Uzouch arlosi unsi fon Ubile."
+text_variants:
+  Adelung Part 2:
+    "Fater unser, thu thar bist in Himile.
+     Si geheilagot thin Namo.
+     Queme thin Rihhi.
+     Si thin Willo so her in Himilo ist, so si her in Erdu.
+     Unsar Brot tagalihhaz gib uns hiutu.
+     Inti furlaz uns unsera Sculdi, so wir furlazemes unsaron Sculdigon.
+     Inti ni gileitest unsih in Costunga;
+     Uz ouch arlosi unsih fon Ubile."

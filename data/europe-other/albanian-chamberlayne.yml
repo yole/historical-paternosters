@@ -1,0 +1,30 @@
+language: Albanian
+attestations:
+  - book: Chamberlayne
+    page: 63
+    description: Epirotice
+  - book: Adelung Part 2
+    page: 800
+    number: 333
+    description: Epirotisch
+    source: Aus des Pet. Budi di Pietra Bianca übersetzten Bellarmin.
+text:
+  "O Attijȣne chi yee mbechiell.
+   Scietenuom chiofte emenitetat.
+   Arte perendia yote.
+   Ubaſta vulle-ndetia yote ſicundreſe mbechiellt, asƐtu ende mbeξeet.
+   Bukene tanε teperdiſcemene epnee ſod.
+   Ɛnandeye nec detȣteretona, poſicundreſe endena ndeyeyme detoreſite tane.
+   Ɛmoſna lemeraam maa ndetekech.
+   Ponolargo giξξε nzekechy ſcit.
+   Amen."
+text_variants:
+  Adelung Part 2:
+    "O Attijüne, chi yee mbe Kiell.
+     Scietenuom kiofte Emenitetat.
+     Arte perendia yote.
+     Ubafte Vullendetia yote sicundre mbe Kiellt, asetu end mbe Zeet.
+     Bukene tane teperdiscimene epnee sod.
+     E nandeye nee Detötere tona, posicundrese ende na ndeyeime Detoresite tane.
+     E mosna le-me-raam maa Ndetekech.
+     Pona largo gizze Nnzekechij-scit."

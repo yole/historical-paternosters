@@ -228,3 +228,6 @@ languages:
 - name: Greek
   family: Indo-European
   url: https://en.wikipedia.org/wiki/Greek_language
+- name: Albanian
+  family: Indo-European
+  url: https://en.wikipedia.org/wiki/Albanian_language

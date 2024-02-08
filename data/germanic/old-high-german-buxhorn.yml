@@ -1,0 +1,29 @@
+language: Old High German
+attestations:
+  - book: Chamberlayne
+    page: 61
+    description: Franco-Theotisce. Ex Buxhornio
+  - book: Adelung Part 2
+    page: 194
+    number: 124
+    description: Alemannisch von etwa 720
+    source: Von Frehern 1610 heraus gegeben.
+text:
+  "Vatter unseer, thu pist in Himele.
+   Wihi Namun dinan.
+   Queme Rihe din.
+   Werde Wille din, so in Himile, sosa in Erdu.
+   Proath unseer emezhie kib uns hiutu.
+   O blaz uns Sculdi unseero, so wir oblazen uns Skuldiken.
+   Enti ni unsih firletti in Khorunka.
+   Uzz erlost unsih fona Ubile."
+text_variants:
+  Adelung Part 2:
+    "Fatter unseer, thu pist in Himele.
+     Wihi Namun dinan.
+     Chweme Rihi din.
+     Werde Willo din, so in Himile, sosa in Erdu.
+     Proath unseer emezhic kip uns hiutu.
+     Oblaz uns Sculdi unseero, so wir oblazen uns Skuldikem.
+     Enti ni unsih firletti in Khorunka.
+     Uzz erlosi unsih fona Ubile."

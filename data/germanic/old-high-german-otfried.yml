@@ -1,0 +1,37 @@
+language: Old High German
+attestations:
+  - book: Chamberlayne
+    page: 60
+    description: Franco-Theotisce
+poetry: true
+text: |
+  Fater unser guato
+  Bist druthin thu gimnato
+  In himilon io hoher
+  Uduih si namo thiner.
+  Biqueme uns thinaz richi
+  Thaz haha himmilrichi.
+  Thara wir zua is gingen
+  Joh emmizigen thingen
+  Si inuillo thin hiar nidare
+  So erist ufan himmile
+  In erdu hilff uns hiare
+  So du engilon duist nuthare
+  Thia da galichun zuthi 
+  Gib huitu uns mit ginuthi.
+  Jo sollon ouht heist mera.
+  Thunes selles lera.
+  Sculd bilaz uns allen
+  So unit ouch duan wollen.
+  Sunta thia wir thencken
+  So em nizigen wirken.
+  Ni firlaze unich thih wara
+  In thes widaruu erten fara.
+  Thas wir nimissigangen
+  Tharana ni bifallen.
+  Losi unsi io thanani
+  Thas wir sin thine thegna
+  Joh mitgina don thinen
+  Then wennon bi miden.
+notes:
+  The text is from the Evangelienbuch of [Otfrid of Weissenburg](https://en.wikipedia.org/wiki/Otfrid_of_Weissenburg).
