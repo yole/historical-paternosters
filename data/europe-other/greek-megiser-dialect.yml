@@ -9,6 +9,10 @@ attestations:
   - book: Chamberlayne
     page: 34
     description: Graece è dialectis constructa.
+  - book: Pantographia
+    page: 135
+    description: Greek 35
+    source: Orat. Dom. p. 6
 text:
   "Απφὺς ἁμῶν, ὁ ἐσὶ ἐνὶ τα ἀδιῆ.
    ἀγιαθήτω θοὔνομα σεῖο.

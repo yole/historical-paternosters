@@ -11,6 +11,13 @@ attestations:
   - book: Chamberlayne
     page: 73
     description: Anglice seculi XIVti
+  - book: Martin
+    page: 15
+    number: 57
+    description: About the year 1380 in the reigh of Richard II, translated by Wickliff
+  - book: Remains Concerning Britain
+    page: 17
+    description: Translation of Wickliffe
 text:
   "Oure Fadir that art in Hevenes. Halowid be
    thi Name. Thi Kingdom come to. Be thi

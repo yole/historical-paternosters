@@ -15,6 +15,10 @@ attestations:
     number: 210
     description: Neu-Griechisch
     source: Aus Megiser (n. 7)
+  - book: Pantographia
+    page: 136
+    description: Greek 36
+    source: Orat. Dom. p. 6
 text:
   "Πατερ ημας, οποιος ισε εης της ουρανους.
    Αγιαθιτω το ονομα σου.

@@ -12,6 +12,10 @@ attestations:
     number: 209
     description: Neu-Griechisch
     source: Aus des Maximi Calliopolitä Neuem Testamente
+  - book: Pantographia
+    page: 138
+    description: Greek 38
+    source: Orat. Dom. p. 7
 text:
   "Ω Πατέρα μας, ὁ ποῦ εἶσαι εἰς τοὺς οὐρανοὺς.
    Ἄς ἁγιασθῆ τὸ ὄνομά σου.

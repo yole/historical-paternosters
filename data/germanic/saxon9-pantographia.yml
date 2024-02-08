@@ -1,0 +1,18 @@
+language: Old English
+attestations:
+  - book: Pantographia
+    page: 264
+    description: Saxon 9
+    source: Also taken from the Rushworth library. Orat. Dom. Amst. p. 58
+  - book: Chamberlayne
+    page: 58
+    description: "Aliter: Ex Eodem Codice <Anglo-Saxonice. Ex Codice Rushworthiano>"
+text:
+  "Fæder user se the is on heofnum.
+   Gihalgod bith noma thin.
+   To cymeth rice thin.
+   Sie willa thin sie swa on heofne and on heortho.
+   Hlaf userne dæghwæmlice sel us to dæge.
+   And forsgef us synne use swa fæstlice and ec he forgeofas eghwelce scylde user.
+   And ne usih on læd thu in costunge.
+   Ah afria usih from yfle."

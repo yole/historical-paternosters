@@ -4,6 +4,10 @@ attestations:
     page: 68
     description: English 8
     source: Tyndale's translation, in the year 1526. Martin's Inst. p. 16.
+  - book: Martin
+    page: 16
+    number: 59
+    description: Tyndale's translation A.D. 1526
 text:
   "Our Father which art in Heven, halowed be
    thy Name. Let thy Kingdom come; thy will

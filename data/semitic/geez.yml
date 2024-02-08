@@ -8,6 +8,10 @@ attestations:
   - book: Chamberlayne
     page: 27
     description: Aethiopice
+  - book: Pantographia
+    page: 82
+    description: Ethiopic 1
+    source: Orat. Dom. p. 14
 text:
   "አቡነ ፡ ዘበሰሚያት ፡
    ይትቀደሰ ፡ ሰምከ ።

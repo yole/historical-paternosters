@@ -3,6 +3,18 @@ attestations:
   - book: Chamberlayne
     page: 57
     description: Anglo-Saxonice, ex codice Rushworthiano
+  - book: Pantographia
+    page: 262
+    description: Saxon 6
+    source: Martin's Inst. p. 14
+  - book: Pantographia
+    page: 264
+    description: Saxon 8
+    source: Orat. Dom. Amst. p. 57
+  - book: Martin
+    page: 14
+    number: 52
+    description: Dano-Saxon copy abvout the year 900
 text:
   "Fæder ure thuthe iu heofnum earth.
    Beo gehalgad thin namo.
@@ -12,3 +24,22 @@ text:
    Andforles us ure scylde swæ swæ we ec forleten thæn the scyldigar with us.
    And ne gelaet us gelaede in constungæ.
    Ah gelefe us of yfle."
+text_variants:
+  Pantographia (Saxon 6):
+    "Fader ure thu the in heofnum earth.
+     Beo gehalgud thin noma.
+     Cume to thin rice.
+     Weorthe thin willa swa swa on heofune swile on eorthe.
+     Hlaf uferne dæghwainlieu sel us to dæg.
+     And forlete us ure scylde swa swa we ec forleten thæm the scyldigat with us.
+     Geleade in costnungæ.
+     Ah gelefe us of yfle."
+  Pantographia (Saxon 8):
+    "Fæder ure thuthe iu heofunum earth.
+     Beo gehalgad thin noma.
+     Cume to thin rice.
+     Weorthe tin willa swa on heofune swilce on eorthe.
+     Hlaf userne dæghwæmlice sel us so dæge.
+     And forlet us ure scylde swæ swæ we ec forleten thæn the scyldigat with us.
+     And ne gelaet us gelaede in constungæ.
+     Ah gelese us of yfl."

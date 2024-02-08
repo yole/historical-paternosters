@@ -1,0 +1,19 @@
+language: Old English
+attestations:
+  - book: Pantographia
+    page: 260
+    description: Saxon 3
+    source: Camden's Remains, p. 23
+  - book: Martin
+    page: 14
+    number: 51
+    description: gloss on the Evangelists by bishop Eadfride
+text:
+  "Fader uren ðu arð in Heofnas.
+   sie gehalgud Noma ðin.
+   To cymeð ric ðin.
+   Sie fillo ðin suæ is in Heofne & in Eorða.
+   Hlaf uferne oferwirtlic sel us to dæg.
+   & forgef us scylða usna suæ we forgefon Scylgum urum.
+   And ne inlead usið in Cortnunge.
+   Ah gefrigusich from Evil."

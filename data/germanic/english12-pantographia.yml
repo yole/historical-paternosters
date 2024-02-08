@@ -4,6 +4,10 @@ attestations:
     page: 70
     description: English 12
     source: In 1610 <...> we find it in a Bible, printed at London by Barker
+  - book: Martin
+    page: 16
+    number: 60
+    description: In the year 1610 a Bible printed at London by Robert Barker
 text:
   "Our Father which art in Heaven hallowed bee
    thy Name. Thy Kingdom come. Thy Will

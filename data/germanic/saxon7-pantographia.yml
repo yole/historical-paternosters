@@ -1,0 +1,17 @@
+language: Old English
+attestations:
+  - book: Pantographia
+    page: 264
+    description: Saxon 7
+    source: from the Psalter of Trinity College, A.D. 1130. Martin's Inst. p. 14
+  - book: Martin
+    page: 14
+    number: 53
+    description: In the time of King Stephen (about A.D. 1130) in the Salter of Trinity College
+text:
+  "Fader me the art in heofone. 
+   Sy gebletsob name thin, swa swa on heofone and on earthan.
+   Breod ure degwanlich geof us to dæg.
+   And forgeof us agelter ura swa swa we forgeofen agiltendum mum.
+   And ne led us on Costnunge, an alys us from yfle.
+   Swa beo hit."

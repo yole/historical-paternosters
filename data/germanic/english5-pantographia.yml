@@ -8,6 +8,12 @@ attestations:
   - book: Chamberlayne
     page: 72
     description: Anglice seculi XIIItii
+  - book: Martin
+    page: 15
+    number: 55
+  - book: Remains Concerning Britain
+    page: 17
+    description: the time of King Henry the third
 text: |
   Fader that art in heavin riche,
   Thin helge nam it wurth the blisse,

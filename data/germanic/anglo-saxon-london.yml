@@ -17,6 +17,10 @@ attestations:
   - book: Chamberlayne
     page: 55
     description: Anglo-Saxonice
+  - book: Pantographia
+    page: 262
+    description: Saxon 4
+    source: Wilk. Ess. p. 7
 text:
   "Faether ure thu the eart on heofenum.
    Si thin nama gehalgod.
@@ -28,3 +32,14 @@ text:
    And ne gelædde thu us on costnunge.
    Ac alys us of yfele.
    So thlike."
+text_variants:
+  Pantographia:
+    "Fæder ure thu the earth on heofenum.
+     Si thin nama gehalgod.
+     To be cume thin rice.
+     Gewurthe thin willa on eorthan swa swa on heofenum.
+     Urne ge dæghwanlican hlaf syle us to dæg.
+     And forgyf us ure gyltas, swa swa we forgivath
+     urum gyltendum.
+     And ne gelædde thu us on costnung.
+     Ac alyse us of yfle."

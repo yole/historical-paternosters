@@ -13,6 +13,7 @@ attestations:
       popularibus edisceretur, circa Annum 1156."
   - book: Remains Concerning Britain
     page: 17
+    description: Rime sent from Rome by Pope Adrian
   - book: Adelung Part 2
     page: 334
     number: 198
@@ -21,6 +22,10 @@ attestations:
   - book: Chamberlayne
     page: 71
     description: Anglice, seculi XIImi
+  - book: Martin
+    page: 14
+    number: 54
+    description: About the year 1160, in the time of Henry the second
 text: |
   Ure fadyr in heaven rich.
   Thy name be halyed everlich.

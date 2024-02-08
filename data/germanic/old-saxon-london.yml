@@ -11,6 +11,10 @@ attestations:
     source: Aus Will l'Isle Saxon Monuments und Camden's Remains, S. 31
   - book: Remains Concerning Britain
     page: 16
+  - book: Pantographia
+    page: 262
+    description: Saxon 5
+    source: Wilk. Ess. p. 7
 text:
   "Thu ure Fader, the eart on heofenum.
    Si thin noman gehalgod.
@@ -22,3 +26,15 @@ text:
    And ne læd thu na us on kostnunge.
    Ac alys us fronn yfele.
    Si hit swa."
+text_variants:
+  Pantographia:
+    "Thu ure Fader, the eart on heofenum.
+     Si thin nama gehalgod.
+     Cum thin ric.
+     Si thin willa on eorthen swa swa on heofenum.
+     Syle us to dæg urn dægwanlican hlaf.
+     And forgif us ure gyltar, swa swa we forgifath
+     tham the with us agyltath.
+     And ne led the us on kostnung.
+     Ac alys us fronn yfle.
+     Si it swa."
