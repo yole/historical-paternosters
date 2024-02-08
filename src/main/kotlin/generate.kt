@@ -453,7 +453,12 @@ fun generateSpecimen(specimen: Specimen, path: String) {
             for (sourceName in sourceNames) {
                 val attestation = specimen.attestations.find { sourceName == it.book  }
                     ?: specimen.attestations.find { sourceName == "${it.book} (${it.description})"}
-                attestation?.text_variant = textVariant
+                if (attestation != null) {
+                    attestation.text_variant = textVariant
+                }
+                else {
+                    println("Not found matching attestation for source $sourceName in ${specimen.outPath}")
+                }
             }
         }
     }
