@@ -451,7 +451,8 @@ fun generateSpecimen(specimen: Specimen, path: String) {
         for ((sources, textVariant) in specimen.text_variants) {
             val sourceNames = sources.split(',').map { it.trim() }
             for (sourceName in sourceNames) {
-                val attestation = specimen.attestations.find { it.book == sourceName }
+                val attestation = specimen.attestations.find { sourceName == it.book  }
+                    ?: specimen.attestations.find { sourceName == "${it.book} (${it.description})"}
                 attestation?.text_variant = textVariant
             }
         }
