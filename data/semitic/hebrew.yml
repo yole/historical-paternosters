@@ -15,6 +15,7 @@ attestations:
   - book: Chamberlayne
     page: 1
     description: Hebraice
+    source: ex Eliae Hutteri catechismo
   - book: Pantographia
     page: 148
     description: Hebrew 8

@@ -1,0 +1,16 @@
+language: Hebrew
+attestations:
+  - book: Chamberlayne
+    page: 2
+    description: Rabbinice
+    source: ex R. Isaaci Munimine fidei Edit. Amstel.
+text:
+  "Avinu schebaschamaim
+   Jtkhadesch schimcha.
+   Jabo malkutcha.
+   Jeafe retzoncha baaretz caascher baschamaim.
+   Veten lanu hajom lechem chukenu.
+   Umechol lanu & chobotenu, kerno schegam anachnu mochalim lechajavim alenu.
+   Veal tebienu lide nifajon.
+   Vechazilenu míkol rah.
+   Amen."

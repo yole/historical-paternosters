@@ -12,9 +12,13 @@ attestations:
     number: 46
     description: Chaldäisch
     source: Aus Thom. Lüdeken (Andr. Müllers) Samml. S. 11
+  - book: Chamberlayne
+    page: 3
+    description: Chaldaice
+    source: ex Londinensi Sylloge
 text:
-  "Abhouna debhischmaija; jithkaddasch schemach; 
-   tethe malchouthach; jehěveh tsibhjanach
+  "Abhouna debhischmaija. jithkaddasch schemach. 
+   tethe malchouthach. jehěveh tsibhjanach
    kma bhischmaija knema bh-ar-a; habh lan
    lahhma dmissetana bhjoma; uschebuk lan
    hhobai kma anan schbhakna lěhhaijabhai[1];
