@@ -20,7 +20,7 @@ introducing errors in the process of copying. The languages of each translation 
 sometimes misidentified.
 
 The goal of this project is to create a database of the Pater Noster translations published
-in collections that came out before 1800. For each translation, this database aims to:
+in collections that came out before the early 19th century. For each translation, this database aims to:
  * identify the language;
  * track down the original source wherever possible;
  * specify the transmission history;
