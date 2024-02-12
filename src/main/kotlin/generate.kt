@@ -147,6 +147,14 @@ class Specimen {
         get() = attestations.sortedBy { it.bookRef?.year ?: Int.MAX_VALUE }.first()
 }
 
+class Paternosters(
+    val books: List<Book>,
+    val languages: List<Language>,
+    val allSpecimens: List<Specimen>
+) {
+    lateinit var rootFamily: LanguageFamily
+}
+
 fun loadSpecimen(path: Path): Specimen {
     val yaml = Yaml(Constructor(Specimen::class.java, LoaderOptions()))
 
@@ -183,6 +191,13 @@ fun loadLanguages(path: String): List<Language> {
     return yaml.load<Languages>(Paths.get(path).inputStream()).languages
 }
 
+fun loadData(): Paternosters {
+    val books = loadBooks("data/books.yml")
+    val languages = loadLanguages("data/languages.yml")
+    val allSpecimens = loadSpecimens("data")
+    return Paternosters(books, languages, allSpecimens)
+}
+
 private fun generateToFile(
     path: String,
     template: Template,
@@ -195,17 +210,19 @@ private fun generateToFile(
     }
 }
 
-fun velocityContext(vararg keys: Pair<String, Any>): VelocityContext {
-    return VelocityContext().also {
-        it.put("date", DateTool())
+fun velocityContext(paternosters: Paternosters, vararg keys: Pair<String, Any>): VelocityContext {
+    return VelocityContext().also { ctx ->
+        ctx.put("date", DateTool())
+        ctx.put("totalSpecimens", paternosters.allSpecimens.size)
+        ctx.put("totalAttestations", paternosters.allSpecimens.sumOf { it.attestations.size })
         for (key in keys) {
-            it.put(key.first, key.second)
+            ctx.put(key.first, key.second)
         }
     }
 }
 
-fun contextFromObject(obj: Any): VelocityContext {
-    val context = velocityContext()
+fun contextFromObject(paternosters: Paternosters, obj: Any): VelocityContext {
+    val context = velocityContext(paternosters)
     for (member in obj::class.members) {
         if (member is KProperty) {
             context.put(member.name, member.getter.call(obj))
@@ -453,7 +470,7 @@ fun compareVariants(specimen: Specimen) {
     }
 }
 
-fun generateSpecimen(specimen: Specimen, path: String) {
+fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: String) {
     if (specimen.text_variants.isNotEmpty()) {
         if (specimen.diff != false) {
             compareVariants(specimen)
@@ -474,7 +491,7 @@ fun generateSpecimen(specimen: Specimen, path: String) {
     }
 
     val template = Velocity.getTemplate("specimen.vm")
-    val context = contextFromObject(specimen)
+    val context = contextFromObject(paternosters, specimen)
     context.put("text", specimen.text?.let {
         val withFootnotes = formatFootnotes(it)
         if (specimen.poetry == true) withFootnotes.replace("\n", "<br>") else withFootnotes
@@ -486,7 +503,7 @@ fun generateSpecimen(specimen: Specimen, path: String) {
     generateToFile(path, template, context)
 }
 
-fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
+fun generateBook(paternosters: Paternosters, book: Book, path: String) {
     if (book.image == null) {
         try {
             book.image = downloadThumbnail(book)
@@ -497,8 +514,8 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
     }
 
     val template = Velocity.getTemplate("book.vm")
-    val context = contextFromObject(book)
-    val specimensWithAttestations = allSpecimens
+    val context = contextFromObject(paternosters, book)
+    val specimensWithAttestations = paternosters.allSpecimens
         .flatMap { specimen ->
             val attestationInBook = specimen.attestations.filter { a -> a.bookRef == book }
             attestationInBook.map { specimen to it }
@@ -510,15 +527,15 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
     generateToFile(path, template, context)
 }
 
-fun generateBooks(books: List<Book>, path: String) {
+fun generateBooks(paternosters: Paternosters, path: String) {
     val template = Velocity.getTemplate("books.vm")
-    val context = velocityContext()
+    val context = velocityContext(paternosters)
 
     val collections = BookType("Collections")
     val bibles = BookType("Bible Translations")
     val other = BookType("Other Books")
 
-    for (book in books.sortedBy { it.year ?: 0 }) {
+    for (book in paternosters.books.sortedBy { it.year ?: 0 }) {
         when (book.type) {
             "collection" -> collections.books.add(book)
             "bible" -> bibles.books.add(book)
@@ -530,19 +547,19 @@ fun generateBooks(books: List<Book>, path: String) {
     generateToFile(path, template, context)
 }
 
-fun generateLanguage(language: Language, path: String) {
+fun generateLanguage(paternosters: Paternosters, language: Language, path: String) {
     val template = Velocity.getTemplate("language.vm")
-    val context = contextFromObject(language)
+    val context = contextFromObject(paternosters, language)
     generateToFile(path, template, context)
 }
 
-fun generateLanguages(rootFamily: LanguageFamily, path: String) {
+fun generateLanguages(paternosters: Paternosters, path: String) {
     val template = Velocity.getTemplate("languages.vm")
-    val context = velocityContext("rootFamily" to rootFamily)
+    val context = velocityContext(paternosters, "rootFamily" to paternosters.rootFamily)
     generateToFile(path, template, context)
 }
 
-fun generateIndex(path: String) {
+fun generateIndex(paternosters: Paternosters, path: String) {
     val readme = Paths.get("README.md").readLines()
         .drop(1) // first caption line
         .dropWhile { it.isEmpty() } // blank lines
@@ -551,7 +568,7 @@ fun generateIndex(path: String) {
     val readmeHtml = markdownToHtml(readme)
 
     val template = Velocity.getTemplate("index.vm")
-    generateToFile(path, template, velocityContext("readme" to readmeHtml))
+    generateToFile(path, template, velocityContext(paternosters, "readme" to readmeHtml))
 }
 
 fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
@@ -572,19 +589,15 @@ fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
     return rootFamily
 }
 
-private fun resolveReferences(
-    allSpecimens: List<Specimen>,
-    books: List<Book>,
-    languages: List<Language>
-): ArrayList<String> {
+private fun resolveReferences(paternosters: Paternosters): ArrayList<String> {
     val errors = arrayListOf<String>()
 
-    for (specimen in allSpecimens) {
+    for (specimen in paternosters.allSpecimens) {
         for (attestation in specimen.attestations) {
             if (attestation.book == null) {
                 errors.add("No book title specified for attestation in ${specimen.path}")
             } else {
-                val book = books.find { it.title == attestation.book }
+                val book = paternosters.books.find { it.title == attestation.book }
                 if (book == null) {
                     errors.add("Unknown book ${attestation.book} in ${specimen.path}")
                     continue
@@ -594,7 +607,7 @@ private fun resolveReferences(
             }
         }
         if (specimen.base != null) {
-            specimen.baseSpecimen = allSpecimens.find { it.path == specimen.base }
+            specimen.baseSpecimen = paternosters.allSpecimens.find { it.path == specimen.base }
             if (specimen.baseSpecimen == null) {
                 errors.add("Can't resolve base path in ${specimen.path}")
             }
@@ -603,7 +616,7 @@ private fun resolveReferences(
         if (language == null) {
             errors.add("No language specified in ${specimen.path}")
         } else {
-            specimen.lang = languages.find { it.name == language } ?:
+            specimen.lang = paternosters.languages.find { it.name == language } ?:
             findOrCreateUncertainLanguage(language)
         }
         if (errors.isEmpty()) {
@@ -611,8 +624,8 @@ private fun resolveReferences(
         }
     }
 
-    for (language in languages + uncertainLanguages.values) {
-        language.specimens = allSpecimens.filter { it.lang == language }
+    for (language in paternosters.languages + uncertainLanguages.values) {
+        language.specimens = paternosters.allSpecimens.filter { it.lang == language }
     }
 
     return errors
@@ -629,13 +642,11 @@ fun findOrCreateUncertainLanguage(language: String): Language {
 
 @OptIn(ExperimentalPathApi::class)
 fun main() {
-    val books = loadBooks("data/books.yml")
-    val languages = loadLanguages("data/languages.yml")
-    val allSpecimens = loadSpecimens("data")
+    val paternosters = loadData()
 
-    val errors = resolveReferences(allSpecimens, books, languages)
+    val errors = resolveReferences(paternosters)
 
-    val rootFamily = groupLanguagesIntoFamilies(languages + uncertainLanguages.values)
+    paternosters.rootFamily = groupLanguagesIntoFamilies(paternosters.languages + uncertainLanguages.values)
 
     if (errors.isNotEmpty()) {
         for (error in errors) {
@@ -648,18 +659,18 @@ fun main() {
     p.setProperty("resource.loader.file.path", Paths.get("templates").toAbsolutePath().toString())
     Velocity.init(p)
 
-    for (specimen in allSpecimens) {
-        generateSpecimen(specimen, "out/${specimen.outPath}")
+    for (specimen in paternosters.allSpecimens) {
+        generateSpecimen(paternosters, specimen, "out/${specimen.outPath}")
     }
-    for (book in books) {
-        generateBook(book, allSpecimens, "out/${book.outPath}")
+    for (book in paternosters.books) {
+        generateBook(paternosters, book, "out/${book.outPath}")
     }
-    for (language in languages) {
-        generateLanguage(language, "out/${language.outPath}")
+    for (language in paternosters.languages) {
+        generateLanguage(paternosters, language, "out/${language.outPath}")
     }
-    generateBooks(books, "out/books.html")
-    generateLanguages(rootFamily, "out/languages.html")
-    generateIndex("out/index.html")
+    generateBooks(paternosters, "out/books.html")
+    generateLanguages(paternosters, "out/languages.html")
+    generateIndex(paternosters, "out/index.html")
     Paths.get("templates/paternoster.css").copyTo(Paths.get("out/paternoster.css"), overwrite = true)
     Paths.get("images").copyToRecursively(Paths.get("out/images"), overwrite = true, followLinks = false)
 }

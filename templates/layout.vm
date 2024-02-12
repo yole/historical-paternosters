@@ -16,7 +16,9 @@
             <h3 class="self-link"><a href="/">Paternosters</a></h3>
             <p>
             <a href="/books.html">Books</a><br/>
-            <a href="/languages.html">Languages</a>
+            <a href="/languages.html">Languages</a><p>
+            Texts: $totalSpecimens<br/>
+            Attestations:&nbsp;$totalAttestations
         </div>
         <div class="content">
             $!bodyContent
