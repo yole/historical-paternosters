@@ -11,6 +11,7 @@ attestations:
   - book: Chamberlayne
     page: 73
     description: Anglice seculi XIVti
+    source: ex Libello Orationis Dominicae Versiones Septentrionales continentis
   - book: Martin
     page: 15
     number: 57

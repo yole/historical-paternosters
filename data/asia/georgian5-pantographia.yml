@@ -16,9 +16,11 @@ attestations:
   - book: Chamberlayne
     page: 16
     description: Georgiane
+    source: ex Mss. Doctissimi Lucasii optimae notae excerpsi
   - book: Chamberlayne
     page: 17
     description: Iberice
+    source: "ex Libro cui titulus: Paidagogia Dialecto Iberica Anno 1711 <...> impressa"
 text:
   "Mamao cjueno romeli chbar zzahta sciua.
    Tzmida ikachn sa-chheli sceni. Sceni movedin

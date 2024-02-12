@@ -1,23 +1,35 @@
 language: Old High German
 attestations:
+  - book: Tatian
+    page: 68
   - book: Chamberlayne
     page: 61
     description: Franco-Theotisce. Ex Tatiano
+    source: ex Tatiani Harmonia Evangelica
   - book: Adelung Part 2
     page: 195
     number: 127
     description: Ein Ungenannter 890
     source: Aus dessen Übersetzung der Harmonie Tatians, nach Palthens Ausgabe, Kap. 34
 text:
-  "Fater unser, thu thar bist in Himile.
-   Si geheilagot thin Namo.
-   Queme thin Rihhi.
-   Si thin Willo so her in Himile ist, o si her iu Erdu.
-   Unsar Brot tagalihhaz gib uns huitu.
-   Inti furlaz uns nusara Sculdi, so wir furlazemes unsaron Sculdigon.
-   Inti ni gileitest unsih in Costunga;
-   Uzouch arlosi unsi fon Ubile."
+  "Fater unser thu thar bist in himile.
+   Si giheilagot thin namo. 
+   Queme thín rihhi.
+   Si thín uuillo, só hér in himile ist, só si hér in erdu. 
+   Unsar brót tagalihhaz gíb uns hiutu.
+   Inti furlaz uns unsara sculdi, só uúir fúrlazemes unsaren sculdigon.
+   Inti ni gileitest unsih in costunga.
+   Uzouh árlosi unsih fón ubile."
 text_variants:
+  Chamberlayne:
+    "Fater unser, thu thar bist in Himile.
+     Si geheilagot thin Namo.
+     Queme thin Rihhi.
+     Si thin Willo so her in Himile ist, o si her iu Erdu.
+     Unsar Brot tagalihhaz gib uns huitu.
+     Inti furlaz uns nusara Sculdi, so wir furlazemes unsaron Sculdigon.
+     Inti ni gileitest unsih in Costunga;
+     Uzouch arlosi unsi fon Ubile."
   Adelung Part 2:
     "Fater unser, thu thar bist in Himile.
      Si geheilagot thin Namo.

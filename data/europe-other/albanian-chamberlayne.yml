@@ -1,8 +1,9 @@
 language: Albanian
 attestations:
   - book: Chamberlayne
-    page: 63
+    page: 62
     description: Epirotice
+    source: Doctrina Christiana Bellarmini, auctore Petro Budi da Pietra Bianca
   - book: Adelung Part 2
     page: 800
     number: 333
@@ -28,3 +29,7 @@ text_variants:
      E nandeye nee Detötere tona, posicundrese ende na ndeyeime Detoresite tane.
      E mosna le-me-raam maa Ndetekech.
      Pona largo gizze Nnzekechij-scit."
+notes:
+  The source of the text is "Doktrina e Kërshtenë" by [Pjetër Budi](https://en.wikipedia.org/wiki/Pjetër_Budi),
+  a translation of [Robert Bellarmine](https://en.wikipedia.org/wiki/Robert_Bellarmine)'s Catechism,
+  which doesn't seem to be available online.

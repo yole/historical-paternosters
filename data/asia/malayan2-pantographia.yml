@@ -11,6 +11,7 @@ attestations:
   - book: Chamberlayne
     page: 18
     description: Malaice
+    source: "ex Editione Londinensi"
   - book: Chamberlayne
     page: 23
     description: Bengalice

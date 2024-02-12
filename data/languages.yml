@@ -119,7 +119,7 @@ languages:
   family: Afro-Asiatic/Semitic
   url: https://en.wikipedia.org/wiki/Hebrew_language
 - name: Swiss German
-  family: Indo-European/Germanic
+  family: Indo-European/Germanic/German Dialects
   url: https://en.wikipedia.org/wiki/Swiss_German
 - name: Dutch
   family: Indo-European/Germanic
@@ -231,3 +231,8 @@ languages:
 - name: Albanian
   family: Indo-European
   url: https://en.wikipedia.org/wiki/Albanian_language
+- name: Swabian German
+  family: Indo-European/Germanic/German Dialects
+  url: https://en.wikipedia.org/wiki/Swabian_German
+- name: Kariri
+  url: https://en.wikipedia.org/wiki/Kariri_languages

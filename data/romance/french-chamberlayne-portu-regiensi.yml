@@ -3,6 +3,7 @@ attestations:
   - book: Chamberlayne
     page: 38
     description: Gallice. Ex versione Portu-Regiensi
+    source: ex praescripto pl. Reverendi Doctoris Wottonii
 text:
   "Nostre Pere qui estes dans les cieux.
    Que vostre nom soit sanctifié.
@@ -14,3 +15,5 @@ text:
    Mais delivre nous du mal.
    Parceque le Royaume la puissance, & la gloire vous
    apartiennent pour jamais. Ainsi soit il."
+notes:
+  The description refers to [Bible de Port-Royal](https://en.wikipedia.org/wiki/Bible_de_Port-Royal).

@@ -1,9 +1,13 @@
-language: Russian
+language: Church Slavonic
 attestations:
   - book: Pantographia
     page: 248
     description: Russian 3
     source: Orat. Dom. Amst. p. 78
+  - book: Chamberlayne
+    page: 76
+    description: Sclavonice, stylo Cyrulico
+    source: Ludoplhus Chamberlayno communicavit
   - book: Chamberlayne
     page: 78
     description: Moscovitice

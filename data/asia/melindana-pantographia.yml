@@ -11,6 +11,7 @@ attestations:
   - book: Chamberlayne
     page: 32
     description: Melindane
+    source: D'avitus
   - book: Adelung Part 4
     page: 112
     number: 17

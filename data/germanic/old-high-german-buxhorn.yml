@@ -1,23 +1,37 @@
 language: Old High German
 attestations:
+  - book: Boxhorn
+    page: 6
+    description: Alemanice
+    source: Ex S. Galli vetustissimo codice MS
   - book: Chamberlayne
     page: 61
     description: Franco-Theotisce. Ex Buxhornio
+    source: M.Z. Buxhornii Prima Religionis Christianae Rudimenta
   - book: Adelung Part 2
     page: 194
     number: 124
     description: Alemannisch von etwa 720
     source: Von Frehern 1610 heraus gegeben.
 text:
-  "Vatter unseer, thu pist in Himele.
-   Wihi Namun dinan.
-   Queme Rihe din.
-   Werde Wille din, so in Himile, sosa in Erdu.
-   Proath unseer emezhie kib uns hiutu.
-   O blaz uns Sculdi unseero, so wir oblazen uns Skuldiken.
-   Enti ni unsih firletti in Khorunka.
-   Uzz erlost unsih fona Ubile."
+  "Fatter unseer thu pist in himile.
+   Wihi namun dinan.
+   Qhveme rihi din.
+   Werde willo din, so in himile, sosa in erdu.
+   Prooth unseer emezhic kip uns hiutu.
+   Oblaz uns sculdi unseero, so wir oblazen uns sculdiken.
+   En ti ni unsih firletti in khorunka.
+   Uzz erlosi unsih fona ubile."
 text_variants:
+  Chamberlayne:
+    "Vatter unseer, thu pist in Himele.
+     Wihi Namun dinan.
+     Queme Rihe din.
+     Werde Wille din, so in Himile, sosa in Erdu.
+     Proath unseer emezhie kib uns hiutu.
+     O blaz uns Sculdi unseero, so wir oblazen uns Skuldiken.
+     Enti ni unsih firletti in Khorunka.
+     Uzz erlost unsih fona Ubile."
   Adelung Part 2:
     "Fatter unseer, thu pist in Himele.
      Wihi Namun dinan.

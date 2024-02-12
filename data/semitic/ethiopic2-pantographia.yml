@@ -26,6 +26,7 @@ attestations:
   - book: Chamberlayne
     page: 27
     description: Aethiopica Lectio
+    source: ex grammatica Clar. Jobi Ludolfi
 base: semitic/geez
 text:
   "Abuna xabashamajath. Yithkadash shimacha

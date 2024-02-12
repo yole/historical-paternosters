@@ -10,6 +10,9 @@ attestations:
   - book: Chamberlayne
     page: 6
     description: Syriace. Charactere Estrangelo
+    source:
+      "Alphabetum Chaldaicum, antiquum Estrangelo dictum, una cum Alphabeto Syriaco Oratione
+       Dominicali Salutatione Angelica & Symbolo Fidei. Roma 1636"
 text:
   "Abûn dbhascmaja: netquadasch scmoch: thethe
    malkuthoch: nehva zebjonoch aikano dbhascmaja

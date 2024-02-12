@@ -22,6 +22,9 @@ attestations:
     number: 139
     description: Schweizerisch
     source: Aus Conr. Gesners Mithridates, S. 37, und Theod. Bibliandri communi ratione linguar. 1548
+  - book: Chamberlayne
+    page: 65
+    description: Helvetice
 text:
   "Vatter[1] unser[2], der du bist[3] inn[4] himmlen[5], geheiliget[6]
    werde[7] dÿn[8] nam[9]; zukumme[10] uns[11] dÿn[12] rÿch[13],

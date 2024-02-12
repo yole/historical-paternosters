@@ -7,6 +7,7 @@ attestations:
   - book: Chamberlayne
     page: 58
     description: "Aliter: Ex Eodem Codice <Anglo-Saxonice. Ex Codice Rushworthiano>"
+    source: "ex Codice Rushworthiano Luc. XI:2"
 text:
   "Fæder user se the is on heofnum.
    Gihalgod bith noma thin.
@@ -16,3 +17,5 @@ text:
    And forsgef us synne use swa fæstlice and ec he forgeofas eghwelce scylde user.
    And ne usih on læd thu in costunge.
    Ah afria usih from yfle."
+notes:
+  The source is the [Rushworth Gospels](https://medieval.bodleian.ox.ac.uk/catalog/manuscript_431).

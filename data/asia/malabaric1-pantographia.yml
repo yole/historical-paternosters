@@ -14,6 +14,7 @@ attestations:
   - book: Chamberlayne
     page: 24
     description: Malabarice
+    source: ex Londinensi Sylloge, cujus lectionem Rev. Dominus Behme <...> communicavit
   - book: Adelung Part 4
     page: 70
     number: 8

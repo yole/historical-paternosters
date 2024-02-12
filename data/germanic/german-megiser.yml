@@ -18,6 +18,10 @@ attestations:
     page: 285
     number: 177
     description: Heutige Form des V.U.
+  - book: Chamberlayne
+    page: 63
+    description: Germanice, stylo Hodierno
+    source: ex editionibus aliis
 text:
   "Unser Vatter, der du bist im Himmel, geheiliget
    werd dein Nahm. Zukomm uns dein Reich.

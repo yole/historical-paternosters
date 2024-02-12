@@ -25,6 +25,7 @@ attestations:
   - book: Chamberlayne
     page: 47
     description: Britannice, veteri stylo
+    source: aliae editiones
 normalize:
   uu: w
 text:

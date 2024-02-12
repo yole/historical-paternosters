@@ -3,6 +3,8 @@ attestations:
   - book: Chamberlayne
     page: 60
     description: Franco-Theotisce
+    source:
+      "ex Otfrido Witzamburgensi liber Recherches des antiquites de la langue Françoise ou Dictionaire Gaulois par P.B. Par. 1667"
 poetry: true
 text: |
   Fater unser guato
@@ -35,3 +37,5 @@ text: |
   Then wennon bi miden.
 notes:
   The text is from the Evangelienbuch of [Otfrid of Weissenburg](https://en.wikipedia.org/wiki/Otfrid_of_Weissenburg).
+  The source quoted by Chamberlayne is [Trésor de recherches et d'antiquités gauloises et françaises](https://gallica.bnf.fr/ark:/12148/bpt6k50464b)
+  by [Pierre Borel](https://en.wikipedia.org/wiki/Pierre_Borel).

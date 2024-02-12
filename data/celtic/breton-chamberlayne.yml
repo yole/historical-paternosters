@@ -3,6 +3,7 @@ attestations:
   - book: Chamberlayne
     page: 52
     description: Britannice Aremoricane Alia Dialecto
+    source: ex Libro Dictionaire & Colloques Francois & Breton &c. par G. Quiquer de Koscoff
   - book: Adelung Part 2
     page: 165
     number: 119
@@ -10,6 +11,9 @@ attestations:
     source:
       "Aus des Quiquer de Roskoff Dictionnaire von 1626, im Chamberlayne, S. 52,
        und John Tolands several Pieces, Th. 1, S. 223"
+  - book: Quiquer
+    page: 17
+    description: Breton
 text:
   "Hon Tat pehiny so en Euffaou.
    Hozhano bezet santifiet.

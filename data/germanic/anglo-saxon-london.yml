@@ -17,6 +17,7 @@ attestations:
   - book: Chamberlayne
     page: 55
     description: Anglo-Saxonice
+    source: ex Editione Londinensi
   - book: Pantographia
     page: 262
     description: Saxon 4

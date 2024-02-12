@@ -3,6 +3,7 @@ attestations:
   - book: Chamberlayne
     page: 66
     description: Belgice, ex Vetustis Codd.
+    source: Franciscus Burmannus ad Theologiae Cathedram Ultrajectinam vocatus <...> tradidit
 text:
   "God die onse Vader es.
    Diene name mote geëlicht zijn.
@@ -11,3 +12,5 @@ text:
    Gef ons dat dagelijke broet.
    Vergef ons also onse mosvart, alse wi voen die uns voen quaet.
    In wringen ne laet ons niet mer quite ons van den quade. Amen."
+notes:
+  Chamberlayne's source is [Frans Burman](https://de.wikipedia.org/wiki/Frans_Burman_(Theologe,_1671)).

@@ -10,6 +10,7 @@ attestations:
   - book: Chamberlayne
     page: 31
     description: Coptice, stylo literisque hodiernis
+    source: ex N.T. meo Coptico exscripsi
   - book: Adelung Part 3
     page: 92
     number: 338

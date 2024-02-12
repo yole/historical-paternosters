@@ -24,9 +24,11 @@ attestations:
   - book: Chamberlayne
     page: 87
     description: Werulice
+    source: ex Wolfgangi Lazii Lib. de migrat. Gent. Reverendus Praesul Episcopus Carliolensis <...> conscripsit
   - book: Chamberlayne
     page: 83
     description: Livonice
+    source: ex singulari favore amici harum linguarum peritissimi accepi
 text:
   "Tabes mus, kas tu es eck sckan debbessis;
    schwetitz tows waarcz. Enack mums tows

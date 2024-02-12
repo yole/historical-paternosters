@@ -3,6 +3,7 @@ attestations:
   - book: Chamberlayne
     page: 67
     description: Leodice sive Vallonice
+    source: Matthaeus du Brocq <...> mecum communicavit
   - book: Adelung Part 2
     page: 597
     number: 255

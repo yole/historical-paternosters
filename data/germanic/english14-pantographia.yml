@@ -8,6 +8,10 @@ attestations:
     page: 337
     number: 204
     description: Heutige Sprache
+  - book: Chamberlayne
+    page: 74
+    description: Anglice stylo Hodierno
+    source: ex editis exbibui
 text:
   "Our father which art in heaven, hallowed be
    thy Name; thy kingdom come; thy will be

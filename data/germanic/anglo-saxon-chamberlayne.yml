@@ -3,6 +3,7 @@ attestations:
   - book: Chamberlayne
     page: 57
     description: Anglo-Saxonice, ex codice Rushworthiano
+    source: "ex Codice Rushworthiano Matth. 6:9"
   - book: Pantographia
     page: 262
     description: Saxon 6
@@ -14,7 +15,7 @@ attestations:
   - book: Martin
     page: 14
     number: 52
-    description: Dano-Saxon copy abvout the year 900
+    description: Dano-Saxon copy about the year 900
 text:
   "Fæder ure thuthe iu heofnum earth.
    Beo gehalgad thin namo.
@@ -43,3 +44,5 @@ text_variants:
      And forlet us ure scylde swæ swæ we ec forleten thæn the scyldigat with us.
      And ne gelaet us gelaede in constungæ.
      Ah gelese us of yfl."
+notes:
+  The source is the [Rushworth Gospels](https://medieval.bodleian.ox.ac.uk/catalog/manuscript_431).

@@ -1,0 +1,20 @@
+language: Guaraní
+attestations:
+  - book: Chamberlayne
+    page: 91
+    description: Guarinice sive Brasilice
+    source: Robertus Nelson ex Lusitania missas Dn. Chamberlaynio tradidit
+  - book: Adelung Part 3
+    page: 447
+    number: 367
+    description: Guaranisch
+    source: Aus Chamberlayne, S. 91
+text:
+  "Orerúba ibápe eréíbae.
+   Imboyerobiâ ripǐramô nderéra toycò.
+   Tounderecomâvân gatúorébe.
+   Nderemǐmbotára tiyayê ǐbǐpe ibape yyâyêyâbé.
+   Orerembiú ara nâbôguâra emêé coára pipeorêbe.
+   Ndeňỹrô' oreyñângai pábaeupê orébe mârâhárupê oréñŷr ônûngá haeorepo eyârimé.
+   Toremboá ĭmégan oaipá orepǐçŷrô' epécatú.
+   Mbae pochǐ guî. Amen."

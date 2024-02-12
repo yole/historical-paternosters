@@ -357,3 +357,27 @@ books:
   year: 1749
   author: Benjamin Martin
   author_url: https://en.wikipedia.org/wiki/Benjamin_Martin_(lexicographer)
+
+- title: Quiquer
+  full_title: Dictionnaire et Colloques François et Breton
+  url: https://books.google.com/books?id=aHtbNZhe_ksC
+  year: 1626
+  author: G. Quiquer de Roscoff
+
+- title: Tatian
+  full_title: Althochdeutscher Tatian
+  url: http://www.e-codices.unifr.ch/de/csg/0056/
+  year: 830
+
+- title: Boxhorn
+  full_title: Prima Religionis Christianae Rudimenta
+  url: https://books.google.com/books?id=MqcAAAAAcAAJ
+  year: 1650
+  author: Marcus Zuerius van Boxhorn
+  author_url: https://en.wikipedia.org/wiki/Marcus_Zuerius_van_Boxhorn
+
+- title: Katecismo Indico
+  full_title: Catecismo da lingua kariris
+  url: https://books.google.com/books?id=rB4iAAAAMAAJ
+  year: 1709
+  author: Fr. Bernardo de Nantes

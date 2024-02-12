@@ -3,6 +3,7 @@ attestations:
   - book: Chamberlayne
     page: 43
     description: Sardice stylo Rustico
+    source: Wanleyus ab Hispano qui multos annos in insula illa vixit accepit
   - book: Adelung Part 2
     page: 533
     number: 233
@@ -18,3 +19,5 @@ text:
    E' non nos portis in tentatione.
    Pero liberanos de male.
    Amen."
+notes:
+  Chanberlayne's source could be [Humfrey Wanley](https://en.wikipedia.org/wiki/Humfrey_Wanley).

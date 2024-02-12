@@ -7,6 +7,7 @@ attestations:
   - book: Chamberlayne
     page: 80
     description: Bulgarice
+    source: "Ex Appendice Tom. 3 Dissert. Misc. Cl. Relandi descripsi"
 base: slavic/russian2-pantographia
 text:
   "Otskye nash, koteri ieszi u'nebeszih. Szueto ime tvoye.

@@ -20,8 +20,9 @@ attestations:
       "Am Ende seiner Psalmen-Übersetzung nach der Wiener Handschrift,
        aus Lambecius, B. 2, Kap. 5, der sie aber irrig dem Otfrid zuschrieb"
   - book: Chamberlayne
-    page: 63
+    page: 62
     description: Alemanice
+    source: ex Notkero Sangallensi aliae editiones exhibuerunt
 text:
   "Fater ünser, du in himele bist.
    Din namo werde geheiligot.
