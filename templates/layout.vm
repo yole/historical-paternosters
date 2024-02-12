@@ -24,6 +24,7 @@
     </div>
     <div class="footer">
         Maintained by <a href="https://github.com/yole">Dmitry Jemerov</a>.
+        Last updated: $date.medium_date.
         Hosted on <a href="https://github.com/yole/historical-paternosters">GitHub</a>.
         Additions, corrections? Issues and PRs are welcome.
     </div>

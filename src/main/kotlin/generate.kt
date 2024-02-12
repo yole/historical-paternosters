@@ -9,6 +9,7 @@ import com.github.difflib.patch.Chunk
 import org.apache.velocity.Template
 import org.apache.velocity.VelocityContext
 import org.apache.velocity.app.Velocity
+import org.apache.velocity.tools.generic.DateTool
 import org.intellij.markdown.flavours.gfm.GFMFlavourDescriptor
 import org.intellij.markdown.html.HtmlGenerator
 import org.intellij.markdown.parser.MarkdownParser
@@ -194,8 +195,17 @@ private fun generateToFile(
     }
 }
 
+fun velocityContext(vararg keys: Pair<String, Any>): VelocityContext {
+    return VelocityContext().also {
+        it.put("date", DateTool())
+        for (key in keys) {
+            it.put(key.first, key.second)
+        }
+    }
+}
+
 fun contextFromObject(obj: Any): VelocityContext {
-    val context = VelocityContext()
+    val context = velocityContext()
     for (member in obj::class.members) {
         if (member is KProperty) {
             context.put(member.name, member.getter.call(obj))
@@ -502,7 +512,7 @@ fun generateBook(book: Book, allSpecimens: List<Specimen>, path: String) {
 
 fun generateBooks(books: List<Book>, path: String) {
     val template = Velocity.getTemplate("books.vm")
-    val context = VelocityContext()
+    val context = velocityContext()
 
     val collections = BookType("Collections")
     val bibles = BookType("Bible Translations")
@@ -528,8 +538,7 @@ fun generateLanguage(language: Language, path: String) {
 
 fun generateLanguages(rootFamily: LanguageFamily, path: String) {
     val template = Velocity.getTemplate("languages.vm")
-    val context = VelocityContext()
-    context.put("rootFamily", rootFamily)
+    val context = velocityContext("rootFamily" to rootFamily)
     generateToFile(path, template, context)
 }
 
@@ -542,9 +551,7 @@ fun generateIndex(path: String) {
     val readmeHtml = markdownToHtml(readme)
 
     val template = Velocity.getTemplate("index.vm")
-    generateToFile(path, template, VelocityContext().apply {
-        put("readme", readmeHtml)
-    })
+    generateToFile(path, template, velocityContext("readme" to readmeHtml))
 }
 
 fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
