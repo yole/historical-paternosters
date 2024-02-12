@@ -36,3 +36,8 @@ kotlin {
 application {
     mainClass = "page.yole.paternosters.GenerateKt"
 }
+
+task<JavaExec>("runIndex") {
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass = "page.yole.paternosters.algolia.IndexKt"
+}
