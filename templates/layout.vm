@@ -3,6 +3,7 @@
     <meta charset="UTF-8"/>
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Noto+Serif">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.1.0/themes/satellite-min.css" integrity="sha256-p/rGN4RGy6EDumyxF9t7LKxWGg6/MZfGhJM/asKkqvA=" crossorigin="anonymous">
     <link rel="stylesheet" href="/paternoster.css"/>
 #if($title)
     <title>Historical Paternoster Database: $title</title>
@@ -16,7 +17,8 @@
             <h3 class="self-link"><a href="/">Paternosters</a></h3>
             <p>
             <a href="/books.html">Books</a><br/>
-            <a href="/languages.html">Languages</a><p>
+            <a href="/languages.html">Languages</a><br/>
+            <a href="/search.html">Search</a><p>
             Texts: $totalSpecimens<br/>
             Attestations:&nbsp;$totalAttestations
         </div>

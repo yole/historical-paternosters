@@ -571,6 +571,11 @@ fun generateIndex(paternosters: Paternosters, path: String) {
     generateToFile(path, template, velocityContext(paternosters, "readme" to readmeHtml))
 }
 
+fun generateSearchPage(paternosters: Paternosters, path: String) {
+    val template = Velocity.getTemplate("search.vm")
+    generateToFile(path, template, velocityContext(paternosters))
+}
+
 fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
     val rootFamily = LanguageFamily("")
     for (language in languages) {
@@ -589,7 +594,7 @@ fun groupLanguagesIntoFamilies(languages: List<Language>): LanguageFamily {
     return rootFamily
 }
 
-private fun resolveReferences(paternosters: Paternosters): ArrayList<String> {
+fun resolveReferences(paternosters: Paternosters): ArrayList<String> {
     val errors = arrayListOf<String>()
 
     for (specimen in paternosters.allSpecimens) {
@@ -671,6 +676,8 @@ fun main() {
     generateBooks(paternosters, "out/books.html")
     generateLanguages(paternosters, "out/languages.html")
     generateIndex(paternosters, "out/index.html")
+    generateSearchPage(paternosters, "out/search.html")
     Paths.get("templates/paternoster.css").copyTo(Paths.get("out/paternoster.css"), overwrite = true)
+    Paths.get("templates/search.js").copyTo(Paths.get("out/search.js"), overwrite = true)
     Paths.get("images").copyToRecursively(Paths.get("out/images"), overwrite = true, followLinks = false)
 }

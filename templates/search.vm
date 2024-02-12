@@ -1,0 +1,14 @@
+#parse("layout.vm")
+#@layout("Search")
+<h1>Search</h1>
+Powered by <img src="/images/Algolia-logo-blue.png" width="219px" height="50px" alt="Algolia"/><p/>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.22.1/dist/algoliasearch-lite.umd.js" integrity="sha256-pxkGFjfnFWYGOtV9uhCWK/spKiGS0Z7gVDKYm39LyfM=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.64.3/dist/instantsearch.production.min.js" integrity="sha256-HpdJi8N12NJpc13gfy7uF8ny/Dn56AIFlZm3aD14ZmM=" crossorigin="anonymous"></script>
+<div id="searchbox">
+</div>
+<div id="hits">
+</div>
+<div id="pagination">
+</div>
+<script src="/search.js"></script>
+#end

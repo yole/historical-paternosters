@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "1.9.21"
+    kotlin("plugin.serialization") version "1.9.21"
     application
 }
 
@@ -18,6 +19,8 @@ dependencies {
     implementation("org.slf4j:slf4j-simple:2.0.9")
     implementation("com.beust:klaxon:5.5")
     implementation("io.github.java-diff-utils:java-diff-utils:4.12")
+    implementation("com.algolia:algoliasearch-client-kotlin:2.0.0")
+    implementation("io.ktor:ktor-client-java:2.0.1")
     testImplementation(kotlin("test"))
     implementation(kotlin("reflect"))
 }
