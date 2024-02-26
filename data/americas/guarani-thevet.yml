@@ -17,6 +17,7 @@ attestations:
   - book: Hervas
     page: 97
     description: Dialetto Guaranì
+    source: Duret al capitolo 79
   - book: Chamberlayne
     page: 91
     description: Mexicane
@@ -26,6 +27,9 @@ attestations:
     number: 371
     description: Brasilianisch oder Guaranisch
     source: Aus Duret Thrés. de L. S. 944.
+  - book: Duret
+    page: 944
+    description: en langue des Sauuages
 text:
   "Ore rure ubacpé Ereico: Toicoap pavemgatu 
    aua ubu lagatou oquoauae charai b'amo
@@ -50,7 +54,5 @@ text_variants:
      supe oregiron javé; Eipotarume[1] aignang
      orememoauge; Pipea pauem gne ba ememoan
      ore suy. Emona."
-notes:
-  According to Hervas, this Pater Noster translation is in a Guaraní dialect.
 footnotes:
   1: "London, Pantographia: Epipotarume"

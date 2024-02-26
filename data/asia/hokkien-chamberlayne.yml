@@ -1,15 +1,28 @@
-language: Chinese
+language: Hokkien
 attestations:
   - book: Chamberlayne
     page: 94
     description: Sinice Provinicae Chincheo
     source: Lacrossius Berolino mihi misit.
+  - book: Adelung Part 1
+    page: 61
+    number: 4
+    description: In der sprache der Provinz Fo-kien
+    source: Bayers Museum Sin. Th. 1, S. 161
+  - book: Museum Sinicum
+    page: 161
+  - book: Hervas
+    page: 133
+    number: 65
+    description: Dialetto Cinese della provincia di Chin-cheo
 text:
   "Lan tia lu tu ti' chio.
-   Lu su kir guan chang fuan lu mia.
+   Lu su kir guan chang suan lu mia.
    Lu cog su lay kir guan.
    Lu su kir guan chi tey chio fun fui lu beng chin chio tu ti'.
    Chio j~it j~it sei ong je mi kin toa j~it lu sú kir guan.
    Lu yasia guan chue chin chio guan sia teg chue guan lang.
    Mo cuy po bee guan sim.
    Chun lu bo pang kir guan cho leng quiu guan coulan."
+notes:
+  "'Chincheo' refers to [Zhangzhou](https://en.wikipedia.org/wiki/Zhangzhou)."

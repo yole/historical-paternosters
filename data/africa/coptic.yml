@@ -1,0 +1,17 @@
+language: Coptic
+script: Coptic
+attestations:
+  - book: Chamberlayne
+    page: 31
+    description: Coptice, stylo literisque hodiernis
+    source: ex N.T. meo Coptico exscripsi
+  - book: Novum Testamentum Aegyptium vulgo Copticum
+    page: 13
+text:
+  "ⲡⲉⲛⲓⲱⲧ ⲉⲧϧⲉⲛⲛⲓⲫⲏⲟⲩⲓ:
+   ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉⲡⲉⲕⲣⲁⲛ:
+   ⲙⲁⲣⲉⲥⲓ̀̀ ⲛ̀ϫⲉⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ:
+   ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ '̀ⲙ̀ⲫⲣⲏϯ ϧⲉⲛⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ:
+   ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉⲣⲁⲥϯ ⲙⲏⲓϥⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ:
+   ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉⲣⲟⲛⲛⲁⲛⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛⲛ̀ⲧⲉⲛⲭⲱⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉⲣⲱⲟⲩ:
+   ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛⲉϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉⲃⲟⲗϩⲁⲡⲓⲡⲉⲧϩⲱⲟⲩ:"

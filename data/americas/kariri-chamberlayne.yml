@@ -6,6 +6,10 @@ attestations:
     source: Robertus Nelson ex Lusitania missas Dn. Chamberlaynio tradidit
   - book: Katecismo Indico
     page: 58
+  - book: Hervas
+    page: 108
+    number: 26
+    description: Dialetto rozzo Kiriri
 text:
   "Kupadzua nhinho dibbali mo aranquè.
    Donetsoa onadcedohanacléa andrenne.

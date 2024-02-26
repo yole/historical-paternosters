@@ -4,8 +4,17 @@ attestations:
     page: 26
     description: Singalæe
     source: Clar. Relandus ex Musneo Clar. Ruardi Andalae; Rev. Dominus Petrus Croonenburgh
+  - book: Hervas
+    page: 144
+    number: 82
+    description: Singalea
+  - book: Adelung Part 1
+    page: 236
+    number: 36
+    description: Cingalesisch
+    source: Aus Chamberlayne S. 26
 text:
-  "Swaergaftélejehi weddeinna appee pyanani.
+  "Swaergastélejehi weddeinna appee pyanani.
    Tamunwahanseegee nameje suddhewewai.
    Tamunwahanseegee raedsjdsje indhewewai.
    Swaergastélejehiseme bumijedith tamunwahanseegee kemmettih jedindhewewai.

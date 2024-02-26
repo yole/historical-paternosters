@@ -236,3 +236,6 @@ languages:
   url: https://en.wikipedia.org/wiki/Swabian_German
 - name: Kariri
   url: https://en.wikipedia.org/wiki/Kariri_languages
+- name: Hokkien
+  family: Sino-Tibetan
+  url: https://en.wikipedia.org/wiki/Hokkien

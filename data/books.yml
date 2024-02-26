@@ -381,3 +381,25 @@ books:
   url: https://books.google.com/books?id=rB4iAAAAMAAJ
   year: 1709
   author: Fr. Bernardo de Nantes
+
+- title: Novum Testamentum Aegyptium vulgo Copticum
+  url: https://books.google.com/books?id=K04GAAAAQAAJ
+  year: 1716
+  author: David Wilkins
+  author_url: https://en.wikipedia.org/wiki/David_Wilkins_(orientalist)
+  type: bible
+
+- title: Museum Sinicum
+  url: https://books.google.com/books?id=Fq1FAAAAcAAJ
+  year: 1730
+  author: Theophilus Siegfried Bayer
+  author_url: https://en.wikipedia.org/wiki/Theophilus_Siegfried_Bayer
+
+- title: Heurnius
+  full_title: De vier Heylighe Evangelien
+  url: https://books.google.com/books?id=fjVmAAAAcAAJ
+  year: 1651
+  author: Justus Heurnius
+  author_url: https://en.wikipedia.org/wiki/Johannes_Heurnius
+  type: bible
+ 

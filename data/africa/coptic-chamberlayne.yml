@@ -22,6 +22,7 @@ attestations:
     number: 349
     description: Dasselbe <Koptisch>
     source: Aus Fry's Pantograph. 46.
+base: africa/coptic
 diff: no
 text:
   "Peniot etchennipheoui. Mareftoubonje pecran.

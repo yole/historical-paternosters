@@ -9,6 +9,11 @@ attestations:
     number: 367
     description: Guaranisch
     source: Aus Chamberlayne, S. 91
+  - book: Hervas
+    page: 97
+    number: 11
+    description: Dialetto Guarani
+    source: raccolta dell'orazioni Domenicali stampata a Lipsia l'anno 1748
 text:
   "Orerúba ibápe eréíbae.
    Imboyerobiâ ripǐramô nderéra toycò.
