@@ -21,16 +21,22 @@ attestations:
     description: Formosane
     source: auctoritate Jobi Ludolphi in Epistola ad Mullerum
 text:
-  "Diameta ka tu vullum lulugniang ta nanang
-   oho, maba tongal ta tao tu goumoho, mamtalto
-   ki kamoienhu tu nai mama tu vullum:
-   pecame ká cangniang wagi katta. Hamiecame
-   ki varaviang mamemiang mamia ta varau
+  "Diameta ka tu vullum.
+   Lulugniang ta nanang oho. 
+   Maba tongal ta tao tu goumoho. 
+   Mamtalto ki kamoienhu tu nai mama tu vullum.
+   Pecame ká cangniang wagi katta. 
+   Hamiecame ki varaviang mamemiang mamia ta varau
    ki tao ka mouro ki riich emitang. Inecame
-   poudangadangach souaia mecame ki litto, ka
-   imhouato ta gumaguma kallipuchang kasasamagang,
-   mikaqua. Amen."
+   poudangadangach souaia mecame ki litto. 
+   Ka imhouato ta gumaguma kallipuchang kasasamagang, mikaqua. Amen."
 notes:
   "J.L. refers to [Hiob Ludolf](https://en.wikipedia.org/wiki/Hiob_Ludolf). According to 
   [The pretended Asian : George Psalmanazar's eighteenth-century Formosan hoax](https://archive.org/details/pretendedasiange0000keev),
   page 82, the text comes from a now lost Formosan reading book from 1645, prepared by [Robert Junius](https://en.wikipedia.org/wiki/Robert_Junius)."
+bibliography:
+  - title: "Two Approaches by Dutch Missionaries to Communicating the Gospel in Seventeenth-Century Taiwan"
+    author: Christopher Joby
+    year: 2023
+    publication: "Mission Studies, Vol. 40, Issue 1"
+    url: https://brill.com/view/journals/mist/40/1/article-p22_3.xml

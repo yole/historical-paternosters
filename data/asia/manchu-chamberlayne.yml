@@ -1,0 +1,34 @@
+language: Manchu
+attestations:
+  - book: Pantographia
+    page: 288
+    description: Tartaric 4
+    source: Orat. Dom. Amst. p. 13
+  - book: Chamberlayne
+    page: 13
+    description: Tartarice. Tartarorum Sinensium stylo.
+    source:
+      "Hanc ex autographo Epistolae J. Bouvet Jesuitae ad lllustrem Dn. Leibnitium 
+      mihi misit Eruditiilimus Dominus Lacrosius"
+  - book: Hervas
+    page: 151
+    description: Mongolo-Cinese
+text:
+  "{Abcade:In coelo} {thégé:habitas} {megni:noster} {ama:pater}. 
+   {Sini:tuum} {kebou:nomen} {endouringhe:spirituale} {okini:fiat}. 
+   {Sini:tuum} {couron:regnum} {tchikini:adveniat}. 
+   {Nade:in terra} {abcade:in coelo} {adali:similiter} {sini:tuae} 
+   {couninde:voluntati} {atchaboukini:conformiter fiat}. 
+   {Jnenghitari:Quotidianum} {i tchecou:cibum} {enenhhi:hodie} {mende:nobis} 
+   {poureou:dare digneris}. 
+   {Kéli:et} {kerenni:ceterorum} {endeboucoubé:peccata} {megni:nos} {couë’bouré:condonamus}
+   {sonkoi:sic} {megni:nostra} {endeboucou:peccata} {couë'bouréou:condonare digneris}.
+   {Kéli:et} {membé:nos} {pouyendé:in cupiditatem} {oume:ne} {togimbouré:inducas}.
+   {Elemanga:sed} {membe:nos} {egetchi:a malo} {tchaïlabouréou:declinare facias}.
+   {Ere:Huic} {sonkoi:conformiter} {okini:fiat}."
+bibliography:
+  - title: Zu zwei katholischen Katechismen in Mandjurischer Sprache
+    author: Hartmut Walravens
+    year: 1974
+    publication: Monumenta Serica, Vol. 31 (1974-1975), pp. 521-549
+    url: https://www.jstor.org/stable/40726183

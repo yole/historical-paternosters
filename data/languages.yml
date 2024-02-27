@@ -248,3 +248,6 @@ languages:
 - name: Mongolian
   family: Mongolic
   url: https://en.wikipedia.org/wiki/Mongolian_language
+- name: Javanese
+  family: Austronesian
+  url: https://en.wikipedia.org/wiki/Javanese_language

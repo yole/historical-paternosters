@@ -1,0 +1,29 @@
+language: Javanese
+attestations:
+  - book: Chamberlayne
+    page: 23
+  - book: Adelung Part 1
+    page: 594
+    number: 97
+    description: Javanisch
+    source: Aus Chamberlayne, S. 23
+  - book: Hervas
+    page: 130
+    number: 59
+    description: Javana
+text:
+  "{Ráma:Pater} {kahoéla:noster} {kang:qui} {wáantan:es} {ing:in} {súrga:coelis}.
+   {Wásta:Nomen} {andíka:tuum} {dádi:fiat} {elapïénno:sanctificatum}.
+   {Sadjáman:Regnum} {andika:tuum} {dirawoéï:veniat}.
+   {Kársa:Voluntas} {andíka:tua} {dádi:fiat} {ing:in} {lemmà:terra} {kája:sicut} {ing:in} {súrga:coelis}.
+   {Redjékki:Cibum} {kahoéla:nostrum} {kang:qui} {sadiéntan:cujusvis} {diéntan:diei}
+   {njoekán:da} {diéntan:die} {poníki:hac} {máring:ad} {kahoéla:nos}.
+   {Ámbi:Et} {poéntan:remitte} {máring:ad} {kahoéla:nos} {dósa:peccata} {kahoéla:nostra}, 
+   {kája:sicut} {kahoéla:nos} {poéntan:remittimus} {máring:ad} 
+   {sanoénggil noénggil:unamquamque} {titíang:personam} {kang:quae} {sálah:peccat} 
+   {máring:contra} {kahoéla:nos}.
+   {Ámbi:et} {sámpon:ne} {bácta:ducas} {kahoéla:nos} {ing:in} {patsjóban:tentationem}.
+   {Tápi:sed} {oetsjolákan:libera} {kahoéla:nos} {bári:etiam} {páda:ab (eo)} {sang:quod} {áwon:malum}.
+   {Sebáb:quia} {sadjáman:regnum} {bári:etiam} {kowása:potentia} {ámbi:et} {kamoékten:gloria}
+   {gústi:Domino} {kagoengáne:propria} {takà:usque} {ing:in} {áwet:aeternum}.
+   {Amièn:Amen}."

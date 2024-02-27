@@ -10,13 +10,22 @@ attestations:
     description: Berberisch
     source: Jones
 text:
-  "Amazeaghna Baba Erby ghi y ginna.
-   Berkat ysmanick.
-   Yi Hackem geegn tusked ougulleedn beherra.
-   Isker omornick ophodn doonit wi y ginna.
-   Free na nogh oghoromna oghaghossa Amazeaghna Erby.
-   T'opphur dnwbnogh zoond smahnogh yeadnin olmochottyeen uphalanoch.
-   Addan woortphilt en yxshem y allaww.
-   Adonogh tiphkeet oghodn dnoob.
-   Dwynnick ega Houtkemt ogho downit omor ega ormornick tphulkeet
-   ghowy n' Taphookt abadan woabadan. Amen oghozont."
+  "{Amazeaghna:Domine noster} {Baba:Pater} {Erby:Deus} {ghi:qui} {y:in} {ginna:coelo}.
+   {Berkat:sanctificetur} {ysmanick:nomen tuum}.
+   {Yi:tuum} {Hackem:regnum} {geegn:sit} {tusked:adveniens} {ougulleedn:Potestas Regia} {beherra:magna}.
+   {Isker:Fiat} {omornick:voluntas tua} {ophodn:sicut in} {doonit:terra} {wi:ita} {y:in} {ginna:coelo}.
+   {Fkee:Da} {na nogh:nobis} {oghoromna:panem nostrum} {oghaghossa:portionis quotidianae} 
+   {Amazeaghna:Domine noster} {Erby:Deus}. 
+   {T'opphur:Remitte} {dnwbnogh:nostra peccata} {zoond:sicut} {smahnogh:remittimus} {yeadnin:aliis} 
+   {olmochottyeen:peccatoribus} {uphalanoch:adversus nos}.
+   {Addan:ne} {woortphilt en:sinas nos} {yxshem:abiro} {y:in} {allawwr:tentationem}.
+   {Adonogh:sed nos} {tiphkeet:serva} {oghodn:a} {dnoob:malo}.
+   {Dwynnick:quia tuum} {ega:est} {Houtkemt:regnum} {ogho downit:mundus} {omor:potestas}
+   {ega:est} {ormornick:potestas tua} {tphulkeet:tua gloria} {ghowy:est major}
+   {n' Taphookt:Sole & Luce} {abadan:semper} {woabadan:& semper}.
+   {Amen:Amen} {oghozont:ita fiat}."
+bibliography:
+  - title: "An early european source on Berber: Chamberlayne (1715)"
+    author: Harry Stroomer
+    year: 2000
+    publication: "Etudes berbères et chamito-sémitiques: mélanges offerts à Karl-G. Prasse"

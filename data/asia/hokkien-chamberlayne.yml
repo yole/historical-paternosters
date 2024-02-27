@@ -16,13 +16,19 @@ attestations:
     number: 65
     description: Dialetto Cinese della provincia di Chin-cheo
 text:
-  "Lan tia lu tu ti' chio.
-   Lu su kir guan chang suan lu mia.
-   Lu cog su lay kir guan.
-   Lu su kir guan chi tey chio fun fui lu beng chin chio tu ti'.
-   Chio j~it j~it sei ong je mi kin toa j~it lu sú kir guan.
-   Lu yasia guan chue chin chio guan sia teg chue guan lang.
-   Mo cuy po bee guan sim.
-   Chun lu bo pang kir guan cho leng quiu guan coulan."
+  "{Lan:Nuestro} {tia:Padre} {lu:tu} {tu:que estas} {ti':en el} {chio:cielo}.
+   {Lu:tu} {su:concede} {kir:para} {guan:nosotros} {chang suan:que reverenciemos} {lu:tu} {mia:nombre}.
+   {Lu:tu} {cog:regno} {su:da que} {lay:venga} {kir:para} {guan:nosotros}.
+   {Lu:tu} {su:concede} {kir:a} {guan:nosotros} {chi:aqui} {tey:en esta} {chio:tierra} {sun:obedeter} 
+   {sui:recevir} {lu:tu} {beng:mandamiento} {chin:assi} {chio:como} {tu ti':en el cielo}.
+   {Chio:da} {j~it j~it:cadadia} {sei ong je mi:el sustento} {kin toa j~it:en este dia} 
+   {lu:tu} {sú:concede} {kir:para} {guan:nosotros}.
+   {Lu:tu} {yasia:perdona} {guan:nuestros} {chue:pescados} {chin:assi} {chio:como} {guan:nosotros} 
+   {sia:pardonamos} {teg:a los} {chue:que} {guan:nos} {lang:offenden}.
+   {Mo cuy:el demonio} {po:no} {bee:enganne} {guan:nuestro} {sim:coraçon}.
+   {Chun:Entonces} {lu:tu} {bo:no} {pang:dexes caer} {kir:a} {guan:nosotros} {cho:hazer} 
+   {leng:agravio} {quiu:libranos} {guan:a nosotros} {coulan:miserables}."
 notes:
-  "'Chincheo' refers to [Zhangzhou](https://en.wikipedia.org/wiki/Zhangzhou)."
+  "'Chincheo' refers to [Zhangzhou](https://en.wikipedia.org/wiki/Zhangzhou).
+   According to '[Written Taiwanese](http://books.google.com/books?id=ouhzKI8rkZkC)' (Henning Klöter, 2005), 
+   this text is included in 'Principles of the doctrine in Sangley', British Library, Additional Manuscripts 25317."
