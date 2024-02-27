@@ -26,14 +26,17 @@ attestations:
     page: 882
     description: En Lappon & Finnois
 text:
-  "Isa meidhen, joko oledh taju ahissa. puhettu
-   olkohon siun nimesi. tulkohon siun waltakuntasi;
-   olkohon siun tahtosi, kuwin taivahissa,
-   nyn manpallâ, meidhen jokapaivven leipä
-   anna meilen tânâpâiwâne, ja anna anteixe
-   meiden syndia; kuwin môe annamma meden vastahan
-   rickoillen: ja âle sata meitâ kinsauxen;
-   mutta paasta meitâ pahasta. Amen."
+  "{Isa:Pater} {meidhen:noster}, {joko:qui} {oledh:es} {taju ahissa:in coelo}. 
+   {Puhettu:sanctum} {olkohon:fiat} {siun:tuum} {nimesi:nomen}. 
+   {Tulkohon:adveniat} {siun:tuum} {waltakuntasi:regnum tuum}.
+   {Olkohon:fiat} {siun:tua} {tahtosi:voluntas}, {kuwin:sicut} {taivahissa:in coelo},
+   {nyn:sic} {manpallâ:in terra}.
+   {Meidhen:nostrum} {jokapaivven:quotidianum} {leipä:panem}
+   {anna:da} {meilen:nobis} {tânâpâiwâne:hoc die}.
+   {Ja:&} {anna:da} {anteixe:remissionem} {meiden:nos} {syndia:peccaris}; {kuwin:sicut} 
+   {môe:nos} {annamma:remittimus} {meden:nostris} {vastahan rickoillen:adversariis}.
+   {Ja:&} {âle:ne} {sata:inducas} {meitâ:nos} {kinsauxen: in tentationem}.
+   {Mutta:sed} {paasta:libera} {meitâ:nos} {pahasta:a malo}. Amen."
 text_variants:
   Megiser:
     "Isa meidhen, joko oledh taju ahissa. Puhettu olkohon
@@ -81,43 +84,6 @@ text_variants:
      meiden syndiä; kuwin möe annamma meden vastahan
      rickoillen: ja äle sata meitä kinsauxen;
      mutta päästä meitä pahasta. Amen."
-gloss:
-  "Isa": "Pater"
-  "meidhen": "noster"
-  "joko": "qui"
-  "oledh": "es"
-  "taju ahissa": "in coelo"
-  "puhettu": "sanctum"
-  "olkohon": "fiat"
-  "siun": "tuum"
-  "nimesi": "nomen"
-  "tulkohon": "adveniat"
-  "waltakuntasi": "regnum tuum"
-  "tahtosi": "voluntas"
-  "kuwin": "sicut"
-  "taivahissa": "in coelo"
-  "nyn": "sic"
-  "manpallâ": "in terra"
-  "jokapaivven": "quotidianum"
-  "leipä": "panem"
-  "anna": "da"
-  "meilen": "nobis"
-  "tânâpâiwâne": "hoc die"
-  "ja": "&"
-  "anteixe": "remissionem"
-  "meiden": "nos"
-  "syndia": "peccaris"
-  "môe": "nos"
-  "annamma": "remittimus"
-  "meden": "nostris"
-  "vastahan rickoillen": "adversariis"
-  "âle": "ne"
-  "sata": "inducas"
-  "meitâ": "nos"
-  "kinsauxen": "in tentationem"
-  "mutta": "sed"
-  "paasta": "libera"
-  "pahasta": "a malo"
 bibliography:
   - title: "Keskiaikainen Isä meidän -rukous"
     author: Harri Uusitalo

@@ -1,4 +1,24 @@
 #parse("layout.vm")
+#macro(textWithGlosses $glossed_text)
+    #if($glossed_text.lines)
+        #foreach($line in $glossed_text.lines)
+        <table>
+            <tr class="gloss-originals">
+                #foreach($word in $line.words)
+                    <td>$word.original#if($word.footnoteIndex)<sup>$word.footnoteIndex</sup>#end</td>
+                #end
+            </tr>
+            <tr class="glosses">
+                #foreach($word in $line.words)
+                    <td>$word.gloss</td>
+                #end
+            </tr>
+        </table>
+        #end
+    #else
+        $glossed_text.text
+    #end
+#end
 #@layout($language)
 <h1>Pater Noster in $language</h1>
 #if($lang)
@@ -14,24 +34,7 @@
         #end
     </p>
 #end
-#if($glossed_text)
-    #foreach($line in $glossed_text)
-    <table>
-    <tr>
-        #foreach($word in $line.words)
-        <td>$word.original</td>
-        #end
-    </tr>
-    <tr class="glosses">
-        #foreach($word in $line.words)
-            <td>$word.gloss</td>
-        #end
-    </tr>
-    </table>
-    #end
-#else
-    $text
-#end
+#textWithGlosses($glossedText)
 
 #if($footnotes)
     <h3>Footnotes</h3>
@@ -62,7 +65,7 @@
             #if($attestation.text_variant)
                 <details>
                     <summary>Text</summary>
-                    $attestation.text_variant
+                    #textWithGlosses($attestation.text_variant)
                 </details>
             #end
         </li>

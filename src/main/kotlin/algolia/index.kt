@@ -1,16 +1,15 @@
 package page.yole.paternosters.algolia
 
 import com.algolia.search.client.ClientSearch
-import com.algolia.search.helper.deserialize
 import com.algolia.search.model.APIKey
 import com.algolia.search.model.ApplicationID
 import com.algolia.search.model.IndexName
 import com.algolia.search.model.ObjectID
 import com.algolia.search.model.indexing.Indexable
-import com.algolia.search.model.search.Query
 import kotlinx.serialization.Serializable
 import page.yole.paternosters.Paternosters
 import page.yole.paternosters.loadData
+import page.yole.paternosters.parseInlineGlosses
 import page.yole.paternosters.resolveReferences
 
 @Serializable
@@ -22,14 +21,15 @@ private data class SpecimenRecord(
 ) : Indexable
 
 private fun generateIndexRecords(paternosters: Paternosters): List<SpecimenRecord> {
-    return paternosters.allSpecimens.mapNotNull {
-        val text = it.text
-        val path = it.path
-        if (text != null && path != null)
+    return paternosters.allSpecimens.mapNotNull { specimen ->
+        val text = specimen.text
+        val path = specimen.path
+        val cleanText = text?.let { parseInlineGlosses(it).joinToString(" ") { word -> word.original } }
+        if (cleanText != null && path != null)
             SpecimenRecord(
-                text,
-                it.language,
-                it.earliestAttestation.bookRef?.full_title,
+                cleanText,
+                specimen.language,
+                specimen.earliestAttestation.bookRef?.full_title,
                 ObjectID(path)
             )
         else

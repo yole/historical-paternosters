@@ -113,7 +113,7 @@ class Attestation {
     var number: Int? = null
     var description: String? = null
     var source: String? = null
-    var text_variant: String? = null
+    var text_variant: GlossedText? = null
 
     var bookRef: Book? = null
 }
@@ -130,18 +130,18 @@ class Specimen {
     var text_variants: Map<String, String> = hashMapOf()
     var normalize: Map<String, String> = hashMapOf()
     var footnotes: Map<String, String> = hashMapOf()
-    var gloss: Map<String, String> = hashMapOf()
     var poetry: Boolean? = false
     var diff: Boolean? = true
 
     var baseSpecimen: Specimen? = null
     var lang: Language? = null
+    var glossedText: GlossedText? = null
 
     val outPath: String
         get() = "$path.html"
 
     val snippet: String
-        get() = footnoteRegex.replace(toSnippet(text, 5), "")
+        get() = parseInlineGlosses(text!!).take(5).joinToString(" ") { it.original }
 
     val earliestAttestation: Attestation
         get() = attestations.sortedBy { it.bookRef?.year ?: Int.MAX_VALUE }.first()
@@ -243,53 +243,9 @@ fun formatFootnotes(text: String): String {
     return footnoteRegex.replace(text) { mr -> "<sup>${mr.groupValues[1]}</sup>"}
 }
 
-data class GlossedTextWord(val original: String, val gloss: String)
+data class GlossedTextWord(val original: String, val gloss: String, var footnoteIndex: Int? = null)
 data class GlossedTextLine(val words: List<GlossedTextWord>)
-
-fun formatGlossedText(specimen: Specimen): List<GlossedTextLine> {
-    val text = specimen.text ?: return emptyList()
-    var pos = 0
-    val words = mutableListOf<GlossedTextWord>()
-    while (pos < text.length) {
-        while (pos < text.length && text[pos].isWhitespace()) {
-            pos++
-        }
-        if (pos < text.length && text[pos] == '[') {
-            pos++
-            var footnote = ""
-            while (pos < text.length && text[pos].isDigit()) {
-                footnote += text[pos++]
-            }
-            if (pos < text.length && text[pos] == ']') {
-                pos++
-            }
-            words[words.size-1] = GlossedTextWord(words.last().original + "<sup>$footnote</sup>", words.last().gloss)
-        }
-
-        val (word, gloss) = findLongestMatchingGloss(specimen.gloss, text, pos)
-        if (word != null && gloss != null) {
-            words.add(GlossedTextWord(word, gloss))
-        }
-        else {
-            val wordEnd = text.indexOf(' ', pos).takeIf { it >= 0 } ?: text.length
-            words.add(GlossedTextWord(text.substring(pos, wordEnd), ""))
-        }
-        pos += words.last().original.length
-    }
-    return breakIntoLines(words)
-}
-
-fun findLongestMatchingGloss(glosses: Map<String, String>, text: String, pos: Int): Pair<String?, String?> {
-    var resultOriginal = ""
-    var resultGloss = ""
-    for ((original, gloss) in glosses) {
-        if (text.startsWith(original, pos) && original.length > resultOriginal.length) {
-            resultOriginal = original
-            resultGloss = gloss
-        }
-    }
-    return if (resultOriginal.isNotEmpty()) resultOriginal to resultGloss else null to null
-}
+data class GlossedText(val text: String, val lines: List<GlossedTextLine>?)
 
 fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
     val result = mutableListOf<GlossedTextLine>()
@@ -300,6 +256,10 @@ fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
             currentLineWords = mutableListOf()
         }
         currentLineWords.add(word)
+        if (word.original.endsWith('.')) {
+            result.add(GlossedTextLine(currentLineWords))
+            currentLineWords = mutableListOf()
+        }
     }
     if (currentLineWords.isNotEmpty()) {
         result.add(GlossedTextLine(currentLineWords))
@@ -423,12 +383,13 @@ fun compareVariants(specimen: Specimen) {
         footnotes.find { it.wordIndex == footnoteTargetWord }
             ?: FootnoteData(footnoteTargetWord).also { footnotes.add(it) }
 
-    val baseWords = specimen.text!!.split(' ')
+    val baseWords = parseInlineGlosses(specimen.text!!)
+    val baseWordTexts = baseWords.map { it.original }
 
     for (textVariant in specimen.text_variants) {
         val sources = textVariant.key.split(',').map { it.trim() }
-        val variantWords = textVariant.value.split(' ')
-        val wordDiff = DiffUtils.diff(baseWords, variantWords)
+        val variantWords = splitGlossedTextIntoWords(textVariant.value)
+        val wordDiff = DiffUtils.diff(baseWordTexts, variantWords)
 
         for (delta in wordDiff.deltas.flatMap { splitBySentenceBoundary(it) }.flatMap { splitIntoWords(it) }) {
             if (delta.target.lines.isEmpty()) {
@@ -457,17 +418,64 @@ fun compareVariants(specimen: Specimen) {
     }
     footnotes.sortBy { it.wordIndex }
 
-    specimen.text = baseWords.withIndex().joinToString(" ") { (index, word) ->
-        val footnoteIndex = footnotes.indexOfFirst { it.wordIndex == index }
-        if (footnoteIndex < 0)
-            word
-        else
-            "$word[${footnoteIndex + 1}]"
+    for ((index, footnote) in footnotes.withIndex()) {
+        baseWords[footnote.wordIndex].footnoteIndex = index + 1
     }
-
+    specimen.glossedText = formatInlineGlosses(baseWords)
     specimen.footnotes = footnotes.withIndex().associate { (index, footnote) ->
         (index + 1).toString() to footnote.formatAsString()
     }
+}
+
+val punctuation = setOf('.', ',', ';')
+
+fun parseInlineGlosses(text: String): List<GlossedTextWord> {
+    val result = mutableListOf<GlossedTextWord>()
+    var pos = 0
+    while (pos < text.length) {
+        val bracePos = text.indexOf('{', pos).takeIf { it >= 0 } ?: text.length
+        if (bracePos > pos) {
+            val chunkBeforeBrace = text.substring(pos, bracePos).trim()
+            if (chunkBeforeBrace.isNotEmpty()) {
+                if (result.isNotEmpty() && chunkBeforeBrace.all { it in punctuation }) {
+                    val lastWord = result.last()
+                    result[result.size-1] = GlossedTextWord(lastWord.original + chunkBeforeBrace, lastWord.gloss)
+                }
+                else {
+                    val words = chunkBeforeBrace.split(' ')
+                    result.addAll(words.map { GlossedTextWord(it, "") })
+                }
+            }
+        }
+        if (bracePos == text.length) break
+        val braceEndPos = text.indexOf('}', bracePos + 1).takeIf { it > 0 } ?: text.length
+        val colonPos = text.indexOf(':', bracePos + 1)
+        if (colonPos >= 0) {
+            result.add(GlossedTextWord(text.substring(bracePos + 1, colonPos), text.substring(colonPos + 1, braceEndPos)))
+        }
+        else {
+            result.add(GlossedTextWord(text.substring(bracePos + 1, braceEndPos), ""))
+        }
+        pos = braceEndPos + 1
+    }
+    return result
+}
+
+fun splitGlossedTextIntoWords(text: String): List<String> {
+    if ('{' !in text) {
+        return text.split(' ')
+    }
+    return parseInlineGlosses(text).map { it.original}
+}
+
+fun formatInlineGlosses(glossedTextWords: List<GlossedTextWord>): GlossedText {
+    val cleanText = glossedTextWords.joinToString(" ") {
+        it.original + (it.footnoteIndex?.let { "<sup>$it</sup>"} ?: "")
+    }
+    return GlossedText(
+        cleanText,
+        if (glossedTextWords.any { it.gloss.isNotBlank()}) breakIntoLines(glossedTextWords) else null
+    )
 }
 
 fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: String) {
@@ -481,13 +489,16 @@ fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: Strin
                 val attestation = specimen.attestations.find { sourceName == it.book  }
                     ?: specimen.attestations.find { sourceName == "${it.book} (${it.description})"}
                 if (attestation != null) {
-                    attestation.text_variant = textVariant
+                    attestation.text_variant = formatInlineGlosses(parseInlineGlosses(textVariant))
                 }
                 else {
                     println("Not found matching attestation for source $sourceName in ${specimen.outPath}")
                 }
             }
         }
+    }
+    if (specimen.glossedText == null) {
+        specimen.glossedText = formatInlineGlosses(parseInlineGlosses(specimen.text!!))
     }
 
     val template = Velocity.getTemplate("specimen.vm")
@@ -496,9 +507,6 @@ fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: Strin
         val withFootnotes = formatFootnotes(it)
         if (specimen.poetry == true) withFootnotes.replace("\n", "<br>") else withFootnotes
     })
-    if (specimen.gloss.isNotEmpty()) {
-        context.put("glossed_text", formatGlossedText(specimen))
-    }
     context.put("notes", specimen.notes?.let { markdownToHtml(it) })
     generateToFile(path, template, context)
 }

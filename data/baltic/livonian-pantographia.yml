@@ -30,14 +30,16 @@ attestations:
     description: Livonice
     source: ex singulari favore amici harum linguarum peritissimi accepi
 text:
-  "Tabes mus, kas tu es eck sckan debbessis;
-   schwetitz tows waarcz. Enack mums tows
-   walstibe. Tows praatz buska, ksch kan debbes,
-   ta wursan summes. Musse denische mayse duth
-   mums schodeen. Pammate mums musse
-   grake, ka mess pammart musse parradveken.
-   Ne wedde mums louna badeckle:
-   pett passatza mums nu wusse loune. Amen."
+  "{Tabes:Pater} {mus:noster}, {kas:qui} {tu es:es} {eck sckan:in} {debbessis:coelis}.
+   {Schwetitz:sanctificatur} {tows:tuum} {waarcz:nomen}. 
+   {Enack:adveniat} {mums:nobis} {tows:tuum} {walstibe:regnum}.
+   {Tows:tua} {praatz:voluntas} {buska:fiat}, {ksch:sicut} {kan:in} {debbes:coelo},
+   {ta:sic} {wursan:etiam} {summes:in terra}. 
+   {Musse:nostrum} {denische:quotidianum} {mayse:panem} {duth:da} {mums:nobis} {schodeen:hodie}. 
+   {Pammate:remitte} {mums:nobis} {musse:nostra} {grake:debita}, {ka:sicut} {mess:nos} 
+   {pammart:remittimus} {musse:nostris} {parradveken:debitoribus}.
+   {Ne:ne} {wedde:inducas} {mums:nos} {louna:in malam} {badeckle:tentationem}.
+   {Pett:sed} {passatza:libera} {mums:nos} {nu:ab} {wusse:omni} {loune:malo}. Amen."
 text_variants:
   "London":
     "Tabes mus, kas tu es eck sckan debbessis;
@@ -77,44 +79,3 @@ text_variants:
      pett passarga mums nu wusse ioune. Amen."
 notes:
   "'Werulorum lingua' may refer to [Heruli](https://en.wikipedia.org/wiki/Heruli)"
-gloss:
-  "Tabes": "Pater"
-  "mus": "noster"
-  "kas": "qui"
-  "tu es": "es"
-  "eck sckan": "in"
-  "debbessis": "coelis"
-  "schwetitz": "sanctificatur"
-  "tows": "tuum"
-  "waarcz": "nomen"
-  "enack": "adveniat"
-  "mums": "nos/nobis"
-  "walstibe": "regnum"
-  "praatz": "voluntas"
-  "buska": "fiat"
-  "ksch": "sicut"
-  "kan": "in"
-  "debbes": "coelo"
-  "ta": "sic"
-  "wursan": "etiam"
-  "summes": "in terra"
-  "musse": "nostrum/nostra/nostris"
-  "denische": "quotidianum"
-  "mayse": "panem"
-  "duth": "da"
-  "schodeen": "hodie"
-  "pammate": "remitte"
-  "grake": "debita"
-  "ka": "sicut"
-  "mess": "nos"
-  "pammart": "remittimus"
-  "parradveken": "debitoribus"
-  "ne": "ne"
-  "wedde": "inducas"
-  "louna": "in malam"
-  "badeckle": "tentationem"
-  "pett": "sed"
-  "passatza": "libera"
-  "nu": "ab"
-  "wusse": "omni"
-  "loune": "malo"

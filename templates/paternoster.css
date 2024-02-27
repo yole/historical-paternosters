@@ -28,3 +28,7 @@ body {
 .glosses {
     font-size: smaller;
 }
+
+.gloss-originals {
+    vertical-align: baseline;
+}
