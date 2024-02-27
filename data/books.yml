@@ -68,6 +68,11 @@ books:
   author: Nicolaas Witsen
   author_url: https://en.wikipedia.org/wiki/Nicolaes_Witsen
   image: noord-en-ost-tartarye.jpeg
+  bibliography:
+    - title:
+        "The fascination with Inner Eurasian languages in the 17th century: the Amsterdam mayor Nicolaas Witsen and his collection of \"Tartarian\" glossaries and scripts"
+      author: Bruno Naarden
+      year: 2018
 
 - title: De Turcarum moribus epitome
   year: 1555

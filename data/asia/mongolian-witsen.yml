@@ -1,0 +1,27 @@
+language: Mongolian
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 245
+    description: Moegaels
+  - book: Hervas
+    page: 151
+    number: 93
+    description: Mongola, o Mungala
+text:
+  "{Atstoe:Onze} {Itsichecha:Vater} {ale Tende:die daer} {baitsie:zyt} {Tin gri:in den Hemel}.
+   {Gerete:geheligt werde}{Neretsine:uwe Name}.
+   {Sine Thoeroe:U E Konink Ryke} {Tufsim bolcho:toekome}.
+   {Sorechsinei:u wille geschiede} {Tin gri:in den Hemel} {gader dere:als op der Aerde}.
+   {Talcha Mandatse:ons dagelijks brood} {Odaatze:geeft ons heden}.
+   {Negolimane:vergeeft ons} {Kagatso:onze schulden}, 
+   {jase:gelijk} {vida:why} {salotse goebe:vergeven} {manei:onze} {urituchi:schuldenaren}.
+   {Bietege galga mandoe:leit ons niet} {Sietkiri:in verzoekinge}.
+   {Tasoel:verlost ons} {Mocho oechodelegi:van den boozen}.
+   {Toerietsini Koetste:U is het Koninkryke}
+   {Koesan Krik:de Heerlijkheit in der Eeuwigheit}, {Mangolim:Amen}."
+bibliography:
+  - title: Mongolian Material
+    author: Jargal Badagarov, Natsagdorj Tsongol and Juha Janhunen
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018
+    url: https://www.academia.edu/41781900/Badagarov_Jargal_Tsongol_B_Natsagdorj_Juha_Janhunen_Mongolian_material_The_Fascination_with_Inner_Eurasian_languages_in_the_17th_century_The_Amsterdam_Mayor_Nicolaas_Witsen_and_his_collection_of_Tartarian_vocabularies_and_scripts_Uitgeverij_Pegasus_Amsterdam_2018_pp_425_460

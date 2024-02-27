@@ -1,0 +1,23 @@
+language: Yakut
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 677
+    description: Jakutische
+  - book: Hervas
+    page: 157
+    number: 104
+    description: Lingua Jakuta
+    source: Weitsen
+text:
+  "{Aibiit:Vader} {Bisene:Onzer}, {Mega Tagara:die zyt} {Oer duger:in de Hemelen}.
+   {Kirbejer:geheiligt zy} {Atïn:de Name} {Jena:van U}.
+   {Kelega:toekome} {Atïn:'t Koninkryke} {Jena:van U}.
+   {Bologa:geschiede} {kognün:Uwe wille} {Jena:gelijk in Hemel} {Jeme:zoo op Aerden}.
+   {Tagaraga:'t Brood} {isierge:onzer} {aspitin:dagelijks} {bisenin:geeft} {koenatagini:ons} {koeloe:heden}.
+   {Bisaga:en vergeeft} {ani:ons} {kebes:de schulden} {bisaga:onzer}, {jespitin:gelijk} {bisenin:wy}
+   {kaitak:vergeven} {bisigi:de schuldenaren} {kebesebit:onzer}.
+   {Jemagh terbitin:en geleide} {bisenin:niet} {kilerima:ons} {bisigini:in verzoekinge},
+   {aiga:maer} {biisa:verlost} {bisigini:ons} {abasintan:van den} {olisin:quaden}.
+   {Jena:want} {bar:uwe is} {iraghtati:'t Koninkryke}, {kustak:en de Magt}, {Attin:en de Heerlijkheit},
+   {Boeka:in Eeuwigheit}, {Kirdikoe:Amen}."
+

@@ -1,0 +1,34 @@
+language: Evenki
+attestations:
+  - book: Pantographia
+    page: 296
+    description: Tungusian
+    source: Witsius' description of Tartary; Orat. Dom. Amst. p. 14
+  - book: Noord en Oost Tartarye
+    page: 654
+    description: Toengoesche
+  - book: Chamberlayne
+    page: 14
+    description: Tungusiane
+    source: ex singulari favore <...> Witsii accepi
+  - book: Hervas
+    page: 155
+    number: 100
+    description: Kalmuko-Tongusa
+  - book: Adelung Part 1
+    page: 529
+    number: 81
+    description: Tungusisch
+    source: Aus Nic. Witsen, Th. 2, S. 654, und Leibnitzen Collect. Etymol. Th. 2, S. 374
+text:
+  "{Aminmoen:Vader} {moengi:Onzer} {avagoe:die zyt} {negdaoegidadoe:in de Hemelen}.
+   {Garisjegan:geheiligt zy} {gerbisch:de Name} {singi:van U}. 
+   {Jemesjegal:Toekome} {ogdidgoe:'t Koninkryke} {singi:van U}. 
+   {Osjegan:Geschiede} {sitlu singi:Uwe wille} {on negdadoe:gelijk in Hemen} {doendradoe:zoo op Aerden}.
+   {Kiltere:'t Brood} {moengi:onzer} {inegdoe:dagelikjs} {boekal:geeft} {moendoe:ons} {tikin:heden}. 
+   {Akakal:en vergeeft} {moendoe:ons} {ogbi:de schulden} {moengi:onzer}, {on boe:gelijk wy} 
+   {amnenkiteref:vergeven} {kotatsjaldoe:de schuldenaaren} {moendoeck:onzer}.
+   {Aminkalivra:en geleide niet} {moendoe:ons} {jeregdoevi:in verzoekinge}. 
+   {A jukal:maer verlost} {moendoe:ons} {malgadoeck:van den quaden}. 
+   {On:want} {singi bisin ogdidgoe:uwe is 't Konikryke} {mandi:en de Magt} 
+   {baschin:en de Heerlijkjeit} {jereger:in Eeuwigheit}. {Tesje:Amen}."

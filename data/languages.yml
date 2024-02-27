@@ -239,3 +239,12 @@ languages:
 - name: Hokkien
   family: Sino-Tibetan
   url: https://en.wikipedia.org/wiki/Hokkien
+- name: Yakut
+  family: Turkic
+  url: https://en.wikipedia.org/wiki/Yakut_language
+- name: Mansi
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Mansi_language
+- name: Mongolian
+  family: Mongolic
+  url: https://en.wikipedia.org/wiki/Mongolian_language

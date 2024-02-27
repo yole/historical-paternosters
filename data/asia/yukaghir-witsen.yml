@@ -1,0 +1,31 @@
+language: Kolyma Yukaghir
+attestations:
+  - book: Pantographia
+    page: 274
+    description: Siberian
+    source: Witsius's Description of Tartary
+  - book: Noord en Oost Tartarye
+    page: 687
+    description: Joekagirsche
+  - book: Hervas
+    page: 158
+    number: 105
+    description: Jukagira
+bibliography:
+  - title: A Historical Dictionary of Yukaghir
+    author: Irina Nikolaeva
+    year: 2006
+    url: https://www.degruyter.com/document/doi/10.1515/9783110892840/html?lang=en
+text:
+  "{Otjé:Vader} {mitsjé:Onser} {kandi:die zyt} {koendsjoenga:in de Hemelen}. 
+   {Temlælængh:geheiligt zy} {nim:de Name} {totlié:van U}.
+   {Legatei:toekome} {poegandallanpoh:'t Koninkryke} {totlie:van U}. 
+   {Lætiot:geschiede} {t’sjemol al kaltei:Uwe wille} {konda koed Zjuga:gelijk in Hemel} 
+   {je levianh:zoo op Aerden}.
+   {Lünliagel:'t Brood} {miltjé:onzer} {monidetjelæh:dagelijks} {keyck:geeft} {mitin:ons} {telaman:heden}.
+   {Jeponkatsj:en vergeeft} {mitin:ons} {taldelpon:de schulden} {mïtlæpoel:onzer}
+   {mïtkondan:gelijk wy} {poniatsjok:vergeven} {tannevinol:de schuldenaren} {mitlaæpoel:onzer}.
+   {Je kondo Olgonílæk:en geleiden niet} {mïtel:ons} {olo oimïk:in verzoekinge}.
+   {Kondomolíak:maer verlost} {mitel:ons} {kimda annelan:van den quaden}. 
+   {Le dót:want} {poegoendal lenpoh:uwe is 't Koninkryke}, {je tonbanck:en de Magt},
+   {je tændælov:en de Heerlijkjeit}, {koendejanck:in Eeuwigheit}."
