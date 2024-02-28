@@ -421,7 +421,7 @@ fun compareVariants(specimen: Specimen) {
     for ((index, footnote) in footnotes.withIndex()) {
         baseWords[footnote.wordIndex].footnoteIndex = index + 1
     }
-    specimen.glossedText = formatInlineGlosses(baseWords)
+    specimen.glossedText = formatInlineGlosses(baseWords, specimen.poetry == true)
     specimen.footnotes = footnotes.withIndex().associate { (index, footnote) ->
         (index + 1).toString() to footnote.formatAsString()
     }
@@ -468,9 +468,10 @@ fun splitGlossedTextIntoWords(text: String): List<String> {
     return parseInlineGlosses(text).map { it.original}
 }
 
-fun formatInlineGlosses(glossedTextWords: List<GlossedTextWord>): GlossedText {
+fun formatInlineGlosses(glossedTextWords: List<GlossedTextWord>, poetry: Boolean): GlossedText {
     val cleanText = glossedTextWords.joinToString(" ") {
-        it.original + (it.footnoteIndex?.let { "<sup>$it</sup>"} ?: "")
+        val t = it.original + (it.footnoteIndex?.let { "<sup>$it</sup>"} ?: "")
+        if (poetry) t.replace("\n", "<br>") else t
     }
     return GlossedText(
         cleanText,
@@ -489,7 +490,7 @@ fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: Strin
                 val attestation = specimen.attestations.find { sourceName == it.book  }
                     ?: specimen.attestations.find { sourceName == "${it.book} (${it.description})"}
                 if (attestation != null) {
-                    attestation.text_variant = formatInlineGlosses(parseInlineGlosses(textVariant))
+                    attestation.text_variant = formatInlineGlosses(parseInlineGlosses(textVariant), specimen.poetry == true)
                 }
                 else {
                     println("Not found matching attestation for source $sourceName in ${specimen.outPath}")
@@ -498,7 +499,7 @@ fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: Strin
         }
     }
     if (specimen.glossedText == null) {
-        specimen.glossedText = formatInlineGlosses(parseInlineGlosses(specimen.text!!))
+        specimen.glossedText = formatInlineGlosses(parseInlineGlosses(specimen.text!!), specimen.poetry == true)
     }
 
     val template = Velocity.getTemplate("specimen.vm")
