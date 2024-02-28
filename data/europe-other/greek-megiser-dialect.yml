@@ -13,6 +13,10 @@ attestations:
     page: 135
     description: Greek 35
     source: Orat. Dom. p. 6
+  - book: Hervas
+    page: 185
+    number: 180
+    description: Greca composta de'dialetti
 text:
   "Απφὺς ἁμῶν, ὁ ἐσὶ ἐνὶ τα ἀδιῆ.
    ἀγιαθήτω θοὔνομα σεῖο.

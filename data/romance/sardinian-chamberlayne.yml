@@ -9,6 +9,10 @@ attestations:
     number: 233
     description: Dasselbe <Sardinisch auf dem Lande>
     source: Aus Chamberlayne, S. 43, dem es Wanley verschafft hatte
+  - book: Hervas
+    page: 211
+    number: 279
+    description: <Sarda> rustica
 text:
   "Babu nostra qui estas in sos chelus.
    Sanctificadu sia su nomini tuo.

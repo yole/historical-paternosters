@@ -1,4 +1,4 @@
-language: Russian
+language: Church Slavonic
 attestations:
   - book: Pantographia
     page: 266
@@ -11,6 +11,10 @@ attestations:
   - book: Wilkins
     number: 37
     description: Russian
+  - book: Hervas
+    page: 167
+    number: 129
+    description: Russiana del 1581
 base: slavic/russian2-pantographia
 text:
   "Oche nash izghae yease nanaebaesaegh, da sueatesa

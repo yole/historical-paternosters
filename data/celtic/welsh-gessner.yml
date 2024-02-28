@@ -26,6 +26,10 @@ attestations:
     page: 47
     description: Britannice, veteri stylo
     source: aliae editiones
+  - book: Hervas
+    page: 204
+    number: 251
+    description: Welche antica
 normalize:
   uu: w
 text:

@@ -13,6 +13,10 @@ attestations:
     number: 149
     description: Molkwerisch
     source: So wie es Hemsterhuis dem Chamberlayne mitgetheilet hatte, S. 88
+  - book: Hervas
+    page: 189
+    number: 199
+    description: Molquerana
 text:
   "Oes Veer der iin de hiim’len binne. Jimme
    nemme word heil’ge. Jimme keuniink-riike

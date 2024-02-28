@@ -16,6 +16,10 @@ attestations:
     page: 136
     description: Greek 37
     source: Orat. Dom. p. 7
+  - book: Hervas
+    page: 185
+    number: 181
+    description: Dialetto Greco barbaro
 text:
   "Πατέρα μας, ὁποῦ εἶσαι εὶς τοὺς οὐρανοὺς.
    Ἄς εἶναι ἁγιασμένον τὸ ὀνομά σου.

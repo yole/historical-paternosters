@@ -9,6 +9,10 @@ attestations:
   - book: Wilkins
     number: 44
     description: Irish
+  - book: Hervas
+    page: 204
+    number: 242
+    description: Irlandese
 text:
   "Air nathir ataigh air nin: nabz far hanimti.
    Tigiuh da riatiathe. Deantur da

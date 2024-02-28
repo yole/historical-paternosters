@@ -19,6 +19,10 @@ attestations:
     page: 136
     description: Greek 36
     source: Orat. Dom. p. 6
+  - book: Hervas
+    page: 185
+    number: 181
+    description: Dialetto Greco barbaro
 text:
   "Πατερ ημας, οποιος ισε εης της ουρανους.
    Αγιαθιτω το ονομα σου.

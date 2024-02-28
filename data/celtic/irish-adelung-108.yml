@@ -5,6 +5,10 @@ attestations:
     number: 108
     description: Eine andere Formel <Irisch>
     source: Aus Hervas Saggio prattico No. 245
+  - book: Hervas
+    page: 204
+    number: 245
+    description: Irlandese
 text:
   "Ar Athairne ta annsa Neamh.
    Coisreachtha go ro Dtainin.

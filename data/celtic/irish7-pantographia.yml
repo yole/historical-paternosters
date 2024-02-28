@@ -17,6 +17,10 @@ attestations:
     page: 48
     description: Hibernice
     source: aliae editiones
+  - book: Hervas
+    page: 204
+    number: 240
+    description: Irlandese
 text:
   "Ar nathair atá ar neamh[1], naomhthar hainm:
    tigeadh do rioghachd, deúntar do thoil ar an

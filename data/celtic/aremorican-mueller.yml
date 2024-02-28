@@ -16,6 +16,10 @@ attestations:
     page: 51
     description: Britannice Aremoricane
     source: ex collectione Londini
+  - book: Hervas
+    page: 204
+    number: 255
+    description: Bretona-Armorica
 text:
   "Hon tat pehing son in acou’n. Oth hano bezet
    sanctifiet. De vel de ompho rouantelez.

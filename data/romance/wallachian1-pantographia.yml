@@ -8,6 +8,10 @@ attestations:
     page: 77
     description: Walachice
     source: "Nobilissimus Dnus Birndorff Ablegatus Hungariae et Transylvaniae Ecclesiarum <...> pro Dno. Chamberlaynio accurate conscripsit"
+  - book: Hervas
+    page: 211
+    number: 265
+    description: Dialetti Valaki
 text:
   "Tatul nostru csinye jesh in cseruj. Szvinczie
    sze numelye tuo. Sze vii imparaczia ta. Fii

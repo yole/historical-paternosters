@@ -26,6 +26,10 @@ attestations:
     number: 273
     description: Dasselbe <Kroatisch>
     source: Aus Bohorizh Litterat. Carniol., S. 22 und 36
+  - book: Hervas
+    page: 168
+    number: 136
+    description: Dialetti Croati
 base: slavic/croatian-bohoric-glagolitic
 text:
   "Ozhe nash ishe esi na nebesih. Svetise ime tuoe.

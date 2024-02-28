@@ -29,6 +29,10 @@ attestations:
     number: 275
     description: Dalmatisch-Kroatisch
     source: Aus Valvasor's Ehre des Herzogthums Krain, Th. 2, S. 274
+  - book: Hervas
+    page: 167
+    number: 132
+    description: Schiavona
 base: slavic/russian2-pantographia
 text:
   "Otsse nass, ki yessi na nebessi. Ssuetisse ime

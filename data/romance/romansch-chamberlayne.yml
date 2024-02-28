@@ -9,6 +9,10 @@ attestations:
     number: 267
     description: Eben dasselbe <Romanisch im Unter-Engadin>
     source: Aus der Bibel, 1743
+  - book: Hervas
+    page: 212
+    number: 283
+    description: Retica Roumanscha
 text:
   "Bap nos chi est n'ils tschels.
    Fat sanct vegna teis Nom.

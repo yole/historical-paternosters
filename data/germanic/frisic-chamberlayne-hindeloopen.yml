@@ -9,6 +9,10 @@ attestations:
     number: 151
     description: Hindelopisch
     source: Aus Chamberlayne S. 68, der es von einem gelehrten Friesen hatte.
+  - book: Hervas
+    page: 189
+    number: 202
+    description: Frisica Hindelopese
 text:
   "Oo! Oejz ienne Feer, der jie ienne Hiemmel binne.
    Jiez Nemme mut hall'ge wezze.

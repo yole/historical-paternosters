@@ -1,4 +1,4 @@
-language: Scottish Gaelic
+language: Manx
 attestations:
   - book: Pantographia
     page: 198
@@ -17,6 +17,10 @@ attestations:
     page: 49
     description: Manice
     source: Reverendus admodum Praæsul Episcopus Carliolensis Ampl. Domino Chamberlayno tradidit
+  - book: Hervas
+    page: 204
+    number: 240
+    description: Di Manx
 text:
   "Ayr ain, t’ayns Niau. Casherick dy rou dt’ennym.
    Dy jigg dty Reereeaght. Dt’aigney dy

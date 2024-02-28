@@ -26,6 +26,10 @@ attestations:
     number: 294
     description: Nieder-Lausitzisch
     source: Aus Bohorizh Litterat. Carniol. S. 37
+  - book: Hervas
+    page: 168
+    number: 140
+    description: Dialetti Lusatici
 text:
   "Wosch nasch, kensch sy nanebebu, wussweschone 
    bushy me twoye. Pshish knam krajlestwo

@@ -21,6 +21,10 @@ attestations:
     page: 17
     description: Iberice
     source: "ex Libro cui titulus: Paidagogia Dialecto Iberica Anno 1711 <...> impressa"
+  - book: Hervas
+    page: 174
+    number: 152
+    description: DIaletto Giorgiano I
 text:
   "Mamao cjueno romeli chbar zzahta sciua.
    Tzmida ikachn sa-chheli sceni. Sceni movedin

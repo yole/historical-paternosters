@@ -12,6 +12,10 @@ attestations:
     number: 249
     description: Provençalisch zu Berry
     source: Aus den ältern Sammlungen
+  - book: Hervas
+    page: 212
+    number: 286
+    description: Berriese
 text:
   "Nouestre pére que sias dins l’ou Ciel, vouestre
    nom siet santifia. Que vouestre royame nous

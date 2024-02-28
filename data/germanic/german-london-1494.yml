@@ -7,6 +7,10 @@ attestations:
   - book: Chamberlayne
     page: 64
     description: Germanice, alia dialecto
+  - book: Hervas
+    page: 189
+    number: 190
+    description: <Germanica> Del 1494
 text:
   "Vader unse de du bist in dem Hemmelen.
    Ghehilghet werde din Name.

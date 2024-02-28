@@ -4,6 +4,10 @@ attestations:
     page: 80
     description: Vandalice
     source: ex Nov. Test. impresso Zittaviae IV. 1706
+  - book: Hervas
+    page: 168
+    number: 142
+    description: Dialetti Vandali
 text:
   "Nasch Wotz kiz ssy ty wene bessach.
    Sswiaczene budz twoje meno.

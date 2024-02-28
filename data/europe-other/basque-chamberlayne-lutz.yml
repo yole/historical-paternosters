@@ -9,6 +9,10 @@ attestations:
     number: 105
     description: In Dialect von S. Jean de Luz in Labour.
     source: Im Chamberlayne, S. 44, der es von einem Inländer hatte.
+  - book: Hervas
+    page: 210
+    number: 259
+    description: Dialetto Gascogno
 text:
   "Goure' aïta cerietan cirena.
    Santificatudela çoure' icena.

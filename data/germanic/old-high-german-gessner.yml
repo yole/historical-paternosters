@@ -23,6 +23,10 @@ attestations:
     page: 62
     description: Alemanice
     source: ex Notkero Sangallensi aliae editiones exhibuerunt
+  - book: Hervas
+    page: 189
+    number: 188
+    description: Germanica antica detta Alemanna del 870
 text:
   "Fater ünser, du in himele bist.
    Din namo werde geheiligot.

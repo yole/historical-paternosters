@@ -15,6 +15,10 @@ attestations:
     number: 112
     description: In der Mundart des Fleckens Walden in Essex
     source: Aus Chamberlayne S. 39
+  - book: Hervas
+    page: 204
+    number: 248
+    description: Waldese
 text:
   "Our narme ata air neamb’. Beanich atanim
    gu diga do riogda. Gu denta du hoill, air talm'

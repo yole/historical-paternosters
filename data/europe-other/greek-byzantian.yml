@@ -28,6 +28,10 @@ attestations:
   - book: Chamberlayne
     page: 34
     description: Graece
+  - book: Hervas
+    page: 185
+    number: 179
+    description: Lingua Greca letteraria
 text:
   "πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς,
   ἁγιασθήτω τὸ ὄνομά σου,

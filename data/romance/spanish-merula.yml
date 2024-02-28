@@ -3,6 +3,10 @@ attestations:
   - book: Merula
     page: 299
     description: Hispanice
+  - book: Hervas
+    page: 212
+    number: 290
+    description: Spagnuola
 text:
   "Padre nuestro, que estaa en los cielos.
    Sea sanctificado tu Nombre.

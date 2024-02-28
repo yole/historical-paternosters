@@ -4,6 +4,10 @@ attestations:
     page: 72
     description: Anglice seculi XIIItii
     source: ex Mss. Collegii Corporis Christi apud Oxonienses nobis commnicavit Dn. Hudsonus
+  - book: Hervas
+    page: 190
+    number: 217
+    description: Inglese de'secoli decimo-terzo
 text:
   "Oure fader that art in hevenes.
    Halewid be thi name.

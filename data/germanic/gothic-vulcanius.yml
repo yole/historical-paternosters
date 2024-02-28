@@ -25,6 +25,14 @@ attestations:
   - book: Chamberlayne
     page: 53
     description: <Gothice> Lectio
+  - book: Hervas
+    page: 191
+    number: 230
+    description: Gotica
+  - book: Hervas
+    page: 191
+    number: 231
+    description: Gotica
 base: germanic/gothic
 text:
   "Atta unsar thu in himinam; veihnai namo

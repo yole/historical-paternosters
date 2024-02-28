@@ -15,6 +15,10 @@ attestations:
     page: 87
     description: Lithuanice
     source: ex Wolfgangi Lazii Lib. de migrat. Gent. Reverendus Praesul Episcopus Carliolensis <...> conscripsit
+  - book: Hervas
+    page: 164
+    number: 119
+    description: Lingua Lituana
 text:
   "Tewe musu kursey esi danguy, szweskis wardas
    tawo. Ateyk karaliste tawo, buk walatawo

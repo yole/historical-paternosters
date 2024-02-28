@@ -20,6 +20,10 @@ attestations:
     number: 286
     description: Polnisch
     source: Aus der Bibel, Halle, 1726, 8.
+  - book: Hervas
+    page: 168
+    number: 146
+    description: Pollacca
 text:
   "Oicze náss, ktorys jest w niebiesiech. Swieć sie
    imię twoje. Przydz krolestvo twoje. Badz

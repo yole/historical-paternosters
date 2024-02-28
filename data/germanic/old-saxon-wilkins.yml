@@ -20,6 +20,10 @@ attestations:
     page: 56
     description: Anglo-Saxonice, dialecto vetustiori
     source: ex Editione Londinensi
+  - book: Hervas
+    page: 190
+    number: 214
+    description: Anglo-Sassone di diversi tempi
 text:
   "Uren vader thic arth in heofnas. Sic gehalgud thin noma.
    To cymeth thin rye. Sic thin Willa sue, Is in heofnas and

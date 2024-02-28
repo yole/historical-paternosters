@@ -11,6 +11,10 @@ attestations:
     number: 127
     description: Ein Ungenannter 890
     source: Aus dessen Übersetzung der Harmonie Tatians, nach Palthens Ausgabe, Kap. 34
+  - book: Hervas
+    page: 189
+    number: 196
+    description: Franco-Teotisca
 text:
   "Fater unser thu thar bist in himile.
    Si giheilagot thin namo. 

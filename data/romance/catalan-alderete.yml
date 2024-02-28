@@ -20,6 +20,10 @@ attestations:
     page: 45
     description: Catalanice
     source: ex Londinensi collectione
+  - book: Hervas
+    page: 212
+    number: 291
+    description: Catalana
 text:
   "Pare nostro, que estau en lo cel. Sanctificat
    sea el vostro sant nom. Vinga en nos altres

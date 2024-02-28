@@ -4,6 +4,10 @@ attestations:
     page: 66
     description: Belgice, ex Vetustis Codd.
     source: Franciscus Burmannus ad Theologiae Cathedram Ultrajectinam vocatus <...> tradidit
+  - book: Hervas
+    page: 190
+    number: 206
+    description: Belgica antica
 text:
   "God die onse Vader es.
    Diene name mote geëlicht zijn.

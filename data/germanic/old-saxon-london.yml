@@ -18,6 +18,10 @@ attestations:
   - book: Boxhorn
     page: 4
     description: Oratio
+  - book: Hervas
+    page: 190
+    number: 209
+    description: Sassone antica
 text:
   "Thu ure Fader, the eart on heofenum.
    Si thin noman gehalgod.

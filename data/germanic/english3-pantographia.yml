@@ -27,6 +27,10 @@ attestations:
     page: 14
     number: 54
     description: About the year 1160, in the time of Henry the second
+  - book: Hervas
+    page: 190
+    number: 216
+    description: Inglese de'secoli duodecimo
 text: |
   Ure fadyr in heaven rich.
   Thy name be halyed everlich.

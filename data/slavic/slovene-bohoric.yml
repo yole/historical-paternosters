@@ -31,6 +31,10 @@ attestations:
     number: 272
     description: Kroatisch
     source: Aus Trubers Kroatischem Katechismus 1561, 8.
+  - book: Hervas
+    page: 167
+    number: 134
+    description: Serviese
 base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce nash, ishe jesi v nebesih. Posveti se

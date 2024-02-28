@@ -12,6 +12,10 @@ attestations:
     page: 78
     description: Moscovitice
     source: "Nobilissimus Dnus Birndorff Ablegatus Hungariae et Transylvaniae Ecclesiarum <...> pro Dno. Chamberlaynio accurate conscripsit"
+  - book: Hervas
+    page: 167
+    number: 131
+    description: Moscovita
 base: slavic/russian2-pantographia
 text:
   "Otshe nash ije esi na nebesech. Da svetitsia imia

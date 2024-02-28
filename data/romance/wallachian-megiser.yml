@@ -16,6 +16,10 @@ attestations:
     number: 313
     description: Walachisch
     source: Aus Megiser und Chamberlayne, nach der Verbesserung im Ungar. Magazine, Th. 4, S. 195
+  - book: Hervas
+    page: 211
+    number: 266
+    description: Dialetti Valaki
 text:
   "Tatal nostru, cineresti in ceriu,
    sfincinschase numelle teu.

@@ -9,6 +9,10 @@ attestations:
     number: 251
     description: Gascognisch
     source: Aus Chamberlayne, S. 39
+  - book: Hervas
+    page: 212
+    number: 288
+    description: Vascona
 text:
   "Nostré pairé qu'és al cél.
    Toun Nou sio sanctificat.

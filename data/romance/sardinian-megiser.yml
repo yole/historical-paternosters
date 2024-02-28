@@ -20,6 +20,10 @@ attestations:
     page: 42
     description: Sardice ut in oppidis loquuntur
     source: jam editiones aliae exhibent
+  - book: Hervas
+    page: 211
+    number: 277
+    description: Sarda civile
 text:
   "Pare nostru, qui istas in sos quelos, siat sanctificadu
   su nomen teu: vengat à nois su regnu

@@ -9,6 +9,10 @@ attestations:
     number: 147
     description: Gemein Friesisch
     source: Aus Chamberlayne S. 68, der es von einem gelehrten Friesen hatte. Er nennt es communi stilo.
+  - book: Hervas
+    page: 189
+    number: 202
+    description: Frisica comune
 text:
   "Oo! uiz ejne Hejte, derst uw biste ienne Hiemmel.
    Dien Namme mut hollig wezze.

@@ -22,6 +22,10 @@ attestations:
     page: 51
     description: <Britannice Aremoricane> Aliter
     source: ex collectione Londini
+  - book: Hervas
+    page: 204
+    number: 254
+    description: Bretona-Armorica
 text:
   "Hon tad pehuny[1] sou en efaou,
    Da hanou bezet sanctifiet,

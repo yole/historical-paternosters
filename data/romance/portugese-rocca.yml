@@ -25,6 +25,10 @@ attestations:
   - book: Merula
     page: 301
     description: Portugallice
+  - book: Hervas
+    page: 212
+    number: 293
+    description: Portoghese
 text:
   "Padre nosso, que stas nos ceos, santificado seia
    o teu nome. Venha à nos o teu reino, seja ferta

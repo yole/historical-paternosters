@@ -35,6 +35,10 @@ attestations:
     page: 41
     description: Italice
     source: jam editiones aliae exhibent
+  - book: Hervas
+    page: 211
+    number: 270
+    description: Italiana
 text:
   "Padre nostro, che sei ne’ cieli, sia santificato
    il nome tuo; venga il tuo regno; 

@@ -4,6 +4,10 @@ attestations:
     page: 64
     description: Germanice, juxta Dialectum Suevicam
     source: C.M. Pfaffius mecum communicavit
+  - book: Hervas
+    page: 189
+    number: 193
+    description: German. Sveva.
 text:
   "Fatter ausar dear du bischt em heinmal.
    Gehoyliget wearde dain nam.

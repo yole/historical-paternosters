@@ -16,6 +16,10 @@ attestations:
     page: 50
     description: Cornubice Alia Dialecto
     source: ex editis exemplaribus
+  - book: Hervas
+    page: 204
+    number: 247
+    description: Di Cornubia
 text:
   "Ny taz ez yn neau. Bonegas yw tha hanaw.
    Tha Gwlakath doaz. Tha bonogath bogweez

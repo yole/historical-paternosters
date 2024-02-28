@@ -13,6 +13,10 @@ attestations:
     number: 265
     description: Eben dasselbe <Romanisch>
     source: Aus Megiser, Lüdeken etc.
+  - book: Hervas
+    page: 212
+    number: 282
+    description: Retica comune
 text:
   "Pap noass, to quel chi êsch in ls tschels.
    Fatt saingk vênnga ilg teis nuom.

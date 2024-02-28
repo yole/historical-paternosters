@@ -14,6 +14,10 @@ attestations:
     page: 36
     description: Hispanica
     source: Cypr. de Valera N. Test. Hisp. Amsteld. 1625. Conf. Gesn. f. 55 b. Meg. n. 15. Pist. n. 11. Reut. n. 10. Roch. n. 4. Stiernh. n. 3. Wilk. n. 9.
+  - book: Hervas
+    page: 212
+    number: 289
+    description: Spagnuola
 text:
   "Padre nuestro, que estas en los cielos. Sanctificato
    sea el tu nombre. Venga à nos el tu reyno.

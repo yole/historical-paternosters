@@ -8,6 +8,10 @@ attestations:
     page: 63
     description: Germanice. E superious euis Cod.
     source: ex editionibus aliis
+  - book: Hervas
+    page: 189
+    number: 189
+    description: <Germanica> Del 1483
 text:
   "Vater unser der du bist in den Hymeln.
    Geheyliget werd dein Nam.

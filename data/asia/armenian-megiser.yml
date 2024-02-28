@@ -42,6 +42,10 @@ attestations:
   - book: Duret
     page: 727
     description: en langue Armenienne
+  - book: Hervas
+    page: 172
+    number: 175
+    description: Armena Dialetto V
 base: asia/armenian
 text:
   "Hair mer or iercins des. Surb eglizzi anun

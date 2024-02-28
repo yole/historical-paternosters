@@ -14,6 +14,10 @@ attestations:
   - book: Quiquer
     page: 17
     description: Breton
+  - book: Hervas
+    page: 204
+    number: 253
+    description: Bretona-Armorica
 text:
   "Hon Tat pehiny so en Euffaou.
    Hozhano bezet santifiet.

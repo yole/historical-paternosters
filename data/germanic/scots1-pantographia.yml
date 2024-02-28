@@ -23,6 +23,10 @@ attestations:
     page: 48
     description: Scotice, Provinciarum Meridionalium
     source: aliae editiones
+  - book: Hervas
+    page: 191
+    number: 222
+    description: Scozzese
 text:
   "Our fader, vhilk ar in hevin. Hallovit be thy
    name. Thy kingdon cum. Thy vil be doin in

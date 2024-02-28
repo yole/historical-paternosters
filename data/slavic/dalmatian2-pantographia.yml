@@ -17,6 +17,10 @@ attestations:
     page: 40
     description: Dalmatica
     source: Meg. n. 35. Conf. Pist. n. 26. Reut. n. 33. Wilk. n. 27.
+  - book: Hervas
+    page: 167
+    number: 133
+    description: Dalmata
 base: slavic/sclavonian-georgijevic
 text:
   "Otsce nas koyi-yessina nebissih. Szvetisse gyme

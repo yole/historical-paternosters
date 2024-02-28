@@ -12,6 +12,10 @@ attestations:
   - book: Martin
     page: 15
     number: 56
+  - book: Hervas
+    page: 190
+    number: 219
+    description: Inglese de'secoli decimo-terzo
 text: |
   Fadir ur that es in hevene,
   Halud be thi Nam to nevene:

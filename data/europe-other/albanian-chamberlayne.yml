@@ -9,6 +9,10 @@ attestations:
     number: 333
     description: Epirotisch
     source: Aus des Pet. Budi di Pietra Bianca übersetzten Bellarmin.
+  - book: Hervas
+    page: 187
+    number: 184
+    description: Epirotica-Albanese
 text:
   "O Attijȣne chi yee mbechiell.
    Scietenuom chiofte emenitetat.

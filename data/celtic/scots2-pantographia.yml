@@ -13,6 +13,10 @@ attestations:
     number: 110
     description: Hochländisch oder Galisch
     source: aus Chamberlayne S. 49
+  - book: Hervas
+    page: 204
+    number: 243
+    description: Erse
 text:
   "Ar nathairne ata ar neamh, goma beannuigte
    hainmsa, gu deig do rioghachdsa, dentaa do iholfi

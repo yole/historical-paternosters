@@ -8,6 +8,10 @@ attestations:
     page: 58
     description: "Aliter: Ex Eodem Codice <Anglo-Saxonice. Ex Codice Rushworthiano>"
     source: "ex Codice Rushworthiano Luc. XI:2"
+  - book: Hervas
+    page: 190
+    number: 212
+    description: Anglo-Sassone di diversi tempi
 text:
   "Fæder user se the is on heofnum.
    Gihalgod bith noma thin.

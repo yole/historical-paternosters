@@ -9,6 +9,10 @@ attestations:
     number: 255
     description: Lüttichisch oder Wallonisch
     source: Aus Chamberlayne
+  - book: Hervas
+    page: 212
+    number: 287
+    descriptioN: Vallona, o Leodica
 text:
   "Nos Peer, ki es a Cir.
    Vos sen No seú'ye santifii.

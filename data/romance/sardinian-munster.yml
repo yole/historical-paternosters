@@ -26,6 +26,10 @@ attestations:
     page: 42
     description: Sardice, ut in Pagis
     source: jam editiones aliae exhibent
+  - book: Hervas
+    page: 211
+    number: 278
+    description: <Sarda> volgare
 text:
   "Babbu nostru, sughale ses in soschelus: santusiada
    su nomine tuo: bengiad su rennu tuo:

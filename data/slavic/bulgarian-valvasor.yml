@@ -8,6 +8,10 @@ attestations:
     page: 80
     description: Bulgarice
     source: "Ex Appendice Tom. 3 Dissert. Misc. Cl. Relandi descripsi"
+  - book: Hervas
+    page: 168
+    number: 135
+    description: Bulgherese
 base: slavic/russian2-pantographia
 text:
   "Otskye nash, koteri ieszi u'nebeszih. Szueto ime tvoye.

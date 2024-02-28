@@ -27,6 +27,10 @@ attestations:
     page: 68
     description: Frisice
     source: ex impressis versionis Orationis Dominicae descripsi
+  - book: Hervas
+    page: 189
+    number: 200
+    description: Frisica
 text:
   "Ws Haita duu derstu biste yne hymil, dyn
    name wird heiligt, dyn ryck to komme, dyn

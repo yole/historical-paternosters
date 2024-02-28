@@ -13,6 +13,10 @@ attestations:
     number: 124
     description: Alemannisch von etwa 720
     source: Von Frehern 1610 heraus gegeben.
+  - book: Hervas
+    page: 189
+    number: 197
+    description: Franco-Teotisca
 text:
   "Fatter unseer thu pist in himile.
    Wihi namun dinan.

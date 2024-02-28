@@ -3,6 +3,10 @@ attestations:
   - book: Chamberlayne
     page: 59
     description: Anglo-Saxonice. Ex Codice Hattoniano
+  - book: Hervas
+    page: 190
+    number: 213
+    description: Anglo-Sassone di diversi tempi
 text:
   "Ure fæder thu the on heofene eart.
    Syo thin name gehaleged.
