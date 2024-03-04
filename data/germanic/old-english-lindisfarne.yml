@@ -24,6 +24,14 @@ attestations:
     page: 190
     number: 214
     description: Anglo-Sassone di diversi tempi
+  - book: Pantographia
+    page: 260
+    description: Saxon 3
+    source: Camden's Remains, p. 23
+  - book: Martin
+    page: 14
+    number: 51
+    description: gloss on the Evangelists by bishop Eadfride
 text:
   "Uren vader thic arth in heofnas. Sic gehalgud thin noma.
    To cymeth thin rye. Sic thin Willa sue, Is in heofnas and
@@ -37,3 +45,14 @@ text_variants:
      in eortho. Uren hlaf ofer wirtlic sel us to daeg.
      And forgefe us scylda urna, sue we forgefan scyldgum urum.
      And no in lead usith in custnung. Ah gefrig urich from ifle."
+  Pantographia:
+    "Fader uren ðu arð in Heofnas.
+     sie gehalgud Noma ðin.
+     To cymeð ric ðin.
+     Sie fillo ðin suæ is in Heofne & in Eorða.
+     Hlaf uferne oferwirtlic sel us to dæg.
+     & forgef us scylða usna suæ we forgefon Scylgum urum.
+     And ne inlead usið in Cortnunge.
+     Ah gefrigusich from Evil."
+notes:
+  The text comes from the Lindisfarne Gospels, Cotton MS Nero D IV manuscript.

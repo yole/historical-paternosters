@@ -407,4 +407,22 @@ books:
   author: Justus Heurnius
   author_url: https://en.wikipedia.org/wiki/Johannes_Heurnius
   type: bible
- 
+
+- title: Bath Old English Gospels
+  url: https://parker.stanford.edu/parker/catalog/ks656dq8163
+  year: 1000
+  type: bible
+
+- title: Aelfric
+  full_title: The Homilies of the Anglo-Saxon Church, by Aelfric, Abbot of Eynsham
+  url: https://books.google.com/books?id=X08JAAAAQAAJ
+  year: 990
+  author: Aelfric of Eynsham
+  author_url: https://en.wikipedia.org/wiki/Ælfric_of_Eynsham
+
+- title: Saxon Monuments
+  full_title: Divers ancient monuments in the Saxon tongue written seven hundred yeares agoe
+  url: https://archive.org/details/bim_early-english-books-1475-1640_divers-ancient-monuments_lisle-william_1638/page/n211/mode/2up
+  year: 1638
+  author: William Lisle
+  author_url: https://en.wikipedia.org/wiki/William_L%27Isle
