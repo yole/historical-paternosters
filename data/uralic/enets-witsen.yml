@@ -1,0 +1,31 @@
+language: Enets
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 890
+    description: Turuchansche Samojeden Spraek
+  - book: Hervas
+    page: 159
+    number: 107
+    description: Dialecto Samojedo Turucs
+  - book: Adelung Part 1
+    page: 556
+    number: 93
+    description: Turuchanische Samojeden
+    source: Aus Witsen, S. 890, und Leibnitz, Th. 2, S. 370
+text:
+  "{Modi Jeseje:Onze Vader}, {Teio:die daer zyt} {nacho naare:in de Hemelen}.
+   {Todi Nilo:Uwen Naem} {toreke chuzuiro:worde geheiligt}.
+   {Todi nacsiaro toretusu:U Koninkryke kome}.
+   {Todi aguaaro toretusu:Uwen wille geschiede} {Tone na chonaar:gelijk in den Hemel}, {i Jachona:als op der Aerden}.
+   {Modi Puiresiudava Kirva:Ons dagelijks} {Toratsui:Brood geeft} {mena erecsone:ons heden}.
+   {I Kai:Ende vergeeft} {nena noina oteine:ons onze schulden} {tone imodinana kalodie:gelijk wy vergeven}
+   {neine oteoponede:onze schuldenaren}.
+   {Iro sirene:Ende en leid ons} {ta ora basiedo:niet in verzoekinge}.
+   {I role sirene:maer verlost ons} {kodago choro:van den boozen}.
+   {Tone Todi Tonea:Want U is} {Nacsiaro:het Koninkryke}, {i Nichoro:ende de Kracht},
+   {i su Voeraaro:ende de Heerlijkheit}, {i Reine:in der Eeuwigheit}, {Bodera:Amen}."
+bibliography:
+  - title: The Enets text of the Lord's Prayer
+    author: Eugen Helimski
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018

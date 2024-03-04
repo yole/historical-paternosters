@@ -254,3 +254,21 @@ languages:
 - name: Manx
   family: Indo-European/Celtic
   url: https://en.wikipedia.org/wiki/Manx_language
+- name: Nenets
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Nenets_languages
+- name: Enets
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Enets_language
+- name: Nganasan
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Nganasan_language
+- name: Selkup
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Selkup_language
+- name: Mari
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Mari_language
+- name: Komi
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Komi_language

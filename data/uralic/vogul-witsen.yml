@@ -7,6 +7,11 @@ attestations:
     page: 161
     number: 113
     description: Wogula
+  - book: Adelung Part 1
+    page: 540
+    number: 84
+    description: Wogilisch
+    source: Aus Nic. Witsen Noord- en Oost-Tatarye, Th. 2, S. 732
 text:
   "{Memjef:Onze Vader} {conboye:die in de} {Eterdarum:Hemelen zyt}.
    {Naerdaroin:Uwen Naem} {amut:worde} {nema:geheiligt}.
@@ -20,3 +25,8 @@ text:
    {Toromalt dorom nerku:maer verlost ons} {mem kul:van den boozen}.
    {Tagolodamu:Want U is} {Negotsku:het Koninkryke}, {vaan Booter:ende de Kracht},
    {Nemonsoigi:ende de Heerlijkheit} {nokoztatiu:in der Eeuwigheit}. {Peitse:Amen}."
+bibliography:
+  - title: The Lord's Prayer in Mansi
+    author: Csilla Horváth
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018

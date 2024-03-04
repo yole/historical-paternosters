@@ -1,4 +1,4 @@
-language: Khanty (?)
+language: Selkup
 attestations:
   - book: Pantographia
     page: 288
@@ -23,3 +23,8 @@ text:
    {tät:maer verlost} {mat:ons} {losogod:van den quaden}. 
    {tät:want} {tät nudkotsj:uwe is 't Koninkryke} {oroep:en de Magt} {oevorganin:en de Heerlijkheit} 
    {tam noenmida:in Eeuwigheit}. {Nat:Amen}."
+bibliography:
+  - title: The Lord's Prayer in Selkup
+    author: Valentin Gusev and Anna Umanicheva
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018

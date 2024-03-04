@@ -1,0 +1,34 @@
+language: Nenets
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 890
+    description: Samojeedsche Tael, der geenen, die dicht aen Archangel woonen
+  - book: Hervas
+    page: 159
+    number: 108
+    description: Dialecto de' Samojedi Occidentali
+  - book: Adelung Part 1
+    page: 554
+    number: 91
+    description: Samojeden um Archangel
+    source: Aus Witsen's Tatarye, Th. 2, S. 890, und Leibnitzen Collectan. Etymol. Th. 2, S. 372
+text:
+  "{Mani Nisal:Onze Vader}, {Huien Tamuwa:die in de} {Numilem barti Tosu:Hemelen zyt}.
+   {Tadisse:Uwen Naem} {Pider Nim:worde geheiligt}.
+   {Pider paro vadie Tosu:U Koninkryke kome}.
+   {Pider gior:Uwen wille geschiede} {amga de numilembart:gelijk in den Hemel} {Tarem jae:alszoo ook op de Aerden}.
+   {Man jeltema:Ons dagelikjs} {Nan:Brood geeft} {Tuda:ons heden}.
+   {Ali ona Mani:Ende vergeeft ons} {isai:onze schulden}, {tai mano:gelijk ook wy}
+   {wangundar mani:vergeven onze} {mi manuô:schundenaren}.
+   {Ja merum:Ende en leid ons} {hanna sa neninde baka:niet in verzoekinge} {japtan:maar verlost ons}
+   {mani suadera:van den boozen}.
+   {Tekindapt:Want U is} {schin pider Parowadea:het Koninkryke} {ni hóóka:ende de kracht}
+   {Wadado:ende de Heerlijkheit} {il Iwan:in der Eeuwigheit}. {Tosu:Amen}."
+bibliography:
+  - title: Witsen's documentation of the Nenets language
+    author: Marina Lublinskaya
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018
+notes:
+  Witsen's glosses do not correspond to the actual meaning of the words. See the linked article for
+  a correct word-by-word translation.

@@ -11,11 +11,20 @@ attestations:
     page: 158
     number: 105
     description: Jukagira
+  - book: Adelung Part 1
+    page: 562
+    number: 94
+    description: Jukadschirisch
+    source: Aus Nic. Witsen Noord- en Oost-Tatarye, Th. 2, S. 687
 bibliography:
   - title: A Historical Dictionary of Yukaghir
     author: Irina Nikolaeva
     year: 2006
     url: https://www.degruyter.com/document/doi/10.1515/9783110892840/html?lang=en
+  - title: Yukaghir
+    author: Irina Nikolaeva and Cecilia Odé
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018
 text:
   "{Otjé:Vader} {mitsjé:Onser} {kandi:die zyt} {koendsjoenga:in de Hemelen}. 
    {Temlælængh:geheiligt zy} {nim:de Name} {totlié:van U}.

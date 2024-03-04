@@ -1,0 +1,32 @@
+language: Mari
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 622
+    description: Ceremisse Tael
+  - book: Hervas
+    page: 161
+    number: 111
+    description: Tscheremissa
+  - book: Adelung Part 2
+    page: 544
+    number: 86
+    description: Tscheremissisch
+    source:
+      "Aus Witsens Tatarye Th. 2, S. 622, und Leibnitzen Collectan. etymol. Th. 2. S. 369,
+       und einem Petersb. Kalender von 1737"
+text:
+  "{Memnan uziu:Onze Vader}, {ilimazet:die daer zyt} {Kiusuiluste:in de Hemelen}.
+   {Tinin liumet:Uwe Name worde} {volgusertes:geheiligt}.
+   {Tinin Vurduschu:Uwe Koninkryke} {tooles:kome}.
+   {Tinin jerek ilies:Uwe wille geschiede}, {kusu i:zoo als in de}
+   {Kusiuluste:Hemelen}, {i ijulniu:alzoo op der Aerden}.
+   {Memnon kedzin Kinde:ons dagelijks Brood} {puske malana ikelset:geefs ons heden}.
+   {I kode malana:ende vergeeft ons} {memnon suiluk:onze schulden},
+   {kuse me kondena:als wy vergeven} {malano tuirulisticzy:onze schuldenaren}.
+   {I tzurty memnon:en leit ons niet} {i langoske:in verzoekinge},
+   {i utura memnon:maer verlost ons} {i Jalaez:van den Boozen}."
+bibliography:
+  - title: The Lord's Prayer in Mari
+    author: Rogier Blokland
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018

@@ -1,0 +1,32 @@
+language: Nganasan
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 890
+    description: Tafsche Samojeden Tael
+  - book: Hervas
+    page: 158
+    number: 106
+    description: Dialecto Samojedo Tafse
+  - book: Adelung Part 1
+    page: 555
+    number: 92
+    description: Tawgische Samojeden
+    source: Aus Witsen's Tatarye, Th. 2, S. 890, und Leibnitzen Collectan. Etymol. Th. 2, S. 370
+text:
+  "{Mi Jeseme:Onze Vader}, {nesteio:die daer zyt} {nuontore:in de Hemelen}.
+   {Tonon Nilo:Uwen Naem} {tontokui kusuiri:worde geheiligt}.
+   {Tonon nuontomeioro tondo tuifantu:U Koninkryke kome}.
+   {Tonon nianzepsialo tuifano:Uwen wille geschiede} {Tondone nuontonu:gelijk in den Hemel}, 
+   {Mamorutonu:als op der Aerden}.
+   {Mi nilinsiame:Ons dagelijks} {Kirvu totu:Brood geeft} {nane jele:ons heden}.
+   {Kuoje:Ende vergeeft} {nane mogorene oteine:ons onze schulden} 
+   {tendone onilde kuroje fantome:gelijk wy vergeven} {naine otraoponteinianan:onze schuldenaren}.
+   {Letamto men:Ende en leid ons} {koli ta konto:niet in verzoekinge}.
+   {Si lupto men:maer verlost ons} {muczy logoto:van den boozen}.
+   {Tondo Tonon noneinu:Want U is} {nu Ontomoura:het Koninkryke}, {ni Chomeon:ende de Kracht},
+   {ni Timeon:ende de Heerlijkheit}, {ni Lemeeno:in der Eeuwigheit}, {Buldadu:Amen}."
+bibliography:
+  - title: The Lord's Prayer in Nganasan
+    author: Valentin Gusev
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018

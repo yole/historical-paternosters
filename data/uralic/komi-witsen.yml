@@ -1,0 +1,30 @@
+language: Komi
+attestations:
+  - book: Noord en Oost Tartarye
+    page: 811
+    description: de Tael van Permien
+  - book: Hervas
+    page: 161
+    number: 112
+    description: Permiana
+  - book: Adelung Part 1
+    page: 537
+    number: 82
+    description: Permisch
+    source: Aus Nic. Witsen Noord- en Oost-Tatarye, Th. 2, S. 811
+text:
+  "{Mian aje: Onze Vader}, {kon dose vilin:die in de} {Olaniin:Hemelen zyt}.
+   {medrezasas tead:Uwe naem} {Namid:worde geheiligt}.
+   {Canulni medvoas:U Koninkryke kome}.
+   {Mianorda it zytujnasmedvo:Uwen wille geschiede}, {zegol vilin olani in:gelijk in den Hemel},
+   {imu vilien:alzoo ook op der Aerden}.
+   {Mon cudolai:Ons dagelijks} {Nian:Brood} {vaïmianlo oni:geeft ons heden}.
+   {Lez:ende vergeeft ons} {mianlo uzjez:onze schulden}, {tegol mi:gelijk ook we}
+   {leziam mian:vergeven onze} {uzjezuvotirla:schuldenaren}.
+   {Vozty:Ende en leid ons niet} {porsalomos:in verzoekinge}, {dorz:maer verlost}
+   {mianlo:ons van den} {kulordis:boozen}."
+bibliography:
+  - title: The Lord's Prayer in Zyrian Komi
+    author: Rogier Blokland
+    publication: The Fascination with Inner Eurasian Languages in the 17th Century
+    year: 2018
