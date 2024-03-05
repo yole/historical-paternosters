@@ -245,10 +245,6 @@ fun markdownToHtml(text: String): String {
 
 val footnoteRegex = Regex("\\[(\\d+)]")
 
-fun formatFootnotes(text: String): String {
-    return footnoteRegex.replace(text) { mr -> "<sup>${mr.groupValues[1]}</sup>"}
-}
-
 data class GlossedTextWord(val original: String, val gloss: String, var footnoteIndex: Int? = null)
 data class GlossedTextLine(val words: List<GlossedTextWord>)
 data class GlossedText(val text: String, val lines: List<GlossedTextLine>?)
@@ -449,7 +445,14 @@ fun parseInlineGlosses(text: String): List<GlossedTextWord> {
                 }
                 else {
                     val words = chunkBeforeBrace.split(' ')
-                    result.addAll(words.map { GlossedTextWord(it, "") })
+                    result.addAll(words.map { w ->
+                        val m = footnoteRegex.find(w)
+                        if (m != null) {
+                            GlossedTextWord(w.substring(0, m.range.first), "", m.groupValues[1].toIntOrNull())
+                        } else {
+                            GlossedTextWord(w, "")
+                        }
+                    })
                 }
             }
         }
@@ -510,10 +513,6 @@ fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: Strin
 
     val template = Velocity.getTemplate("specimen.vm")
     val context = contextFromObject(paternosters, specimen)
-    context.put("text", specimen.text?.let {
-        val withFootnotes = formatFootnotes(it)
-        if (specimen.poetry == true) withFootnotes.replace("\n", "<br>") else withFootnotes
-    })
     context.put("notes", specimen.notes?.let { markdownToHtml(it) })
     generateToFile(path, template, context)
 }
