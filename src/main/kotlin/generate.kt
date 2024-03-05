@@ -41,6 +41,11 @@ class BibliographyEntry {
     var page: Int? = null
 }
 
+class AuthorData {
+    var name: String? = null
+    var url: String? = null
+}
+
 class Book {
     var title: String? = null
     var full_title: String? = null
@@ -48,6 +53,7 @@ class Book {
     var url: String? = null
     var author: String? = null
     var author_url: String? = null
+    var authors: MutableList<AuthorData> = mutableListOf()
     var image: String? = null
     var type: String? = null
     var bibliography: MutableList<BibliographyEntry> = mutableListOf()

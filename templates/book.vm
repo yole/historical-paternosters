@@ -13,11 +13,17 @@ Full title:
 #if($url && (!$full_title || $full_title == $fullTitleSnippet))
     <a href="$url">Full text</a><br/>
 #end
-#if($author)
+#if($authors)
+    Authors:
+    #foreach($author in $authors)
+        <a href="$author.url">$author.name</a>#if($foreach.hasNext), #end
+    #end
+    <br/>
+#elseif($author)
 #if($author_url)
 Author: <a href="$author_url">$author</a><br/>
 #else
-Author: $author
+Author: $author<br/>
 #end
 #end
 Year of publication: $year<br/>

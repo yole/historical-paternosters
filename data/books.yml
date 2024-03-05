@@ -41,7 +41,11 @@ books:
     Characteribus Expressa
   year: 1715
   url: https://books.google.com/books?id=tLZbAAAAQAAJ
-  author: John Chamberlayne
+  authors:
+    - name: John Chamberlayne
+      url: https://en.wikipedia.org/wiki/John_Chamberlayne
+    - name: David Wilkins
+      url: https://en.wikipedia.org/wiki/David_Wilkins_(orientalist)
   type: collection
 
 - title: Pantographia
@@ -328,32 +332,44 @@ books:
   full_title: Mithridates, oder allgemeine Sprachenkunde. Erster Theil
   url: https://books.google.com/books?id=sHnzAAAAMAAJ
   year: 1806
-  author: Johann Christoph Adelung
-  author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+  authors:
+    - name: Johann Christoph Adelung
+      url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+    - name: Johann Severin Vater
+      url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
 
 - title: Adelung Part 2
   full_title: Mithridates, oder allgemeine Sprachenkunde. Zweyter Theil
   url: https://books.google.com/books?id=nTHyIB800NQC
   year: 1809
-  author: Johann Christoph Adelung
-  author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+  authors:
+    - name: Johann Christoph Adelung
+      url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+    - name: Johann Severin Vater
+      url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
 
 - title: Adelung Part 3
   full_title: Mithridates, oder allgemeine Sprachenkunde. Dritter Theil
   url: https://books.google.com/books?id=bQ9LAQAAMAAJ
   year: 1812
-  author: Johann Christoph Adelung
-  author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+  authors:
+    - name: Johann Christoph Adelung
+      url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+    - name: Johann Severin Vater
+      url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
 
 - title: Adelung Part 4
   full_title: Mithridates, oder allgemeine Sprachenkunde. Vierter Theil
   url: https://books.google.com/books?id=ZK4tB7I2C78C
   year: 1817
-  author: Johann Christoph Adelung
-  author_url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+  authors:
+    - name: Johann Christoph Adelung
+      url: https://en.wikipedia.org/wiki/Johann_Christoph_Adelung
+    - name: Johann Severin Vater
+      url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
 
 - title: Martin
