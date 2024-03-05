@@ -19,14 +19,14 @@ import org.yaml.snakeyaml.Yaml
 import org.yaml.snakeyaml.constructor.Constructor
 import java.io.OutputStreamWriter
 import java.io.StringReader
-import java.lang.Exception
 import java.net.URI
 import java.net.http.HttpClient
 import java.net.http.HttpRequest
 import java.net.http.HttpResponse.BodyHandlers
 import java.nio.file.Path
 import java.nio.file.Paths
-import java.util.Properties
+import java.text.Normalizer
+import java.util.*
 import kotlin.io.path.*
 import kotlin.reflect.KProperty
 
@@ -369,9 +369,17 @@ fun splitIntoWords(delta: AbstractDelta<String>): List<AbstractDelta<String>> {
     return listOf(delta)
 }
 
+val diacriticPattern = Regex("\\p{M}")
+
+fun String.removeDiacritics() =
+    diacriticPattern.replace(Normalizer.normalize(this, Normalizer.Form.NFKD), "")
+
 fun ignoreDelta(delta: AbstractDelta<String>, normalizeMap: Map<String, String>): Boolean {
     fun normalize(string: String) =
         normalizeMap.entries.fold(string) { s, (key, value) -> s.replace(key, value)}
+            .trimEnd { it in punctuation }
+            .lowercase(Locale.FRANCE)
+            .removeDiacritics()
 
     val sourceText = delta.source.lines.joinToString(" ")
     val destinationText = delta.target.lines.joinToString(" ")
@@ -429,7 +437,7 @@ fun compareVariants(specimen: Specimen) {
     }
 }
 
-val punctuation = setOf('.', ',', ';')
+val punctuation = setOf('.', ',', ';', ':', '\'', '’')
 
 fun parseInlineGlosses(text: String): List<GlossedTextWord> {
     val result = mutableListOf<GlossedTextWord>()
