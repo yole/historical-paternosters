@@ -17,6 +17,7 @@ attestations:
   - book: Gessner
     page: 14
     description: "lingua Vuallica seu Britannica uetere"
+    source: Text was obtained from John Bale
   - book: Adelung Part 2
     page: 152
     number: 114
@@ -73,3 +74,9 @@ text_variants:
      Ammaddeu ynny evn deledion, megis
      agi maddevu in deledvvir ninaw. Agna thowys
      ni in brofedigaeth. Namyn gvvaredni"
+bibliography:
+  - title: The Celtic Languages in Conrad Gessner's Mithridates
+    author: Erich Poppe
+    year: 2009
+    publication: Zeitschrift für celtische Philologie, Volume 45 Issue 1
+    url: https://www.degruyter.com/document/doi/10.1515/zcph.1992.45.1.240/html

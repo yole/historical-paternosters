@@ -442,3 +442,10 @@ books:
   year: 1638
   author: William Lisle
   author_url: https://en.wikipedia.org/wiki/William_L%27Isle
+
+- title: William Morgan's Bible
+  url: https://www.library.wales/discover/digital-gallery/printed-material/1588-welsh-bible/
+  year: 1588
+  type: bible
+  author: William Morgan
+  author_url: https://en.wikipedia.org/wiki/William_Morgan_(Bible_translator)
