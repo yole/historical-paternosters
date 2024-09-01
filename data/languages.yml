@@ -275,3 +275,6 @@ languages:
 - name: Middle English
   family: Indo-European/Germanic
   url: https://en.wikipedia.org/wiki/Middle_English
+- name: Omagua
+  family: Tupian
+  url: https://en.wikipedia.org/wiki/Omagua_language

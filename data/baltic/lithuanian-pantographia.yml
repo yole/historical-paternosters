@@ -19,6 +19,7 @@ attestations:
     page: 164
     number: 119
     description: Lingua Lituana
+    source: nella Biblia Lituana stampata a Londra 1660
 text:
   "Tewe musu kursey esi danguy, szweskis wardas
    tawo. Ateyk karaliste tawo, buk walatawo
@@ -47,3 +48,19 @@ text_variants:
      sawiemus kaltiemus. Ir newesk musu
      ing pagundynima; bet giaf bekmus nog pikto.
      Amen."
+  Hervas:
+    "Tewe musu, keursei esi and dangui.
+     Szeweskis wardas tawo.
+     Ateyk karaliste tawo, buk wala tawo kayp and dagaus, teyp ir and ziames.
+     Dönos musu wisu dienu dok mumus szedien.
+     Ir atlayisk mums musu kaltes, kayp ir mes atlaizdiam sawiemus kaltiemus.
+     Ir newesk musu ing pagundynima.
+     Bet giafbek mus nog pikto.
+     Nes tawo ira karaliste, ir galübe, ir szolowe ant amziu.
+     Amen."
+bibliography:
+  - title: "Notizia sui testi baltici del Padre Nostro nel Saggio Pratico (1787) di Lorenzo Hervas y Panduro"
+    author: Pietro U. Dini
+    year: 1996
+    publication: Res Balticae
+    url: https://www.academia.edu/9099670/Notizia_sui_testi_baltici_del_Padre_nostro_nel_Saggio_pratico_1787_di_Lorenzo_Hervás_y_Panduro_Res_Balticae_1996_2_p_189_200

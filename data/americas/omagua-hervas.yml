@@ -1,0 +1,23 @@
+language: Omagua
+attestations:
+  - book: Hervas
+    page: 93
+    number: 15
+    description: Homagua, od Omagua dialetto Guaranì nel regno de Quito
+text:
+  "{Tanu Papa:nostro Padre} {Ehuatirami cate yuri timcui:città-alta in sei}.
+   {Ene scira tenera muchamura:tuo nome che-sia felice}.
+   {Ene nuamai ritama:tua grande città} {teneruri tanu in:venga noi in}.
+   {Ene putari tenera:tua volontà che-sia}
+   {yahuckemura:adempiuta} {aeramania:siccome} {ehuetemai ritama cate:alta città in}
+   {maerani veranu:così anche} {aikiara tuyuca:questa bassa} {ritama catte:città in} {veranu:ancora}.
+   {Tanu eocmai:nostro cibo} {neyume:dà-a-noi} {icume:oggi} {tanu supe:noi per}.
+   {Tenepatatanu:perdona-ci} {tanu eraecmamaicana:nostri fatti-cattivi} {maeramanía:così-come}
+   {tanu tenepeta:noi perdoniamo} {tanu sahuayaracana:nostri nemici}.
+   {Ename neischari:non lasciare} {tanu ucucui:noi cadere} {maca:accio-non} {eraecmamai:peccati-in}.
+   {Ayaisimarae sui:avversità dalle} {nimunuy epetatanu:libera-ci}."
+bibliography:
+  - title: A Linguistic Analysis of Old Omagua Ecclesiastical Texts
+    author: Lev Michael, Zachary O'Hagan
+    year: 2013
+    url: http://www.cabeceras.org/ldm_publications/michael&ohagan_omagua_eccl_texts.pdf

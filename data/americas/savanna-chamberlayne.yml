@@ -9,7 +9,8 @@ attestations:
     description: Savahanice
     source: Misit Reverendus Doctor le Jau, V. D., Minister S. Jacobi in Caroli- am Meridionali
   - book: Hervas
-    page: 52
+    page: 126
+    number: 52
     description: Shavanna, o Shawanniha
 bibliography:
   - title: Notes on Forty Algonkin Versions of the Lord's Prayer

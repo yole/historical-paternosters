@@ -22,6 +22,7 @@ attestations:
   - book: Eliot Indian Bible
   - book: Hervas
     page: 126
+    number: 53
     description: Virginese
   - book: Chamberlayne
     page: 90

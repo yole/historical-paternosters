@@ -16,6 +16,7 @@ attestations:
     description: en Sauuage
   - book: Hervas
     page: 97
+    number: 12
     description: Dialetto Guaranì
     source: Duret al capitolo 79
   - book: Chamberlayne
