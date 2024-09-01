@@ -284,3 +284,5 @@ languages:
 - name: Bisayan
   family: Austronesian
   url: https://en.wikipedia.org/wiki/Bisayan_languages
+- name: Puquina
+  url: https://en.wikipedia.org/wiki/Puquina_language

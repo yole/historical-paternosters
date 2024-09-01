@@ -1,0 +1,29 @@
+language: Puquina
+attestations:
+  - book: Hervas
+    page: 93
+    number: 7
+    description: Pucuìna, o Poquína
+  - book: Rituale
+    page: 400
+    description: Puquina
+text:
+  "Señ yqui, hanigo pacas cunana ascheno, po mana vpallisuhanta: po capaca aschano señ guta 
+   huachunta, po hatano callacaso hanta, quiguri hanigopa casna ehe cahu cohuacasna hamp:
+   Kaa gamenque ehehesuma. Señ guta camen señ tanta, señ hochaghe pampache sumao, quiguiri 
+   señ señ guta huchachasqueno gata pampachanganch cagu. Ama èhe acrosuma huchaguta señ hot?nouà 
+   enahata entonana quespina sumau. Amen"
+text_variants:
+  Hervas:
+    "Señ iki, hanigo pacas cunana ascheno pomana upallisuhanta po capaca aschano señ guta huachunta
+     po hatano callacaso hanta kiguri hanigopa casna ehe cahu cohuacasna hamp.
+     Kaa gamenke ehe hesuma.
+     Señ guta camen sen tanta, señ hochahe pampache sumao kiguiri
+     señ, señ guta huchachas keno gata pampachanganch cagu. 
+     Ama ehe acrosuma huchaguta señ hotonavà enahata entonana keipina sumau."
+bibliography:
+  - title: Note on the Puquina Language of Peru
+    author: Daniel G. Brinton
+    year: 1890
+    publication: Proceedings of the American Philological Society, Vol. 28, No. 134
+    url: https://www.jstor.org/stable/983114
