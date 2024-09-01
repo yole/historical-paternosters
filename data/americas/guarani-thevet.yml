@@ -1,4 +1,4 @@
-language: Guaraní
+language: Tupi
 attestations:
   - book: Pantographia
     page: 200
@@ -32,7 +32,8 @@ attestations:
     page: 944
     description: en langue des Sauuages
 text:
-  "Ore rure ubacpé Ereico: Toicoap pavemgatu 
+  "Ore rure ubacpé Ereico.
+   Toicoap pavemgatu 
    aua ubu lagatou oquoauae charai b'amo
    derera reco. Oreroso leppé vuacpé. 
    Togemognanga deremipotare ubupé 
@@ -57,3 +58,19 @@ text_variants:
      ore suy. Emona."
 footnotes:
   1: "London, Pantographia: Epipotarume"
+bibliography:
+  - title: "Une oraison mobile: itinéraire d’un Notre Père en «langue des Sauvages»"
+    author: Fabien Simon
+    publication: Histoire Épistémologie Language 46-1
+    year: 2024
+    url: https://journals.openedition.org/hel/5128
+  - title: "A origem intelectual das orações em tupi de André Thevet e Yves d’Evreux (séculos XVI-XVII): algumas hipóteses"
+    author: Maria Cândida Drumond Mendes Barros
+    publication: Revista de Estudos da Linguagem, Vol. 10 No. 1
+    year: 2002
+    url: http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/2335
+  - title: "«Tupi or not guarani». Les Notre Père des XVIe-XVIIe siècles"
+    author: Capucine Boidin, Cândida Barros et Ruth Monserrat
+    publication: Histoire Épistémologie Language 46-1
+    year: 2024
+    url: https://journals.openedition.org/hel/4833

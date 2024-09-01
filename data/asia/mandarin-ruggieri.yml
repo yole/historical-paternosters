@@ -40,6 +40,11 @@ footnotes:
   6: "Pantographia: the second 'ngo' is omitted"
   7: "Pantographia: fa"
 notes:
-  I couldn't verify this, but apparently this text comes from
-  [Michele Ruggieri](https://en.wikipedia.org/wiki/Michele_Ruggieri)'s
+  This text comes from [Michele Ruggieri](https://en.wikipedia.org/wiki/Michele_Ruggieri)'s
   [catechism](https://archive.org/details/JSI190) first published in 1584.
+bibliography:
+  - title: East Asian languages in Lord’s Prayer collections, ca. 1600–1900
+    author: Sven Osterkamp
+    year: 2024
+    publication: Histoire Épistémologie Language 46-1
+    url: https://journals.openedition.org/hel/5015

@@ -53,7 +53,8 @@ The following references cover the phenomenon of Lord's Prayer collections in ge
    Frank Büttner, Markus Friedrich, Helmut Zedelmaier (eds.) Lit Verlag Münster
  * Trabant, Jürgen (1998): [Mithridates: De Gesner jusqu'à Adelung et Vater](https://www.jstor.org/stable/27758558). 
    In: Cahiers Ferdinand de Saussure, No. 51, pp. 95-111.
-
+ * Michail Sergeev et Toon Van Hal, «[Un spécimen qui parle de lui-même: les fonctions des collections multilingues du Notre Père au XVIe siècle](http://journals.openedition.org/hel/5060)», 
+   Histoire Épistémologie Langage, 46-1 | 2024
 [//]: # (End of index.html)
 
 ### This Repository

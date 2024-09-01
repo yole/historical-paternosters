@@ -1,0 +1,23 @@
+language: Bisayan
+attestations:
+  - book: Hervas
+    page: 129
+    number: 58
+    description: Bisaya
+text:
+  "{Amahan namu:Padre di-noi} {nga itotat ca:che sei tu} {sa langit:in cielo}.
+   {Ipapagdayet:lodato-sia} {an imong ngalan:il tuo nome}.
+   {Moanhi canamun:venga a-noi} {an imong pagcahadi:il tuo regno}.
+   {Tumanun:adempito-sia} {an imong buot:il tuo volere} {dinhi sa yuta:quì in terra} {maingun sa langit:come in cielo}.
+   {Ihatag:dato-sia} {mo damun:da-te a-noi} {an canun namum:il riso nostro} {sa matagarlao:in ogni-giorno}.
+   {Ug pauadun:e perdonati-siamo} {mo cami:da-te noi} {san mga-sala namu:i peccati nostri} 
+   {maingun ginuara namun:come perdonati-sono da-noi} {san mga-nacasala damun: coloro, che peccano contro-di-noi}.
+   {Ngan diri imo:e non da-te} {tugotan:permesso-sia} {cami maholog:noi cadere} {sa manga-pahulai:nelle-tentazioni}
+   {sa amun manga-caauai:da'nostri nemici}. {Apan bauiun:'anzi liberati-siamo} {mo cami:da-te noi} 
+   {sa manga-maraut ngatanan:da mali tutti}."
+bibliography:
+  - title: The languages of the Philippines in the works of Lorenzo Hervás y Panduro (1735-1809)
+    author: Mara Fuertes Gutiérrez
+    year: 2013
+    publication: Cuaderno Internacional de Estudios Humanísticos y Literatura (CIEHL) 19
+    url: https://dialnet.unirioja.es/descarga/articulo/6251099.pdf

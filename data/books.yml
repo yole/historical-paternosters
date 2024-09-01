@@ -254,6 +254,16 @@ books:
       year: 2019
       publication: Conrad Gessner (1516–1565). De Gruyter Oldenburg, 2019.
       url: https://www.degruyter.com/document/doi/10.1515/9783110499056-028/html
+    - title: "Le Notre Père est-il un bon échantillon linguistique? (d’après le Mithridates de Conrad Gessner)"
+      author: Bernard Colombat
+      year: 2024
+      publication: Histoire Épistémologie Language 46-1
+      url: https://journals.openedition.org/hel/4978
+    - title: L’accès aux langues pérégrines dans le Mithridate de Conrad Gessner
+      author: Bernard Colombat
+      year: 2008
+      publication: Histoire Épistémologie Language 30-2
+      url: https://www.persee.fr/doc/hel_0750-8069_2008_num_30_2_3167
 
 - title: Leizarraga
   full_title: Iesus Christ Gure Iaunaren Testamentu Berria
@@ -327,6 +337,16 @@ books:
   author: Lorenzo Hervás
   author_url: https://en.wikipedia.org/wiki/Lorenzo_Hervás
   type: collection
+  bibliography:
+    - title: "Lo que se sabe de Hervás: ideas lingüísticas, errores y revitalización de su figura en el marco de la historiografía lingüística"
+      author: Mara Fuertes Gutiérrez
+      publication: Estudios de lingüística del español, Vol. 36
+      year: 2015
+      url: https://www.raco.cat/index.php/Elies/article/view/292694
+    - title: Morphosyntactic Analysis of Exotic Languages in Lorenzo Hervás
+      author: Manuel Breva-Calamonte
+      year: 1996
+      publication: "History of Linguistics 1996, Volume 1: Traditions in Linguistics Worldwide"
 
 - title: Adelung Part 1
   full_title: Mithridates, oder allgemeine Sprachenkunde. Erster Theil

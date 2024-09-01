@@ -70,7 +70,7 @@ languages:
 - name: Mohawk
   family: Iroquoian
   url: https://en.wikipedia.org/wiki/Mohawk_language
-- name: Guaraní
+- name: Tupi
   family: Tupian
   url: https://en.wikipedia.org/wiki/Guarani_language
 - name: Portuguese
@@ -278,3 +278,9 @@ languages:
 - name: Omagua
   family: Tupian
   url: https://en.wikipedia.org/wiki/Omagua_language
+- name: Tagalog
+  family: Austronesian
+  url: https://en.wikipedia.org/wiki/Tagalog_language
+- name: Bisayan
+  family: Austronesian
+  url: https://en.wikipedia.org/wiki/Bisayan_languages

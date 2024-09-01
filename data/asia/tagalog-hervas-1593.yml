@@ -1,0 +1,21 @@
+language: Tagalog
+attestations:
+  - book: Hervas
+    page: 129
+    number: 57
+    description: Lingua Tagala dell'anno 1593
+text:
+  "Ama namin nasa langit ca.
+   Ipasamba mo ang ngalan mo.
+   Mouisaamin ang pagcahari mo.
+   Ipasonor mo ang loob mo, dito salupa paran sa langit.
+   Bigian mo cami ngaion nangamin cacanin para nang sa arao.
+   At pacavalin mo ang amin casalanan, yaiang vinavalan bahala namin sa loob ang casanan 
+   nang nagcasasa sa amin.
+   Houag mo caming auan nang di cami matalo nang tocso."
+bibliography:
+  - title: The languages of the Philippines in the works of Lorenzo Hervás y Panduro (1735-1809)
+    author: Mara Fuertes Gutiérrez
+    year: 2013
+    publication: Cuaderno Internacional de Estudios Humanísticos y Literatura (CIEHL) 19
+    url: https://dialnet.unirioja.es/descarga/articulo/6251099.pdf

@@ -1,0 +1,24 @@
+language: Tagalog
+attestations:
+  - book: Hervas
+    page: 128
+    number: 56
+    description: Lingua Tagala
+text:
+  "{Ama namin:Padre nostro} {sungmasalangit ca:sei-in-cielo-tu}.
+   {Sambahin:adorato-sia} {ang gnalan mo:il nome tuo}.
+   {Mapa sa amin:venga a noi} {ang caharìan mo:il regno tuo}.
+   {Sundin:seguitisi} {ang loob mo:la volontà tua} {dito sa lupa:quì in terra} {para nang:così come} {sá langit:in cielo}.
+  {Bigian mo camin:siamo-dati da-te noi} {ngai-on:adesso} {nang aming canin:il nostro riso}
+  {sa arao-arao:di giorno-giorno}.
+  {Et patauarin:e perdonati-siamo} {mo cami:da-te noi} {nang aming manga-otang:di nostri delitti}
+  {para nang:così come} {pagpatavvad namin:perdonati-sono-da-noi}
+  {sa nangagcacaotan sa amin:quelli, che hanno debiti a noi}.
+  {At huuag mo caming:e non-lasci tu noi} {ipahintolot sa tocso:cader in tentazione}.
+  {At yadiamo cami:e liberati siamo-da-te noi} {sa dilan masama:da tutto mal}."
+bibliography:
+  - title: The languages of the Philippines in the works of Lorenzo Hervás y Panduro (1735-1809)
+    author: Mara Fuertes Gutiérrez
+    year: 2013
+    publication: Cuaderno Internacional de Estudios Humanísticos y Literatura (CIEHL) 19
+    url: https://dialnet.unirioja.es/descarga/articulo/6251099.pdf
