@@ -1,0 +1,22 @@
+language: Albanian
+attestations:
+  - book: Hervas
+    page: 188
+    number: 187
+    description: Greca Calabrese
+text:
+  "{Tatta-in:padre nostro} {cue jè nue kielue:che sei nei cieli}.
+   {Clot beccuar:sia santo} {embri iti:nome tuo}.
+   {Büe tue rignueme:e tuo regno} {due parraisue:ci venga}.
+   {Clot buerue:sia fatta} {sido ti:Volontà tua}, {kue stu due kielue:come in cielo}, {si due prue de:così e in terra}.
+   {Venna buccuenue:dà-ci pane nostro} {ga ditta:oggi giorno}.
+   {E duellennue:e perdonaci} {si né:come noi} {duellennemue:perdoniamo} {nuemickitue tonna:nemici nostri}.
+   {E bue tue mosue vemmi:e non lasci indur} {nue dozue tue palicudue:noi in tentazione}.
+   {E tue mosue:e tu facci} {chemmi kueki:liberare male}.
+   {E clot astu:e sia cosi}."
+bibliography:
+  - title: Testi Albanesi di Calabria e di Sicilia nelle Opere di Hervás y Panduro
+    author: Francesco Altimari
+    year: 2014
+    publication: Studia Linguistica Italo-Albanica
+    url: https://ashak.org/wp-content/uploads/2022/04/Studia_Lingustica_Italo-Albanica_Final_16.11.2014_851008.pdf#page=145

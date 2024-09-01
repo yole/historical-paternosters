@@ -1,0 +1,22 @@
+language: Albanian
+attestations:
+  - book: Hervas
+    page: 187
+    number: 186
+    description: Greca-Siciliana
+text:
+  "{Tata ghinë:padre nostro} {cë jee:che sei} {në chiex:in cieli}.
+   {Schetruarë clost:santificato sia} {embri ghit:nome tuo}.
+   {Jar:venga} {reghria jòte:regno tuo}.
+   {Bûrë clost:fatta sia} {vulema jòte:volontà tua} {astu në chiext:come in cielo}, {si në dee:cosi in terra}.
+   {Bucnë tënë:pane nostro} {të-discmen:dà} {emna sòt:a noi oggi}.
+   {E ndiena:e perdona} {mcatëtë tona:debiti nostri}, {si na:come noi} {ndicgnëmi:perdoniamo} {armikete tënë:debitori nostri}.
+   {Etë mòj:e non} {bieme:indurre} {ën pirasmô:in tentazione}.
+   {Ma lirona:ma liberaci} {caa ghiet eliga:dal male}.
+   {Astu clost:cosi sia}."
+bibliography:
+  - title: Testi Albanesi di Calabria e di Sicilia nelle Opere di Hervás y Panduro
+    author: Francesco Altimari
+    year: 2014
+    publication: Studia Linguistica Italo-Albanica
+    url: https://ashak.org/wp-content/uploads/2022/04/Studia_Lingustica_Italo-Albanica_Final_16.11.2014_851008.pdf#page=145
