@@ -467,11 +467,13 @@ fun parseInlineGlosses(text: String): List<GlossedTextWord> {
         if (bracePos == text.length) break
         val braceEndPos = text.indexOf('}', bracePos + 1).takeIf { it > 0 } ?: text.length
         val colonPos = text.indexOf(':', bracePos + 1)
-        if (colonPos >= 0) {
+        if (colonPos >= 0 && colonPos < braceEndPos) {
             result.add(GlossedTextWord(text.substring(bracePos + 1, colonPos), text.substring(colonPos + 1, braceEndPos)))
         }
         else {
-            result.add(GlossedTextWord(text.substring(bracePos + 1, braceEndPos), ""))
+            val original = text.substring(bracePos + 1, braceEndPos)
+            println("Gloss without definition: $original")
+            result.add(GlossedTextWord(original, ""))
         }
         pos = braceEndPos + 1
     }
