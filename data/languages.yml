@@ -289,3 +289,5 @@ languages:
 - name: Maltese
   url: https://en.wikipedia.org/wiki/Maltese_language
   family: Afro-Asiatic/Semitic
+- name: Mayna
+  url: https://en.wikipedia.org/wiki/Maynas_language

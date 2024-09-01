@@ -1,0 +1,23 @@
+language: Mayna
+attestations:
+  - book: Hervas
+    page: 94
+    number: 9
+    description: Lingua detta di Cerros, cioè di Mainas
+text:
+  "{Papampoa:padre-nostro} {ya-uranso:stante} {inapake:cielo-in}.
+   {Apurìnen kema:nome tuo} {mucharinso-ni:riverito-sia}.
+   {Kema inapa:tuo cielo} {keyavei:da-ci}.
+   {Kema lovanturanso:tuo volere} {lelinso-ni:fatto-sia}
+   {mompuye:così-come} {inapake:cielo-in}, {napupintinati:così-ancora} {isse-ke-nta:terra-in-ancora}.
+   {Cussaru-mpoa:cibo-nostro} {taveri rosa nanni:giorni di tutti} {ketuke ipure:dà-ci-adesso}.
+   {Huchampo-anta:colpe-nostre-ancora} {anisakе:perdona-ci} {mompupe:così-come} {campo-anta:a-noi-ancora}
+   {aloyotupe:offendono} {saya-pita:coloro-che} {anisere:perdoniamo} {campo-anta:noi-ancora}.
+   {Co apukesoe:non cadiamo} {tentacioneke:tentazione-in} {co anotаkeve:non ci-lasci}.
+   {Tna-kera:dopo-ciò} {ateeke:libera-ci} {campu:noi} {kera co:ciò non} {loyave pita:buono che}."
+bibliography:
+  - title: Mayna, the lost Kawapanan language
+    author: Luis Miguel Rojas-Berscia
+    year: 2015
+    publication: LIAMES 15(2)
+    url: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2237461
