@@ -286,3 +286,6 @@ languages:
   url: https://en.wikipedia.org/wiki/Bisayan_languages
 - name: Puquina
   url: https://en.wikipedia.org/wiki/Puquina_language
+- name: Maltese
+  url: https://en.wikipedia.org/wiki/Maltese_language
+  family: Afro-Asiatic/Semitic

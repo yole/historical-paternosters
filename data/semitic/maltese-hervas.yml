@@ -1,0 +1,20 @@
+language: Maltese
+attestations:
+  - book: Hervas
+    page: 178
+    number: 173
+    description: Punico-Maltese
+text:
+  "Missierna li inti ph'ismezijet:
+   icun imkades lijem tihech:
+   tigi issaltna: icun mahmul dach li trit,
+   kiph ph'issema u hhecda phlart. 
+   Hhobjna ta kuglium atihhuna ilum. 
+   Ahhfrinna min dnubietna, phha l'ahhna nahhfru min hhata halina. 
+   U'giahinniy nachhuji tentazioni.
+   Ma harisna min kul deni."
+bibliography:
+  - title: "II-Pater Noster bl-lisien Malti: Storja Lingwistika"
+    author: Mario Cassar
+    year: 2013
+    url: https://www.academia.edu/download/65712896/2013.pdf
