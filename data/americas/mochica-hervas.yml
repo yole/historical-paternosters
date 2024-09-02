@@ -1,0 +1,20 @@
+language: Mochica
+attestations:
+  - book: Hervas
+    page: 93
+    number: 8
+    description: Mochica di Yuncas, detta ancora di Yungas
+text:
+  "Muchef, acazloo cuzianguic.
+   Zunk oc licum apmucha, Piican ñof zungcuzias.
+   Eyipmang zung polengmun mo uzicapuc cuzianguic mun.
+   Ayoineng inengo much sollon piicam ñof allò molun.
+   Ef kecan ñof ixllis acan mux efcò, xllang museyo much ziomun.
+   Amus tocum ñof xllamgmuse iz puzerenic namnum.
+   Lesnam efcò ñof pissin kich."
+bibliography:
+  - title: El Padre Nuestro en la lengua mochica
+    author: José Antonio Salas García
+    year: 2011
+    publication: Boletín de la Academia Peruana de la Lengua
+    url: https://revistas.apl.org.pe/index.php/boletinapl/article/view/647

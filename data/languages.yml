@@ -294,3 +294,5 @@ languages:
 - name: Otomi
   family: Oto-Manguean
   url: https://en.wikipedia.org/wiki/Otomi_language
+- name: Mochica
+  url: https://en.wikipedia.org/wiki/Mochica_language
