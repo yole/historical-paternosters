@@ -1,0 +1,24 @@
+language: Otomi
+attestations:
+  - book: Hervas
+    page: 119
+    number: 38
+    description: Otomita
+text:
+  "{Mahteihe:Mio-Padre-nostro}, {cokibv'yi:tu-che-sei} {ampo mahêtzi:dentro de' cieli}.
+   {Tanęmanho:sia-nominato-bene} {nv'ca ni thv'hv':quel-che-è tuo-nome}.
+   {Dobòehê:ci-venga} {nv'ca ni-nayâ:quel-che-è-tuo-regno}.
+   {Todichhâ:si-faccia} {nukhua ximòhòi:quì in-terra} {nv'ca ni-nè:quella-cbe-è-tua volontà},
+   {têngv:come} {cahpidichà:là-si-fa} {nvnv màhetzi:là-in-cielo}. 
+   {Tamèdàcahe:ci-sia-dato} {nvca mamèhe:quel-che-è nostro-pane} {ammapòtho:di-ogni-giorno}.
+   {Tame'pvnno'cahe:ci-sia-perdonato-a-noi} {nv'camatzòhkihe:quello-che-sono-peccati-nostri},
+   {nvbvcakengv':così-e-come} {tacapvnnabocahe:ora-perdoniamo-noi} {nocopitzoco'cahe:a-coloro-che-macchiarono-noi}.
+   {Yokihekikihe:deh!-non-lasciar--noi} {cvhtzôhe:cadere} {ayotzohki:in-tentazione}.
+   {Damipve'cahe:ma-libera-ci} {anihirokihe:dallo-non-buono}.
+   {Tengvtadichha:così-faccia-si}."
+bibliography:
+  - title: Otomí-Grammatik
+    author: Klaus Zimmerman
+    publication: Wilhelm von Humboldt - Mittelamerikanische Grammatiken
+    year: 2011
+    url: https://brill.com/display/book/edcoll/9783657739899/BP000006.xml

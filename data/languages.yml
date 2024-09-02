@@ -291,3 +291,6 @@ languages:
   family: Afro-Asiatic/Semitic
 - name: Mayna
   url: https://en.wikipedia.org/wiki/Maynas_language
+- name: Otomi
+  family: Oto-Manguean
+  url: https://en.wikipedia.org/wiki/Otomi_language
