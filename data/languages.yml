@@ -296,3 +296,5 @@ languages:
   url: https://en.wikipedia.org/wiki/Otomi_language
 - name: Mochica
   url: https://en.wikipedia.org/wiki/Mochica_language
+- name: Betoi
+  url: https://en.wikipedia.org/wiki/Betoi_language
