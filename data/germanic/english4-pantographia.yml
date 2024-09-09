@@ -1,4 +1,4 @@
-language: English
+language: Middle English
 attestations:
   - book: Pantographia
     page: 64
@@ -40,3 +40,6 @@ text_variants:
     Als we forgive till ur detturs
     And ledde us in na fanding
     Bot sculd us fra ivel thing.
+notes:
+  This version is part of the [Cursor Mundi](https://en.wikipedia.org/wiki/Cursor_Mundi) poem, 
+  published by the Early English Text Society, [volume 3, page 1436](https://archive.org/details/cursormundithecu03morr/page/1436/mode/1up).
