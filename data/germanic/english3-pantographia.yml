@@ -1,4 +1,4 @@
-language: English
+language: Middle English
 attestations:
   - book: Pantographia
     page: 64
@@ -81,3 +81,6 @@ text_variants:
     Ne let ous fall into no founding,
     Ne sheld ous fro the foule thing. Amen.
 poetry: true
+notes:
+  This version comes from MS Harley No. 3724, fol. 44, dated to the 13th century, currently in the British Library.
+  The text from the MS is published in [Reliquiae Antiquae](https://archive.org/details/reliquiaeantiqua01wriguoft), p. 57.
