@@ -194,6 +194,10 @@ books:
   url: https://books.google.com/books?id=G3JOAAAAcAAJ
   author: Sebastian Münster
   author_url: https://en.wikipedia.org/wiki/Sebastian_M%C3%BCnster
+  bibliography:
+    - title: "The Cosmographia of Sebastian Münster: Describing the World in the Reformation"
+      author: Matthew McLean
+      year: 2007
 
 - title: De Lingua Getarum
   full_title: "De literis & lingua Getarum, sive Gothorum: Quibus accesserunt specimina variarum lingiarum"
