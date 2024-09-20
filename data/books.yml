@@ -17,6 +17,11 @@ books:
   author: M. Claude Duret
   author_url: https://en.wikipedia.org/wiki/Claude_Duret
   type: collection
+  bibliography:
+    - title: "Collecting Languages, Alphabets and Texts: The Circulation of 'Parts of Texts' Among Paper Cabinets of Linguistic Curiosities"
+      author: Fabien Simon
+      year: 2018
+      publication: Pieces and Parts in Scientific Texts, ed. Florence Bretelle-Establet, and Stéphane Schmitt, Springer
 
 - title: Wilkins
   full_title:
