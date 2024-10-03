@@ -146,8 +146,12 @@ class Specimen {
     val outPath: String
         get() = "$path.html"
 
+    val glossedTextWords: List<GlossedTextWord> by lazy {
+        parseInlineGlosses(text!!)
+    }
+
     val snippet: String
-        get() = parseInlineGlosses(text!!).take(5).joinToString(" ") { it.original }
+        get() = glossedTextWords.take(5).joinToString(" ") { it.original }
 
     val earliestAttestation: Attestation
         get() = attestations.sortedBy { it.bookRef?.year ?: Int.MAX_VALUE }.first()
@@ -393,7 +397,7 @@ fun compareVariants(specimen: Specimen) {
         footnotes.find { it.wordIndex == footnoteTargetWord }
             ?: FootnoteData(footnoteTargetWord).also { footnotes.add(it) }
 
-    val baseWords = parseInlineGlosses(specimen.text!!)
+    val baseWords = specimen.glossedTextWords
     val baseWordTexts = baseWords.map { it.original }
 
     for (textVariant in specimen.text_variants) {
@@ -518,7 +522,7 @@ fun generateSpecimen(paternosters: Paternosters, specimen: Specimen, path: Strin
         }
     }
     if (specimen.glossedText == null) {
-        specimen.glossedText = formatInlineGlosses(parseInlineGlosses(specimen.text!!), specimen.poetry == true)
+        specimen.glossedText = formatInlineGlosses(specimen.glossedTextWords, specimen.poetry == true)
     }
 
     val template = Velocity.getTemplate("specimen.vm")
