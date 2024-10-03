@@ -14,6 +14,10 @@ attestations:
     page: 38
     description: Biscaina, sive Cantabrica
     source: Wilk. n. 45. Conf. Meg. 31. Reut. n. 20.
+  - book: Müller
+    page: 37
+    description: Biscaina
+    source: Wilk. n. 45. Conf. Meg. 31. Reut. n. 20.
   - book: Leizarraga
     page: 10
   - book: Hervas

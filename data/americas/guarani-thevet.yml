@@ -8,6 +8,10 @@ attestations:
     page: 61
     description: Mexicana
     source: Meg. n. 47. Conf. Dur. p. 944. Pist. n. 38
+  - book: Müller
+    page: 59
+    description: Mexicana
+    source: Meg. n. 47. Conf. Dur. p. 944. Pist. n. 38
   - book: Megiser
     number: 47
     description: Americanorum silvestrium Lingua

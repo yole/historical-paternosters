@@ -8,6 +8,10 @@ attestations:
     page: 48
     description: Norwegica
     source: Micr. p. 124.
+  - book: Müller
+    page: 47
+    description: Norwegica
+    source: Micr. p. 124.
   - book: Micraelius
     page: 77
     description: Norwegisch
@@ -25,13 +29,11 @@ attestations:
     number: 236
     description: Norvegese
 text:
-  "Wor fader du som est y himmelen, gehailiget
-   worde dit nafn; tilkomma os riga dit, din wilia
-   geskia paa jorden, som handt er udi himmelen:
-   giff os y tag wort dagliga brouta; och
+  "Wor fader du som est y himmelen. Gehailiget
+   worde dit nafn. Tilkomma os riga dit. Din wilia
+   geskia paa jorden, som handt er udi himmelen.
+   Giff os y tag wort dagliga brouta. Och
    forlaet os wort skioldt, som wy forlata wora
-   skioldonar: och lad os icke komma voi fristelse,
-   man frals os fra onet; thy rigit er dit,
-   macht, och kracht fra evighait til evighait.[1] Amen."
-footnotes:
-  1: "Pantographia: 'Amen' is cut off"
+   skioldonar. Och lad os icke komma voi fristelse.
+   Man frals os fra onet. Thy rigit er dit,
+   macht, och kracht fra evighait til evighait. Amen."

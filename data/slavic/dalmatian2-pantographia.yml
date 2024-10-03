@@ -17,6 +17,10 @@ attestations:
     page: 40
     description: Dalmatica
     source: Meg. n. 35. Conf. Pist. n. 26. Reut. n. 33. Wilk. n. 27.
+  - book: Müller
+    page: 53
+    description: Dalmatica
+    source: Meg. n. 35. Conf. Pist. n. 26. Reut. n. 33. Wilk. n. 27.
   - book: Hervas
     page: 167
     number: 133
@@ -27,7 +31,7 @@ text:
    tvoye. Pridi kralyesstvo tvoze. Budi volya
    tvoya: kako na nebu, tako ina zemlyi.
    Kruh nas ssvagdanyni day nam danass. Jod
-   pussti naam duge nase. Kako i my odpuschyamo
+   pussti naam duge nase, kako i my odpuschyamo
    duxnikom nassim. Ine naass uvedi u-napasst.
    Da osslobodi naas od assla. Amen."
 text_variants:

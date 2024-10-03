@@ -8,6 +8,10 @@ attestations:
     page: 24
     description: Slavonica, Charactere Cyrulico, s. Russica (Lectio)
     source: Wilk. n. 37. Conf. Meg. n. 34, Pist. n. 28, Reut. n. 42
+  - book: Müller
+    page: 51
+    description: Slavonica, Charactere Cyrulico, s. Russica (Lectio)
+    source: Wilk. n. 37. Conf. Meg. n. 34, Pist. n. 28, Reut. n. 42
   - book: Wilkins
     number: 37
     description: Russian
@@ -17,8 +21,8 @@ attestations:
     description: Russiana del 1581
 base: slavic/russian2-pantographia
 text:
-  "Oche nash izghae yease nanaebaesaegh, da sueatesa
-   ima tuoae, da predet tzaazstuia tuoae, da
+  "Oche nash izghae yease nanaebaesaegh. Da sueatesa
+   ima tuoae. Da predet tzaazstuia tuoae. Da
    boodet volya tuoya yaco na nebesae inazemle.
    Ghlceb nash nasou schneei dazgd nam dnaes.
    Jo staue nam dolghii nasha yaco imwee ostavelayem

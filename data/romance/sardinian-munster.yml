@@ -17,6 +17,10 @@ attestations:
     page: 37
     description: Sardica ut in Pagis
     source: Meg. n. 13. Conf. Gesn. l. c. Pist. n. 12. Reut. n. 13. Roch. n. 22. Stiernh. n. 7. Wilk. n. 15.
+  - book: Müller
+    page: 36
+    description: Sardica ut in Pagis
+    source: Meg. n. 13. Conf. Gesn. l. c. Pist. n. 12. Reut. n. 13. Roch. n. 22. Stiernh. n. 7. Wilk. n. 15.
   - book: Adelung Part 2
     page: 532
     number: 231

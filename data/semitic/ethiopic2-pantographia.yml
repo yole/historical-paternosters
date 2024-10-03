@@ -18,6 +18,10 @@ attestations:
     page: 14
     description: Aethopica
     source: J. Ludolf l.c. Conf. Crines. Babel. 7.8. G. p. 7 W. n. 5. P. 4. M. 4. D'Av. 521. Reut. n. 4
+  - book: Müller
+    page: 15
+    description: Aethopica
+    source: J. Ludolf l.c. Conf. Crines. Babel. 7.8. G. p. 7 W. n. 5. P. 4. M. 4. D'Av. 521. Reut. n. 4
   - book: Adelung Part 1
     page: 408
     number: 53
@@ -32,9 +36,7 @@ text:
   "Abuna xabashamajath. Yithkadash shimacha
    Thymtsa mangystcha. Yichun phachadacha.
    Bachama bashamai wabamdyrni. Shishajana
-   zalala ylathana habana yom. Hydyglana abashana[1]. 
+   zalala ylathana habana yom. Hydyglana abashana. 
    Chama nyhhnani nyhadyg laxa abasha
    lana. Waithabyana wysh tha manshuthi, ala
    adychnana balhhanana ymkulu ychui."
-footnotes:
-  1: "Pantographia: aba shana"

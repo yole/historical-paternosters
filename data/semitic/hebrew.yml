@@ -12,6 +12,9 @@ attestations:
   - book: London
     page: 9
     description: Hebraica
+  - book: Müller
+    page: 9
+    description: Hebraica
   - book: Chamberlayne
     page: 1
     description: Hebraice

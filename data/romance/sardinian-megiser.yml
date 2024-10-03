@@ -11,6 +11,10 @@ attestations:
     page: 37
     description: Sardica, ut in Oppidis loqu.
     source: Meg. n. 12. Conf. Gesn. f. 74 a. Pist. n. 10. Reut. n. 12. Roch. n. 21. Stiernh. n. 6.
+  - book: Müller
+    page: 35
+    description: Sardica, ut in Oppidis loqu.
+    source: Meg. n. 12. Conf. Gesn. f. 74 a. Pist. n. 10. Reut. n. 12. Roch. n. 21. Stiernh. n. 6.
   - book: Adelung Part 2
     page: 531
     number: 228
@@ -25,8 +29,8 @@ attestations:
     number: 277
     description: Sarda civile
 text:
-  "Pare nostru, qui istas in sos quelos, siat sanctificadu
-  su nomen teu: vengat à nois su regnu
+  "Pare nostru, qui istas in sos quelos. Siat sanctificadu
+  su nomen teu. Vengat à nois su regnu
   teu. Fasase sa voluntat tua, axicomen su
   quelu, gasi en la terra. Lo pa nostru de dognia
   die da nos hoc. I dexia à nos altres sos depitos

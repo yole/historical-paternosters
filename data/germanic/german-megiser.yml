@@ -14,6 +14,10 @@ attestations:
     page: 47
     description: Germanica Hodierna
     source: Catech. Luth. Tom. IV Altenb. p. 468. Conf. Dur. p. 868. Meg. n. 17. Pist. n. 15. Reut. n. 14. Roch. n. 10. Wilk. n. 17.
+  - book: Müller
+    page: 42
+    description: Germanica Hodierna
+    source: Catech. Luth. Tom. IV Altenb. p. 468. Conf. Dur. p. 868. Meg. n. 17. Pist. n. 15. Reut. n. 14. Roch. n. 10. Wilk. n. 17.
   - book: Adelung Part 2
     page: 285
     number: 177
@@ -23,7 +27,7 @@ attestations:
     description: Germanice, stylo Hodierno
     source: ex editionibus aliis
 text:
-  "Unser Vatter, der du bist im Himmel, geheiliget
+  "Unser Vatter, der du bist im Himmel. Geheiliget
    werd dein Nahm. Zukomm uns dein Reich.
    Dein Will geschehe, auff Erden wie im Himmel. 
    Unser tâglich Brodt gib uns heut.

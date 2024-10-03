@@ -7,6 +7,10 @@ attestations:
     page: 8
     description: Graeca Metrica
     source: Alex. Chodchievit. in Caton. Graeco Lat. Jon. Mylii
+  - book: Müller
+    page: 8
+    description: Graeca Metrica
+    source: Alex. Chodchievit. in Caton. Graeco Lat. Jon. Mylii
 text: |
   Ω Πάτερ βασιλεῦ πόλου καὶ ἄιης,
   Οσις ἡμετέρας κλύεις ἀοιδῆς,

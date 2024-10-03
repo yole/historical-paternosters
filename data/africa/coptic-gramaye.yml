@@ -8,6 +8,10 @@ attestations:
     page: 25
     description: Coptica quasi Antiqua
     source: Grammaye ap. D'Avity Afr. 297
+  - book: Müller
+    page: 29
+    description: Coptica quasi Antiqua
+    source: Grammaye ap. D'Avity Afr. 297
   - book: Gramaye Specimen
     page: 18
     description: Aegyptiaco & Nilotico sermone

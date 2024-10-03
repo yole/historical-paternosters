@@ -23,6 +23,10 @@ attestations:
     page: 34
     description: Italica
     source: Bibl. Giov. Diodat. Genev. 1607. Confer. Gesn. 64 a Meg. n. 9. Pist. n. 7. Roch. n. 2. Stiernh. n. 2. Reut. n. 8. Wilk. n. 12.
+  - book: Müller
+    page: 33
+    description: Italica
+    source: Bibl. Giov. Diodat. Genev. 1607. Confer. Gesn. 64 a Meg. n. 9. Pist. n. 7. Roch. n. 2. Stiernh. n. 2. Reut. n. 8. Wilk. n. 12.
   - book: Adelung Part 2
     page: 495
     number: 216

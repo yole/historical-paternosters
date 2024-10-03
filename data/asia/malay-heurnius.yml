@@ -20,6 +20,10 @@ attestations:
     page: 20
     description: Malaica
     source: N. Test. Mal. Ed. Oxon. 1677
+  - book: Müller
+    page: 22
+    description: Malaica
+    source: Evang. Matth. ex vers. Johan, van Hafel. Enkhus. 1629
   - book: Hervas
     page: 132
     number: 64

@@ -8,6 +8,9 @@ attestations:
     page: 31
     description: Gjorganica
     source: Magg. II. 137
+  - book: Müller
+    page: 21
+    description: Gjorganica
   - book: Adelung Part 1
     page: 434
     number: 61

@@ -8,6 +8,10 @@ attestations:
     page: 21
     description: Gothica
     source: N. Test. Goth. Stiernh. Lim. Gloss. Goth. Conf. Meg. n. 24. Pist. n. 22. Vulcan. de Lit. & Lingu. Get. p. 33 Reut. n. 22. T.S.E.R. p. 250
+  - book: Müller
+    page: 39
+    description: Gothica
+    source: N. Test. Goth. Stiernh. Lim. Gloss. Goth. Conf. Meg. n. 24. Pist. n. 22. Vulcan. de Lit. & Lingu. Get. p. 33 Reut. n. 22. T.S.E.R. p. 250
   - book: Wilkins
     number: 25
     description: Gothic
@@ -35,13 +39,13 @@ attestations:
     description: Gotica
 base: germanic/gothic
 text:
-  "Atta unsar thu in himinam; veihnai namo
-   thein; Quimai thiudinassus theins, vairthai
+  "Atta unsar thu in himinam. Veihnai namo
+   thein. Quimai thiudinassus theins. Vairthai
    vilja theins, sve in himina, jah ana airthai.
    Hlaif unsarana thana sinteinan gif uns himma daga.
    Jah aflet uns thatei sculans sijaima
-   swaswe jah veis afletam thaim skulam unsaraim;
-   jah ni briggais uns in fraistubnjai. Ak
+   swaswe jah veis afletam thaim skulam unsaraim.
+   Jah ni briggais uns in fraistubnjai. Ak
    lausei uns af thamma ubilin. Unte theina ist
    thiudangardi, jah mahts jah vulthus, in aivins. Amen"
 text_variants:

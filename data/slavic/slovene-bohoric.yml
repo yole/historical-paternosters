@@ -26,6 +26,10 @@ attestations:
     page: 41
     description: Servica
     source: Meg. n. 32. Conf. Wilk. n. 30.
+  - book: Müller
+    page: 54
+    description: Servica
+    source: Meg. n. 32. Conf. Wilk. n. 30.
   - book: Adelung Part 2
     page: 651
     number: 272

@@ -10,6 +10,12 @@ attestations:
     source:
       "Bibl. Polon. Dant. 1632. Conf. N.T. Polon. Thorun. 1585. Dur. p. 869. Gesn. p. 62. Meg. n. 37. Pist. n. 30.
        Reut. n. 29. Wilk. n. 34"
+  - book: Müller
+    page: 52
+    description: Polonica
+    source:
+      "Bibl. Polon. Dant. 1632. Conf. N.T. Polon. Thorun. 1585. Dur. p. 869. Gesn. p. 62. Meg. n. 37. Pist. n. 30.
+       Reut. n. 29. Wilk. n. 34"
   - book: Megiser
     number: 37
     description: Polonice

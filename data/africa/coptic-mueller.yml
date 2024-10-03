@@ -3,6 +3,9 @@ attestations:
   - book: London
     page: 13
     source: Andreas Müllerus Greiffenhagius, Epist. ad Job. Ludolphum. Conf. Wilkins n. 7
+  - book: Müller
+    page: 28
+    source: Andreas Müllerus Greiffenhagius, Epist. ad Job. Ludolphum. Conf. Wilkins n. 7
   - book: Adelung Part 3
     page: 94
     number: 341

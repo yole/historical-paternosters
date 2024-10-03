@@ -8,6 +8,10 @@ attestations:
     page: 12
     description: Syriaca, charactere vulgato
     source: Conf. Dur. p. 405, Gesn. p. 16 b, Meg. n. 2, Pist. n. 2, Reuter n. 2, Wilk. n. 4
+  - book: Müller
+    page: 12
+    description: Syriaca, charactere vulgato
+    source: Conf. Dur. p. 405, Gesn. p. 16 b, Meg. n. 2, Pist. n. 2, Reuter n. 2, Wilk. n. 4
   - book: Wilkins
     number: 4
     description: Syriac

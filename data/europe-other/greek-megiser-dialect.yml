@@ -6,6 +6,10 @@ attestations:
   - book: London
     page: 6
     description: Graeca è Dialectis Constructa
+  - book: Müller
+    page: 7
+    description: Graeca è Dialectis Constructa
+    source: Meg. n. 6
   - book: Chamberlayne
     page: 34
     description: Graece è dialectis constructa.

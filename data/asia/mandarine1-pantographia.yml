@@ -7,6 +7,9 @@ attestations:
   - book: London
     page: 30
     description: Mandarinica
+  - book: Müller
+    page: 26
+    description: Lectio Mandarinica
   - book: Hervas
     page: 133
     number: 67

@@ -8,6 +8,10 @@ attestations:
     page: 17
     description: Persica.
     source: Wilkins n. 41. Confer. Meg. num. 43
+  - book: Müller
+    page: 17
+    description: Persica.
+    source: Wilkins n. 41. Confer. Meg. num. 43
   - book: Wilkins
     number: 41
     description: Persian

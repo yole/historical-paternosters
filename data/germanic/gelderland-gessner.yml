@@ -8,6 +8,10 @@ attestations:
     page: 56
     description: Geldrica
     source: Meg. n. 21. Conf. Gesn. f. 49a. Pist. n. 18. Reut. n. 25
+  - book: Müller
+    page: 49
+    description: Geldrica
+    source: Meg. n. 21. Conf. Gesn. f. 49a. Pist. n. 18. Reut. n. 25
   - book: Megiser
     number: 21
     description: Geldrice
@@ -28,13 +32,13 @@ attestations:
     number: 204
     description: Geldrica
 text:
-  "Onse Vayer, die ghey seit in den hemel;
-   geheilicht[1] sey uwen naem; wu reyck ons toecoem,
-   uwen wil[2] geschie[3] up erden, als in den[4] hemel;
-   geeft[5] ons heuyē[6] ons daghelichs broot:
-   ende vergeeft[7] ons onse scult[8], als wey vergeven
-   onse sculdenaers[9]; ende enleyt ons niet[10]
-   in becoringhe[11]; sondern[12] verloest ons van allen
+  "Onse Vayer, die ghey seit in den hemel.
+   Geheilicht[1] sey uwen naem. Wu reyck ons toecoem.
+   Uwen wil[2] geschie[3] up erden, als in den[4] hemel.
+   Geeft[5] ons heuyē[6] ons daghelichs broot.
+   Ende vergeeft[7] ons onse scult[8], als wey vergeven
+   onse sculdenaers.[9] Ende enleyt ons niet[10]
+   in becoringhe.[11] Sondern[12] verloest ons van allen
    quaden. Amen."
 footnotes:
   1: "Megiser, London, Pantographia: geheylicht"

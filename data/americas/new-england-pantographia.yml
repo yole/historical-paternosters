@@ -19,6 +19,10 @@ attestations:
     page: 62
     description: Virginiana
     source: Wilk. n. 49. Conf. Bibl. Virgin. Cantabrig. Nov. Angl. 1663
+  - book: Müller
+    page: 60
+    description: Virginiana
+    source: Wilk. n. 49. Conf. Bibl. Virgin. Cantabrig. Nov. Angl. 1663
   - book: Eliot Indian Bible
   - book: Hervas
     page: 126

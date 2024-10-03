@@ -8,6 +8,10 @@ attestations:
     page: 32
     description: Madagascarica
     source: Sr. de Flacourt Hist. Madagasc. l. 47. Conf. Wilk. n. 47
+  - book: Müller
+    page: 31
+    description: Madagascarica
+    source: Sr. de Flacourt Hist. Madagasc. l. 47. Conf. Wilk. n. 47
   - book: Wilkins
     number: 47
     description: Madagascar

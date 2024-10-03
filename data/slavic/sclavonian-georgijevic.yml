@@ -8,6 +8,10 @@ attestations:
     page: 59
     description: Slavonica Charactere Hieronymiano (Lectio)
     source: Georgieviz. pag. 115. Conf. Dur. p. 744, Gesn. p. 62 a, Pist. n. 62, Reut. n. 28
+  - book: Müller
+    page: 50
+    description: Slavonica Charactere Hieronymiano (Lectio)
+    source: Georgieviz. pag. 115. Conf. Dur. p. 744, Gesn. p. 62 a, Pist. n. 62, Reut. n. 28
   - book: Valvasor
     page: 274
     number: 3

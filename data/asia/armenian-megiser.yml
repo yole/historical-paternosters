@@ -46,6 +46,9 @@ attestations:
     page: 172
     number: 175
     description: Armena Dialetto V
+  - book: Müller
+    page: 20
+    source: Dur. 727. Gesn. p. 11. a. Meg. n. 43. Pist. n. 36. Schildb. p. ult. Wilk. n. 40.
 base: asia/armenian
 text:
   "Hair mer or iercins des. Surb eglizzi anun

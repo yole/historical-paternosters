@@ -7,6 +7,9 @@ attestations:
   - book: London
     page: 11
     description: Chaldaica
+  - book: Müller
+    page: 11
+    description: Chaldaica
   - book: Adelung Part 1
     page: 374
     number: 46
@@ -19,11 +22,11 @@ attestations:
 text:
   "Abhouna debhischmaija. jithkaddasch schemach. 
    tethe malchouthach. jehěveh tsibhjanach
-   kma bhischmaija knema bh-ar-a; habh lan
-   lahhma dmissetana bhjoma; uschebuk lan
-   hhobai kma anan schbhakna lěhhaijabhai[1];
-   v’al thaǎlan lenissajona; ella phza jathan min
-   bischa; m’toul dědhilach itheh[2] malchutha vehhéla
+   kma bhischmaija knema bh-ar-a. habh lan
+   lahhma dmissetana bhjoma. Uschebuk lan
+   hhobai kma anan schbhakna lěhhaijabhai[1].
+   V’al thaǎlan lenissajona. Ella phza jathan min
+   bischa. M’toul dědhilach itheh[2] malchutha vehhéla
    vetheschbuhha l’a’lmin. Amen."
 footnotes:
   1: "Pantographia: běhhai jabhai"

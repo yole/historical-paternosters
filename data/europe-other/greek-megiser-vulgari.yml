@@ -10,6 +10,10 @@ attestations:
     page: 6
     description: Graeca Barbara
     source: Meg. n. 7.
+  - book: Müller
+    page: 7
+    description: Graeca Barbara
+    source: Meg. n. 7.
   - book: Adelung Part 2
     page: 447
     number: 210

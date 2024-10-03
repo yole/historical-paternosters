@@ -13,6 +13,12 @@ attestations:
     source:
       "Bibl. Belg. Lugd. de Anno 1639. Conf. Meg. n. 19. Pist. n. 17. 
        Reut. n. 24. TDER p. 258. Wilk. n. 20."
+  - book: Müller
+    page: 48
+    description: Belgica
+    source:
+      "Bibl. Belg. Lugd. de Anno 1639. Conf. Meg. n. 19. Pist. n. 17. 
+       Reut. n. 24. TDER p. 258. Wilk. n. 20."
   - book: Chamberlayne
     page: 66
     description: Belgice, Moderno stylo
@@ -22,14 +28,14 @@ attestations:
     number: 205
     description: Belgica
 text:
-  "Onse vader die in den hemelin sijt; uwen naem
+  "Onse vader die in den hemelin sijt. Uwen naem
    werde geheylight. Uw coninckrijcke icome.
    Uwen wille geschiede, gelijck in den hemel
    oockop der aerden. Ons daghelijcks broot
    gheeft ons heden. Ende vergheeft ons onse
    scoulden, gelijck vock wy vergheven onsen
    schuldenaren. Ende en leydtons nict in 
-   verweekinghe, naer verlost ons van den bosen."
+   verweekinghe. Naer verlost ons van den bosen."
 text_variants:
   Pantographia:
     "Onse vader die in den hemelin sijt; uwen naem

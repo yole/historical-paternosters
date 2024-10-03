@@ -17,6 +17,10 @@ attestations:
     page: 38
     description: Lusitanica
     source: Megis. n. 16. Conf. Pist. n. 13. Reut. n. 11. Roch. n. 18. Wilk. n. 10.
+  - book: Müller
+    page: 36
+    description: Lusitanica
+    source: Megis. n. 16. Conf. Pist. n. 13. Reut. n. 11. Roch. n. 18. Wilk. n. 10.
   - book: Adelung Part 2
     page: 556
     number: 241
@@ -30,13 +34,13 @@ attestations:
     number: 293
     description: Portoghese
 text:
-  "Padre nosso, que stas nos ceos, santificado seia
-   o teu nome. Venha à nos o teu reino, seja ferta
+  "Padre nosso, que stas nos ceos. Santificado seia
+   o teu nome. Venha à nos o teu reino. Seja ferta
    à tua vontade, assi nos ceos, come na terra.
    O pao nosso de cadadia, dano lo oie nesto
    dia. E perdoa nos sennor as nossas dividas,
    assi como nos perdoamos aos nossos dividores.
-   E nao nos dexes cahir in tentacao, mas libra
+   E nao nos dexes cahir in tentacao. Mas libra
    nos do mal. Amen."
 text_variants:
   Pantographia:

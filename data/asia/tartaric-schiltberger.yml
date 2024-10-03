@@ -19,6 +19,9 @@ attestations:
     number: 35
     description: Tatarisch
     source: Megiser Nr. 44
+  - book: Müller
+    page: 19
+    source: Schildb. p. ult. Conf. Meg. n. 44. Wilk. n. 38.
 diff: false
 text:
   "Atcha wyzom, hhy hokta sen algusch.

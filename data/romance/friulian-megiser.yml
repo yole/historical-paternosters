@@ -14,6 +14,10 @@ attestations:
     page: 35
     description: Forojuliana
     source: Meg. n. 11. Conf. Pist. n. 9. Wilk. n. 13
+  - book: Müller
+    page: 33
+    description: Forojuliana
+    source: Meg. n. 11. Conf. Pist. n. 9. Wilk. n. 13
   - book: Adelung Part 2
     page: 512
     number: 223
@@ -27,12 +31,12 @@ attestations:
     description: Forojuliane
     source: jam editiones aliae exhibent
 text:
-  "Pari nestri ch’ees in cijl, see santificaat lu to
-   nom; vigna lu to ream, see fatta la too voluntaat,
-   sich’ in cijl, et in tiarra: Da nus hu’el 
-   nestri pan cotidian; et perdoni nus glu
+  "Pari nestri ch’ees in cijl. See santificaat lu to
+   nom. Vigna lu to ream. See fatta la too voluntaat,
+   sich’ in cijl, et in tiarra. Da nus hu’el 
+   nestri pan cotidian. Et perdoni nus glu
    nestris debiz, sicu noo perduin agl nestris debetoors.
-   E no nus menaa in tentation; mà
+   E no nus menaa in tentation. Mà
    libora nus dal mal. Amen."
 text_variants:
   Wilkins:

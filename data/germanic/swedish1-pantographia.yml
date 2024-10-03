@@ -16,6 +16,12 @@ attestations:
     source:
       "Bibl. Svec. Stockholm. 1674. Conf. Dur. p. 869. Meg. n. 26. 
       Micr. p. 123. Munst. Cosmograph. IV 31. Pist. n. 21. Reut. n. 15. Wilk. n. 24"
+  - book: Müller
+    page: 47
+    description: Svecica
+    source:
+      "Bibl. Svec. Stockholm. 1674. Conf. Dur. p. 869. Meg. n. 26. 
+      Micr. p. 123. Munst. Cosmograph. IV 31. Pist. n. 21. Reut. n. 15. Wilk. n. 24"
   - book: Adelung Part 2
     page: 313
     number: 186
@@ -25,12 +31,12 @@ attestations:
     description: Suecice
     source: ex editins versionibus correcte descripsi
 text:
-  "Fadher war som est i himlom, helghat warde
+  "Fadher war som est i himlom. Helghat warde
    titt nampn. Tillkomme titt ricke. Skee tin wilie
    så lom i himmelen så ock på jordenne. Wart dagligha
    brod giff oss idagh. Och forlat oss wara
    skuld sa som ock wi forlate them oss skyldege 
-   aro. Och inleedh oss icke i frestelse; uthan
+   aro. Och inleedh oss icke i frestelse. Uthan
    frels oss i fra ondo."
 text_variants:
   Pantographia:

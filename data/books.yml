@@ -120,11 +120,12 @@ books:
   author_url: https://en.wikipedia.org/wiki/Johann_Weikhard_von_Valvasor
   image: herzogtum-crain.png
 
-- title: Oratio Orationum
+- title: Müller
   full_title: Oratio Orationum. SS. Orationis Dominicae Versiones praeter Authenticam fere Centum
   year: 1680
   url: https://books.google.com/books?id=slF_Cng8iwMC
   type: collection
+  author: Andreas Müller
 
 - title: Brand
   full_title: Reysen durch die Marck Brandenburg, Preussen, Churland, Liefland, Pleßcovien, Groß-Naugarden, Tweerien und Moscovien

@@ -8,6 +8,10 @@ attestations:
     page: 44
     description: Finnonica
     source: Micr. p. 124. Conf. Bibl. Finn. Math. Judic. Corpusc. Doctrin. Finn. Duret. p. 869. Meg. n. 41. Munst. Cosm. IV. 31. Pist. n. 34. Reut. n. 30
+  - book: Müller
+    page: 57
+    description: Finnonica
+    source: Micr. p. 124. Conf. Bibl. Finn. Math. Judic. Corpusc. Doctrin. Finn. Duret. p. 869. Meg. n. 41. Munst. Cosm. IV. 31. Pist. n. 34. Reut. n. 30
   - book: Micraelius
     page: 77
     description: Finnish
@@ -25,14 +29,14 @@ attestations:
     description: Finnice
     source: ex singlari favore amici harum linguarum peritissimi accepi
 text:
-  "Isa meiden joca olet taivvaisa, pyhittetty stolcon
-   sinum nymes; la he stulcon[1] sinum vvaldacunda,
-   olcon sinum tahtos nyen maasa cujnon
-   taivvas, anna meille tana paivvan; meiden
-   jo capaivvainen leipam: Ia anna meidan
+  "Isa meiden joca olet taivvaisa. Pyhittetty stolcon
+   sinum nymes. La he stulcon[1] sinum vvaldacunda.
+   Olcon sinum tahtos nyen maasa cujnon
+   taivvas. Anna meille tana paivvan meiden
+   jo capaivvainen leipam. Ia anna meidan
    vvelcamme andexi, ninquin me andexi anname
-   meiden vvelgolisten, ja ala johdata mei ta
-   kin sauxen; mutta paasta meita paastha, silla[2]
+   meiden vvelgolisten. Ja ala johdata mei ta
+   kin sauxen. Mutta paasta meita paastha. Silla[2]
    etta sinum on vvaldacunda, vvojma, ja cunnia,
    yancaieckisesto nyn yancaickisehen. Amen."
 footnotes:

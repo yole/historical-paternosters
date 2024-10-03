@@ -8,6 +8,10 @@ attestations:
     page: 42
     description: Livonica
     source: Meg. n. 39. Conf. Dur. p. 869. Munst. Chron. T. III c. 183 p. 1124. Pist. n. 32. Reut. n. 41. Wilk. n. 36
+  - book: Müller
+    page: 55
+    description: Livonica
+    source: Meg. n. 39. Conf. Dur. p. 869. Munst. Chron. T. III c. 183 p. 1124. Pist. n. 32. Reut. n. 41. Wilk. n. 36
   - book: Wilkins
     number: 36
     description: Livonian

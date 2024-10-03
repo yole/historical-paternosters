@@ -13,6 +13,10 @@ attestations:
     page: 204
     number: 242
     description: Irlandese
+  - book: Müller
+    page: 46
+    description: Hibernica
+    source: Wilk. n. 44. Conf. Gesn. praef. Mithr. ad Baldeum. N.T. Hibern. 1602 per Gr. Daniel. Meg. n. 30.  Pist. n. 33. Reut. n. 27
 text:
   "Air nathir ataigh air nin: nabz far hanimti.
    Tigiuh da riatiathe. Deantur da

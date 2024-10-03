@@ -4,6 +4,10 @@ attestations:
     page: 7
     description: Græca Barbara Alia
     source: Dan. Castribus M.S.
+  - book: Müller
+    page: 8
+    description: Græca Barbara Alia
+    source: Dan. Castribus M.S.
   - book: Chamberlayne
     page: 35
     description: <Græce Barbare> Aliter

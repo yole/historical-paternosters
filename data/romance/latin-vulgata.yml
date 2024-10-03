@@ -7,7 +7,11 @@ attestations:
   - book: London
     page: 33
     description: Latina
-    source: Vulgat. ex Ed. Sixti V. Papae Antwep 1603 p. 764. Conf. Meg. 8. Pist. 6. Reut. 7. Stiernh. n. ? Wilk. 8
+    source: Vulgat. ex Ed. Sixti V. Papae Antwep 1603 p. 764. Conf. Meg. 8. Pist. 6. Reut. 7. Stiernh. n. 1 Wilk. 8
+  - book: Müller
+    page: 32
+    description: Latina
+    source: Vulgat. ex Ed. Sixti V. Papae Antwep 1603 p. 764. Conf. Meg. 8. Pist. 6. Reut. 7. Stiernh. n. 1 Wilk. 8
   - book: Megiser
     description: Latine
     number: 8

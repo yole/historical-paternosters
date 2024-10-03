@@ -8,6 +8,10 @@ attestations:
     page: 25
     description: Angolana
     source: Grammaye ap. D'Avity Afr. p. 471
+  - book: Müller
+    page: 29
+    description: Angolana
+    source: Grammaye ap. D'Avity Afr. p. 471
   - book: Gramaye Specimen
     page: 23
     description: Aethopica

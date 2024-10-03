@@ -8,6 +8,10 @@ attestations:
     page: 47
     description: Helvetica
     source: Gesn. f. 42.a. & 46.a. Conf. Meg. n. 18. Pist. n. 16. T.D.C.R. p. 255
+  - book: Müller
+    page: 42
+    description: Helvetica
+    source: Gesn. f. 42.a. & 46.a. Conf. Meg. n. 18. Pist. n. 16. T.D.C.R. p. 255
   - book: Gessner
     page: 37
     description: in lingua Germanica communi, vel Helvetica

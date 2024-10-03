@@ -17,6 +17,10 @@ attestations:
     page: 5
     description: Orationis Dominicae Textus Authenticus
     source: Matth. VI 9 seqq. Edit Reg Antv. Conf. Gesn. f. 52. Meg. n. 5. Pist. n. 5. Reut. n. 5.
+  - book: Müller
+    page: 6
+    description: Orationis Dominicae Textus Authenticus
+    source: Matth. VI 9 seqq. Edit Reg Antv. Conf. Gesn. f. 52. Meg. n. 5. Pist. n. 5. Reut. n. 5.
   - book: Postel
     page: 52
     description: Graeca

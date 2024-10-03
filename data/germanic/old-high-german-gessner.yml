@@ -27,6 +27,10 @@ attestations:
     page: 189
     number: 188
     description: Germanica antica detta Alemanna del 870
+  - book: Müller
+    page: 40
+    description: Alemanica
+    source: Notker. Sangall. Conf. Gesn. p. 46a. Meg. n. 22. Pist. n. 19. Reut. n. 26. Wilk. n. 17.
 text:
   "Fater ünser, du in himele bist.
    Din namo werde geheiligot.

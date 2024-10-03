@@ -4,6 +4,10 @@ attestations:
     page: 46
     description: Germanica alia
     source: Bibl. Germ. de Anno 1494. Lubec.
+  - book: Müller
+    page: 41
+    description: Germanica alia
+    source: Bibl. Germ. de Anno 1494. Lubec.
   - book: Chamberlayne
     page: 64
     description: Germanice, alia dialecto

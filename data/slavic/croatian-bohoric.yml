@@ -21,6 +21,10 @@ attestations:
     page: 40
     description: Croatica
     source: Meg. n. 34. Conf. Pist. n. 38. Wilk. n. 29.
+  - book: Müller
+    page: 53
+    description: Croatica
+    source: Meg. n. 34. Conf. Pist. n. 38. Wilk. n. 29.
   - book: Adelung Part 2
     page: 651
     number: 273
@@ -36,7 +40,7 @@ text:
    Pridi cesarastvo tvuoe. Budi volia tvoja
    Jako na niebesih i na semlij. Hlib nash
    usagdanni dai nam danas. I odpusti nam dlgi
-   nashe. Iacoshe i mi odpushzhamo dlshnikom
+   nashe, iacoshe i mi odpushzhamo dlshnikom
    nashim. I nevavedi nas' v'napast. Naisvavi nas
    od neprijasnj. Iako tvoe je Cesarastvo, i mozh, 
    i slava, vaveki. Amen."

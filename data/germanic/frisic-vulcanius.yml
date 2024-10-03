@@ -14,7 +14,11 @@ attestations:
   - book: London
     page: 56
     description: Frisica
-    source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulo. p. 98.
+    source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulc. p. 98.
+  - book: Müller
+    page: 49
+    description: Frisica
+    source: Meg. n. 20. Conf. Micr. p. 124. Reut. n. 21. Wilk. n. 46. Vulc. p. 98.
   - book: Adelung Part 2
     page: 235
     number: 146
@@ -32,12 +36,12 @@ attestations:
     number: 200
     description: Frisica
 text:
-  "Ws Haita duu derstu biste yne hymil, dyn
-   name wird heiligt, dyn ryck to komme, dyn
+  "Ws Haita duu derstu biste yne hymil. Dyn
+   name wird heiligt. Dyn ryck to komme. Dyn
    wille moet schoen, opt yrtryck as yne hymil.
    Ws deilix bræ jov ws jwed. In verjou
    ws, ws schylden, as wy vejac ws schyldnirs.
-   In lied ws nact in versieking: Din fry ws
+   In lied ws nact in versieking. Din fry ws
    vin it quæd. Dan dyn is it ryck, de macht,
    in de heerlickheyt, yn yewicheyt. So mœttet wese."
 text_variants:

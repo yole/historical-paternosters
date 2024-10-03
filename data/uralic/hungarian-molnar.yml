@@ -8,6 +8,10 @@ attestations:
     page: 45
     description: Hungarica
     source: Albert. Molnar. Grammat. Ungar. p. 197. Conf. Gesn. f. 56.b. Meg. n. 40. Pist. n. 40. Reut. n. 36. Wilk. n. 28
+  - book: Müller
+    page: 58
+    description: Hungarica
+    source: Albert. Molnar. Grammat. Ungar. p. 197. Conf. Gesn. f. 56.b. Meg. n. 40. Pist. n. 40. Reut. n. 36. Wilk. n. 28
   - book: Wilkins
     number: 28
     description: Hungarian

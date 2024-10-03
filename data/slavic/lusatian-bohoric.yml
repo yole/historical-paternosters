@@ -8,6 +8,10 @@ attestations:
     page: 42
     description: Lusatica
     source: Meg. n. 38. Conf. Pist. n. 35. Reut. n. 35. Wilk. n. 33.
+  - book: Müller
+    page: 55
+    description: Lusatica
+    source: Meg. n. 38. Conf. Pist. n. 35. Reut. n. 35. Wilk. n. 33.
   - book: Valvasor
     page: 274
     number: 9
@@ -31,7 +35,7 @@ attestations:
     number: 140
     description: Dialetti Lusatici
 text:
-  "Wosch nasch, kensch sy nanebebu, wussweschone 
+  "Wosch nasch, kensch sy nanebebu. Wussweschone 
    bushy me twoye. Pshish knam krajlestwo
    twooo. So stany woli twoja, takhack nanebu,
    tak heu nasemy. Klib nasch shidni day

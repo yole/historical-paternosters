@@ -8,6 +8,10 @@ attestations:
     page: 43
     description: Lituanica
     source: Wilk. n. 35. Conf. Bibl. Lituan. Lond. 1660
+  - book: Müller
+    page: 56
+    description: Lituanica
+    source: Wilk. n. 35. Conf. Bibl. Lituan. Lond. 1660
   - book: Wilkins
     number: 35
     description: Lithuanian
@@ -21,13 +25,13 @@ attestations:
     description: Lingua Lituana
     source: nella Biblia Lituana stampata a Londra 1660
 text:
-  "Tewe musu kursey esi danguy, szweskis wardas
-   tawo. Ateyk karaliste tawo, buk walatawo
+  "Tewe musu kursey esi danguy. Szweskis wardas
+   tawo. Ateyk karaliste tawo. Buk walatawo
    kayp and dangaus teyp ir andziam es. Donos
    musu wisu dienu dok mumus szedien. Ir
    atlayisk mums musu kaltes kayp ir mes atlaydziam
    sawiemus kaltiemus. Ir newesk musu
-   ing pagundynima; bet giaf bekmus nog pikto.
+   ing pagundynima. Bet giaf bekmus nog pikto.
    Amen."
 text_variants:
   Pantographia:

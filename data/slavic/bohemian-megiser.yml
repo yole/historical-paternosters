@@ -7,6 +7,10 @@ attestations:
     page: 58
     description: Bohemica
     source: Meg. n. 36. Conf. Bibl. Bohem. 1596. 1613. Gesn. 61 b. Pist. n. 29. Reut. n. 30. Wilk. n. 32.
+  - book: Müller
+    page: 52
+    description: Bohemica
+    source: Meg. n. 36. Conf. Bibl. Bohem. 1596. 1613. Gesn. 61 b. Pist. n. 29. Reut. n. 30. Wilk. n. 32.
   - book: Chamberlayne
     page: 79
     description: Bohemice

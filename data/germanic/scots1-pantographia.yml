@@ -8,6 +8,10 @@ attestations:
     page: 55
     description: Scotica Meridionalis
     source: Meg. n. 28. Conf. Dur. p. 874, Pist. n. 23, Reut. n. 18
+  - book: Müller
+    page: 45
+    description: Scotica
+    source: Meg. n. 28. Conf. Dur. p. 874, Pist. n. 23, Reut. n. 18
   - book: Megiser
     number: 28
     description: Scotice
@@ -31,9 +35,9 @@ text:
   "Our fader, vhilk ar in hevin. Hallovit be thy
    name. Thy kingdon cum. Thy vil be doin in
    erth, as it is in hevin. Gif uss yijs day our daily
-   bred, and forgif us our sinnis, as we forgif
+   bred. And forgif us our sinnis, as we forgif
    them that sin agains us. Et led us not into
-   tentation: bot delyver us from evil. Amen."
+   tentation. Bot delyver us from evil. Amen."
 text_variants:
   Thevet Volume 2:
     "Our fader quihilk ar in heuvin. Hallouit be thy name.

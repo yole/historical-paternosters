@@ -8,6 +8,10 @@ attestations:
     page: 27
     description: Malabarica
     source: Baldeus introduct. in Ling. Malab. Belg. Amstelod.
+  - book: Müller
+    page: 23
+    description: Malabarica
+    source: Baldeus l.c.
   - book: Baldaeus
     page: 665
     description: Malabar

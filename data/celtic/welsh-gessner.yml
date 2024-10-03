@@ -8,6 +8,10 @@ attestations:
     page: 50
     description: Britannica Vetus.
     source: Meg. n. 29. Conf. Gesn. p. <?> Pist. n. 25
+  - book: Müller
+    page: 43
+    description: Britannica Vetus.
+    source: Meg. n. 29. Conf. Gesn. p. <?> Pist. n. 25
   - book: Megiser
     number: 29
     description: "Cambrice seu Anglo Saxonice: vel lingua Vallica & veteri Britannica"

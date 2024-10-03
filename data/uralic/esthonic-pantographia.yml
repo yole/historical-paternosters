@@ -8,6 +8,10 @@ attestations:
     page: 43
     description: Esthonica
     source: Henr. Stahlius Hand-Buch P. I. p. 4. Conf. Reut. n. 40
+  - book: Müller
+    page: 56
+    description: Esthonica
+    source: Henr. Stahlius Hand-Buch P. I. p. 4. Conf. Reut. n. 40
   - book: Stahl
     page: 25
   - book: Hervas
@@ -17,7 +21,7 @@ attestations:
     page: 85
     description: Esthonice
 text:
-  "Issa meddi ke sinna ollet Taiwas, pohitzetut
+  "Issa meddi ke sinna ollet Taiwas. Pohitzetut
    sakut sunno nimmi. Tulckut meile sunno rickus.
    Sunno tachtminne sundkut, kui Taiwas,
    ninda kahs mah pehl. Meddi iggapeiwase leiba

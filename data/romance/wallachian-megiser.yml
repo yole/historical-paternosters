@@ -11,6 +11,10 @@ attestations:
     page: 39
     description: Valachica
     source: Meg. 31. Conf. Wilk. 31.
+  - book: Müller
+    page: 38
+    description: Valachica
+    source: Meg. 31. Conf. Wilk. 31.
   - book: Adelung Part 2
     page: 736
     number: 313
@@ -21,8 +25,8 @@ attestations:
     number: 266
     description: Dialetti Valaki
 text:
-  "Tatal nostru, cineresti in ceriu,
-   sfincinschase numelle teu.
+  "Tatal nostru, cineresti in ceriu.
+   Sfincinschase numelle teu.
    Seuie imparacia ta.
    Suse fie voja ta
    cum in ceriu asa su prepo mortu.

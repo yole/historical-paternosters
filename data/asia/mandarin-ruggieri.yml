@@ -13,6 +13,9 @@ attestations:
   - book: London
     page: 30
     description: Mandarinica Alia
+  - book: Müller
+    page: 26
+    description: Mandarinica Alia
   - book: Hervas
     page: 133
     number: 66

@@ -4,6 +4,10 @@ attestations:
     page: 49
     description: Saxonica Antiqua
     source: Freber. Conf. Urs. Antiq. E. G. 133.
+  - book: Müller
+    page: 43
+    description: Saxonica Antiqua
+    source: Freber. Conf. Urs. Antiq. E. G. 133.
   - book: Adelung Part 2
     page: 332
     number: 194

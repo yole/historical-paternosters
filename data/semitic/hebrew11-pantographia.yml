@@ -8,16 +8,20 @@ attestations:
     page: 9
     description: Hebraica
     source: Dur. p. 405, Gesn. fol. 54, Reut. n. 1. M. 2. W. 2. P. 1.
+  - book: Müller
+    page: 9
+    description: Hebraica
+    source: M. 2. W. 2. P. 1.
   - book: Chamberlayne
     page: 1
     description: Hebraice Lectio
 text:
-  "Abhínu schebbaschschamájim; jikkadhésch
-   schemécha; tabhó malchutécha; jehí rezonechá
+  "Abhínu schebbaschschamájim. Jikkadhésch
+   schemécha. Tabhó malchutécha. Jehí rezonechá
    caaschér baschschamajim vechén baárez.
-   lachménu dhebhár jom bejomó then lánu hajjom;
-   uselách lánu eth chobhothénu caaschér
-   saláchnu lebhaalé chobhothénu; veál tebhiénu
-   lenissajón; ki-im hazzilénu merá; ki lecha
+   Lachménu dhebhár jom bejomó then lánu hajjom.
+   Uselách lánu eth chobhothénu caaschér
+   saláchnu lebhaalé chobhothénu. Veál tebhiénu
+   lenissajón. Ki-im hazzilénu merá. Ki lecha
    hamalchúth ughebhurá vechabódh leolám olamím.
    Amen."

@@ -8,6 +8,10 @@ attestations:
     page: 44
     description: Lapponica
     source: Meg. n. 41. Confer. Dur. p. 869. Pist. n. 34. Reut. n. 39. Wilk. n. 23
+  - book: Müller
+    page: 57
+    description: Lapponica
+    source: Meg. n. 41. Confer. Dur. p. 869. Pist. n. 34. Reut. n. 39. Wilk. n. 23
   - book: Wilkins
     number: 23
     description: Lappian

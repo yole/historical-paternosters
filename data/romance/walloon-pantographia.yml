@@ -8,6 +8,10 @@ attestations:
     page: 45
     description: Wallica
     source: "Stiernh. n. 8. Conf. Bibl. Wall. Lond. 1588. 1620. N. T. Wallic. Lond. 1567"
+  - book: Müller
+    page: 58
+    description: Wallica
+    source: "Stiernh. n. 8. Conf. Bibl. Wall. Lond. 1588. 1620. N. T. Wallic. Lond. 1567"
   - book: Adelung Part 2
     page: 734
     number: 310

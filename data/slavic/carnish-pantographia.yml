@@ -22,6 +22,10 @@ attestations:
     page: 41
     description: Carnorum
     source: Prim. Truber. Catech. p. 24. Meg. n. 33. Conf. Pist. n 27. Reut. n. 31. Wilk. n. 26.
+  - book: Müller
+    page: 54
+    description: Carnorum
+    source: Prim. Truber. Catech. p. 24. Meg. n. 33. Conf. Pist. n 27. Reut. n. 31. Wilk. n. 26.
   - book: Chamberlayne
     page: 81
     description: Carnice
@@ -33,9 +37,9 @@ attestations:
 text:
   "Ozha nash kir si v’nebesih. Posvezhénu bodi
    jimé tvoje. Pridi k’nam kraylestvu tvoje. S’idise
-   volja tvoja. Kakor nanebi taku nasemlji.
+   volja tvoja, kakor nanebi taku nasemlji.
    Kruh nash v'sakdainji daj nam dones. Inu
-   odpusti nam dulge nashe. Kakor tudi mi odpustimo
+   odpusti nam dulge nashe, kakor tudi mi odpustimo
    dulshnikom nashim. Inu neupelaj
    nas v’iskushno. Tamazh reshi nass od slega.
    Sakaj tvoje je krajlestvu, muzh, zhast vekoma. Amen."
