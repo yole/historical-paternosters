@@ -11,8 +11,11 @@ attestations:
     number: 229
     description: Sardinisch in den Städten
     source: Aus Gesners Mithridates, S. 66, und Duret Thresor, S. 818
+  - book: Stiernhielm
+    page: 58
+    description: Sardica
 text:
-  "Pare nostre che ses en loscels, sia santificat lo
+  "Pare nostre che ses en loscels. Sia santificat lo
   nom teu. Venga lo regne teu. Fasase la uoluntat tua,
   axicom en lo cel, i en la terra. Lo pa nostre
   cotidia dona anosaltres hui. I dexia anosaltres

@@ -484,3 +484,10 @@ books:
   url: https://books.google.com/books?id=wzdqVUKOFEgC
   year: 1607
   author: Luis Jerónimo
+
+- title: Stiernhielm
+  full_title: Evangelia Ab Ulfila Gothorum in Moesia Episcopo
+  url: https://books.google.com/books?id=Ar9IAAAAcAAJ
+  year: 1671
+  author: Georg Stiernhielm
+  author_url: https://en.wikipedia.org/wiki/Georg_Stiernhielm

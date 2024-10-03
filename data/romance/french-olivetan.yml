@@ -27,6 +27,9 @@ attestations:
     number: 244
     description: Französisch
     source: Aus der Bibel, Antwerpen, 1530, fol.
+  - book: Stiernhielm
+    page: 57
+    description: Gallica
 text:
   "Nostre pere qui es és cieulx. ton nom soit sanctifié.
    ton royaume adviene. ta volonte soit

@@ -7,8 +7,11 @@ attestations:
     page: 212
     number: 290
     description: Spagnuola
+  - book: Stiernhielm
+    page: 57
+    description: Hispanica
 text:
-  "Padre nuestro, que estaa en los cielos.
+  "Padre nuestro, que estas en los cielos.
    Sea sanctificado tu Nombre.
    Venga tu Reyno.
    Sea hecha tu voluntad, comme en el cielo, ansi tambien en la tierra.

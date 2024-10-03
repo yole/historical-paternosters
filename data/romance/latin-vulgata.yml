@@ -17,14 +17,17 @@ attestations:
   - book: Chamberlayne
     page: 37
     description: Latine. ex versione B. Hieronymi
+  - book: Stiernhielm
+    page: 56
+    description: Latina
 text:
   "Pater noster, qui es in cœlis. Sanctificetur nomen
    tuum. Adveniat regnum tuum. Fiat voluntas
    tua, sicut in cœlo, et in terra. Panem
-   nostrum supersubstantialem[1] da nobis hodie.
+   nostrum supersubstantialem da nobis hodie.
    Et dimitte nobis debita nostra, sicut et nos
    dimittimus debitoribus nostris. Et ne nos inducas
-   in tentationem. Sed libera nos a malo.[2] Quia
+   in tentationem. Sed libera nos a malo. Quia
    tuum est regnum, et potentia, et gloria in secula
    seculorum. Amen."
 text_variants:

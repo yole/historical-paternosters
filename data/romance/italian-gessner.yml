@@ -39,6 +39,9 @@ attestations:
     page: 211
     number: 270
     description: Italiana
+  - book: Stiernhielm
+    page: 57
+    description: Italica
 text:
   "Padre nostro, che sei ne' cieli. Sia santificato
    il nome tuo. Venga il tuo regno. 
