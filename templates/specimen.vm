@@ -2,18 +2,29 @@
 #macro(textWithGlosses $glossed_text)
     #if($glossed_text.lines)
         #foreach($line in $glossed_text.lines)
-        <table>
-            <tr class="gloss-originals">
-                #foreach($word in $line.words)
-                    <td>$word.original#if($word.footnoteIndex)<sup>$word.footnoteIndex</sup>#end</td>
-                #end
-            </tr>
-            <tr class="glosses">
-                #foreach($word in $line.words)
-                    <td>$word.gloss</td>
-                #end
-            </tr>
-        </table>
+            #if($line.petition)
+                <div class="gloss-originals">
+                    #foreach($word in $line.words)
+                        $word.original#if($word.footnoteIndex)<sup>$word.footnoteIndex</sup>#end
+                    #end
+                </div>
+                <div class="glosses">
+                    $line.petition
+                </div>
+            #else
+                <table>
+                    <tr class="gloss-originals">
+                        #foreach($word in $line.words)
+                            <td>$word.original#if($word.footnoteIndex)<sup>$word.footnoteIndex</sup>#end</td>
+                        #end
+                    </tr>
+                    <tr class="glosses">
+                        #foreach($word in $line.words)
+                            <td>$word.gloss</td>
+                        #end
+                    </tr>
+                </table>
+            #end
         #end
     #else
         $glossed_text.text

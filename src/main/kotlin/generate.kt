@@ -32,6 +32,19 @@ import kotlin.reflect.KProperty
 
 private fun toSnippet(text: String?, words: Int) = text?.split(' ')?.take(words)?.joinToString(" ") ?: ""
 
+val englishPetitions = listOf(
+    "Our Father, who art in heaven",
+    "hallowed be thy name",
+    "thy kingdom come",
+    "thy will be done on earth as it is in heaven",
+    "Give us this day our daily bread",
+    "and forgive us our trespasses, as we forgive those who trespass against us",
+    "and lead us not into temptation",
+    "but deliver us from evil.",
+    "For thine is the kingdom, and the power, and the glory, for ever and ever.",
+    "Amen"
+)
+
 class BibliographyEntry {
     var title: String? = null
     var author: String? = null
@@ -151,7 +164,12 @@ class Specimen {
     }
 
     val snippet: String
-        get() = glossedTextWords.take(5).joinToString(" ") { it.original }
+        get() = (petitions?.let { it[0] } ?: glossedTextWords.take(5))
+            .joinToString(" ") { it.original }
+
+    val petitions: List<List<GlossedTextWord>>? by lazy {
+        breakIntoPetitions(glossedTextWords)
+    }
 
     val earliestAttestation: Attestation
         get() = attestations.sortedBy { it.bookRef?.year ?: Int.MAX_VALUE }.first()
@@ -250,11 +268,39 @@ fun markdownToHtml(text: String): String {
 val footnoteRegex = Regex("\\[(\\d+)]")
 
 data class GlossedTextWord(val original: String, val gloss: String, var footnoteIndex: Int? = null)
-data class GlossedTextLine(val words: List<GlossedTextWord>)
+data class GlossedTextLine(val words: List<GlossedTextWord>, var petition: String? = null)
 data class GlossedText(val text: String, val lines: List<GlossedTextLine>?)
+
+fun breakIntoPetitions(words: List<GlossedTextWord>): List<List<GlossedTextWord>>? {
+    val result = mutableListOf<List<GlossedTextWord>>()
+    var currentPetition = mutableListOf<GlossedTextWord>()
+    for (word in words) {
+        currentPetition.add(word)
+        if (currentPetition.size == 1) {
+            result.add(currentPetition)
+        }
+        if (word.original.endsWith('.')) {
+            currentPetition = mutableListOf<GlossedTextWord>()
+        }
+    }
+
+    return if (result.size in 8..10) result else null
+}
 
 fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
     val result = mutableListOf<GlossedTextLine>()
+    val petitions = breakIntoPetitions(words)
+    if (petitions != null) {
+        petitions.mapIndexed { index, glossedTextWords ->
+            result.add(GlossedTextLine(glossedTextWords, englishPetitions[index]))
+        }
+        if (petitions.size == 9 && petitions[8].size < 5) {
+            // replace doxologia with 'amen'
+            result[8].petition = englishPetitions[9]
+        }
+        return result
+    }
+
     var currentLineWords = mutableListOf<GlossedTextWord>()
     for (word in words) {
         if (currentLineWords.sumOf { it.original.length } + word.original.length > 50) {
@@ -498,7 +544,10 @@ fun formatInlineGlosses(glossedTextWords: List<GlossedTextWord>, poetry: Boolean
     }
     return GlossedText(
         cleanText,
-        if (glossedTextWords.any { it.gloss.isNotBlank()}) breakIntoLines(glossedTextWords) else null
+        if (glossedTextWords.any { it.gloss.isNotBlank()} || breakIntoPetitions(glossedTextWords) != null)
+            breakIntoLines(glossedTextWords)
+        else
+            null
     )
 }
 
