@@ -126,6 +126,7 @@ books:
   url: https://books.google.com/books?id=slF_Cng8iwMC
   type: collection
   author: Andreas Müller
+  author_url: https://de.wikipedia.org/wiki/Andreas_Müller_(Orientalist)
 
 - title: Brand
   full_title: Reysen durch die Marck Brandenburg, Preussen, Churland, Liefland, Pleßcovien, Groß-Naugarden, Tweerien und Moscovien
