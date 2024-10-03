@@ -493,3 +493,10 @@ books:
   year: 1671
   author: Georg Stiernhielm
   author_url: https://en.wikipedia.org/wiki/Georg_Stiernhielm
+
+- title: Pistorius
+  full_title: Pater Noster, Oder Das Allerheiligiste Gebett, Vater Unser
+  url: https://books.google.com/books?id=0dVmAAAAcAAJ
+  year: 1621
+  type: collection
+  author: Georg Pistorius Mauer
