@@ -51,8 +51,8 @@ text_variants:
      Sunu ne duce prenoi in kale deispirra.
      Sune men tu jaste preroi de reu.
      Amin."
-  London:
-    "Tatal nostru, cineresti in ceriu,
+  London, Müller:
+    "Tatal nostru, cineresti in ceriu.
      sfincinschase numelle teu.
      Sevie imparacia ta.
      Sust fie voja ta
@@ -71,3 +71,8 @@ bibliography:
     year: 1988
     url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
     page: 201
+  - title: Die rumänische Sprache bei Hieronymus Megiser
+    author: Eugene Coseriu
+    year: 1975
+    publication: Studii și cercetǎri lingvistice 26/5
+    url: https://coseriu.ch/wp-content/uploads/publications_coseriu/coseriu99.pdf
