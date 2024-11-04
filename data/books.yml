@@ -516,3 +516,10 @@ books:
   url: https://www.e-rara.ch/bau_1/content/titleinfo/1636852
   year: 1562
   author: Durich Chiampell
+
+- title: Waser
+  full_title: Mithridates Gesneri, exprimens differentias linguarum, tum veterum, tum quae hodie per totum terrarum orbem in usu sunt
+  url: https://www.digitale-sammlungen.de/en/details/bsb10779637
+  year: 1610
+  author: Kaspar Waser
+  author_url: https://de.wikipedia.org/wiki/Kaspar_Waser

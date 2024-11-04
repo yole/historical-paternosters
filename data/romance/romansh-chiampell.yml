@@ -26,6 +26,8 @@ attestations:
     description: Rhætica
   - book: Chiampell
     page: 329
+  - book: Waser
+    page: 72
 text:
   "Bap noass, tü quell chi èsch in ls tschèls.
    Fatt saingk vénnga ilg teis nuom.
@@ -49,10 +51,10 @@ text_variants:
      Moa ans spendra da lg maal.
      Parchiai chia teis ais ilg raginam è la pussaunt za,
      é lg laud, in etern. Amen."
-  Müller:
+  Müller, Waser:
     "Pap noass, tu quel chi êsch in ls tschels.
      Fatt saingk vênnga ilg teis nuom.
-     Ilg teis ragin am vèng naun proa.
+     Ilg teis ragin am véng naun proa.
      Latia voellga dvvain taschkoa in tschél, uschè eir in terra.
      Noass paun d'minchiady daa a nuo hoâtz.
      E parduna a nuo ils noass dabitts, schkoa eir nuo
