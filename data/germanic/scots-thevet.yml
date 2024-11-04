@@ -31,6 +31,9 @@ attestations:
     page: 191
     number: 222
     description: Scozzese
+  - book: Duret
+    page: 874
+    description: Escoçois
 text:
   "Our fader, vhilk ar in hevin. Hallovit be thy
    name. Thy kingdon cum. Thy vil be doin in
@@ -42,6 +45,6 @@ text_variants:
   Thevet Volume 2:
     "Our fader quihilk ar in heuvin. Hallouit be thy name.
     Thy kingdom cum. Thy vil be doin in erth as it is in heuin.
-    Gif uss yis day our daily bred, and forgif vs our synnis
-    as ve forgif yame that synnis aganis vs. & led vs not in tentation,
-    bot delyuer vs from euil. Sa be it."
+    Gif uss yis day our daily bred. And forgif vs our synnis
+    as ve forgif yame that synnis aganis vs. & led vs not in tentation.
+    Bot delyuer vs from euil. Sa be it."

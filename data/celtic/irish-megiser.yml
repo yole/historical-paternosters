@@ -18,16 +18,16 @@ attestations:
     description: Hibernica
     source: Wilk. n. 44. Conf. Gesn. praef. Mithr. ad Baldeum. N.T. Hibern. 1602 per Gr. Daniel. Meg. n. 30.  Pist. n. 33. Reut. n. 27
 text:
-  "Air nathir ataigh air nin: nabz far hanimti.
+  "Air nathir ataigh air nin. Nabz far hanimti.
    Tigiuh da riatiathe. Deantur da
    hoilamhuoil air nimh agis air thalamhi'. Air
-   naran laidhthuil tabhair dhuin à niomh:
-   agis math duin dair fhiacha ammnil agis mathum
-   vid dar feuthunuim; agis na trilaic astoch
-   sin anau seu, ac sar sino ole. Amen."
+   naran laidhthuil tabhair dhuin à niomh.
+   Agis math duin dair fhiacha ammnil agis mathum
+   vid dar feuthunuim. Agis na trilaic astoch
+   sin anau seu. Ac sar sino ole. Amen."
 text_variants:
   Rocca:
-    "Air nathir ataigh air nin: nabzfar hanimh.
+    "Air nathir ataigh air nin. Nabzfar hanimh.
      Tigiuh da riatiathe. Deantur da
      hoil amhuoil air nimh agis air thalamh'. Air
      naran laidhthuil tabhair dhuin à niomh:
@@ -35,10 +35,18 @@ text_variants:
      dar feuthunuim; agis na trilaic astoch
      sin anauseu, ac sar sin o ole. Amen."
   Wilkins:
-    "Air nathir ataigh air nin: nabz far hanimti.
+    "Air nathir ataigh air nin. Nabz far hanimti.
      Tigiuh da riatiathe. Deantur da
      hoilamhuoil air nimh agis air thalamhi. Air
-     naran laidhthuil tabhair dhuin à niomh:
-     agis math duin dairfhiacha ammnil agis mathum uid 
-     dar feuthunuim; agis na trilaic astoch
-     sin anau seu, ac sar sino ole. Amen."
+     naran laidhthuil tabhair dhuin à niomh.
+     Agis math duin dairfhiacha ammnil agis mathum uid 
+     dar feuthunuim. Agis na trilaic astoch
+     sin anau seu. Ac sar sino ole. Amen."
+  Müller:
+    "Air nathir ataigh air nin. Nabz fat hanimti.
+     Tigiuh da riathiate. Deantur da
+     hoilamhuoil air nimh agis air thalamhi. Air
+     naran laidhthuil tabhair dhuin a niomh.
+     Agis math duin dairfhiacha ammnil agis mathum vid 
+     dar feuthunuim. Agis na trilaic astoch
+     sin anau seu. Ac sar sino ole. Amen."

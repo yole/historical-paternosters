@@ -25,6 +25,9 @@ attestations:
     page: 211
     number: 268
     description: Wallica, o Valaka
+  - book: Stiernhielm
+    page: 59
+    description: Walachica
 text:
   "Pærinthele nostru cela ce esti en cheri. Svintzas
    cæse numele teu. Vie enperetziæ ta. Facæse
@@ -32,10 +35,20 @@ text:
    Pæne noastre tza sætzioace dæ noaæ astezi.
    Si lase noaæ datorii le noastre, cum si noi se
    læsæm datornitzilor nostri. Si nu dutze preno
-   i la ispitire: Tze ne mentueste prenoi de viclianul.
+   i la ispitire. Tze ne mentueste prenoi de viclianul.
    Amin."
 bibliography:
   - title: Stiernhielm, die rumänische Sprache und das merkwürdige Schicksal eines Vaterunsers
     author: Eugenio Coseriu
     year: 2009
     url: https://core.ac.uk/display/15771496
+text_variants:
+  Stiernhielm:
+    "Paerinthele nostru cela ce esti en cheri. 
+     Svintzas caese numele teu.
+     Vie enperetziæ ta. 
+     Facæse voe ta, cum en tzer, ase si pre pæmentu. 
+     Paene noastre tzasaetzioace, dæ noæ astezi. 
+     Si lase noaæ datorii le noastre, cum si noi se læsæm datornitzilor nostri. 
+     Si nu dutze preno i la ispitire. 
+     Tze ne mentueste prenoi de viclianul. Amin"
