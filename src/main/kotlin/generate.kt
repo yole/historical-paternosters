@@ -280,7 +280,7 @@ fun breakIntoPetitions(words: List<GlossedTextWord>): List<List<GlossedTextWord>
             result.add(currentPetition)
         }
         if (word.original.endsWith('.')) {
-            currentPetition = mutableListOf<GlossedTextWord>()
+            currentPetition = mutableListOf()
         }
     }
 
@@ -289,16 +289,18 @@ fun breakIntoPetitions(words: List<GlossedTextWord>): List<List<GlossedTextWord>
 
 fun breakIntoLines(words: List<GlossedTextWord>): List<GlossedTextLine> {
     val result = mutableListOf<GlossedTextLine>()
-    val petitions = breakIntoPetitions(words)
-    if (petitions != null) {
-        petitions.mapIndexed { index, glossedTextWords ->
-            result.add(GlossedTextLine(glossedTextWords, englishPetitions[index]))
+    if (words.none { it.gloss.isNotBlank()}) {
+        val petitions = breakIntoPetitions(words)
+        if (petitions != null) {
+            petitions.mapIndexed { index, glossedTextWords ->
+                result.add(GlossedTextLine(glossedTextWords, englishPetitions[index]))
+            }
+            if (petitions.size == 9 && petitions[8].size < 5) {
+                // replace doxologia with 'amen'
+                result[8].petition = englishPetitions[9]
+            }
+            return result
         }
-        if (petitions.size == 9 && petitions[8].size < 5) {
-            // replace doxologia with 'amen'
-            result[8].petition = englishPetitions[9]
-        }
-        return result
     }
 
     var currentLineWords = mutableListOf<GlossedTextWord>()
