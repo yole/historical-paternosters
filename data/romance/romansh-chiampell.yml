@@ -1,0 +1,70 @@
+language: Romansh
+attestations:
+  - book: London
+    page: 35
+    description: Rhaetica seu Grisonum
+    source: Gessner f. 72 b. Conf. Meg. n. 10. Pist. n. 8. Reut. n. 34. Roch. n. 16. Stiernh. n. 5. Wilk. n. 16. V. Catech. Rhaet. Bifrontis, & Campelli
+  - book: Müller
+    page: 34
+    description: Rhaetica seu Grisonum
+    source: Gessner f. 72 b. Conf. Meg. n. 10. Pist. n. 8. Reut. n. 34. Roch. n. 16. Stiernh. n. 5. Wilk. n. 16. V. Catech. Rhaet. Bifrontis, & Campelli
+  - book: Chamberlayne
+    page: 40
+    description: Rhaetice seu Grisonum stylo communi
+    source: ex Sylloge Londinensi
+  - book: Adelung Part 2
+    page: 608
+    number: 265
+    description: Eben dasselbe <Romanisch>
+    source: Aus Megiser, Lüdeken etc.
+  - book: Hervas
+    page: 212
+    number: 282
+    description: Retica comune
+  - book: Stiernhielm
+    page: 58
+    description: Rhætica
+  - book: Chiampell
+    page: 329
+text:
+  "Bap noass, tü quell chi èsch in ls tschèls.
+   Fatt saingk vénnga ilg teis nuom.
+   Ilg teis raginam vénnga naun proa.
+   La tia voellga dwainta schkoa in tschèl uschè eir in terra.
+   Noass paun d'iminchiady daa a nuo hoatz.
+   È parduna a nuo ils noass dabitts, schkoa eir nuo pardunain a ls noass dabittaduors.
+   È nun ns' manar in prowamaint.
+   Moa ans spendra da lg maal.
+   Parchiai chia teis ais ilg raginam è la pussauntza è lg laud in etern. Amen."
+text_variants:
+  London:
+    "Pap noass, to quel chi êsch in ls tschels.
+     Fatt saingk vênnga ilg teis nuom.
+     Ilg teis raginam vèng naun proa.
+     Latia voellga dvvin taschkoa in tschél, uschè eir in terra.
+     Noass paun d'minchiady daa a nuo hoâtz.
+     E parduna a nuo ils noass dabitts, schkoa eir nuo
+     pardunain als noass dabittaduors.
+     E nun ns' manar in provvamaint.
+     Moa ans spendra da lg maal.
+     Parchiai chia teis ais ilg raginam è la pussaunt za,
+     é lg laud, in etern. Amen."
+  Müller:
+    "Pap noass, tu quel chi êsch in ls tschels.
+     Fatt saingk vênnga ilg teis nuom.
+     Ilg teis ragin am vèng naun proa.
+     Latia voellga dvvain taschkoa in tschél, uschè eir in terra.
+     Noass paun d'minchiady daa a nuo hoâtz.
+     E parduna a nuo ils noass dabitts, schkoa eir nuo
+     pardunain als noass dabittaduors.
+     E nun ns' manar in provvamaint.
+     Moa ans spendra da lg maal.
+     Parchiai chia teis ais ilg raginam è la pussaunt za,
+     é lg laud, in etern. Amen."
+bibliography:
+  - title: "Oratio Dominica Romanice: Das Vaterunser in den romanischen Sprachen von den Anfängen 
+            bis ins 16. Jahrhundert mit den griechischen und lateinischen Vorlagen"
+    author: Siegfried Heinimann
+    year: 1988
+    url: https://brill.com/view/journals/nakg/69/1/article-p142_7.xml
+    page: 192

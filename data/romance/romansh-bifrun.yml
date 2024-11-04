@@ -21,14 +21,22 @@ attestations:
     number: 263
     description: Eben dasselbe <Romanisch>, angeblich nach der Mundart im Flecken Tusis
     source: Aus Gesner, S. 65, und des Rues, S. 343
+  - book: Pistorius
+    number: 8
+    description: Churwälsch
+  - book: Bifrun
+    page: 28
+  - book: Merula
+    page: 800
+    description: Rhetorum
 text:
-  "Bab nos quæl tu ist in eschil, santifichio saia
-   ilgtes num; ilgtes ariginam uigna ter nus, la
-   thia uoeglia d’uainta, in terra sco la fo in eschil; 
-   do a nus nos paun houtz & in münchia
-   di; parduna à nus nos dbits, sco nus fain à
-   nos dbitaduors; nun ens mener in mel aprouaimaint; 
-   dimpersemaing spendra nus da tuots mels. Amen."
+  "Bab nos quæl tu ist in eschil. Santifichio saia
+   ilgtes num. Ilgtes ariginam uigna ter nus. La
+   thia uoeglia d’uainta, in terra sco la fo in eschil. 
+   Do a nus nos paun houtz & in münchia
+   di. Parduna à nus nos dbits, sco nus fain à
+   nos dbitaduors. Nun ens mener in mel aprouaimaint. 
+   Dimpersemaing spendra nus da tuots mels. Amen."
 text_variants:
   Rocca:
     "Bab nos quæl tii ist in eschil, santifichio saia

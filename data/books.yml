@@ -500,3 +500,19 @@ books:
   year: 1621
   type: collection
   author: Georg Pistorius Mauer
+
+- title: Bifrun
+  full_title: Una cuorta christiauna forma
+  url: https://www.e-rara.ch/kbg/doi/10.3931/e-rara-19333
+  year: 1552
+  author: Giachem Bifrun
+
+- title: Chiampell
+  full_title:
+    "Un cudesch da Psalms, chi suun fatts è miss da chiantar in Ladin, 
+    ils quaus suun impart eir vyvaunt statts luguads da chiantar in Tudaischk, 
+    éd impart brichia : Proa quai alchiünas uschélgoe saingchias Chiantzuns Spiritualas, 
+    impart trattas our da lg Tudaischk, éd impart fattas da noew in Ladin"
+  url: https://www.e-rara.ch/bau_1/content/titleinfo/1636852
+  year: 1562
+  author: Durich Chiampell
