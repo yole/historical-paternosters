@@ -49,6 +49,9 @@ attestations:
   - book: Müller
     page: 20
     source: Dur. 727. Gesn. p. 11. a. Meg. n. 43. Pist. n. 36. Schildb. p. ult. Wilk. n. 40.
+  - book: Pistorius
+    number: 36
+    description: Armenisch und Persianisch
 base: asia/armenian
 text:
   "Hair mer or iercins des. Surb eglizzi anun

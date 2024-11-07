@@ -25,6 +25,9 @@ attestations:
     number: 1
     description: Mandarinen-Sinesich
     source: Aus Andr. Müllers orat. domin. Sinica
+  - book: Pistorius
+    number: 39
+    description: In der Chynischen Sprach
 text:
   "Sci gin ta fu ciu zai[1] tien tin. Ngo iuon[2] ta fu min[3]
    ie hhien iam. Ngo iuon su gin ciuon scieú

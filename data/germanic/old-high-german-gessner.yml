@@ -31,6 +31,9 @@ attestations:
     page: 40
     description: Alemanica
     source: Notker. Sangall. Conf. Gesn. p. 46a. Meg. n. 22. Pist. n. 19. Reut. n. 26. Wilk. n. 17.
+  - book: Pistorius
+    number: 19
+    description: Alt Franckisch
 text:
   "Fater ünser, du in himele bist.
    Din namo werde geheiligot.

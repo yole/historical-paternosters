@@ -30,6 +30,9 @@ attestations:
     page: 41
     description: Forojuliane
     source: jam editiones aliae exhibent
+  - book: Pistorius
+    number: 9
+    description: Görtzisch und Fürläinisch
 text:
   "Pari nestri ch’ees in cijl. See santificaat lu to
    nom. Vigna lu to ream. See fatta la too volontaat,

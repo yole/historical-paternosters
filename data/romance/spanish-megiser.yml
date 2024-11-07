@@ -22,6 +22,9 @@ attestations:
     page: 212
     number: 289
     description: Spagnuola
+  - book: Pistorius
+    number: 11
+    description: Spannisch
 text:
   "Padre nuestro, que estas en los cielos. Sanctificato
    sea el tu nombre. Venga à nos el tu reyno.

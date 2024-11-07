@@ -29,6 +29,9 @@ attestations:
   - book: Thevet Volume 2
     page: 882
     description: En Lappon & Finnois
+  - book: Pistorius
+    number: 34
+    description: Finländisch unnd Lappländisch
 text:
   "{Isa:Pater} {meidhen:noster}, {joko:qui} {oledh:es} {taju ahissa:in coelo}. 
    {Puhettu:sanctum} {olkohon:fiat} {siun:tuum} {nimesi:nomen}. 

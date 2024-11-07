@@ -21,7 +21,11 @@ attestations:
     source: Megiser Nr. 44
   - book: Müller
     page: 19
+    description: Tatarica
     source: Schildb. p. ult. Conf. Meg. n. 44. Wilk. n. 38.
+  - book: Pistorius
+    number: 37
+    description: Tartarisch
 diff: false
 text:
   "Atcha wyzom, hhy hokta sen algusch.

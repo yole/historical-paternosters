@@ -35,6 +35,9 @@ attestations:
     page: 204
     number: 251
     description: Welche antica
+  - book: Pistorius
+    number: 25
+    description: Engelsärisch oder alt Britannisch
 normalize:
   uu: w
 text:

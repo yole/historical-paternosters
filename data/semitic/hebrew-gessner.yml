@@ -13,13 +13,16 @@ attestations:
   - book: Wilkins
     number: 2
     description: Hebrew
+  - book: Pistorius
+    number: 1
+    description: Hebraisch mit Lateinischer Schrifft
 base: semitic/hebrew
 text:
-  "Abinu schœbbeschamaim, iikkadesch schmœcha:
-  thabo malchuthcha: ieasœh retzonecha
-  chibschamayim, ubaarœtz: œth lahhmenu themidi
-  then lanu haiom: uslahh lanu œth hhobotheinu
-  caaschœr anahhnu solhhin lebaalei hhobotheinu:
-  ueal thebienu benissaion, œlla hatzilenu mera.
+  "Abinu schœbbeschamaim. Iikkadesch schmœcha.
+  Thabo malchuthcha. Ieasœh retzonecha
+  chibschamayim, ubaarœtz. Œth lahhmenu themidi
+  then lanu haiom. Uslahh lanu œth hhobotheinu
+  caaschœr anahhnu solhhin lebaalei hhobotheinu.
+  ueal thebienu benissaion. Œlla hatzilenu mera.
   Ci lecha hammlechuth ugburah uechabod leolam
   olamim. Amen."

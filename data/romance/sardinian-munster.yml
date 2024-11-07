@@ -37,6 +37,9 @@ attestations:
   - book: Stiernhielm
     page: 59
     description: Sardica Vulgaris
+  - book: Pistorius
+    number: 12
+    description: Gemein Sardinisch
 text:
   "Babbu nostru, sughale ses in soschelus. Santusiada
    su nomine tuo. Bengiad su rennu tuo.

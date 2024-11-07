@@ -24,6 +24,9 @@ attestations:
   - book: Stiernhielm
     page: 56
     description: Latina
+  - book: Pistorius
+    number: 6
+    description: Lateinisch
 text:
   "Pater noster, qui es in cœlis. Sanctificetur nomen
    tuum. Adveniat regnum tuum. Fiat voluntas

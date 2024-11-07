@@ -30,6 +30,9 @@ attestations:
   - book: Stiernhielm
     page: 57
     description: Gallica
+  - book: Pistorius
+    number: 14
+    description: Französisch
 text:
   "Nostre pere qui es és cieulx. ton nom soit sanctifié.
    ton royaume adviene. ta volonte soit

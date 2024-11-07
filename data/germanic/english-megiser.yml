@@ -3,9 +3,12 @@ attestations:
   - book: Megiser
     number: 27
     description: Anglice
+  - book: Pistorius
+    number: 20
+    description: Engelländisch
 text:
   "Our Father whiche arte in heaven. Halowed
-   be thy Name: Thy kingdome come.
+   be thy Name. Thy kingdome come.
    Thy wil bedone even in earthe as it in heavene.
    Geve us thys day our daily Bread. And forgive
    us our trespasses, as we forgive our trespassers.

@@ -46,6 +46,9 @@ attestations:
   - book: Stiernhielm
     page: 57
     description: Italica
+  - book: Pistorius
+    number: 7
+    description: Italianisch
 text:
   "Padre nostro, che sei ne' cieli. Sia santificato
    il nome tuo. Venga il tuo regno. 

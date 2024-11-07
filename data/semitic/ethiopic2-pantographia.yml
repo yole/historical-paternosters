@@ -31,6 +31,9 @@ attestations:
     page: 27
     description: Aethiopica Lectio
     source: ex grammatica Clar. Jobi Ludolfi
+  - book: Pistorius
+    number: 4
+    description: Ethiopisch oder Abyssinisch
 base: semitic/geez
 text:
   "Abuna xabashamajath. Yithkadash shimacha

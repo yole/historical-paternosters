@@ -6,6 +6,9 @@ attestations:
   - book: Wilkins
     number: 6
     description: Greek
+  - book: Pistorius
+    number: 5
+    description: Griechisch mit Lateinischen Buchstaben
 base: europe-other/greek-byzantian
 text:
   "Pater hemon, ho en tois uranois, hagiastheto to

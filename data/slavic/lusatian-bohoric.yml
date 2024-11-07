@@ -34,6 +34,9 @@ attestations:
     page: 168
     number: 140
     description: Dialetti Lusatici
+  - book: Pistorius
+    number: 31
+    description: Lausatzisch
 text:
   "Wosch nasch, kensch sy nanebebu. Wussweschone 
    bushy me twoye. Pshish knam krajlestwo

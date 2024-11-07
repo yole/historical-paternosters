@@ -26,6 +26,9 @@ attestations:
     page: 63
     description: Germanice, stylo Hodierno
     source: ex editionibus aliis
+  - book: Pistorius
+    number: 15
+    description: Teutsch
 text:
   "Unser Vatter, der du bist im Himmel. Geheiliget
    werd dein Nahm. Zukomm uns dein Reich.

@@ -33,6 +33,9 @@ attestations:
     page: 83
     description: Livonice
     source: ex singulari favore amici harum linguarum peritissimi accepi
+  - book: Pistorius
+    number: 32
+    description: Liffländisch
 text:
   "{Tabes:Pater} {mus:noster}, {kas:qui} {tu es:es} {eck sckan:in} {debbessis:coelis}.
    {Schwetitz:sanctificatur} {tows:tuum} {waarcz:nomen}. 
@@ -73,8 +76,8 @@ text_variants:
      Ne wedde mums louna badeckle:
      pet passatza mums nuwusse loune. Amen."
   Thevet Volume 2:
-    "Mus tabes, kas tu es ecksckan debbessis;
-     schwetitz tows waartz. Enack mums tows
+    "Mus tabes, kas tu es ecksckan debbessis.
+     Schwetitz tows waartz. Enack mums tows
      walstibe. Tows praatz bus eka kschkan debbes,
      ta vursan semmes. Musse denische maise duth
      mums schodeen. Pammate mums musse

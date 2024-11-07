@@ -35,6 +35,9 @@ attestations:
   - book: Duret
     page: 944
     description: en langue des Sauuages
+  - book: Pistorius
+    number: 38
+    description: Indianisch / wie man inn der Newen Welt redet
 text:
   "Ore rure ubacpé Ereico.
    Toicoap pavemgatu 

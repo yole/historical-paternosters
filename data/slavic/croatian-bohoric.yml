@@ -34,6 +34,9 @@ attestations:
     page: 168
     number: 136
     description: Dialetti Croati
+  - book: Pistorius
+    number: 28
+    description: Crabatisch / Reussisch / Moscovitisch
 base: slavic/croatian-bohoric-glagolitic
 text:
   "Ozhe nash ishe esi na nebesih. Svetise ime tuoe.

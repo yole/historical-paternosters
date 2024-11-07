@@ -24,6 +24,9 @@ attestations:
     page: 48
     description: Islandica
     source: Meg. n. 25. Conf. Gessn. p. 44 b. Pist. n. 23. Reut. n. 23. Roch. n. 15. T.D.E.R. p. 253. Wilk. n. 22.
+  - book: Pistorius
+    number: 23
+    description: Isländsich und Schottländsich
 text:
   "Bader vor sun ert ai himmum. Helgizt bitt
   namb ti. Komi titt rike. Verdi tinn vile,

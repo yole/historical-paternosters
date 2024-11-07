@@ -29,6 +29,9 @@ attestations:
   - book: Chamberlayne
     page: 65
     description: Helvetice
+  - book: Pistorius
+    number: 16
+    description: Schweizerisch
 text:
   "Vatter[1] unser[2], der du bist[3] inn[4] himmlen[5], geheiliget[6]
    werde[7] dÿn[8] nam[9]; zukumme[10] uns[11] dÿn[12] rÿch[13],

@@ -39,6 +39,9 @@ attestations:
     page: 167
     number: 134
     description: Serviese
+  - book: Pistorius
+    number: 26
+    description: Slavonisch und Dalmatinisch
 base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce nash, ishe jesi v nebesih. Posveti se

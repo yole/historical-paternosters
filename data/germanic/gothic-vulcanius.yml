@@ -37,6 +37,9 @@ attestations:
     page: 191
     number: 231
     description: Gotica
+  - book: Pistorius
+    number: 22
+    description: Gottländisch. J. Gor. Bec.
 base: germanic/gothic
 text:
   "Atta unsar thu in himinam. Veihnai namo

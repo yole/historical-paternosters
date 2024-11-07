@@ -22,6 +22,9 @@ attestations:
     number: 30
     description: Ein Türkischer Dialekt
     source: Georgiewicz de Turcarum moribus
+  - book: Pistorius
+    number: 35
+    description: Türkisch
 text:
   "Babamoz, hanghe gugtesson chuduss
    olssun ssenungh, adun gelsson ssenung

@@ -7,6 +7,9 @@ attestations:
   - book: Bohoric
     page: 36
     description: Polonica
+  - book: Pistorius
+    number: 30
+    description: Polnisch
 text:
   "Oycze nash, ktorish jess wnjebjeszjech.
   Swieczizje miono tvoe. Przidz Kroljestwo twe.
