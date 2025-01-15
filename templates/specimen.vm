@@ -34,11 +34,9 @@
 <h1>Pater Noster in $language</h1>
 #if($lang)
     <p>
-        Language:
+        Language: <a href="/$lang.outPath">$lang.name</a>
         #if($lang.url)
-            <a href="$lang.url">$lang.name</a>
-        #else
-            $lang.name
+            (<a href="$lang.url">Wikipedia</a>)
         #end
         #if($script)
             ($script script)
