@@ -16,6 +16,10 @@ attestations:
     number: 299
     description: Alt-Preussisch
     source: Nach Sam. Grunow's Übersetz. im Hartknoch, S. 94
+  - book: Hartknoch
+    page: 94
+    description: Das Vatter Unser auch in Preussischer Sprache
+    source: aus dem Simon Grunau
 base: baltic/prussian-grunau
 text:
   "Nossen thewes cur tu es delbes. Sehwiz gesger

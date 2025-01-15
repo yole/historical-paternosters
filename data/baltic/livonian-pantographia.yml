@@ -36,6 +36,10 @@ attestations:
   - book: Pistorius
     number: 32
     description: Liffländisch
+  - book: Hartknoch
+    page: 94
+    description: Das Vatter Unser in der Mecklenburgischer Werten ihrer Sprache
+    source: aus des Wolffgangi Lazii Büchern de Migrationibus gentium
 text:
   "{Tabes:Pater} {mus:noster}, {kas:qui} {tu es:es} {eck sckan:in} {debbessis:coelis}.
    {Schwetitz:sanctificatur} {tows:tuum} {waarcz:nomen}. 

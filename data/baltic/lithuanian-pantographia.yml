@@ -24,6 +24,9 @@ attestations:
     number: 119
     description: Lingua Lituana
     source: nella Biblia Lituana stampata a Londra 1660
+  - book: Hartknoch
+    page: 94
+    description: Das Vatter Unser in Littauischer Sprach
 text:
   "Tewe musu kursey esi danguy. Szweskis wardas
    tawo. Ateyk karaliste tawo. Buk walatawo
