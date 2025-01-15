@@ -9,6 +9,14 @@ books:
   author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
   type: collection
 
+- title: Megiser Quadraginta
+  full_title: Specimen quadraginta diversarum atque inter se differentium linguarum & dialectorum
+  year: 1593
+  url: https://www.dlib.si/details/URN:NBN:SI:DOC-S7928D8Y/
+  author: Hieronimus Megiser
+  author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
+  type: collection
+
 - title: Duret
   full_title: Thresor de L'Histoire des Langves de Cest Vnivers
   year: 1613
