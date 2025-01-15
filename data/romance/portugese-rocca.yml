@@ -36,6 +36,10 @@ attestations:
   - book: Pistorius
     number: 13
     description: Portugalisch
+  - book: Reuter
+    page: 3
+    recto: v
+    description: Portugalicè
 text:
   "Padre nosso, que stas nos ceos. Santificado seia
    o teu nome. Venha à nos o teu reino. Seja ferta

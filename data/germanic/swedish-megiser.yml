@@ -30,6 +30,10 @@ attestations:
     page: 70
     description: Suecice
     source: ex editins versionibus correcte descripsi
+  - book: Reuter
+    page: 4
+    recto: v
+    description: Sveticè
 text:
   "Fadher war som est i himlom. Helghat warde
    titt nampn. Tillkomme titt ricke. Skee tin wilie

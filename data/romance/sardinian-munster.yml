@@ -40,6 +40,10 @@ attestations:
   - book: Pistorius
     number: 12
     description: Gemein Sardinisch
+  - book: Reuter
+    page: 4
+    recto: r
+    description: Sardorum Extra civitates hibitantium
 text:
   "Babbu nostru, sughale ses in soschelus. Santusiada
    su nomine tuo. Bengiad su rennu tuo.

@@ -39,6 +39,10 @@ attestations:
   - book: Pistorius
     number: 5
     description: Griechisch
+  - book: Reuter
+    page: 2
+    recto: v
+    description: Græcè
 text:
   "πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς.
   ἁγιασθήτω τὸ ὄνομά σου.

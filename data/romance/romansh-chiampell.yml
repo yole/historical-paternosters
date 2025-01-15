@@ -28,6 +28,10 @@ attestations:
     page: 329
   - book: Waser
     page: 72
+  - book: Reuter
+    page: 7
+    recto: r
+    description: Rhætorum
 text:
   "Bap noass, tü quell chi èsch in ls tschèls.
    Fatt saingk vénnga ilg teis nuom.

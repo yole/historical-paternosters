@@ -1,0 +1,32 @@
+language: Old Prussian
+attestations:
+  - book: Reuter
+    page: 8
+    recto: v
+    description: Prussicè
+text:
+  "Tāwa Noūson kas tu essei Endangon.
+   Swintints wīrst twais Emnes.
+   Perēit twais Rijks.
+   Twais Quāits Audāsin kāgi Endangon tijt dēigi nosemien.
+   Nouson deinennin geitien dais noūmans schan deinan.
+   Bhe etwerpeis noūmas nousons āuschautins kai mes etwērpimai noūsons auschautenīkamans.
+   Bhe ni weddeis mans emperbandāsnan.
+   Schlāit isrankeis mans esse wissan wargan.
+   Amen."
+text_variants:
+  Reuter:
+    "Tāwa Noūson kas tu En dangon.
+     Perēit twais Rijks.
+     Twais Andāsin kāgi En dangon tijt dēigi no semien.
+     Nouson deinennin geitieu dais noū mans schan deinan.
+     Bhe ni weddeis mans emper bandāsnan.
+     Schlāit is rankeis mans esse wissan wargan.
+     Amen."
+bibliography:
+  - title: Old Prussian Written Monuments
+    author: Mykolas Letas Palmaĭtis
+    year: 2007
+notes:
+  The text is quoted according to the transcription of the original catechism.
+  Reuter's version omits two entire petitions and introduces a number of errors.

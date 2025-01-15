@@ -42,6 +42,10 @@ attestations:
   - book: Pistorius
     number: 26
     description: Slavonisch und Dalmatinisch
+  - book: Reuter
+    page: 6
+    recto: r
+    description: Sclavonicè
 base: slavic/slovene-bohoric-сyrillic
 text:
   "Otce nash, ishe jesi v nebesih. Posveti se

@@ -34,6 +34,10 @@ attestations:
   - book: Pistorius
     number: 18
     description: Anders Niderl und Geldrisch
+  - book: Reuter
+    page: 5
+    recto: v
+    description: Gelricè
 text:
   "Onse Vayer, die ghey seit in den hemel.
    Geheilicht[1] sey uwen naem. Wu reyck ons toecoem.

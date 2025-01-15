@@ -34,9 +34,13 @@ attestations:
   - book: Pistorius
     number: 4
     description: Ethiopisch oder Abyssinisch
+  - book: Reuter
+    page: 2
+    recto: v
+    description: Æthiopicè
 base: semitic/geez
 text:
-  "Abuna xabashamajath. Yithkadash shimacha
+  "Abuna xabashamajath. Yithkadash shimacha.
    Thymtsa mangystcha. Yichun phachadacha.
    Bachama bashamai wabamdyrni. Shishajana
    zalala ylathana habana yom. Hydyglana abashana. 

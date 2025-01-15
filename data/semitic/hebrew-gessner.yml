@@ -16,6 +16,10 @@ attestations:
   - book: Pistorius
     number: 1
     description: Hebraisch mit Lateinischer Schrifft
+  - book: Reuter
+    page: 2
+    recto: r
+    description: Hebr. sed latinis characteribus
 base: semitic/hebrew
 text:
   "Abinu schœbbeschamaim. Iikkadesch schmœcha.

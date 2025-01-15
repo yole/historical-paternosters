@@ -34,6 +34,10 @@ attestations:
   - book: Pistorius
     number: 40
     description: Hungarisch
+  - book: Reuter
+    page: 7
+    recto: v
+    description: Hungaricè
 diff: no
 text:
   "Mi Atyánc kì vagy az mennyekben. Ssenteltessec

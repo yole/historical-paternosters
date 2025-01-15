@@ -35,6 +35,10 @@ attestations:
     page: 189
     number: 200
     description: Frisica
+  - book: Reuter
+    page: 5
+    recto: r
+    description: Frisicè
 text:
   "Ws Haita duu derstu biste yne hymil. Dyn
    name wird heiligt. Dyn ryck to komme. Dyn

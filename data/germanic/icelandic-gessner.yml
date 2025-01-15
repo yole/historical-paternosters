@@ -27,6 +27,10 @@ attestations:
   - book: Pistorius
     number: 23
     description: Isländsich und Schottländsich
+  - book: Reuter
+    page: 5
+    recto: v
+    description: Islandicè
 text:
   "Bader vor sun ert ai himmum. Helgizt bitt
   namb ti. Komi titt rike. Verdi tinn vile,

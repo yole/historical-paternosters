@@ -37,6 +37,10 @@ attestations:
   - book: Pistorius
     number: 31
     description: Lausatzisch
+  - book: Reuter
+    page: 7
+    recto: r
+    description: Lusaticè
 text:
   "Wosch nasch, kensch sy nanebebu. Wussweschone 
    bushy me twoye. Pshish knam krajlestwo

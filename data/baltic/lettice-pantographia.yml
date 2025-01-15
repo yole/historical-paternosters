@@ -12,6 +12,10 @@ attestations:
     page: 164
     number: 125
     description: Lettese, o Rustica-Livonese
+  - book: Reuter
+    page: 8
+    recto: r
+    description: Lætticè
 text:
   "Musso tæwss kass eeksch dæbbæsim. Swættizlay
    toop tauwss wardz. Læy eenak mumss

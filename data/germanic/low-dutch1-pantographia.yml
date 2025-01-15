@@ -27,6 +27,10 @@ attestations:
     page: 189
     number: 205
     description: Belgica
+  - book: Reuter
+    page: 5
+    recto: v
+    description: Batavicè
 text:
   "Onse vader die in den hemelin sijt. Uwen naem
    werde geheylight. Uw coninckrijcke icome.

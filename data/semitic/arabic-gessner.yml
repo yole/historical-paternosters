@@ -29,6 +29,10 @@ attestations:
   - book: Pistorius
     number: 3
     description: Arabisch
+  - book: Reuter
+    page: 2
+    recto: v
+    description: Arabicè
 diff: false
 text:
   "Abana illadhi phi 's schemaua. Thikaduschu

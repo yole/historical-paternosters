@@ -20,6 +20,10 @@ attestations:
   - book: Pistorius
     number: 33
     description: Irrländisch
+  - book: Reuter
+    page: 6
+    recto: r
+    description: Irrlandicè
 text:
   "Air nathir ataigh air nin. Nabz far hanimti.
    Tigiuh da riatiathe. Deantur da

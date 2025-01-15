@@ -10,6 +10,10 @@ attestations:
   - book: Stiernhielm
     page: 57
     description: Hispanica
+  - book: Reuter
+    page: 3
+    recto: v
+    description: Hispanicè
 text:
   "Padre nuestro, que estas en los cielos.
    Sea sanctificado tu Nombre.

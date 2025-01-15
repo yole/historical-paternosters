@@ -27,6 +27,10 @@ attestations:
     page: 185
     number: 181
     description: Dialetto Greco barbaro
+  - book: Reuter
+    page: 3
+    recto: r
+    description: Græc. sicut hodiè loquuntur
 text:
   "Πατερ ημας, οποιος ισε εης της ουρανους.
    Αγιαθιτω το ονομα σου.

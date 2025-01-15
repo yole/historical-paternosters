@@ -29,6 +29,10 @@ attestations:
   - book: Pistorius
     number: 15
     description: Teutsch
+  - book: Reuter
+    page: 4
+    recto: r
+    description: Germanice
 text:
   "Unser Vatter, der du bist im Himmel. Geheiliget
    werd dein Nahm. Zukomm uns dein Reich.

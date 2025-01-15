@@ -34,6 +34,10 @@ attestations:
   - book: Duret
     page: 874
     description: Escoçois
+  - book: Reuter
+    page: 4
+    recto: v
+    description: Scoticè
 text:
   "Our fader, vhilk ar in hevin. Hallovit be thy
    name. Thy kingdon cum. Thy vil be doin in

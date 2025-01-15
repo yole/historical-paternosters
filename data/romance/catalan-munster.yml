@@ -14,6 +14,10 @@ attestations:
   - book: Stiernhielm
     page: 58
     description: Sardica
+  - book: Reuter
+    page: 4
+    recto: r
+    description: Sardorum Oppidanorum
 text:
   "Pare nostre che ses en loscels. Sia santificat lo
   nom teu. Venga lo regne teu. Fasase la uoluntat tua,

@@ -36,6 +36,10 @@ attestations:
     page: 14
     number: 51
     description: gloss on the Evangelists by bishop Eadfride
+  - book: Reuter
+    page: 5
+    recto: r
+    description: Anglo Saxonicè
 text:
   "Uren vader thic arth in heofnas. Sic gehalgud thin noma.
    To cymeth thin rye. Sic thin Willa sue, Is in heofnas and

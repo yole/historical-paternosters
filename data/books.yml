@@ -540,3 +540,10 @@ books:
   url: https://digital.ub.umu.se/node/978308/metadata
   year: 1619
   author: Nicolaus Andreæ
+
+- title: Reuter
+  full_title: Oratio Dominica XL Linguarum nempe Hebraicæ, Syriacæ, Arabicæ, Æthiopicæ, Græcæ... collecta â Joh. Reuter
+  url: https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A402756&dswid=362
+  year: 1675
+  author: Johann Reuter
+  type: collection

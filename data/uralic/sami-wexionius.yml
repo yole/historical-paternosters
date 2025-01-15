@@ -7,6 +7,10 @@ attestations:
     source: Aus dem Lappländischen Abc- Buche bey Mich. Wexionii Descriptio Sueciae. Abo, 1650, 8
   - book: Swenske och lappeske ABC book
     page: 2
+  - book: Reuter
+    page: 8
+    recto: r
+    description: Lapponicè
 text:
   "Ackie mijan jocko lei Almen.
    Passen hiad ta tuun Namma.

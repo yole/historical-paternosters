@@ -49,6 +49,10 @@ attestations:
   - book: Pistorius
     number: 7
     description: Italianisch
+  - book: Reuter
+    page: 3
+    recto: r
+    description: Italicè
 text:
   "Padre nostro, che sei ne' cieli. Sia santificato
    il nome tuo. Venga il tuo regno. 

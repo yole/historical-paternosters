@@ -40,6 +40,10 @@ attestations:
   - book: Pistorius
     number: 22
     description: Gottländisch. J. Gor. Bec.
+  - book: Reuter
+    page: 5
+    recto: r
+    description: Gothicè
 base: germanic/gothic
 text:
   "Atta unsar thu in himinam. Veihnai namo

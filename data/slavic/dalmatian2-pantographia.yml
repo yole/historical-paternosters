@@ -25,6 +25,10 @@ attestations:
     page: 167
     number: 133
     description: Dalmata
+  - book: Reuter
+    page: 7
+    recto: r
+    description: Dalmaticè
 base: slavic/sclavonian-georgijevic
 text:
   "Otsce nas koyi-yessina nebissih. Szvetisse gyme

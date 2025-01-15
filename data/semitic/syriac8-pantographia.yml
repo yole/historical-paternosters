@@ -43,6 +43,10 @@ attestations:
   - book: Pistorius
     number: 2
     description: Syrisch oder Chaldeisch
+  - book: Reuter
+    page: 2
+    recto: r
+    description: Syriacè
 text:
   "Abhoun dbhaschmajo. Nethkadasch schmoch.
    Tithe malchouthoch. Nehve zebjonoch, ajchano

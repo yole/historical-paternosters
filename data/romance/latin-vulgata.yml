@@ -27,6 +27,10 @@ attestations:
   - book: Pistorius
     number: 6
     description: Lateinisch
+  - book: Reuter
+    page: 3
+    recto: r
+    description: Latinè
 text:
   "Pater noster, qui es in cœlis. Sanctificetur nomen
    tuum. Adveniat regnum tuum. Fiat voluntas
