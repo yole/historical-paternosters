@@ -62,7 +62,7 @@
     #foreach($attestation in $attestations)
         <li><a href="/$attestation.bookRef.outPath">$attestation.bookRef.title</a>
             #if($attestation.page)
-                p. $attestation.page
+                p. $attestation.page#if($attestation.recto)$attestation.recto#end
             #end
             #if($attestation.number)
                 n. $attestation.number

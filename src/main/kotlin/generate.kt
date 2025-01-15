@@ -129,6 +129,7 @@ class LanguageFamily(
 class Attestation {
     var book: String? = null
     var page: Int? = null
+    var recto: String? = null
     var number: Int? = null
     var description: String? = null
     var source: String? = null
@@ -599,7 +600,7 @@ fun generateBook(paternosters: Paternosters, book: Book, path: String) {
             val attestationInBook = specimen.attestations.filter { a -> a.bookRef == book }
             attestationInBook.map { specimen to it }
         }
-        .sortedBy { it.second.page?.let { p -> p * 100 + (it.second.number ?: 0) } ?: it.second.number }
+        .sortedBy { it.second.page?.let { p -> p * 10000 + (if (it.second.recto == "v") 5000 else 0) + (it.second.number ?: 0) } ?: it.second.number }
 
     context.put("specimens", specimensWithAttestations)
 
