@@ -18,6 +18,7 @@
     <a href="/$book.outPath">$book.title</a>
     #end
     ($book.year): $book.texts.size() text#if($book.texts.size() != 1)s#end
+    #if($book.in_progress) (in progress)#end
     </p>
 #end
 #end

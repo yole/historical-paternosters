@@ -70,6 +70,7 @@ class Book {
     var image: String? = null
     var type: String? = null
     var bibliography: MutableList<BibliographyEntry> = mutableListOf()
+    var in_progress: Boolean? = false
 
     var texts = mutableListOf<Specimen>()
 

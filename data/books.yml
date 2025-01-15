@@ -16,6 +16,7 @@ books:
   author: Hieronimus Megiser
   author_url: https://en.wikipedia.org/wiki/Hieronymus_Megiser
   type: collection
+  in_progress: true
 
 - title: Duret
   full_title: Thresor de L'Histoire des Langves de Cest Vnivers
@@ -25,6 +26,7 @@ books:
   author: M. Claude Duret
   author_url: https://en.wikipedia.org/wiki/Claude_Duret
   type: collection
+  in_progress: true
   bibliography:
     - title: "Collecting Languages, Alphabets and Texts: The Circulation of 'Parts of Texts' Among Paper Cabinets of Linguistic Curiosities"
       author: Fabien Simon
@@ -242,6 +244,7 @@ books:
   author: Jean-Baptiste Gramaye
   author_url: https://en.wikipedia.org/wiki/Jean-Baptiste_Gramaye
   type: collection
+  in_progress: true
 
 - title: Gramaye Oratio
   full_title: Oratio Dominica dialectis centum gentium expressa
@@ -250,6 +253,7 @@ books:
   author: Jean-Baptiste Gramaye
   author_url: https://en.wikipedia.org/wiki/Jean-Baptiste_Gramaye
   type: collection
+  in_progress: true
 
 - title: Alderete
   full_title: Del origen y principio de la lengua castellana o romance que hoy se uso en España
@@ -356,6 +360,7 @@ books:
   author: Lorenzo Hervás
   author_url: https://en.wikipedia.org/wiki/Lorenzo_Hervás
   type: collection
+  in_progress: true
   bibliography:
     - title: "Lo que se sabe de Hervás: ideas lingüísticas, errores y revitalización de su figura en el marco de la historiografía lingüística"
       author: Mara Fuertes Gutiérrez
@@ -377,6 +382,7 @@ books:
     - name: Johann Severin Vater
       url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
+  in_progress: true
 
 - title: Adelung Part 2
   full_title: Mithridates, oder allgemeine Sprachenkunde. Zweyter Theil
@@ -388,6 +394,7 @@ books:
     - name: Johann Severin Vater
       url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
+  in_progress: true
 
 - title: Adelung Part 3
   full_title: Mithridates, oder allgemeine Sprachenkunde. Dritter Theil
@@ -399,6 +406,7 @@ books:
     - name: Johann Severin Vater
       url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
+  in_progress: true
 
 - title: Adelung Part 4
   full_title: Mithridates, oder allgemeine Sprachenkunde. Vierter Theil
@@ -410,6 +418,7 @@ books:
     - name: Johann Severin Vater
       url: https://en.wikipedia.org/wiki/Johann_Severin_Vater
   type: collection
+  in_progress: true
 
 - title: Martin
   full_title: Lingua Britannica Reformata
