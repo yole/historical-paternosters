@@ -243,6 +243,7 @@ private fun generateToFile(
 fun velocityContext(paternosters: Paternosters, vararg keys: Pair<String, Any>): VelocityContext {
     return VelocityContext().also { ctx ->
         ctx.put("date", DateTool())
+        ctx.put("totalLanguages", paternosters.languages.size)
         ctx.put("totalSpecimens", paternosters.allSpecimens.size)
         ctx.put("totalAttestations", paternosters.allSpecimens.sumOf { it.attestations.size })
         for (key in keys) {

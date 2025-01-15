@@ -19,6 +19,7 @@
             <a href="/books.html">Books</a><br/>
             <a href="/languages.html">Languages</a><br/>
             <a href="/search.html">Search</a><p>
+            Languages: $totalLanguages<br/>
             Texts: $totalSpecimens<br/>
             Attestations:&nbsp;$totalAttestations
         </div>
