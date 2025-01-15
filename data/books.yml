@@ -535,3 +535,8 @@ books:
 - title: Swenske och lappeske ABC book
   url: https://www.doria.fi/handle/10024/115952
   year: 1638
+
+- title: ABC-bok på Lapska
+  url: https://digital.ub.umu.se/node/978308/metadata
+  year: 1619
+  author: Nicolaus Andreæ

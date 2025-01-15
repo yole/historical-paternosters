@@ -228,6 +228,9 @@ languages:
 - name: Lule Sámi
   family: Uralic
   url: https://en.wikipedia.org/wiki/Lule_Sámi
+- name: Southern Sámi
+  family: Uralic
+  url: https://en.wikipedia.org/wiki/Southern_Sámi
 - name: Greek
   family: Indo-European
   url: https://en.wikipedia.org/wiki/Greek_language

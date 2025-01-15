@@ -1,0 +1,35 @@
+language: Southern Sámi
+attestations:
+  - book: ABC-bok på Lapska
+    page: 2
+  - book: Adelung Part 2
+    page: 764
+    number: 324
+    description: Im Dialect von Umä-Lappmark
+    source: Aus Ol. Rudbeckii jun. Specimen usus linguae Gothicae. Upsal, 1717, 4, S. 4.
+text:
+  "ACkia mijen iucht lie almen sis.
+   ailes hiedde tdu Namme.
+   Quöik pote tdu Rijkie. 
+   Hiedde tdu sijte, nimpt almis kocht ai ädnamis.
+   Addele mijs vdnaig mijen ferne päive laip.
+   Ja addele mijs syndin andix nimpt kocht mij addel sijs iucht mijs vöst.
+   tacke Äle mij laidhe tock freste. 
+   Wal va ri le mi vaddost.
+   Amen"
+text_variants:
+  "Adelung Part 2":
+    "Aekia men, jueht lie Almensis.
+     Ailes hiedde tdu Name.
+     Quöik pote tdu Riikie.
+     Hiedde telu Sijte, nimpt Almis, koekt ai Ädnamis.
+     Addele miis udnaig miien ferne päive Laip.
+     Ja addele miis Synden andix, nimpt koekt mij addel sijs jueht miis vöst taeke.
+     Äle mii laidhe toeke Freste.
+     Walle varile mii Uaddost. Amen"
+bibliography:
+  - title: An early Lord's Prayer in a southern variety of Saami
+    author: Ernesta Kazakėnaitė, Rogier Blokland
+    publication: "ESUKA – JEFUL 2024, 15–2: 105–139"
+    year: 2024
+    url: https://ojs.utlib.ee/index.php/jeful/article/view/24344/18725
