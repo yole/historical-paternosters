@@ -531,3 +531,7 @@ books:
   year: 1610
   author: Kaspar Waser
   author_url: https://de.wikipedia.org/wiki/Kaspar_Waser
+
+- title: Swenske och lappeske ABC book
+  url: https://www.doria.fi/handle/10024/115952
+  year: 1638

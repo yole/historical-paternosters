@@ -1,0 +1,34 @@
+language: Lule Sámi
+attestations:
+  - book: Adelung Part 2
+    page: 762
+    number: 321
+    description: Lappländisch
+    source: Aus dem Lappländischen Abc- Buche bey Mich. Wexionii Descriptio Sueciae. Abo, 1650, 8
+  - book: Swenske och lappeske ABC book
+    page: 2
+text:
+  "Ackie mijan jocko lei Almen.
+   Passen hiad ta tuun Namma.
+   Quäikopoote tuun Rijke.
+   Hiadta tuun Willio, naukockte Almen, nau ai Ädnemen naltne.
+   Watte mijn vdnin mijan ferta päiwen Laipem.
+   Ja watte mijan Suttuåid audagasin, naukochte ai mija wattim sijn jocto mijan wäitan tactam lein.
+   Ja äle mijam laidi tocko Kiäggielabma.
+   Mutto wall wariale mijam Pahast. Amen"
+text_variants:
+  "Adelung Part 2":
+    "Ackie mijan jocko le Almen.
+     Passen hiedta tuun Namma.
+     Cuåikepääte tuun Rijke.
+     Hiedta tuun Willio, nau kockte Almen, nau ai Ädnemen alte.
+     Mijan päiwepäiwen Laipem watte mijn vdnin.
+     Ja låite miin mijan Suttuåid audagasin, naukochte ai mi låitin mijan Welgolagiaitan.
+     Ja äle mijam laidi tocko Kiäggielabma.
+     Mutto wall wariele mijam Pahast. Amen"
+bibliography:
+  - title: An early Lord's Prayer in a southern variety of Saami
+    author: Ernesta Kazakėnaitė, Rogier Blokland
+    publication: "ESUKA – JEFUL 2024, 15–2: 105–139"
+    year: 2024
+    url: https://ojs.utlib.ee/index.php/jeful/article/view/24344/18725
