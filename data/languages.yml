@@ -101,10 +101,10 @@ languages:
   family: Uralic
   url: https://en.wikipedia.org/wiki/Finnish_language
 - name: Latin
-  family: Romance
+  family: Indo-European/Romance
   url: https://en.wikipedia.org/wiki/Latin
 - name: Italian
-  family: Romance
+  family: Indo-European/Romance
   url: https://en.wikipedia.org/wiki/Italian_language
 - name: Irish
   family: Indo-European/Celtic
