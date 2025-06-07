@@ -21,6 +21,7 @@ dependencies {
     implementation("io.github.java-diff-utils:java-diff-utils:4.12")
     implementation("com.algolia:algoliasearch-client-kotlin:2.0.0")
     implementation("io.ktor:ktor-client-java:2.0.1")
+    implementation("eu.interedition:collatex-core:1.7.1")
     testImplementation(kotlin("test"))
     implementation(kotlin("reflect"))
 }
