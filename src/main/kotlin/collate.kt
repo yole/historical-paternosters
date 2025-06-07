@@ -105,5 +105,7 @@ fun main(args: Array<String>) {
     algorithm.collate(variantGraph, witnesses)
 
     exportNexusData(variantGraph, File(args[1]).writer())
+
+    VariantGraph.JOIN.apply(variantGraph)
     exportDotFile(variantGraph, File(args[2]).writer())
 }
