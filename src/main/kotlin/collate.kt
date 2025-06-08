@@ -68,7 +68,7 @@ fun exportNexusData(graph: VariantGraph, writer: Writer, titles: Map<String, Str
             writer.write("\tformat symbols = \"$symbols\" labels = left;\n")
             writer.write("\tmatrix")
             for ((witness, tokens) in matrix) {
-                writer.write("\n\t\t${titles[witness]}\t$tokens")
+                writer.write("\n\t\t${titles[witness]?.replace(" ", "")}\t$tokens")
             }
             writer.write(";\nend;\n")
             writer.flush()
