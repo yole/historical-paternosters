@@ -29,42 +29,81 @@ attestations:
   - book: Chamberlayne
     page: 70
     description: Suecice
-    source: ex editins versionibus correcte descripsi
+    source: ex editionis versionibus correcte descripsi
   - book: Reuter
     page: 4
     recto: v
     description: Sveticè
-text:
-  "Fadher war som est i himlom. Helghat warde
-   titt nampn. Tillkomme titt ricke. Skee tin wilie
-   så lom i himmelen så ock på jordenne. Wart dagligha
-   brod giff oss idagh. Och forlat oss wara
-   skuld sa som ock wi forlate them oss skyldege 
-   aro. Och inleedh oss icke i frestelse. Uthan
-   frels oss i fra ondo."
+  - book: van Fliet
+    page: 31
+    description: Sweeds
 text_variants:
+  Megiser:
+    "Fadher wår som est i himlom. Helghat warde
+     titt nampn. Tillkomme titt rike. Skee tin wilie
+     så lom i himmelen så ock på jordenne. Wårt dagligha
+     brod giff oss idagh. Och forlat oss wara
+     skuld sasom ock wij forlate them oss skyldighe 
+     aro. Och inleedh oss icke i frestelse. Uthan
+     frels oss i fra ondo."
   Pantographia:
-    "Fader war som ast i himmelen, helgat warde
+    "Fader war som ast i himmelen. Helgat warde
      titt nampn. Till komme titt ricke. Skei tin wilie
      sa pa jordenne som i himmelen. Wart dagliga
      brod giff oss i dagh. Och forlat oss wara
      skulder sa som ock wi forlaten them oss skyldege 
-     aro. Och in leed oss icke i frestelse; ut an
+     aro. Och in leed oss icke i frestelse. Ut an
      frals oss i fra ondo. Tii riiket ar titt, och ma-"
   Wilkins:
-    "Fadher war som ast i himlom, helghat warde
-     titt nampn. Till komme titt ricke, stee tin wilie
+    "Fadher war som ast i himlom. Helghat warde
+     titt nampn. Till komme titt ricke. Stee tin wilie
      sa lom i himmelen saock pa jordenne. Wart dagligha
      brod giff oss idagh. Och forlat oss wara
      skuld sasom ock wy forlate them oss skyldigh 
-     aro. Och inleedh oss ickei frestelse; uchan
+     aro. Och inleedh oss ickei frestelse. Uchan
      frels oss ifram ondo."
   London:
-    "Fader war som ast i himmelen, helgat warde
+    "Fader war som ast i himmelen. Helgat warde
      titt nampn. Till komme titt ricke. Skei tin wilie
      sa pa jordenne som i himmelen. Wart dagliga
      brod giff oss i dagh. Och forlat oss wara
      skulder sa som ock wi forlaten them oss skyldege 
-     aro. Och in leed oss icke i frestelse; ut an
+     aro. Och in leed oss icke i frestelse. Ut an
      frals oss i fra ondo. Tii riiket ar titt, 
      och machten, och varligheteu i ewigheet. Amen"
+  Reuter:
+    "Fadar wår som ast i Himmblom. Helgat warde
+     titt Nampn. Tilkomme titt Rijke. Skee tin Wilie
+     såsom i Himmelen så ock på Jordenne. Wårt dagligha
+     Brodh giff oss i dagh. Ock forlåt oss wara
+     Skulder sasom ock wij forlåte them oss skijldige 
+     aro. Ock in leed oss icke i frestelse. Uthan
+     frels oss ifrå ondo."
+  Chamberlayne:
+    "Fader war som åst i himmelen. Helgat warde
+     titt nampn. Tillkomme titt ricke. Skee tin Wilie
+     så på Jordenne som i Himmelen. Wårt dagligs
+     brod giff oss i dagh. Och forlat oss wara
+     skulder sa som ock wi forlaton them oss skyldige 
+     aro. Och inledh oss icke i frestelse. Uthan
+     frals oss i fra ondo. Tii Riiket ar titt, 
+     och Machten, och Harligheten i Ewigheet. Amen"
+  Adelung Part 2:
+    "Fader wor, som äst i Himmelen.
+     Helgadt warde titt Namn.
+     Tillkomme titt Rike.
+     Ske tin Wilje sosom i Himmelen , so ock po Jorden.
+     Gif oss i Dag wort dageliga Bröd.
+     Och förlot oss wora Skulder sosom och wi förlote them oss skyldige äro.
+     Och inled oss icke i Frestelse.
+     Utan fräls oss ifron Ondo.
+     Ty Riket är titt , och Machten, och Härligheten, i Ewighet. Amen."
+  van Fliet:
+    "Fader war som ast i himmelen. Helgat warde
+     titt nampn. Tillkomme tit rike. Skee tin Wilie
+     sa pa jordenne som i Himmelen. Giff oss idag wart 
+     dagliga brod. 
+     Och forlat oss wara skulder sa som och wy forlaton them oss skyldige aro. 
+     Och inleed oss icke i frestelse. Uthan
+     frals oss i fra ondo. Tij riket ar tit, 
+     och machten, och herligheten i ewigheet. Amen"

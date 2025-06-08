@@ -556,3 +556,11 @@ books:
   year: 1675
   author: Johann Reuter
   type: collection
+
+- title: van Fliet
+  full_title: "'T ons vader in XX oude Duĳtse en Noordse Taelen, met d'uĳtleggingen"
+  url: https://www.proquest.com/docview/2230612126?sourcetype=Books
+  year: 1650
+  author: Jan van Fliet
+  type: collection
+  image: vanFliet.png
