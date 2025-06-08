@@ -33,7 +33,7 @@ fun uniqueSigil(text: String, allTexts: Collection<String>): String {
     return text
 }
 
-fun exportNexusData(graph: VariantGraph, writer: Writer) {
+fun exportNexusData(graph: VariantGraph, writer: Writer, titles: Map<String, String>) {
     val matrix = mutableMapOf<String, StringBuilder>()
     var maxSymbols = 0
     ParallelSegmentationApparatus.generate(VariantGraphRanking.of(graph), object : ParallelSegmentationApparatus.GeneratorCallback {
@@ -68,7 +68,7 @@ fun exportNexusData(graph: VariantGraph, writer: Writer) {
             writer.write("\tformat symbols = \"$symbols\" labels = left;\n")
             writer.write("\tmatrix")
             for ((witness, tokens) in matrix) {
-                writer.write("\n\t\t$witness\t$tokens")
+                writer.write("\n\t\t${titles[witness]}\t$tokens")
             }
             writer.write(";\nend;\n")
             writer.flush()
@@ -98,13 +98,16 @@ fun main(args: Array<String>) {
     val algorithm = CollationAlgorithmFactory.dekker(comparator)
 
     val witnesses = mutableListOf<SimpleWitness>()
+    val titles = mutableMapOf<String, String>()
 //    witnesses.add(SimpleWitness("base", specimen.text))
     for ((key, value) in specimen.text_variants) {
-        witnesses.add(SimpleWitness(uniqueSigil(key, specimen.text_variants.keys), value.removePunctuation().removeDiacritics()))
+        val sigil = uniqueSigil(key, specimen.text_variants.keys)
+        titles[sigil] = key
+        witnesses.add(SimpleWitness(sigil, value.removePunctuation().removeDiacritics()))
     }
     algorithm.collate(variantGraph, witnesses)
 
-    exportNexusData(variantGraph, File(args[1]).writer())
+    exportNexusData(variantGraph, File(args[1]).writer(), titles)
 
     VariantGraph.JOIN.apply(variantGraph)
     exportDotFile(variantGraph, File(args[2]).writer())
