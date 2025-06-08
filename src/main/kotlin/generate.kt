@@ -162,7 +162,7 @@ class Specimen {
         get() = "$path.html"
 
     val glossedTextWords: List<GlossedTextWord> by lazy {
-        parseInlineGlosses(text!!)
+        parseInlineGlosses(text ?: text_variants.values.first())
     }
 
     val snippet: String
@@ -200,7 +200,6 @@ fun loadSpecimen(path: Path): Specimen {
     }
 }
 
-@OptIn(ExperimentalPathApi::class)
 fun loadSpecimens(path: String): List<Specimen> {
     return Paths.get(path).walk().mapNotNull { childPath ->
         if (childPath.toString().endsWith("books.yml") || childPath.toString().endsWith("languages.yml"))

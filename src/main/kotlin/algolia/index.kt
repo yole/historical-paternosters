@@ -22,10 +22,10 @@ private data class SpecimenRecord(
 
 private fun generateIndexRecords(paternosters: Paternosters): List<SpecimenRecord> {
     return paternosters.allSpecimens.mapNotNull { specimen ->
-        val text = specimen.text
+        val text = specimen.text ?: specimen.text_variants.values.first()
         val path = specimen.path
-        val cleanText = text?.let { parseInlineGlosses(it).joinToString(" ") { word -> word.original } }
-        if (cleanText != null && path != null)
+        val cleanText = parseInlineGlosses(text).joinToString(" ") { word -> word.original }
+        if (path != null)
             SpecimenRecord(
                 cleanText,
                 specimen.language,
